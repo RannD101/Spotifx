@@ -2,7 +2,7 @@
   "country": "us",
   "countryName": "United States",
   "weekDate": "2026-04-27",
-  "lastUpdated": "2026-04-27T08:19:45.275Z",
+  "lastUpdated": "2026-04-27T12:36:35.202Z",
   "tracks": [
     {
       "rank": 1,
@@ -142,7 +142,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "spsM82DZqbE",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 5967050,
       "peak": 1,
       "weeks": 8
@@ -241,7 +241,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "12bYYQaLqHliSXvRIYlq8G",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "",
       "streams": 5136855,
       "peak": 1,
       "weeks": 15
@@ -428,7 +428,7 @@
       "title": "Hell At Night (w/ Ella Langley)",
       "artist": "BigXthaPlug",
       "spotifyId": "6r1lboTadi5swMquaAWDzh",
-      "ytMusicId": "WxSmeY-fjZM",
+      "ytMusicId": "ACJiIgOZ7lU",
       "streams": 4162756,
       "peak": 19,
       "weeks": 36
@@ -439,7 +439,7 @@
       "title": "Loving Life Again",
       "artist": "Ella Langley",
       "spotifyId": "7sSmQ1OuQqmOabSxLnOnT5",
-      "ytMusicId": "UQA0ta4aEwc",
+      "ytMusicId": "jTXfSQeFWAk",
       "streams": 4147821,
       "peak": 18,
       "weeks": 5
@@ -1396,7 +1396,7 @@
       "title": "Latch (w/ Sam Smith)",
       "artist": "Disclosure",
       "spotifyId": "51ODNNDZm21HU7wI7cccRr",
-      "ytMusicId": "VNg3MxYKSi0",
+      "ytMusicId": "myP_VH9pOd0",
       "streams": 2716765,
       "peak": 4,
       "weeks": 68
@@ -1473,7 +1473,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "wbt_E7LNDaA",
+      "ytMusicId": "HCgltcEaB_0",
       "streams": 2679725,
       "peak": 99,
       "weeks": 7
@@ -1990,7 +1990,7 @@
       "title": "All Falls Down (w/ Syleena Johnson)",
       "artist": "Kanye West",
       "spotifyId": "5SkRLpaGtvYPhw02vZhQQ9",
-      "ytMusicId": "uHcP8XX5IJA",
+      "ytMusicId": "W0VnPiyXSRQ",
       "streams": 2363774,
       "peak": 109,
       "weeks": 21
