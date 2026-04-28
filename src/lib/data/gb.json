@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-04-27",
-  "lastUpdated": "2026-04-27T12:37:40.752Z",
+  "weekDate": "2026-04-28",
+  "lastUpdated": "2026-04-28T08:20:20.648Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "12bYYQaLqHliSXvRIYlq8G",
-      "ytMusicId": "",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 1527903,
       "peak": 5,
       "weeks": 15
@@ -340,7 +340,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "65DbTqJKhbwqYbZ1Okr0rc",
-      "ytMusicId": "3s1sZbW7Rt8",
+      "ytMusicId": "xukbqwRuN5w",
       "streams": 1336355,
       "peak": 25,
       "weeks": 12
@@ -472,7 +472,7 @@
       "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "9_bTl2vvYQg",
+      "ytMusicId": "rW2HmFDGdKs",
       "streams": 1177407,
       "peak": 1,
       "weeks": 43
@@ -626,7 +626,7 @@
       "title": "Everywhere",
       "artist": "Fleetwood Mac",
       "spotifyId": "38iKuyifRL4mQ36F2hIxmF",
-      "ytMusicId": "fIoxpiS01gE",
+      "ytMusicId": "wLSUDSNqLgQ",
       "streams": 970568,
       "peak": 48,
       "weeks": 15
@@ -648,7 +648,7 @@
       "title": "Click Clack Symphony. (w/ Hans Zimmer)",
       "artist": "RAYE",
       "spotifyId": "0XOynYFi9hQfIXKnTct9A7",
-      "ytMusicId": "taHYtEGxLnw",
+      "ytMusicId": "22JOUliNzxs",
       "streams": 939892,
       "peak": 12,
       "weeks": 5
@@ -1187,7 +1187,7 @@
       "title": "Latch (w/ Sam Smith)",
       "artist": "Disclosure",
       "spotifyId": "51ODNNDZm21HU7wI7cccRr",
-      "ytMusicId": "myP_VH9pOd0",
+      "ytMusicId": "VNg3MxYKSi0",
       "streams": 735535,
       "peak": 37,
       "weeks": 55
@@ -1297,7 +1297,7 @@
       "title": "That Should Be Me",
       "artist": "Justin Bieber",
       "spotifyId": "0aPZbnkMoWJaJ5CNVLCj8S",
-      "ytMusicId": "jNfI-sp5n-A",
+      "ytMusicId": "2Xulk9Ahqmc",
       "streams": 698770,
       "peak": 118,
       "weeks": 1
@@ -1627,7 +1627,7 @@
       "title": "All Falls Down (w/ Syleena Johnson)",
       "artist": "Kanye West",
       "spotifyId": "5SkRLpaGtvYPhw02vZhQQ9",
-      "ytMusicId": "W0VnPiyXSRQ",
+      "ytMusicId": "uHcP8XX5IJA",
       "streams": 641146,
       "peak": 91,
       "weeks": 69
@@ -2001,7 +2001,7 @@
       "title": "Silver Springs - 2004 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "4nZi6XNe36Ut4Nij3IQ1yC",
-      "ytMusicId": "kVE4aOUX2iM",
+      "ytMusicId": "jFvopL-Lr2w",
       "streams": 601284,
       "peak": 76,
       "weeks": 33
