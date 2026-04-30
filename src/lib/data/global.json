@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-04-29",
-  "lastUpdated": "2026-04-29T08:07:46.923Z",
+  "weekDate": "2026-04-30",
+  "lastUpdated": "2026-04-30T08:11:45.743Z",
   "tracks": [
     {
       "rank": 1,
@@ -328,7 +328,7 @@
       "change": "-1",
       "title": "I Just Might",
       "artist": "Bruno Mars",
-      "spotifyId": "12bYYQaLqHliSXvRIYlq8G",
+      "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
       "ytMusicId": "8_C6lXoGB5Y",
       "streams": 19085638,
       "peak": 3,
@@ -362,7 +362,7 @@
       "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "rW2HmFDGdKs",
+      "ytMusicId": "9_bTl2vvYQg",
       "streams": 18818651,
       "peak": 1,
       "weeks": 44
@@ -703,7 +703,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "FrsOnNxIrg8",
+      "ytMusicId": "GEnSP-2RY1c",
       "streams": 14583897,
       "peak": 1,
       "weeks": 312
@@ -1473,7 +1473,7 @@
       "title": "Cuando No Era Cantante (w/ Yung Beef)",
       "artist": "El Bogueto",
       "spotifyId": "44xDy4h27s4ENaC8fKnCoC",
-      "ytMusicId": "ZhM1BddhZ1c",
+      "ytMusicId": "6sE5F9Y8f1o",
       "streams": 10328656,
       "peak": 18,
       "weeks": 27
@@ -1561,7 +1561,7 @@
       "title": "Timeless (w/ Playboi Carti)",
       "artist": "The Weeknd",
       "spotifyId": "0FIDCNYYjNvPVimz5icugS",
-      "ytMusicId": "a4O-abCXsfA",
+      "ytMusicId": "vxiMTwG0vWI",
       "streams": 10068426,
       "peak": 3,
       "weeks": 82
@@ -2111,7 +2111,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 9054819,
       "peak": 121,
       "weeks": 37
