@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-04-30",
-  "lastUpdated": "2026-04-30T08:14:45.686Z",
+  "weekDate": "2026-05-01",
+  "lastUpdated": "2026-05-01T08:10:10.682Z",
   "tracks": [
     {
       "rank": 1,
@@ -560,7 +560,7 @@
       "title": "Thodi Si Daaru (w/ Shreya Ghoshal)",
       "artist": "AP Dhillon",
       "spotifyId": "3JiLQJmVW7d4O8AQDFB3oj",
-      "ytMusicId": "45zJNqiANA4",
+      "ytMusicId": "COatCg74F70",
       "streams": 2366253,
       "peak": 3,
       "weeks": 38
@@ -582,7 +582,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "MXED3PMqcm8",
+      "ytMusicId": "aVPwXQgY2QI",
       "streams": 2341604,
       "peak": 33,
       "weeks": 179
@@ -1198,7 +1198,7 @@
       "title": "Lae Dooba (w/ Manoj Muntashir)",
       "artist": "Sunidhi Chauhan",
       "spotifyId": "4pXw2nCeT1GVKGVb1OiE3a",
-      "ytMusicId": "o3hfVWIQE1w",
+      "ytMusicId": "EBMG1cCAVo4",
       "streams": 1694676,
       "peak": 109,
       "weeks": 7
@@ -2089,7 +2089,7 @@
       "title": "Admirin' You (w/ Ikky, Preston Pablo)",
       "artist": "Karan Aujla",
       "spotifyId": "6ygiy70ujkNOYXM1tQuMNe",
-      "ytMusicId": "3eDgV3KFCdI",
+      "ytMusicId": "a1P55Z1Jugg",
       "streams": 1376774,
       "peak": 24,
       "weeks": 140
