@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-04",
-  "lastUpdated": "2026-05-04T08:28:27.015Z",
+  "weekDate": "2026-05-05",
+  "lastUpdated": "2026-05-05T08:05:16.057Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "65DbTqJKhbwqYbZ1Okr0rc",
-      "ytMusicId": "3s1sZbW7Rt8",
+      "ytMusicId": "xukbqwRuN5w",
       "streams": 11961123,
       "peak": 1,
       "weeks": 28
@@ -175,7 +175,7 @@
       "title": "Be Her",
       "artist": "Ella Langley",
       "spotifyId": "05CjWFAcAlY6O9po6Qwakk",
-      "ytMusicId": "A0ttKAXj1xU",
+      "ytMusicId": "xukbqwRuN5w",
       "streams": 7245188,
       "peak": 3,
       "weeks": 11
@@ -571,7 +571,7 @@
       "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "rW2HmFDGdKs",
+      "ytMusicId": "9_bTl2vvYQg",
       "streams": 4180363,
       "peak": 1,
       "weeks": 45
@@ -659,7 +659,7 @@
       "title": "Loving Life Again",
       "artist": "Ella Langley",
       "spotifyId": "7sSmQ1OuQqmOabSxLnOnT5",
-      "ytMusicId": "UQA0ta4aEwc",
+      "ytMusicId": "8CrYKKk2n4M",
       "streams": 3707681,
       "peak": 18,
       "weeks": 6
@@ -1165,7 +1165,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "8HBcV0MtAQg",
+      "ytMusicId": "0EnRK5YvBwU",
       "streams": 2982804,
       "peak": 10,
       "weeks": 521
@@ -1242,7 +1242,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 2904680,
       "peak": 53,
       "weeks": 156
@@ -2045,7 +2045,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "iLC-tHvkNvI",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 2339739,
       "peak": 115,
       "weeks": 3
