@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-05",
-  "lastUpdated": "2026-05-05T08:05:16.057Z",
+  "weekDate": "2026-05-06",
+  "lastUpdated": "2026-05-06T08:19:28.918Z",
   "tracks": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "change": "-2",
       "title": "drop dead",
       "artist": "Olivia Rodrigo",
-      "spotifyId": "6gkbtMtioHgtyGjrMel6ei",
+      "spotifyId": "7Hc6qcJG4NtyZgbNvQyd8U",
       "ytMusicId": "G1--F4N-Gvs",
       "streams": 10697346,
       "peak": 1,
@@ -637,7 +637,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 3718830,
       "peak": 58,
       "weeks": 1
@@ -824,7 +824,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "FrsOnNxIrg8",
+      "ytMusicId": "X7AN68W5qDI",
       "streams": 3393842,
       "peak": 1,
       "weeks": 169
@@ -1209,7 +1209,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "oKgxffp6mZ4",
+      "ytMusicId": "JjuLy7r1hOg",
       "streams": 2945795,
       "peak": 32,
       "weeks": 55
@@ -1242,7 +1242,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 2904680,
       "peak": 53,
       "weeks": 156
@@ -1792,7 +1792,7 @@
       "title": "Kiss It Better",
       "artist": "Rihanna",
       "spotifyId": "0UHB9METy4VCXNgkcGqHqS",
-      "ytMusicId": "Ht2O3xYjJik",
+      "ytMusicId": "np30lwvSoPY",
       "streams": 2492631,
       "peak": 89,
       "weeks": 35
