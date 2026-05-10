@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-09",
-  "lastUpdated": "2026-05-09T07:54:07.384Z",
+  "weekDate": "2026-05-10",
+  "lastUpdated": "2026-05-10T08:06:55.079Z",
   "tracks": [
     {
       "rank": 1,
@@ -64,7 +64,7 @@
       "change": "+10",
       "title": "Be Her",
       "artist": "Ella Langley",
-      "spotifyId": "05CjWFAcAlY6O9po6Qwakk",
+      "spotifyId": "13HD3tYTiz8oSRxWzXEq7g",
       "ytMusicId": "2xklUpzCXcQ",
       "streams": 7445739,
       "peak": 3,
@@ -76,7 +76,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 7192539,
       "peak": 7,
       "weeks": 18
@@ -494,7 +494,7 @@
       "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "9_bTl2vvYQg",
+      "ytMusicId": "",
       "streams": 4177967,
       "peak": 1,
       "weeks": 46
@@ -1209,7 +1209,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2949017,
       "peak": 70,
       "weeks": 49
@@ -2122,7 +2122,7 @@
       "title": "Dry Spell",
       "artist": "Kacey Musgraves",
       "spotifyId": "3q5qgzl5xwEtbrZVi3agEJ",
-      "ytMusicId": "_GrZRne_08s",
+      "ytMusicId": "7dospyWhj9U",
       "streams": 2347232,
       "peak": 141,
       "weeks": 2

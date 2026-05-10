@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-05-09",
-  "lastUpdated": "2026-05-09T07:49:28.592Z",
+  "weekDate": "2026-05-10",
+  "lastUpdated": "2026-05-10T08:02:31.857Z",
   "tracks": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 37687942,
       "peak": 3,
       "weeks": 50
@@ -318,7 +318,7 @@
       "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "9_bTl2vvYQg",
+      "ytMusicId": "",
       "streams": 17632470,
       "peak": 1,
       "weeks": 46
@@ -1384,7 +1384,7 @@
       "change": "+27",
       "title": "Be Her",
       "artist": "Ella Langley",
-      "spotifyId": "05CjWFAcAlY6O9po6Qwakk",
+      "spotifyId": "13HD3tYTiz8oSRxWzXEq7g",
       "ytMusicId": "2xklUpzCXcQ",
       "streams": 10379704,
       "peak": 114,
@@ -1781,7 +1781,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 9421154,
       "peak": 59,
       "weeks": 130

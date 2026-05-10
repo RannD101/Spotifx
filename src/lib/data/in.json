@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-05-09",
-  "lastUpdated": "2026-05-09T07:52:35.250Z",
+  "weekDate": "2026-05-10",
+  "lastUpdated": "2026-05-10T08:05:31.412Z",
   "tracks": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "title": "Majboor (w/ Zoha Waseem)",
       "artist": "Sheheryar Rehan",
       "spotifyId": "0lp3WWhjxFVUht81AQmWX8",
-      "ytMusicId": "dLAYG-TjnVQ",
+      "ytMusicId": "OtWjS4I2ojU",
       "streams": 6240567,
       "peak": 3,
       "weeks": 4
@@ -197,7 +197,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "_vHiA4ccJCM",
+      "ytMusicId": "1vFZso3WgAA",
       "streams": 3699057,
       "peak": 7,
       "weeks": 22
@@ -208,7 +208,7 @@
       "title": "Darkhaast (w/ Arijit Singh, Sunidhi Chauhan)",
       "artist": "Mithoon",
       "spotifyId": "1awtp7rf6ajhGY9BgzCHeZ",
-      "ytMusicId": "-3vUz7QPljM",
+      "ytMusicId": "IyZCiGaL7s8",
       "streams": 3623925,
       "peak": 19,
       "weeks": 23
@@ -1770,7 +1770,7 @@
       "title": "Sanam Re (w/ Arijit Singh)",
       "artist": "Mithoon",
       "spotifyId": "0CVfovmUv7BnemOyTtOcbL",
-      "ytMusicId": "1vVGjAonhEA",
+      "ytMusicId": "xiDD1LTdpc8",
       "streams": 1386569,
       "peak": 161,
       "weeks": 4
@@ -2144,7 +2144,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 1290025,
       "peak": 195,
       "weeks": 1
