@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-05-10",
-  "lastUpdated": "2026-05-10T08:07:55.844Z",
+  "weekDate": "2026-05-11",
+  "lastUpdated": "2026-05-11T09:36:22.064Z",
   "tracks": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 2449395,
       "peak": 5,
       "weeks": 46
@@ -461,7 +461,7 @@
       "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "",
+      "ytMusicId": "9_bTl2vvYQg",
       "streams": 1117221,
       "peak": 1,
       "weeks": 45
@@ -714,7 +714,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "dxB6Gqg26Kw",
+      "ytMusicId": "iKejQrGq04w",
       "streams": 951648,
       "peak": 11,
       "weeks": 106
@@ -1990,7 +1990,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 601152,
       "peak": 56,
       "weeks": 73
@@ -2188,7 +2188,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 579812,
       "peak": 117,
       "weeks": 23

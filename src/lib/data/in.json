@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-05-10",
-  "lastUpdated": "2026-05-10T08:05:31.412Z",
+  "weekDate": "2026-05-11",
+  "lastUpdated": "2026-05-11T09:33:50.366Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "1vFZso3WgAA",
+      "ytMusicId": "kqRdtYeLRAk",
       "streams": 3699057,
       "peak": 7,
       "weeks": 22
@@ -208,7 +208,7 @@
       "title": "Darkhaast (w/ Arijit Singh, Sunidhi Chauhan)",
       "artist": "Mithoon",
       "spotifyId": "1awtp7rf6ajhGY9BgzCHeZ",
-      "ytMusicId": "IyZCiGaL7s8",
+      "ytMusicId": "-3vUz7QPljM",
       "streams": 3623925,
       "peak": 19,
       "weeks": 23
@@ -417,7 +417,7 @@
       "title": "Bairi (w/ Pradeep Solanki, Heena)",
       "artist": "Virat",
       "spotifyId": "1GfcRba0wGXDTtT4r8C65Z",
-      "ytMusicId": "ijaPDOCNHXw",
+      "ytMusicId": "tio32gG3PFQ",
       "streams": 2489946,
       "peak": 13,
       "weeks": 11
@@ -1935,7 +1935,7 @@
       "title": "Neelothi (From \"Sirai\") (w/ Chinmayi, Justin Prabhakaran, Sarathi)",
       "artist": "Sooraj Santhosh",
       "spotifyId": "6wqwVre9LoGnsUUzukxUy3",
-      "ytMusicId": "wxmOt7Xhb6I",
+      "ytMusicId": "ZJrf5CV09_4",
       "streams": 1344790,
       "peak": 88,
       "weeks": 13
@@ -2144,7 +2144,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 1290025,
       "peak": 195,
       "weeks": 1

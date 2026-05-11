@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-05-10",
-  "lastUpdated": "2026-05-10T08:02:31.857Z",
+  "weekDate": "2026-05-11",
+  "lastUpdated": "2026-05-11T09:30:49.747Z",
   "tracks": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 37687942,
       "peak": 3,
       "weeks": 50
@@ -318,7 +318,7 @@
       "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "",
+      "ytMusicId": "9_bTl2vvYQg",
       "streams": 17632470,
       "peak": 1,
       "weeks": 46
@@ -1396,7 +1396,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "dxB6Gqg26Kw",
+      "ytMusicId": "iKejQrGq04w",
       "streams": 10359371,
       "peak": 16,
       "weeks": 71
@@ -1561,7 +1561,7 @@
       "title": "Timeless (w/ Playboi Carti)",
       "artist": "The Weeknd",
       "spotifyId": "0FIDCNYYjNvPVimz5icugS",
-      "ytMusicId": "a4O-abCXsfA",
+      "ytMusicId": "vxiMTwG0vWI",
       "streams": 9995746,
       "peak": 3,
       "weeks": 84
