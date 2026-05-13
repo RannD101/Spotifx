@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-05-12",
-  "lastUpdated": "2026-05-12T08:35:35.045Z",
+  "weekDate": "2026-05-13",
+  "lastUpdated": "2026-05-13T08:42:16.134Z",
   "tracks": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "AxN0RjNx6WM",
+      "ytMusicId": "TaTZb7NXja0",
       "streams": 6134691,
       "peak": 2,
       "weeks": 7
@@ -197,7 +197,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "1vFZso3WgAA",
+      "ytMusicId": "_vHiA4ccJCM",
       "streams": 3699057,
       "peak": 7,
       "weeks": 22
@@ -417,7 +417,7 @@
       "title": "Bairi (w/ Pradeep Solanki, Heena)",
       "artist": "Virat",
       "spotifyId": "1GfcRba0wGXDTtT4r8C65Z",
-      "ytMusicId": "tio32gG3PFQ",
+      "ytMusicId": "Wajjr-7RajQ",
       "streams": 2489946,
       "peak": 13,
       "weeks": 11
@@ -538,7 +538,7 @@
       "title": "Thodi Si Daaru (w/ Shreya Ghoshal)",
       "artist": "AP Dhillon",
       "spotifyId": "3JiLQJmVW7d4O8AQDFB3oj",
-      "ytMusicId": "45zJNqiANA4",
+      "ytMusicId": "x18b0D8sTwo",
       "streams": 2256594,
       "peak": 3,
       "weeks": 40
@@ -626,7 +626,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "vL14wk2cj6U",
+      "ytMusicId": "piUHBTXsoiY",
       "streams": 2116175,
       "peak": 33,
       "weeks": 181
@@ -1341,7 +1341,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 1504396,
       "peak": 12,
       "weeks": 249
@@ -1924,7 +1924,7 @@
       "title": "Tu Jaane Na (w/ Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "5vGiuYFSGekGLgbxhV1rD5",
-      "ytMusicId": "A_U63j7ZO-w",
+      "ytMusicId": "FA_J8XwpCaQ",
       "streams": 1353679,
       "peak": 48,
       "weeks": 238
