@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-05-13",
-  "lastUpdated": "2026-05-13T08:39:15.628Z",
+  "weekDate": "2026-05-14",
+  "lastUpdated": "2026-05-14T08:33:10.076Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 29109859,
       "peak": 6,
       "weeks": 5
@@ -120,7 +120,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "IYFqc9gk4qI",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 22482527,
       "peak": 3,
       "weeks": 10
@@ -175,7 +175,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "n3qQtSRmHxo",
+      "ytMusicId": "m_O25dOQpCQ",
       "streams": 21105376,
       "peak": 16,
       "weeks": 2
@@ -527,7 +527,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "X7AN68W5qDI",
+      "ytMusicId": "FrsOnNxIrg8",
       "streams": 14722412,
       "peak": 1,
       "weeks": 314
@@ -692,7 +692,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "0Go3jBZs-cc",
       "streams": 13328758,
       "peak": 56,
       "weeks": 10
@@ -769,7 +769,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 12987674,
       "peak": 1,
       "weeks": 306
@@ -813,7 +813,7 @@
       "title": "The Way You Make Me Feel - 2012 Remaster",
       "artist": "Michael Jackson",
       "spotifyId": "76HKOVWqsEg26SECtmw7Rz",
-      "ytMusicId": "T3FG_YQOW5k",
+      "ytMusicId": "VtM-rHPwN7o",
       "streams": 12560546,
       "peak": 74,
       "weeks": 2
@@ -1165,7 +1165,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "vdXsLt0o_9g",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 11074892,
       "peak": 2,
       "weeks": 151
@@ -1396,7 +1396,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "iKejQrGq04w",
+      "ytMusicId": "dxB6Gqg26Kw",
       "streams": 10359371,
       "peak": 16,
       "weeks": 71
@@ -1561,7 +1561,7 @@
       "title": "Timeless (w/ Playboi Carti)",
       "artist": "The Weeknd",
       "spotifyId": "0FIDCNYYjNvPVimz5icugS",
-      "ytMusicId": "a4O-abCXsfA",
+      "ytMusicId": "Tk4W_c_bdso",
       "streams": 9995746,
       "peak": 3,
       "weeks": 84
@@ -1781,7 +1781,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 9421154,
       "peak": 59,
       "weeks": 130
@@ -1803,7 +1803,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "COz9lDCFHjw",
+      "ytMusicId": "EgfsXTOn_pI",
       "streams": 9402007,
       "peak": 2,
       "weeks": 59
