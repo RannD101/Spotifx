@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-05-16",
-  "lastUpdated": "2026-05-16T07:59:11.042Z",
+  "weekDate": "2026-05-17",
+  "lastUpdated": "2026-05-17T08:18:45.401Z",
   "tracks": [
     {
       "rank": 1,
@@ -230,7 +230,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "_vHiA4ccJCM",
+      "ytMusicId": "pRzS9QLvgZk",
       "streams": 3375841,
       "peak": 7,
       "weeks": 23
@@ -703,7 +703,7 @@
       "title": "Tum Se Hi (w/ Mohit Chauhan)",
       "artist": "Pritam",
       "spotifyId": "7eQl3Yqv35ioqUfveKHitE",
-      "ytMusicId": "0mGolP7VkrM",
+      "ytMusicId": "I94fhjQ-U30",
       "streams": 2001709,
       "peak": 12,
       "weeks": 320
@@ -824,7 +824,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "KzhgaKWplog",
+      "ytMusicId": "Chp2DAqpKqU",
       "streams": 1791400,
       "peak": 33,
       "weeks": 167
@@ -1176,7 +1176,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "hp02FwlpQYU",
+      "ytMusicId": "lAsxLc9_45w",
       "streams": 1567806,
       "peak": 46,
       "weeks": 148
@@ -1341,7 +1341,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 1503967,
       "peak": 12,
       "weeks": 250
@@ -1847,7 +1847,7 @@
       "title": "Galliyan (w/ Manoj Muntashir)",
       "artist": "Ankit Tiwari",
       "spotifyId": "3ySVdXje5nm31d7vL3jNV3",
-      "ytMusicId": "Llo_4cXUVso",
+      "ytMusicId": "i-EXgX279wU",
       "streams": 1332476,
       "peak": 164,
       "weeks": 3
