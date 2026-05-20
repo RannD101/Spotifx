@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-19",
-  "lastUpdated": "2026-05-19T09:37:29.158Z",
+  "weekDate": "2026-05-20",
+  "lastUpdated": "2026-05-20T09:04:10.550Z",
   "tracks": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 7870220,
       "peak": 4,
       "weeks": 19
@@ -703,7 +703,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "EgfsXTOn_pI",
+      "ytMusicId": "COz9lDCFHjw",
       "streams": 3430725,
       "peak": 1,
       "weeks": 180
@@ -1033,7 +1033,7 @@
       "title": "Be By You",
       "artist": "Luke Combs",
       "spotifyId": "67Ar9BnEeB5FU5vQBYhbGe",
-      "ytMusicId": "aRm7U10T8vw",
+      "ytMusicId": "IC16XVKc8CQ",
       "streams": 3017450,
       "peak": 13,
       "weeks": 13
@@ -1154,7 +1154,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2923248,
       "peak": 70,
       "weeks": 50
@@ -1484,7 +1484,7 @@
       "title": "POP DAT THANG",
       "artist": "DaBaby",
       "spotifyId": "0QgwjxR1VchizzckKXwyBu",
-      "ytMusicId": "-lyBxb7nagk",
+      "ytMusicId": "ThdQv0PFUsc",
       "streams": 2718659,
       "peak": 54,
       "weeks": 10
@@ -1583,7 +1583,7 @@
       "title": "Who Knows",
       "artist": "Daniel Caesar",
       "spotifyId": "6DH13QYXK7lKkYHSU88N48",
-      "ytMusicId": "xBJ4YkQq1i8",
+      "ytMusicId": "Wzn4BLtE73o",
       "streams": 2625264,
       "peak": 34,
       "weeks": 29
@@ -2023,7 +2023,7 @@
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "spotifyId": "4k6Uh1HXdhtusDW5y8Gbvy",
-      "ytMusicId": "1E2ihUl6ed4",
+      "ytMusicId": "S2PVsv2K1Bg",
       "streams": 2355420,
       "peak": 1,
       "weeks": 149
