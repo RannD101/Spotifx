@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-20",
-  "lastUpdated": "2026-05-20T09:04:10.550Z",
+  "weekDate": "2026-05-21",
+  "lastUpdated": "2026-05-21T09:08:07.678Z",
   "tracks": [
     {
       "rank": 1,
@@ -263,7 +263,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "46a5bRqPy_E",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 4875338,
       "peak": 1,
       "weeks": 11
@@ -593,7 +593,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "FrsOnNxIrg8",
+      "ytMusicId": "X7AN68W5qDI",
       "streams": 3662427,
       "peak": 1,
       "weeks": 171
@@ -879,7 +879,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "8HBcV0MtAQg",
       "streams": 3196229,
       "peak": 10,
       "weeks": 523
@@ -1154,7 +1154,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2923248,
       "peak": 70,
       "weeks": 50
@@ -1165,7 +1165,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 2921021,
       "peak": 2,
       "weeks": 192
@@ -1451,7 +1451,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "oKgxffp6mZ4",
+      "ytMusicId": "JjuLy7r1hOg",
       "streams": 2752964,
       "peak": 32,
       "weeks": 57
@@ -1550,7 +1550,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "mXonGAEPQp8",
       "streams": 2661501,
       "peak": 23,
       "weeks": 41
@@ -1583,7 +1583,7 @@
       "title": "Who Knows",
       "artist": "Daniel Caesar",
       "spotifyId": "6DH13QYXK7lKkYHSU88N48",
-      "ytMusicId": "Wzn4BLtE73o",
+      "ytMusicId": "xBJ4YkQq1i8",
       "streams": 2625264,
       "peak": 34,
       "weeks": 29
@@ -1649,7 +1649,7 @@
       "title": "Timeless (w/ Playboi Carti)",
       "artist": "The Weeknd",
       "spotifyId": "0FIDCNYYjNvPVimz5icugS",
-      "ytMusicId": "Tk4W_c_bdso",
+      "ytMusicId": "a4O-abCXsfA",
       "streams": 2556879,
       "peak": 1,
       "weeks": 85
@@ -1770,7 +1770,7 @@
       "title": "Sleepless in a Hotel Room",
       "artist": "Luke Combs",
       "spotifyId": "2za9t2qpWyUpIhnJcwopPt",
-      "ytMusicId": "3ehwNh29M0o",
+      "ytMusicId": "DjtcoaMASG0",
       "streams": 2488672,
       "peak": 17,
       "weeks": 18
@@ -2023,7 +2023,7 @@
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "spotifyId": "4k6Uh1HXdhtusDW5y8Gbvy",
-      "ytMusicId": "S2PVsv2K1Bg",
+      "ytMusicId": "1E2ihUl6ed4",
       "streams": 2355420,
       "peak": 1,
       "weeks": 149
@@ -2045,7 +2045,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "YNP0YJ5gq0M",
+      "ytMusicId": "NajmHZ6kcUg",
       "streams": 2343805,
       "peak": 11,
       "weeks": 116
@@ -2111,7 +2111,7 @@
       "title": "Just the Way You Are",
       "artist": "Bruno Mars",
       "spotifyId": "7BqBn9nzAq8spo5e7cZ0dJ",
-      "ytMusicId": "GnUW4AF1LZo",
+      "ytMusicId": "HUvIJRFH2cA",
       "streams": 2304118,
       "peak": 79,
       "weeks": 31
