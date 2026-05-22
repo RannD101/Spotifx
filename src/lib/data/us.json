@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-21",
-  "lastUpdated": "2026-05-21T09:08:07.678Z",
+  "weekDate": "2026-05-22",
+  "lastUpdated": "2026-05-22T09:00:25.698Z",
   "tracks": [
     {
       "rank": 1,
@@ -263,7 +263,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "46a5bRqPy_E",
       "streams": 4875338,
       "peak": 1,
       "weeks": 11
@@ -1550,7 +1550,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 2661501,
       "peak": 23,
       "weeks": 41
@@ -1770,7 +1770,7 @@
       "title": "Sleepless in a Hotel Room",
       "artist": "Luke Combs",
       "spotifyId": "2za9t2qpWyUpIhnJcwopPt",
-      "ytMusicId": "DjtcoaMASG0",
+      "ytMusicId": "3ehwNh29M0o",
       "streams": 2488672,
       "peak": 17,
       "weeks": 18
