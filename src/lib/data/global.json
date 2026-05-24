@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-05-23",
-  "lastUpdated": "2026-05-23T08:11:37.108Z",
+  "weekDate": "2026-05-24",
+  "lastUpdated": "2026-05-24T08:22:59.761Z",
   "tracks": [
     {
       "rank": 1,
@@ -131,7 +131,7 @@
       "title": "Dust",
       "artist": "Drake",
       "spotifyId": "4eE16RJFDKf2WxBTqqfylu",
-      "ytMusicId": "spjUd9KtIbo",
+      "ytMusicId": "cdpofb3Pzx8",
       "streams": 28696084,
       "peak": 12,
       "weeks": 1
@@ -901,7 +901,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 12972444,
       "peak": 1,
       "weeks": 308
@@ -1011,7 +1011,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "4vpTO9TBZKc",
+      "ytMusicId": "0Go3jBZs-cc",
       "streams": 12223241,
       "peak": 56,
       "weeks": 12
@@ -1055,7 +1055,7 @@
       "title": "Just the Way You Are",
       "artist": "Bruno Mars",
       "spotifyId": "7BqBn9nzAq8spo5e7cZ0dJ",
-      "ytMusicId": "GnUW4AF1LZo",
+      "ytMusicId": "HUvIJRFH2cA",
       "streams": 11899761,
       "peak": 34,
       "weeks": 182
@@ -1297,7 +1297,7 @@
       "title": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
       "artist": "Macklemore & Ryan Lewis",
       "spotifyId": "22skzmqfdWrjJylampe0kt",
-      "ytMusicId": "Vik1dtQ0eHc",
+      "ytMusicId": "96L5sV7rqX0",
       "streams": 11049156,
       "peak": 86,
       "weeks": 184
@@ -1517,7 +1517,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "vdXsLt0o_9g",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 10580217,
       "peak": 2,
       "weeks": 153
@@ -1891,7 +1891,7 @@
       "title": "Slap The City (w/ Qendresa)",
       "artist": "Drake",
       "spotifyId": "3nwcQXP0mBmXmlrirQxCkz",
-      "ytMusicId": "tV4KgqecsKw",
+      "ytMusicId": "dNWeAdH4YuU",
       "streams": 9648530,
       "peak": 172,
       "weeks": 1
@@ -1913,7 +1913,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 9471543,
       "peak": 3,
       "weeks": 83
@@ -2089,7 +2089,7 @@
       "title": "High Fives",
       "artist": "Drake",
       "spotifyId": "6vAg7qqbiIrQhQtxPegLw1",
-      "ytMusicId": "NC4UeZWU5P8",
+      "ytMusicId": "fjEOL7q7sKk",
       "streams": 9223486,
       "peak": 190,
       "weeks": 1
@@ -2100,7 +2100,7 @@
       "title": "Unforgettable (w/ Swae Lee)",
       "artist": "French Montana",
       "spotifyId": "3B54sVLJ402zGa6Xm4YGNe",
-      "ytMusicId": "48ydDUQ16RE",
+      "ytMusicId": "LkvAjalYnWw",
       "streams": 9221126,
       "peak": 3,
       "weeks": 143

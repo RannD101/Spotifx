@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-23",
-  "lastUpdated": "2026-05-23T08:15:57.826Z",
+  "weekDate": "2026-05-24",
+  "lastUpdated": "2026-05-24T08:27:22.556Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Dust",
       "artist": "Drake",
       "spotifyId": "4eE16RJFDKf2WxBTqqfylu",
-      "ytMusicId": "spjUd9KtIbo",
+      "ytMusicId": "cdpofb3Pzx8",
       "streams": 12887637,
       "peak": 8,
       "weeks": 1
@@ -593,7 +593,7 @@
       "title": "High Fives",
       "artist": "Drake",
       "spotifyId": "6vAg7qqbiIrQhQtxPegLw1",
-      "ytMusicId": "NC4UeZWU5P8",
+      "ytMusicId": "fjEOL7q7sKk",
       "streams": 4372107,
       "peak": 54,
       "weeks": 1
@@ -604,7 +604,7 @@
       "title": "Slap The City (w/ Qendresa)",
       "artist": "Drake",
       "spotifyId": "3nwcQXP0mBmXmlrirQxCkz",
-      "ytMusicId": "tV4KgqecsKw",
+      "ytMusicId": "dNWeAdH4YuU",
       "streams": 4297496,
       "peak": 55,
       "weeks": 1
@@ -1341,7 +1341,7 @@
       "title": "you look like you love me (w/ Riley Green)",
       "artist": "Ella Langley",
       "spotifyId": "2PyJAiQjp1OPkow2FJZKHR",
-      "ytMusicId": "u2Mrx6EKF1s",
+      "ytMusicId": "-82dK3N6ZVw",
       "streams": 2978492,
       "peak": 28,
       "weeks": 23
@@ -1374,7 +1374,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "4vpTO9TBZKc",
+      "ytMusicId": "0Go3jBZs-cc",
       "streams": 2960268,
       "peak": 83,
       "weeks": 9
@@ -1583,7 +1583,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 2820126,
       "peak": 65,
       "weeks": 12
@@ -1616,7 +1616,7 @@
       "title": "Outside Tweaking (w/ Stunna Sandy)",
       "artist": "Drake",
       "spotifyId": "0EsJdOSOrBfTo816lWRW4Q",
-      "ytMusicId": "zzsB6K2YHfk",
+      "ytMusicId": "49scguXyhC4",
       "streams": 2811180,
       "peak": 147,
       "weeks": 1
@@ -1836,7 +1836,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "vdXsLt0o_9g",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 2695788,
       "peak": 2,
       "weeks": 193
