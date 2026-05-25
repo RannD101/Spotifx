@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-05-24",
-  "lastUpdated": "2026-05-24T08:26:01.504Z",
+  "weekDate": "2026-05-25",
+  "lastUpdated": "2026-05-25T09:59:22.052Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "AxN0RjNx6WM",
+      "ytMusicId": "TaTZb7NXja0",
       "streams": 4765276,
       "peak": 2,
       "weeks": 9
@@ -175,7 +175,7 @@
       "title": "Dooron Dooron (w/ Shiv Tandan, Meghdeep Bose)",
       "artist": "Paresh Pahuja",
       "spotifyId": "0q5e5KtUOhYQujmhLP0pKd",
-      "ytMusicId": "Mc1MZkvMvCk",
+      "ytMusicId": "U_nAFr9tLYg",
       "streams": 3709039,
       "peak": 3,
       "weeks": 33
@@ -340,7 +340,7 @@
       "title": "Tere Bina (w/ Chinmayi, Murtuza Khan, Qadir Khan, Abhishek Bachchan, Aishwarya Rai Bachchan, R. Madhavan, Vidya Balan, Mithun Chakraborty, Arya Babbar)",
       "artist": "A.R. Rahman",
       "spotifyId": "4FeczSomVWVyU4FW7xDeAI",
-      "ytMusicId": "HOiaqzWriAA",
+      "ytMusicId": "Fi3GovijpWA",
       "streams": 2855314,
       "peak": 8,
       "weeks": 92
@@ -582,7 +582,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "piUHBTXsoiY",
+      "ytMusicId": "vL14wk2cj6U",
       "streams": 2137367,
       "peak": 33,
       "weeks": 183
@@ -1044,7 +1044,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "lAsxLc9_45w",
+      "ytMusicId": "hp02FwlpQYU",
       "streams": 1637253,
       "peak": 46,
       "weeks": 149
@@ -1275,7 +1275,7 @@
       "title": "Hopeless (w/ Prem Lata)",
       "artist": "Amanraj Gill",
       "spotifyId": "29f6IOg01XRLHKDhFjua1I",
-      "ytMusicId": "6vRro3x-Y78",
+      "ytMusicId": "",
       "streams": 1499302,
       "peak": 54,
       "weeks": 23
@@ -1473,7 +1473,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "ioNYKflP4RY",
       "streams": 1453643,
       "peak": 4,
       "weeks": 86

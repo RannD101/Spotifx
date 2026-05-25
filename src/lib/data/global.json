@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-05-24",
-  "lastUpdated": "2026-05-24T08:22:59.761Z",
+  "weekDate": "2026-05-25",
+  "lastUpdated": "2026-05-25T09:56:17.674Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 41730200,
       "peak": 1,
       "weeks": 52
@@ -54,7 +54,7 @@
       "title": "Ran To Atlanta (w/ Future, Molly Santana)",
       "artist": "Drake",
       "spotifyId": "3DK90400cDlV5WUJPraMph",
-      "ytMusicId": "JlfnEms4vRI",
+      "ytMusicId": "KrKeZZafngg",
       "streams": 36146350,
       "peak": 5,
       "weeks": 1
@@ -131,7 +131,7 @@
       "title": "Dust",
       "artist": "Drake",
       "spotifyId": "4eE16RJFDKf2WxBTqqfylu",
-      "ytMusicId": "cdpofb3Pzx8",
+      "ytMusicId": "spjUd9KtIbo",
       "streams": 28696084,
       "peak": 12,
       "weeks": 1
@@ -175,7 +175,7 @@
       "title": "What Did I Miss?",
       "artist": "Drake",
       "spotifyId": "57GsLpRtEtrzcPGPop20rS",
-      "ytMusicId": "Lx4gPURH35g",
+      "ytMusicId": "eBLfCp6M2To",
       "streams": 22884896,
       "peak": 16,
       "weeks": 5
@@ -428,7 +428,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "ioNYKflP4RY",
       "streams": 18181261,
       "peak": 1,
       "weeks": 92
@@ -1011,7 +1011,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "0Go3jBZs-cc",
+      "ytMusicId": "NO3JTAsB4NI",
       "streams": 12223241,
       "peak": 56,
       "weeks": 12
@@ -1990,7 +1990,7 @@
       "title": "Who Knows",
       "artist": "Daniel Caesar",
       "spotifyId": "6DH13QYXK7lKkYHSU88N48",
-      "ytMusicId": "xBJ4YkQq1i8",
+      "ytMusicId": "Eakt1tkxIXc",
       "streams": 9370340,
       "peak": 58,
       "weeks": 26
@@ -2100,7 +2100,7 @@
       "title": "Unforgettable (w/ Swae Lee)",
       "artist": "French Montana",
       "spotifyId": "3B54sVLJ402zGa6Xm4YGNe",
-      "ytMusicId": "LkvAjalYnWw",
+      "ytMusicId": "48ydDUQ16RE",
       "streams": 9221126,
       "peak": 3,
       "weeks": 143

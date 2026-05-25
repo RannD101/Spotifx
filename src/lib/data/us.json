@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-24",
-  "lastUpdated": "2026-05-24T08:27:22.556Z",
+  "weekDate": "2026-05-25",
+  "lastUpdated": "2026-05-25T10:00:44.829Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "Ran To Atlanta (w/ Future, Molly Santana)",
       "artist": "Drake",
       "spotifyId": "3DK90400cDlV5WUJPraMph",
-      "ytMusicId": "JlfnEms4vRI",
+      "ytMusicId": "KrKeZZafngg",
       "streams": 17005997,
       "peak": 2,
       "weeks": 1
@@ -87,7 +87,7 @@
       "title": "Dust",
       "artist": "Drake",
       "spotifyId": "4eE16RJFDKf2WxBTqqfylu",
-      "ytMusicId": "cdpofb3Pzx8",
+      "ytMusicId": "spjUd9KtIbo",
       "streams": 12887637,
       "peak": 8,
       "weeks": 1
@@ -142,7 +142,7 @@
       "title": "What Did I Miss?",
       "artist": "Drake",
       "spotifyId": "57GsLpRtEtrzcPGPop20rS",
-      "ytMusicId": "Lx4gPURH35g",
+      "ytMusicId": "eBLfCp6M2To",
       "streams": 9618713,
       "peak": 4,
       "weeks": 8
@@ -175,7 +175,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 8473240,
       "peak": 4,
       "weeks": 20
@@ -1286,7 +1286,7 @@
       "title": "Be By You",
       "artist": "Luke Combs",
       "spotifyId": "67Ar9BnEeB5FU5vQBYhbGe",
-      "ytMusicId": "IC16XVKc8CQ",
+      "ytMusicId": "E9zIvH__Z-w",
       "streams": 3029436,
       "peak": 13,
       "weeks": 14
@@ -1374,7 +1374,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "0Go3jBZs-cc",
+      "ytMusicId": "NO3JTAsB4NI",
       "streams": 2960268,
       "peak": 83,
       "weeks": 9
@@ -1473,7 +1473,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "ioNYKflP4RY",
       "streams": 2872796,
       "peak": 1,
       "weeks": 92
@@ -1583,7 +1583,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2820126,
       "peak": 65,
       "weeks": 12
@@ -1594,7 +1594,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2814630,
       "peak": 70,
       "weeks": 51
@@ -1616,7 +1616,7 @@
       "title": "Outside Tweaking (w/ Stunna Sandy)",
       "artist": "Drake",
       "spotifyId": "0EsJdOSOrBfTo816lWRW4Q",
-      "ytMusicId": "49scguXyhC4",
+      "ytMusicId": "zzsB6K2YHfk",
       "streams": 2811180,
       "peak": 147,
       "weeks": 1
