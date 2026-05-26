@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-25",
-  "lastUpdated": "2026-05-25T10:00:44.829Z",
+  "weekDate": "2026-05-26",
+  "lastUpdated": "2026-05-26T09:47:09.926Z",
   "tracks": [
     {
       "rank": 1,
@@ -131,7 +131,7 @@
       "title": "B's On The Table (w/ 21 Savage)",
       "artist": "Drake",
       "spotifyId": "4ygJHbpMGwZknVFaRikdFr",
-      "ytMusicId": "5xYbqgeUwLs",
+      "ytMusicId": "IrOTmo_OTUo",
       "streams": 9675594,
       "peak": 12,
       "weeks": 1
@@ -175,7 +175,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 8473240,
       "peak": 4,
       "weeks": 20
@@ -593,7 +593,7 @@
       "title": "High Fives",
       "artist": "Drake",
       "spotifyId": "6vAg7qqbiIrQhQtxPegLw1",
-      "ytMusicId": "fjEOL7q7sKk",
+      "ytMusicId": "NC4UeZWU5P8",
       "streams": 4372107,
       "peak": 54,
       "weeks": 1
@@ -604,7 +604,7 @@
       "title": "Slap The City (w/ Qendresa)",
       "artist": "Drake",
       "spotifyId": "3nwcQXP0mBmXmlrirQxCkz",
-      "ytMusicId": "dNWeAdH4YuU",
+      "ytMusicId": "tV4KgqecsKw",
       "streams": 4297496,
       "peak": 55,
       "weeks": 1
@@ -1374,7 +1374,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "4vpTO9TBZKc",
       "streams": 2960268,
       "peak": 83,
       "weeks": 9
@@ -1473,7 +1473,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "ioNYKflP4RY",
+      "ytMusicId": "DlFXDl_ROAM",
       "streams": 2872796,
       "peak": 1,
       "weeks": 92
@@ -1594,7 +1594,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2814630,
       "peak": 70,
       "weeks": 51
@@ -1616,7 +1616,7 @@
       "title": "Outside Tweaking (w/ Stunna Sandy)",
       "artist": "Drake",
       "spotifyId": "0EsJdOSOrBfTo816lWRW4Q",
-      "ytMusicId": "zzsB6K2YHfk",
+      "ytMusicId": "49scguXyhC4",
       "streams": 2811180,
       "peak": 147,
       "weeks": 1
@@ -1836,7 +1836,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 2695788,
       "peak": 2,
       "weeks": 193
