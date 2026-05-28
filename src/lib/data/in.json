@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-05-27",
-  "lastUpdated": "2026-05-27T09:39:11.647Z",
+  "weekDate": "2026-05-28",
+  "lastUpdated": "2026-05-28T09:56:23.134Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Darkhaast (w/ Arijit Singh, Sunidhi Chauhan)",
       "artist": "Mithoon",
       "spotifyId": "1awtp7rf6ajhGY9BgzCHeZ",
-      "ytMusicId": "-3vUz7QPljM",
+      "ytMusicId": "IyZCiGaL7s8",
       "streams": 3550336,
       "peak": 18,
       "weeks": 25
@@ -208,7 +208,7 @@
       "title": "Saiyaara (w/ Faheem Abdullah, Arslan Nizami, Irshad Kamil)",
       "artist": "Tanishk Bagchi",
       "spotifyId": "5SSZtFWdrmFV4MxtlRA13N",
-      "ytMusicId": "ge4M2dVBgTw",
+      "ytMusicId": "Gx84eNfejrQ",
       "streams": 3430422,
       "peak": 2,
       "weeks": 31
@@ -241,7 +241,7 @@
       "title": "Tere Liye (w/ Shreya Ghoshal)",
       "artist": "Atif Aslam",
       "spotifyId": "0xlWd9o8yjKpJ02WJy79kZ",
-      "ytMusicId": "0HJpADBjjTY",
+      "ytMusicId": "5U5Ru0nTiUM",
       "streams": 3315432,
       "peak": 11,
       "weeks": 55
@@ -714,7 +714,7 @@
       "title": "Jeena Jeena (w/ Atif Aslam)",
       "artist": "Sachin-Jigar",
       "spotifyId": "5lKE040hUfDAKOR8HLG92p",
-      "ytMusicId": "_9EmftAgSbA",
+      "ytMusicId": "AsLPGPs5iQk",
       "streams": 1934108,
       "peak": 44,
       "weeks": 29
@@ -857,7 +857,7 @@
       "title": "Maahi (w/ Toshi Sabri)",
       "artist": "Shaarib Toshi",
       "spotifyId": "4bIQXffbALkCC0Xo6aTicP",
-      "ytMusicId": "BQJXRwsKcCQ",
+      "ytMusicId": "L0FzCiuTVEw",
       "streams": 1730658,
       "peak": 57,
       "weeks": 53
@@ -1044,7 +1044,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "YG_I6fYPMIo",
+      "ytMusicId": "hp02FwlpQYU",
       "streams": 1637253,
       "peak": 46,
       "weeks": 149
@@ -1077,7 +1077,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 1610327,
       "peak": 12,
       "weeks": 251
@@ -1143,7 +1143,7 @@
       "title": "Dil Ibaadat (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "3Kl8p2PxVf8eAayLwTxOIm",
-      "ytMusicId": "IgITZfS7L_8",
+      "ytMusicId": "E_mz4PZN42E",
       "streams": 1573878,
       "peak": 54,
       "weeks": 66
@@ -1341,7 +1341,7 @@
       "title": "Dil Diyan Gallan",
       "artist": "Atif Aslam",
       "spotifyId": "0FBQ4NrrHUbR9kus7rzrOj",
-      "ytMusicId": "u5DCgnh8S9M",
+      "ytMusicId": "",
       "streams": 1480541,
       "peak": 29,
       "weeks": 324
@@ -1473,7 +1473,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "ioNYKflP4RY",
+      "ytMusicId": "DlFXDl_ROAM",
       "streams": 1453643,
       "peak": 4,
       "weeks": 86
@@ -1671,7 +1671,7 @@
       "title": "Piche Tere (w/ Dishant)",
       "artist": "Kunwarr",
       "spotifyId": "4ZWoJ4tRi74mHHnItB3k9h",
-      "ytMusicId": "AM7u5EmM-IQ",
+      "ytMusicId": "_kdqbcuXl5A",
       "streams": 1391620,
       "peak": 94,
       "weeks": 16
@@ -1704,7 +1704,7 @@
       "title": "Sanam Re (w/ Arijit Singh)",
       "artist": "Mithoon",
       "spotifyId": "0CVfovmUv7BnemOyTtOcbL",
-      "ytMusicId": "utU4laPPKls",
+      "ytMusicId": "1vVGjAonhEA",
       "streams": 1380195,
       "peak": 144,
       "weeks": 6
@@ -1880,7 +1880,7 @@
       "title": "Mitwa (w/ Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali)",
       "artist": "Shankar-Ehsaan-Loy",
       "spotifyId": "4BTPzhEsyW3blWcxcuhLM0",
-      "ytMusicId": "-acMMyVFhZk",
+      "ytMusicId": "AsieVqOTRs0",
       "streams": 1313011,
       "peak": 57,
       "weeks": 91
@@ -2067,7 +2067,7 @@
       "title": "Channa Ve (w/ Akhil Sachdeva)",
       "artist": "Mansheel Gujral",
       "spotifyId": "2Z6HgNji9cNlFLNORw6wDQ",
-      "ytMusicId": "gJBOtPGd_nQ",
+      "ytMusicId": "epm7tAtEvYA",
       "streams": 1276812,
       "peak": 33,
       "weeks": 95
@@ -2078,7 +2078,7 @@
       "title": "Dracula - JENNIE Remix (w/ JENNIE)",
       "artist": "Tame Impala",
       "spotifyId": "5yvVYFDUpbnjcnRBgjwTzM",
-      "ytMusicId": "JRoPx1TwaCI",
+      "ytMusicId": "6KjVYeQ9SRw",
       "streams": 1274296,
       "peak": 76,
       "weeks": 9
