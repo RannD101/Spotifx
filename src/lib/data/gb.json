@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-05-28",
-  "lastUpdated": "2026-05-28T09:58:28.984Z",
+  "weekDate": "2026-05-29",
+  "lastUpdated": "2026-05-29T09:48:04.583Z",
   "tracks": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 2665004,
       "peak": 4,
       "weeks": 48
@@ -131,7 +131,7 @@
       "title": "Shabang",
       "artist": "Drake",
       "spotifyId": "6vjpQIdABqntoe3zPazPec",
-      "ytMusicId": "alREBKH_AJg",
+      "ytMusicId": "fpr2AM8ziEs",
       "streams": 2100546,
       "peak": 12,
       "weeks": 1
@@ -714,7 +714,7 @@
       "title": "The Way You Make Me Feel - 2012 Remaster",
       "artist": "Michael Jackson",
       "spotifyId": "76HKOVWqsEg26SECtmw7Rz",
-      "ytMusicId": "VtM-rHPwN7o",
+      "ytMusicId": "T3FG_YQOW5k",
       "streams": 1034398,
       "peak": 43,
       "weeks": 4
@@ -758,7 +758,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "cHeAyTkOyEA",
+      "ytMusicId": "FrsOnNxIrg8",
       "streams": 1021227,
       "peak": 1,
       "weeks": 388
@@ -799,7 +799,7 @@
     {
       "rank": 73,
       "change": "-19",
-      "title": "Golden (w/ Ejae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
+      "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
       "ytMusicId": "9_bTl2vvYQg",
@@ -1264,7 +1264,7 @@
       "title": "Wanna Be Startin' Somethin'",
       "artist": "Michael Jackson",
       "spotifyId": "1hu2s7qkm5bo03eODpRQO3",
-      "ytMusicId": "8KWf_-ofYgI",
+      "ytMusicId": "4Ibtio5coYQ",
       "streams": 752589,
       "peak": 75,
       "weeks": 4
@@ -1352,7 +1352,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "mXonGAEPQp8",
       "streams": 728633,
       "peak": 35,
       "weeks": 30
@@ -1803,7 +1803,7 @@
       "title": "Purple Rain",
       "artist": "Prince",
       "spotifyId": "1uvyZBs4IZYRebHIB1747m",
-      "ytMusicId": "iSBVeZrDfGY",
+      "ytMusicId": "347vCib_lMs",
       "streams": 636065,
       "peak": 17,
       "weeks": 20
@@ -1902,7 +1902,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 617534,
       "peak": 2,
       "weeks": 180
