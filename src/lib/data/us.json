@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-05-30",
-  "lastUpdated": "2026-05-30T08:26:47.796Z",
+  "weekDate": "2026-05-31",
+  "lastUpdated": "2026-05-31T08:44:29.482Z",
   "tracks": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "65DbTqJKhbwqYbZ1Okr0rc",
-      "ytMusicId": "xukbqwRuN5w",
+      "ytMusicId": "3s1sZbW7Rt8",
       "streams": 12243673,
       "peak": 1,
       "weeks": 32
@@ -76,7 +76,7 @@
       "title": "Shabang",
       "artist": "Drake",
       "spotifyId": "6vjpQIdABqntoe3zPazPec",
-      "ytMusicId": "fpr2AM8ziEs",
+      "ytMusicId": "alREBKH_AJg",
       "streams": 7999678,
       "peak": 5,
       "weeks": 2
@@ -109,7 +109,7 @@
       "title": "Be Her",
       "artist": "Ella Langley",
       "spotifyId": "13HD3tYTiz8oSRxWzXEq7g",
-      "ytMusicId": "2xklUpzCXcQ",
+      "ytMusicId": "A0ttKAXj1xU",
       "streams": 7439856,
       "peak": 3,
       "weeks": 15
@@ -252,7 +252,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "HCgltcEaB_0",
+      "ytMusicId": "wbt_E7LNDaA",
       "streams": 5152269,
       "peak": 23,
       "weeks": 12
@@ -516,7 +516,7 @@
       "title": "End of Beginning",
       "artist": "Djo",
       "spotifyId": "3qhlB30KknSejmIvZZLjOD",
-      "ytMusicId": "Kf5pXDhx5Vc",
+      "ytMusicId": "",
       "streams": 3890257,
       "peak": 1,
       "weeks": 105
@@ -560,7 +560,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "FrsOnNxIrg8",
+      "ytMusicId": "EG6xVbwwLiI",
       "streams": 3727747,
       "peak": 1,
       "weeks": 173
@@ -1033,7 +1033,7 @@
       "title": "Porch Light",
       "artist": "Noah Kahan",
       "spotifyId": "0AV4GhGeGCVJphsMTxDWdE",
-      "ytMusicId": "ZhWTiZiTB7Y",
+      "ytMusicId": "TGea7BD-Lfg",
       "streams": 3032895,
       "peak": 5,
       "weeks": 11
@@ -1044,7 +1044,7 @@
       "title": "WHERE IS MY HUSBAND!",
       "artist": "RAYE",
       "spotifyId": "55lijDD6OAjLFFUHU9tcDm",
-      "ytMusicId": "94mq0YBsn8U",
+      "ytMusicId": "",
       "streams": 3010345,
       "peak": 10,
       "weeks": 36
@@ -1407,7 +1407,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 2715813,
       "peak": 23,
       "weeks": 43
@@ -1825,7 +1825,7 @@
       "title": "Don't Stop Believin' (2022 Remaster)",
       "artist": "Journey",
       "spotifyId": "5RKQ5NdjSh2QzD4MaunT91",
-      "ytMusicId": "_2JmghTq12E",
+      "ytMusicId": "mM3Vmn4pdog",
       "streams": 2502564,
       "peak": 57,
       "weeks": 74

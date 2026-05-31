@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-05-30",
-  "lastUpdated": "2026-05-30T08:25:22.321Z",
+  "weekDate": "2026-05-31",
+  "lastUpdated": "2026-05-31T08:42:57.670Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "TaTZb7NXja0",
+      "ytMusicId": "AxN0RjNx6WM",
       "streams": 4826285,
       "peak": 2,
       "weeks": 10
@@ -230,7 +230,7 @@
       "title": "Saiyaara (w/ Faheem Abdullah, Arslan Nizami, Irshad Kamil)",
       "artist": "Tanishk Bagchi",
       "spotifyId": "5SSZtFWdrmFV4MxtlRA13N",
-      "ytMusicId": "Gx84eNfejrQ",
+      "ytMusicId": "ge4M2dVBgTw",
       "streams": 3318490,
       "peak": 2,
       "weeks": 32
@@ -340,7 +340,7 @@
       "title": "Agar Tum Saath Ho (From \"Tamasha\") (w/ Arijit Singh)",
       "artist": "Alka Yagnik",
       "spotifyId": "2FCXQHugkoHE1K3tiDu8pu",
-      "ytMusicId": "Yg5Knar2vlk",
+      "ytMusicId": "FOA9iyxsW_A",
       "streams": 2829998,
       "peak": 4,
       "weeks": 347
@@ -373,7 +373,7 @@
       "title": "Mast Magan (From \"2 States) (w/ Chinmayi)",
       "artist": "Arijit Singh",
       "spotifyId": "5bVmOD7UKfP2iLFUGMtdnS",
-      "ytMusicId": "InD68CDGT9Q",
+      "ytMusicId": "SDQdGibJ9mE",
       "streams": 2646365,
       "peak": 28,
       "weeks": 39
@@ -384,7 +384,7 @@
       "title": "Jaan Se Guzarte Hain (w/ Khan Saab)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "4aWTPC6cuebk9zSpW1PY1Y",
-      "ytMusicId": "iICM37_na2U",
+      "ytMusicId": "9wnBVhOpJCU",
       "streams": 2579877,
       "peak": 7,
       "weeks": 10
@@ -582,7 +582,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "vL14wk2cj6U",
+      "ytMusicId": "tbXNVm8CXxg",
       "streams": 2232699,
       "peak": 33,
       "weeks": 184
@@ -593,7 +593,7 @@
       "title": "Bairi (w/ Pradeep Solanki, Heena)",
       "artist": "Virat",
       "spotifyId": "1GfcRba0wGXDTtT4r8C65Z",
-      "ytMusicId": "ijaPDOCNHXw",
+      "ytMusicId": "tio32gG3PFQ",
       "streams": 2202738,
       "peak": 13,
       "weeks": 14
@@ -923,7 +923,7 @@
       "title": "Maahi (w/ Toshi Sabri)",
       "artist": "Shaarib Toshi",
       "spotifyId": "4bIQXffbALkCC0Xo6aTicP",
-      "ytMusicId": "jpfqIPHw8bU",
+      "ytMusicId": "L0FzCiuTVEw",
       "streams": 1736103,
       "peak": 57,
       "weeks": 54
@@ -1209,7 +1209,7 @@
       "title": "Aawaara Angaara (w/ Faheem Abdullah, Irshad Kamil)",
       "artist": "A.R. Rahman",
       "spotifyId": "6flQ5XJKj5qIhpxSHOd3jC",
-      "ytMusicId": "gkQx5m2KHAQ",
+      "ytMusicId": "FN1Pw26WmxY",
       "streams": 1541205,
       "peak": 6,
       "weeks": 27
@@ -1451,7 +1451,7 @@
       "title": "Sajde (w/ Huzaif Nazar)",
       "artist": "Faheem Abdullah",
       "spotifyId": "4BGfzLrK6lgvKDjKSU7wrN",
-      "ytMusicId": "k8bXbFBItgI",
+      "ytMusicId": "RGePEWv5Vx0",
       "streams": 1480955,
       "peak": 13,
       "weeks": 52
@@ -1605,7 +1605,7 @@
       "title": "Piche Tere (w/ Dishant)",
       "artist": "Kunwarr",
       "spotifyId": "4ZWoJ4tRi74mHHnItB3k9h",
-      "ytMusicId": "AM7u5EmM-IQ",
+      "ytMusicId": "_kdqbcuXl5A",
       "streams": 1441171,
       "peak": 94,
       "weeks": 17
@@ -1891,7 +1891,7 @@
       "title": "Bulleya (w/ Papon, Irshad Kamil)",
       "artist": "Vishal-Shekhar",
       "spotifyId": "3tgdOveYac7YMEAQD9sGLf",
-      "ytMusicId": "1b9poX5k7zo",
+      "ytMusicId": "LxGzh7rtXzA",
       "streams": 1344639,
       "peak": 30,
       "weeks": 67
