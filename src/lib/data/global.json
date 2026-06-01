@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-05-31",
-  "lastUpdated": "2026-05-31T08:39:48.820Z",
+  "weekDate": "2026-06-01",
+  "lastUpdated": "2026-06-01T11:16:36.390Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 30086839,
       "peak": 5,
       "weeks": 8
@@ -153,7 +153,7 @@
       "title": "End of Beginning",
       "artist": "Djo",
       "spotifyId": "3qhlB30KknSejmIvZZLjOD",
-      "ytMusicId": "",
+      "ytMusicId": "Kf5pXDhx5Vc",
       "streams": 20898385,
       "peak": 1,
       "weeks": 119
@@ -175,7 +175,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "65DbTqJKhbwqYbZ1Okr0rc",
-      "ytMusicId": "3s1sZbW7Rt8",
+      "ytMusicId": "xukbqwRuN5w",
       "streams": 20547320,
       "peak": 16,
       "weeks": 21
@@ -417,7 +417,7 @@
       "title": "WHERE IS MY HUSBAND!",
       "artist": "RAYE",
       "spotifyId": "55lijDD6OAjLFFUHU9tcDm",
-      "ytMusicId": "",
+      "ytMusicId": "94mq0YBsn8U",
       "streams": 16388276,
       "peak": 6,
       "weeks": 36
@@ -505,7 +505,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EG6xVbwwLiI",
+      "ytMusicId": "X7AN68W5qDI",
       "streams": 15138799,
       "peak": 1,
       "weeks": 317
@@ -835,7 +835,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 12399271,
       "peak": 1,
       "weeks": 309
@@ -1165,7 +1165,7 @@
       "title": "The Way You Make Me Feel - 2012 Remaster",
       "artist": "Michael Jackson",
       "spotifyId": "76HKOVWqsEg26SECtmw7Rz",
-      "ytMusicId": "T3FG_YQOW5k",
+      "ytMusicId": "VtM-rHPwN7o",
       "streams": 10770346,
       "peak": 66,
       "weeks": 5
@@ -1231,7 +1231,7 @@
       "title": "Me Rehúso",
       "artist": "Danny Ocean",
       "spotifyId": "6ifUES3keWjwXgae8pXI3o",
-      "ytMusicId": "",
+      "ytMusicId": "-R4cfUgDRWY",
       "streams": 10641166,
       "peak": 20,
       "weeks": 98
@@ -1418,7 +1418,7 @@
       "title": "The Man Who Can't Be Moved",
       "artist": "The Script",
       "spotifyId": "3nqqDo8CcCLke3ZoTgiOKf",
-      "ytMusicId": "",
+      "ytMusicId": "uAYUfGWD9SM",
       "streams": 10250056,
       "peak": 95,
       "weeks": 28
@@ -1517,7 +1517,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 10000422,
       "peak": 2,
       "weeks": 154
@@ -1968,7 +1968,7 @@
       "title": "Timeless (w/ Playboi Carti)",
       "artist": "The Weeknd",
       "spotifyId": "0FIDCNYYjNvPVimz5icugS",
-      "ytMusicId": "LiXIoqGXfh8",
+      "ytMusicId": "a4O-abCXsfA",
       "streams": 9039127,
       "peak": 3,
       "weeks": 87

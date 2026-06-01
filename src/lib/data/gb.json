@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-05-31",
-  "lastUpdated": "2026-05-31T08:45:31.429Z",
+  "weekDate": "2026-06-01",
+  "lastUpdated": "2026-06-01T11:22:26.640Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 2117030,
       "peak": 6,
       "weeks": 6
@@ -175,7 +175,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "65DbTqJKhbwqYbZ1Okr0rc",
-      "ytMusicId": "3s1sZbW7Rt8",
+      "ytMusicId": "xukbqwRuN5w",
       "streams": 1725732,
       "peak": 16,
       "weeks": 17
@@ -197,7 +197,7 @@
       "title": "WHERE IS MY HUSBAND!",
       "artist": "RAYE",
       "spotifyId": "55lijDD6OAjLFFUHU9tcDm",
-      "ytMusicId": "",
+      "ytMusicId": "94mq0YBsn8U",
       "streams": 1713685,
       "peak": 2,
       "weeks": 36
@@ -406,7 +406,7 @@
       "title": "End of Beginning",
       "artist": "Djo",
       "spotifyId": "3qhlB30KknSejmIvZZLjOD",
-      "ytMusicId": "",
+      "ytMusicId": "Kf5pXDhx5Vc",
       "streams": 1269817,
       "peak": 2,
       "weeks": 104
@@ -483,7 +483,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EG6xVbwwLiI",
+      "ytMusicId": "X7AN68W5qDI",
       "streams": 1198023,
       "peak": 1,
       "weeks": 389
@@ -681,7 +681,7 @@
       "title": "The Way You Make Me Feel - 2012 Remaster",
       "artist": "Michael Jackson",
       "spotifyId": "76HKOVWqsEg26SECtmw7Rz",
-      "ytMusicId": "T3FG_YQOW5k",
+      "ytMusicId": "VtM-rHPwN7o",
       "streams": 947161,
       "peak": 43,
       "weeks": 5
@@ -1242,7 +1242,7 @@
       "title": "Blessings (w/ Clementine Douglas)",
       "artist": "Calvin Harris",
       "spotifyId": "78nx0HDJIFD5xDq2L5420Z",
-      "ytMusicId": "YVFmVdgeivo",
+      "ytMusicId": "tImti6vu0mE",
       "streams": 765691,
       "peak": 10,
       "weeks": 39
@@ -1341,7 +1341,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "mXonGAEPQp8",
       "streams": 737088,
       "peak": 35,
       "weeks": 31
@@ -1374,7 +1374,7 @@
       "title": "Go Your Own Way - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "34F6qT8udksbeKO7CVDBqF",
-      "ytMusicId": "IPBcoIlGp-8",
+      "ytMusicId": "MTIkFwMuiTw",
       "streams": 735524,
       "peak": 125,
       "weeks": 7
@@ -1506,7 +1506,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "BZ7mOoey5sE",
+      "ytMusicId": "RUm36FWCyqA",
       "streams": 710665,
       "peak": 8,
       "weeks": 74
@@ -1649,7 +1649,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 688689,
       "peak": 35,
       "weeks": 121
@@ -1660,7 +1660,7 @@
       "title": "Wanna Be Startin' Somethin'",
       "artist": "Michael Jackson",
       "spotifyId": "1hu2s7qkm5bo03eODpRQO3",
-      "ytMusicId": "8KWf_-ofYgI",
+      "ytMusicId": "4Ibtio5coYQ",
       "streams": 684136,
       "peak": 75,
       "weeks": 5
@@ -2045,7 +2045,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 624840,
       "peak": 2,
       "weeks": 181
@@ -2122,7 +2122,7 @@
       "title": "The Man Who Can't Be Moved",
       "artist": "The Script",
       "spotifyId": "3nqqDo8CcCLke3ZoTgiOKf",
-      "ytMusicId": "",
+      "ytMusicId": "uAYUfGWD9SM",
       "streams": 617172,
       "peak": 65,
       "weeks": 98
