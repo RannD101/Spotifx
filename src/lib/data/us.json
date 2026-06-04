@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-03",
-  "lastUpdated": "2026-06-03T10:54:08.905Z",
+  "weekDate": "2026-06-04",
+  "lastUpdated": "2026-06-04T09:53:15.363Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "Shabang",
       "artist": "Drake",
       "spotifyId": "6vjpQIdABqntoe3zPazPec",
-      "ytMusicId": "alREBKH_AJg",
+      "ytMusicId": "fpr2AM8ziEs",
       "streams": 7999678,
       "peak": 5,
       "weeks": 2
@@ -208,7 +208,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "n3qQtSRmHxo",
+      "ytMusicId": "m_O25dOQpCQ",
       "streams": 5319199,
       "peak": 14,
       "weeks": 5
@@ -538,7 +538,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "pylZGzQFzRY",
       "streams": 3787342,
       "peak": 1,
       "weeks": 20
@@ -560,7 +560,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "X7AN68W5qDI",
+      "ytMusicId": "EG6xVbwwLiI",
       "streams": 3727747,
       "peak": 1,
       "weeks": 173
@@ -615,7 +615,7 @@
       "title": "Dirty Diana - 2012 Remaster",
       "artist": "Michael Jackson",
       "spotifyId": "0AcgKF7kbSoCkh3n7vlHwK",
-      "ytMusicId": "1R4pJc6vNn8",
+      "ytMusicId": "aUD0juRwb3I",
       "streams": 3633863,
       "peak": 49,
       "weeks": 4
@@ -835,7 +835,7 @@
       "title": "Don’t Worry",
       "artist": "Drake",
       "spotifyId": "6cYGpGmnMeK9qWhRpaZOZ5",
-      "ytMusicId": "xl9cFAOKg_Y",
+      "ytMusicId": "fH5j1LX4C-U",
       "streams": 3172900,
       "peak": 22,
       "weeks": 2
@@ -879,7 +879,7 @@
       "title": "Make Them Know",
       "artist": "Drake",
       "spotifyId": "1xO3PpGchMqMmmF6OEtH5Y",
-      "ytMusicId": "GmoK54ygg_I",
+      "ytMusicId": "4XWfjzFiucE",
       "streams": 3122504,
       "peak": 20,
       "weeks": 2
@@ -1374,7 +1374,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BO7FQnegW1o",
+      "ytMusicId": "sQx18XNfArc",
       "streams": 2739064,
       "peak": 81,
       "weeks": 60
@@ -1869,7 +1869,7 @@
       "title": "Chicken Fried",
       "artist": "Zac Brown Band",
       "spotifyId": "0LQtEJt7x0s6knb6RKdRYc",
-      "ytMusicId": "4sDawL8bC4I",
+      "ytMusicId": "Ro4BWhD4uVk",
       "streams": 2493512,
       "peak": 37,
       "weeks": 30
@@ -1979,7 +1979,7 @@
       "title": "Last Friday Night (T.G.I.F.)",
       "artist": "Katy Perry",
       "spotifyId": "3avYqdwHKEq8beXbeWCKqJ",
-      "ytMusicId": "6RMt2II3QXQ",
+      "ytMusicId": "FhIWrcRZrus",
       "streams": 2447667,
       "peak": 148,
       "weeks": 12
@@ -2089,7 +2089,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "oodQMZLjoBU",
+      "ytMusicId": "N5jD5CI93JM",
       "streams": 2372119,
       "peak": 5,
       "weeks": 93
