@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-04",
-  "lastUpdated": "2026-06-04T09:51:46.650Z",
+  "weekDate": "2026-06-05",
+  "lastUpdated": "2026-06-05T09:40:36.948Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "L8Ea6VJCp-w",
+      "ytMusicId": "1vFZso3WgAA",
       "streams": 3243517,
       "peak": 7,
       "weeks": 25
@@ -329,7 +329,7 @@
       "title": "Tere Bina (w/ Chinmayi, Murtuza Khan, Qadir Khan, Abhishek Bachchan, Aishwarya Rai Bachchan, R. Madhavan, Vidya Balan, Mithun Chakraborty, Arya Babbar)",
       "artist": "A.R. Rahman",
       "spotifyId": "4FeczSomVWVyU4FW7xDeAI",
-      "ytMusicId": "nKKwJjt9_Y8",
+      "ytMusicId": "Fi3GovijpWA",
       "streams": 2850807,
       "peak": 8,
       "weeks": 93
@@ -395,7 +395,7 @@
       "title": "Teri Deewani (w/ Paresh Kamath, Naresh Kamath)",
       "artist": "Kailash Kher",
       "spotifyId": "2iNqdCchlUZEgjJbQyZf8T",
-      "ytMusicId": "3R-q79a7n98",
+      "ytMusicId": "NxAGKLzIDds",
       "streams": 2564865,
       "peak": 28,
       "weeks": 95
@@ -427,8 +427,8 @@
       "change": "+12",
       "title": "God Mode (w/ Gana Muthu, Vishnu Edavan)",
       "artist": "Sai Abhyankkar",
-      "spotifyId": "1KT8UcTXHJVOLuRFZmRxtA",
-      "ytMusicId": "eIeIkZ5Li88",
+      "spotifyId": "5IA1BVN8OKwpCxkgeOR8YM",
+      "ytMusicId": "qemjcgBJMCE",
       "streams": 2481802,
       "peak": 39,
       "weeks": 2
@@ -593,7 +593,7 @@
       "title": "Bairi (w/ Pradeep Solanki, Heena)",
       "artist": "Virat",
       "spotifyId": "1GfcRba0wGXDTtT4r8C65Z",
-      "ytMusicId": "U6bKSnYHuhw",
+      "ytMusicId": "ijaPDOCNHXw",
       "streams": 2202738,
       "peak": 13,
       "weeks": 14
@@ -670,7 +670,7 @@
       "title": "Tum Se Hi (w/ Mohit Chauhan)",
       "artist": "Pritam",
       "spotifyId": "7eQl3Yqv35ioqUfveKHitE",
-      "ytMusicId": "0mGolP7VkrM",
+      "ytMusicId": "I94fhjQ-U30",
       "streams": 2079063,
       "peak": 12,
       "weeks": 322
@@ -856,8 +856,8 @@
       "change": "+29",
       "title": "Verappa - Extended (w/ Arivu, Arun Srinivasan)",
       "artist": "Sai Abhyankkar",
-      "spotifyId": "0Kj7msixW8qqqmNsCx2jpD",
-      "ytMusicId": "CrSqrqG5o-c",
+      "spotifyId": "3FDZKPorPuhOZYw9WileCl",
+      "ytMusicId": "lPXl1__XtFI",
       "streams": 1788893,
       "peak": 78,
       "weeks": 2
@@ -923,7 +923,7 @@
       "title": "Maahi (w/ Toshi Sabri)",
       "artist": "Shaarib Toshi",
       "spotifyId": "4bIQXffbALkCC0Xo6aTicP",
-      "ytMusicId": "L0FzCiuTVEw",
+      "ytMusicId": "BQJXRwsKcCQ",
       "streams": 1736103,
       "peak": 57,
       "weeks": 54
@@ -988,7 +988,7 @@
       "change": "+7",
       "title": "Ishq de Fanniyar - Female Version (w/ Kumaar)",
       "artist": "Jyotica Tangri",
-      "spotifyId": "6JARNpkUypyzQEltxZM95O",
+      "spotifyId": "5jCuQyeS4WP4ZYskYhfRlH",
       "ytMusicId": "lGO21pNVLK8",
       "streams": 1679725,
       "peak": 89,
@@ -1066,7 +1066,7 @@
       "title": "Paro (w/ UNPLG'd)",
       "artist": "Aditya Rikhari",
       "spotifyId": "6nRGPf5tpeJtKpXZO5cgIT",
-      "ytMusicId": "gZ0vHQKfNH8",
+      "ytMusicId": "U04qjtXo7V0",
       "streams": 1610616,
       "peak": 7,
       "weeks": 64
@@ -1077,7 +1077,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 1601494,
       "peak": 12,
       "weeks": 252
@@ -1220,7 +1220,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "hp02FwlpQYU",
+      "ytMusicId": "lAsxLc9_45w",
       "streams": 1540419,
       "peak": 46,
       "weeks": 150
@@ -1253,7 +1253,7 @@
       "title": "Dil Ibaadat (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "3Kl8p2PxVf8eAayLwTxOIm",
-      "ytMusicId": "IgITZfS7L_8",
+      "ytMusicId": "FuO9REmD0JQ",
       "streams": 1528151,
       "peak": 54,
       "weeks": 67
@@ -1319,7 +1319,7 @@
       "title": "Lae Dooba (w/ Manoj Muntashir)",
       "artist": "Sunidhi Chauhan",
       "spotifyId": "4pXw2nCeT1GVKGVb1OiE3a",
-      "ytMusicId": "o3hfVWIQE1w",
+      "ytMusicId": "X_i-iIcz1d0",
       "streams": 1506501,
       "peak": 79,
       "weeks": 12
@@ -1429,7 +1429,7 @@
       "title": "Pal (w/ Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole)",
       "artist": "Javed-Mohsin",
       "spotifyId": "79hQvdTHNBkq2fp2ZrM8b2",
-      "ytMusicId": "6PL39H2B7UQ",
+      "ytMusicId": "V87xSH-Ok70",
       "streams": 1481266,
       "peak": 56,
       "weeks": 75
@@ -1935,7 +1935,7 @@
       "title": "Tu Jaane Na (w/ Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "5vGiuYFSGekGLgbxhV1rD5",
-      "ytMusicId": "p2LKx7HhnpQ",
+      "ytMusicId": "FA_J8XwpCaQ",
       "streams": 1332165,
       "peak": 48,
       "weeks": 241
@@ -1957,7 +1957,7 @@
       "title": "Hawayein (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "0l6g8Z8mqGbGXFOjigYetD",
-      "ytMusicId": "8bpvsIxGsO4",
+      "ytMusicId": "ii9KLQoV78I",
       "streams": 1327982,
       "peak": 51,
       "weeks": 228
