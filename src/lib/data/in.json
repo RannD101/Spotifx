@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-06",
-  "lastUpdated": "2026-06-06T08:31:57.308Z",
+  "weekDate": "2026-06-07",
+  "lastUpdated": "2026-06-07T08:53:06.330Z",
   "tracks": [
     {
       "rank": 1,
@@ -241,7 +241,7 @@
       "title": "Saiyaara (w/ Faheem Abdullah, Arslan Nizami, Irshad Kamil)",
       "artist": "Tanishk Bagchi",
       "spotifyId": "5SSZtFWdrmFV4MxtlRA13N",
-      "ytMusicId": "ge4M2dVBgTw",
+      "ytMusicId": "Gx84eNfejrQ",
       "streams": 3257201,
       "peak": 2,
       "weeks": 33
@@ -461,7 +461,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "MzrLNDgDeKk",
+      "ytMusicId": "9lybsz-7TFM",
       "streams": 2374085,
       "peak": 42,
       "weeks": 2
@@ -582,7 +582,7 @@
       "title": "God Mode (w/ Gana Muthu, Vishnu Edavan)",
       "artist": "Sai Abhyankkar",
       "spotifyId": "5IA1BVN8OKwpCxkgeOR8YM",
-      "ytMusicId": "eIeIkZ5Li88",
+      "ytMusicId": "qemjcgBJMCE",
       "streams": 2127695,
       "peak": 39,
       "weeks": 3
@@ -637,7 +637,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "tbXNVm8CXxg",
+      "ytMusicId": "piUHBTXsoiY",
       "streams": 2076394,
       "peak": 33,
       "weeks": 185
@@ -901,7 +901,7 @@
       "title": "Maahi (w/ Toshi Sabri)",
       "artist": "Shaarib Toshi",
       "spotifyId": "4bIQXffbALkCC0Xo6aTicP",
-      "ytMusicId": "L0FzCiuTVEw",
+      "ytMusicId": "jpfqIPHw8bU",
       "streams": 1742750,
       "peak": 57,
       "weeks": 55
@@ -956,7 +956,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "Chp2DAqpKqU",
+      "ytMusicId": "zv-tbc4F818",
       "streams": 1682924,
       "peak": 33,
       "weeks": 170
@@ -1110,7 +1110,7 @@
       "title": "Lae Dooba (w/ Manoj Muntashir)",
       "artist": "Sunidhi Chauhan",
       "spotifyId": "4pXw2nCeT1GVKGVb1OiE3a",
-      "ytMusicId": "o3hfVWIQE1w",
+      "ytMusicId": "",
       "streams": 1566326,
       "peak": 79,
       "weeks": 13
@@ -1165,7 +1165,7 @@
       "title": "Mutta Kalakki (From \"Youth\") (w/ Ken Karunaas)",
       "artist": "G. V. Prakash",
       "spotifyId": "7DswdgrPTR2xDB1vCBToi4",
-      "ytMusicId": "sng0VbBxlJk",
+      "ytMusicId": "",
       "streams": 1551183,
       "peak": 39,
       "weeks": 15
@@ -1209,7 +1209,7 @@
       "title": "Tera Hone Laga Hoon (w/ Alisha Chinai, Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "48Ix6ReYdJf2H4mKb3TIpj",
-      "ytMusicId": "HDJ7fF8qYX8",
+      "ytMusicId": "oeYgD5w3NQo",
       "streams": 1539063,
       "peak": 30,
       "weeks": 264
@@ -1253,7 +1253,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 1524542,
       "peak": 12,
       "weeks": 253
@@ -1275,7 +1275,7 @@
       "title": "Dil Ibaadat (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "3Kl8p2PxVf8eAayLwTxOIm",
-      "ytMusicId": "QQrKqUnPT1A",
+      "ytMusicId": "FuO9REmD0JQ",
       "streams": 1500934,
       "peak": 54,
       "weeks": 68
@@ -1462,7 +1462,7 @@
       "title": "Tu Jaane Na (w/ Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "5vGiuYFSGekGLgbxhV1rD5",
-      "ytMusicId": "FA_J8XwpCaQ",
+      "ytMusicId": "m_6JMJsM51E",
       "streams": 1454003,
       "peak": 48,
       "weeks": 242
@@ -1484,7 +1484,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "lAsxLc9_45w",
+      "ytMusicId": "hp02FwlpQYU",
       "streams": 1447905,
       "peak": 46,
       "weeks": 151
@@ -1814,7 +1814,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "koGyvheXKvM",
+      "ytMusicId": "DlFXDl_ROAM",
       "streams": 1363860,
       "peak": 4,
       "weeks": 88

@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-06",
-  "lastUpdated": "2026-06-06T08:33:25.231Z",
+  "weekDate": "2026-06-07",
+  "lastUpdated": "2026-06-07T08:54:37.312Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 8147650,
       "peak": 4,
       "weeks": 22
@@ -142,7 +142,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 5933229,
       "peak": 12,
       "weeks": 6
@@ -175,7 +175,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "wbt_E7LNDaA",
+      "ytMusicId": "HCgltcEaB_0",
       "streams": 5820958,
       "peak": 16,
       "weeks": 13
@@ -681,7 +681,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "X7AN68W5qDI",
+      "ytMusicId": "EG6xVbwwLiI",
       "streams": 3300947,
       "peak": 1,
       "weeks": 174
@@ -1077,7 +1077,7 @@
       "title": "Last Night",
       "artist": "Morgan Wallen",
       "spotifyId": "7K3BhSpAxZBznislvUMVtn",
-      "ytMusicId": "AnMr6Mm36eM",
+      "ytMusicId": "GwXVMhVjjCI",
       "streams": 2858056,
       "peak": 1,
       "weeks": 171
@@ -1242,7 +1242,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "8HBcV0MtAQg",
       "streams": 2770866,
       "peak": 10,
       "weeks": 526
@@ -1253,7 +1253,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 2770169,
       "peak": 53,
       "weeks": 161
@@ -1297,7 +1297,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "EgfsXTOn_pI",
+      "ytMusicId": "COz9lDCFHjw",
       "streams": 2744445,
       "peak": 1,
       "weeks": 183
@@ -1473,7 +1473,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "JjuLy7r1hOg",
+      "ytMusicId": "",
       "streams": 2650211,
       "peak": 32,
       "weeks": 60
@@ -1594,7 +1594,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "koGyvheXKvM",
+      "ytMusicId": "DlFXDl_ROAM",
       "streams": 2591191,
       "peak": 1,
       "weeks": 94
@@ -1638,7 +1638,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "MzrLNDgDeKk",
+      "ytMusicId": "9lybsz-7TFM",
       "streams": 2580577,
       "peak": 149,
       "weeks": 1
@@ -1913,7 +1913,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "dxB6Gqg26Kw",
+      "ytMusicId": "iKejQrGq04w",
       "streams": 2437620,
       "peak": 85,
       "weeks": 59
