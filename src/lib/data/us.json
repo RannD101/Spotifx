@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-07",
-  "lastUpdated": "2026-06-07T08:54:37.312Z",
+  "weekDate": "2026-06-08",
+  "lastUpdated": "2026-06-08T10:29:25.710Z",
   "tracks": [
     {
       "rank": 1,
@@ -406,7 +406,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "6hkOqJ5mE093AQf2lbZnsG",
-      "ytMusicId": "64wxAbbWNag",
+      "ytMusicId": "5ZsotZ-IqZs",
       "streams": 4128898,
       "peak": 37,
       "weeks": 10
@@ -450,7 +450,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "46a5bRqPy_E",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 3943534,
       "peak": 1,
       "weeks": 14
@@ -714,7 +714,7 @@
       "title": "What Did I Miss?",
       "artist": "Drake",
       "spotifyId": "57GsLpRtEtrzcPGPop20rS",
-      "ytMusicId": "eBLfCp6M2To",
+      "ytMusicId": "85stUoBMbcY",
       "streams": 3259588,
       "peak": 4,
       "weeks": 10
@@ -736,7 +736,7 @@
       "title": "Dust",
       "artist": "Drake",
       "spotifyId": "4eE16RJFDKf2WxBTqqfylu",
-      "ytMusicId": "spjUd9KtIbo",
+      "ytMusicId": "cdpofb3Pzx8",
       "streams": 3250187,
       "peak": 8,
       "weeks": 3
@@ -966,7 +966,7 @@
       "change": "+1",
       "title": "Dandelion",
       "artist": "Ella Langley",
-      "spotifyId": "7FudQLDIYCX6F7ruexVn2X",
+      "spotifyId": "34D5CH3DKBGpAj8ktFOAUH",
       "ytMusicId": "8CrYKKk2n4M",
       "streams": 2974435,
       "peak": 29,
@@ -1275,7 +1275,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BO7FQnegW1o",
+      "ytMusicId": "KOmV9oEgm34",
       "streams": 2748397,
       "peak": 81,
       "weeks": 61
@@ -1473,7 +1473,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "",
+      "ytMusicId": "JjuLy7r1hOg",
       "streams": 2650211,
       "peak": 32,
       "weeks": 60
@@ -1990,7 +1990,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "FhgFtXESdPk",
+      "ytMusicId": "cJz2zHJtsJ0",
       "streams": 2384524,
       "peak": 115,
       "weeks": 7
@@ -2155,7 +2155,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 2301474,
       "peak": 108,
       "weeks": 19

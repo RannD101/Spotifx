@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-07",
-  "lastUpdated": "2026-06-07T08:53:06.330Z",
+  "weekDate": "2026-06-08",
+  "lastUpdated": "2026-06-08T10:28:00.292Z",
   "tracks": [
     {
       "rank": 1,
@@ -241,7 +241,7 @@
       "title": "Saiyaara (w/ Faheem Abdullah, Arslan Nizami, Irshad Kamil)",
       "artist": "Tanishk Bagchi",
       "spotifyId": "5SSZtFWdrmFV4MxtlRA13N",
-      "ytMusicId": "Gx84eNfejrQ",
+      "ytMusicId": "ge4M2dVBgTw",
       "streams": 3257201,
       "peak": 2,
       "weeks": 33
@@ -263,7 +263,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "1vFZso3WgAA",
+      "ytMusicId": "pRzS9QLvgZk",
       "streams": 3140277,
       "peak": 7,
       "weeks": 26
@@ -384,7 +384,7 @@
       "title": "Teri Deewani (w/ Paresh Kamath, Naresh Kamath)",
       "artist": "Kailash Kher",
       "spotifyId": "2iNqdCchlUZEgjJbQyZf8T",
-      "ytMusicId": "3R-q79a7n98",
+      "ytMusicId": "NxAGKLzIDds",
       "streams": 2515899,
       "peak": 28,
       "weeks": 96
@@ -637,7 +637,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "piUHBTXsoiY",
+      "ytMusicId": "tbXNVm8CXxg",
       "streams": 2076394,
       "peak": 33,
       "weeks": 185
@@ -901,7 +901,7 @@
       "title": "Maahi (w/ Toshi Sabri)",
       "artist": "Shaarib Toshi",
       "spotifyId": "4bIQXffbALkCC0Xo6aTicP",
-      "ytMusicId": "jpfqIPHw8bU",
+      "ytMusicId": "L0FzCiuTVEw",
       "streams": 1742750,
       "peak": 57,
       "weeks": 55
@@ -956,7 +956,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "zv-tbc4F818",
+      "ytMusicId": "Chp2DAqpKqU",
       "streams": 1682924,
       "peak": 33,
       "weeks": 170
@@ -1088,7 +1088,7 @@
       "title": "Itni Si Baat Hain (From \"Azhar\") (w/ Antara Mitra)",
       "artist": "Arijit Singh",
       "spotifyId": "55TlMMnPJTk9Qq6CrqB6dx",
-      "ytMusicId": "MzKvcV0Re7U",
+      "ytMusicId": "LJSPjyeRFSo",
       "streams": 1586225,
       "peak": 42,
       "weeks": 86
@@ -1110,7 +1110,7 @@
       "title": "Lae Dooba (w/ Manoj Muntashir)",
       "artist": "Sunidhi Chauhan",
       "spotifyId": "4pXw2nCeT1GVKGVb1OiE3a",
-      "ytMusicId": "",
+      "ytMusicId": "o3hfVWIQE1w",
       "streams": 1566326,
       "peak": 79,
       "weeks": 13
@@ -1165,7 +1165,7 @@
       "title": "Mutta Kalakki (From \"Youth\") (w/ Ken Karunaas)",
       "artist": "G. V. Prakash",
       "spotifyId": "7DswdgrPTR2xDB1vCBToi4",
-      "ytMusicId": "",
+      "ytMusicId": "sng0VbBxlJk",
       "streams": 1551183,
       "peak": 39,
       "weeks": 15
@@ -1275,7 +1275,7 @@
       "title": "Dil Ibaadat (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "3Kl8p2PxVf8eAayLwTxOIm",
-      "ytMusicId": "FuO9REmD0JQ",
+      "ytMusicId": "IgITZfS7L_8",
       "streams": 1500934,
       "peak": 54,
       "weeks": 68
@@ -1462,7 +1462,7 @@
       "title": "Tu Jaane Na (w/ Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "5vGiuYFSGekGLgbxhV1rD5",
-      "ytMusicId": "m_6JMJsM51E",
+      "ytMusicId": "FA_J8XwpCaQ",
       "streams": 1454003,
       "peak": 48,
       "weeks": 242
