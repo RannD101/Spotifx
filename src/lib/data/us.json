@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-08",
-  "lastUpdated": "2026-06-08T10:29:25.710Z",
+  "weekDate": "2026-06-09",
+  "lastUpdated": "2026-06-09T09:35:55.324Z",
   "tracks": [
     {
       "rank": 1,
@@ -109,7 +109,7 @@
       "title": "Shabang",
       "artist": "Drake",
       "spotifyId": "6vjpQIdABqntoe3zPazPec",
-      "ytMusicId": "fpr2AM8ziEs",
+      "ytMusicId": "alREBKH_AJg",
       "streams": 6468493,
       "peak": 5,
       "weeks": 3
@@ -142,7 +142,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 5933229,
       "peak": 12,
       "weeks": 6
@@ -175,7 +175,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "HCgltcEaB_0",
+      "ytMusicId": "wbt_E7LNDaA",
       "streams": 5820958,
       "peak": 16,
       "weeks": 13
@@ -406,7 +406,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "6hkOqJ5mE093AQf2lbZnsG",
-      "ytMusicId": "5ZsotZ-IqZs",
+      "ytMusicId": "64wxAbbWNag",
       "streams": 4128898,
       "peak": 37,
       "weeks": 10
@@ -527,7 +527,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 3694271,
       "peak": 1,
       "weeks": 21
@@ -659,7 +659,7 @@
       "title": "The Great Divide",
       "artist": "Noah Kahan",
       "spotifyId": "77zqs8ucHCSk5jh9TYec4b",
-      "ytMusicId": "zDYCdhyswko",
+      "ytMusicId": "sKaMlLT3tro",
       "streams": 3342573,
       "peak": 1,
       "weeks": 18
@@ -681,7 +681,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EG6xVbwwLiI",
+      "ytMusicId": "X7AN68W5qDI",
       "streams": 3300947,
       "peak": 1,
       "weeks": 174
@@ -714,7 +714,7 @@
       "title": "What Did I Miss?",
       "artist": "Drake",
       "spotifyId": "57GsLpRtEtrzcPGPop20rS",
-      "ytMusicId": "85stUoBMbcY",
+      "ytMusicId": "eBLfCp6M2To",
       "streams": 3259588,
       "peak": 4,
       "weeks": 10
@@ -1077,7 +1077,7 @@
       "title": "Last Night",
       "artist": "Morgan Wallen",
       "spotifyId": "7K3BhSpAxZBznislvUMVtn",
-      "ytMusicId": "GwXVMhVjjCI",
+      "ytMusicId": "AnMr6Mm36eM",
       "streams": 2858056,
       "peak": 1,
       "weeks": 171
@@ -1242,7 +1242,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "8HBcV0MtAQg",
+      "ytMusicId": "0EnRK5YvBwU",
       "streams": 2770866,
       "peak": 10,
       "weeks": 526
@@ -1253,7 +1253,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 2770169,
       "peak": 53,
       "weeks": 161
@@ -1275,7 +1275,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "KOmV9oEgm34",
+      "ytMusicId": "BO7FQnegW1o",
       "streams": 2748397,
       "peak": 81,
       "weeks": 61
@@ -1297,7 +1297,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "COz9lDCFHjw",
+      "ytMusicId": "EgfsXTOn_pI",
       "streams": 2744445,
       "peak": 1,
       "weeks": 183
@@ -1704,7 +1704,7 @@
       "title": "Last Friday Night (T.G.I.F.)",
       "artist": "Katy Perry",
       "spotifyId": "3avYqdwHKEq8beXbeWCKqJ",
-      "ytMusicId": "6RMt2II3QXQ",
+      "ytMusicId": "FhIWrcRZrus",
       "streams": 2569943,
       "peak": 148,
       "weeks": 13
@@ -1913,7 +1913,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "iKejQrGq04w",
+      "ytMusicId": "dxB6Gqg26Kw",
       "streams": 2437620,
       "peak": 85,
       "weeks": 59
@@ -1979,7 +1979,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "N5jD5CI93JM",
+      "ytMusicId": "oodQMZLjoBU",
       "streams": 2397117,
       "peak": 5,
       "weeks": 94
@@ -1990,7 +1990,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "cJz2zHJtsJ0",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 2384524,
       "peak": 115,
       "weeks": 7
@@ -2155,7 +2155,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 2301474,
       "peak": 108,
       "weeks": 19

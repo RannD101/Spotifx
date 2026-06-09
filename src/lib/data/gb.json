@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-06-08",
-  "lastUpdated": "2026-06-08T10:30:31.350Z",
+  "weekDate": "2026-06-09",
+  "lastUpdated": "2026-06-09T09:36:55.140Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 1861361,
       "peak": 6,
       "weeks": 7
@@ -329,7 +329,7 @@
       "title": "Free Your Mind (w/ Cloonee)",
       "artist": "Prospa",
       "spotifyId": "6TWbY1dq8eYtFiMiGdBlOa",
-      "ytMusicId": "7qAoD3B8FD0",
+      "ytMusicId": "V9Suvx0K5Eo",
       "streams": 1244812,
       "peak": 27,
       "weeks": 8
@@ -516,7 +516,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "HCgltcEaB_0",
+      "ytMusicId": "wbt_E7LNDaA",
       "streams": 1063621,
       "peak": 47,
       "weeks": 3
@@ -549,7 +549,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "6hkOqJ5mE093AQf2lbZnsG",
-      "ytMusicId": "5ZsotZ-IqZs",
+      "ytMusicId": "64wxAbbWNag",
       "streams": 1034312,
       "peak": 46,
       "weeks": 10
@@ -571,7 +571,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 995329,
       "peak": 5,
       "weeks": 21
@@ -659,7 +659,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "2y6zdAbN9o8",
+      "ytMusicId": "oGvrcrY8Xbs",
       "streams": 894719,
       "peak": 60,
       "weeks": 7
@@ -692,7 +692,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EG6xVbwwLiI",
+      "ytMusicId": "X7AN68W5qDI",
       "streams": 876458,
       "peak": 1,
       "weeks": 390
@@ -714,7 +714,7 @@
       "title": "Shabang",
       "artist": "Drake",
       "spotifyId": "6vjpQIdABqntoe3zPazPec",
-      "ytMusicId": "fpr2AM8ziEs",
+      "ytMusicId": "alREBKH_AJg",
       "streams": 863952,
       "peak": 12,
       "weeks": 3
@@ -857,7 +857,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "cJz2zHJtsJ0",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 774579,
       "peak": 55,
       "weeks": 8
@@ -868,7 +868,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "iKejQrGq04w",
+      "ytMusicId": "dxB6Gqg26Kw",
       "streams": 774340,
       "peak": 11,
       "weeks": 110
@@ -1154,7 +1154,7 @@
       "title": "Seventeen Going Under",
       "artist": "Sam Fender",
       "spotifyId": "5rF6YUIlgiat22OT1lWspJ",
-      "ytMusicId": "g9OWOW90eFI",
+      "ytMusicId": "-0NPhpU6ly4",
       "streams": 698167,
       "peak": 2,
       "weeks": 203
@@ -1242,7 +1242,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "KOmV9oEgm34",
+      "ytMusicId": "BO7FQnegW1o",
       "streams": 669360,
       "peak": 73,
       "weeks": 167
@@ -1275,7 +1275,7 @@
       "title": "The Great Divide",
       "artist": "Noah Kahan",
       "spotifyId": "77zqs8ucHCSk5jh9TYec4b",
-      "ytMusicId": "zDYCdhyswko",
+      "ytMusicId": "sKaMlLT3tro",
       "streams": 665316,
       "peak": 7,
       "weeks": 18
@@ -1319,7 +1319,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 657789,
       "peak": 1,
       "weeks": 85
@@ -1341,7 +1341,7 @@
       "title": "A Couple Minutes",
       "artist": "Olivia Dean",
       "spotifyId": "312z6PZ8wwREck8613PkJk",
-      "ytMusicId": "hhsD3eyUlYk",
+      "ytMusicId": "VSyMCmLK85E",
       "streams": 656960,
       "peak": 23,
       "weeks": 36
@@ -1429,7 +1429,7 @@
       "title": "Baby (w/ Murda Beatz)",
       "artist": "Prospa",
       "spotifyId": "5q6QXK4K3DvIlwGEtElny3",
-      "ytMusicId": "rZi_gpnGQQA",
+      "ytMusicId": "mEl5J4JC4q4",
       "streams": 640584,
       "peak": 130,
       "weeks": 3
@@ -1583,7 +1583,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 615796,
       "peak": 35,
       "weeks": 122
@@ -1649,7 +1649,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "BZ7mOoey5sE",
+      "ytMusicId": "bgWmgmoCCSc",
       "streams": 602448,
       "peak": 8,
       "weeks": 75
@@ -2166,7 +2166,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "COz9lDCFHjw",
+      "ytMusicId": "EgfsXTOn_pI",
       "streams": 541573,
       "peak": 3,
       "weeks": 90
@@ -2188,7 +2188,7 @@
       "title": "Legendary Lovers",
       "artist": "Katy Perry",
       "spotifyId": "0pOZYYEJawmTAPtkzYKSa2",
-      "ytMusicId": "xfSkoPnCoU8",
+      "ytMusicId": "BewrUtHF2Zc",
       "streams": 541175,
       "peak": 198,
       "weeks": 2
