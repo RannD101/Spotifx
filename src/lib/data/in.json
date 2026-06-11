@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-10",
-  "lastUpdated": "2026-06-10T09:48:56.136Z",
+  "weekDate": "2026-06-11",
+  "lastUpdated": "2026-06-11T10:16:58.057Z",
   "tracks": [
     {
       "rank": 1,
@@ -175,7 +175,7 @@
       "title": "Majboor (w/ Zoha Waseem)",
       "artist": "Sheheryar Rehan",
       "spotifyId": "0lp3WWhjxFVUht81AQmWX8",
-      "ytMusicId": "OtWjS4I2ojU",
+      "ytMusicId": "dLAYG-TjnVQ",
       "streams": 3825812,
       "peak": 3,
       "weeks": 8
@@ -384,7 +384,7 @@
       "title": "Teri Deewani (w/ Paresh Kamath, Naresh Kamath)",
       "artist": "Kailash Kher",
       "spotifyId": "2iNqdCchlUZEgjJbQyZf8T",
-      "ytMusicId": "3R-q79a7n98",
+      "ytMusicId": "NxAGKLzIDds",
       "streams": 2515899,
       "peak": 28,
       "weeks": 96
@@ -417,7 +417,7 @@
       "title": "Tere Bina (w/ Chinmayi, Murtuza Khan, Qadir Khan, Abhishek Bachchan, Aishwarya Rai Bachchan, R. Madhavan, Vidya Balan, Mithun Chakraborty, Arya Babbar)",
       "artist": "A.R. Rahman",
       "spotifyId": "4FeczSomVWVyU4FW7xDeAI",
-      "ytMusicId": "nKKwJjt9_Y8",
+      "ytMusicId": "Fi3GovijpWA",
       "streams": 2455873,
       "peak": 8,
       "weeks": 94
@@ -604,7 +604,7 @@
       "title": "Tum Se Hi (w/ Mohit Chauhan)",
       "artist": "Pritam",
       "spotifyId": "7eQl3Yqv35ioqUfveKHitE",
-      "ytMusicId": "I94fhjQ-U30",
+      "ytMusicId": "0mGolP7VkrM",
       "streams": 2112714,
       "peak": 12,
       "weeks": 323
@@ -637,7 +637,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "tbXNVm8CXxg",
+      "ytMusicId": "piUHBTXsoiY",
       "streams": 2076394,
       "peak": 33,
       "weeks": 185
@@ -879,7 +879,7 @@
       "title": "Saibo (w/ Shreya Ghoshal, Tochi Raina)",
       "artist": "Sachin-Jigar",
       "spotifyId": "6udC4b4jOSnHb9ItnXgKLR",
-      "ytMusicId": "twTuQ723BpI",
+      "ytMusicId": "JeiZTnRfrbM",
       "streams": 1752484,
       "peak": 22,
       "weeks": 292
@@ -1110,7 +1110,7 @@
       "title": "Lae Dooba (w/ Manoj Muntashir)",
       "artist": "Sunidhi Chauhan",
       "spotifyId": "4pXw2nCeT1GVKGVb1OiE3a",
-      "ytMusicId": "o3hfVWIQE1w",
+      "ytMusicId": "hQ_Gf0cVeg8",
       "streams": 1566326,
       "peak": 79,
       "weeks": 13
@@ -1132,7 +1132,7 @@
       "title": "Pal (w/ Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole)",
       "artist": "Javed-Mohsin",
       "spotifyId": "79hQvdTHNBkq2fp2ZrM8b2",
-      "ytMusicId": "6PL39H2B7UQ",
+      "ytMusicId": "V87xSH-Ok70",
       "streams": 1557981,
       "peak": 56,
       "weeks": 76
@@ -1253,7 +1253,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "0lL5i0nk-GE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 1524542,
       "peak": 12,
       "weeks": 253
@@ -1451,7 +1451,7 @@
       "title": "Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)",
       "artist": "Palak Muchhal",
       "spotifyId": "0zQfcBB4obvYUrUNITmyyf",
-      "ytMusicId": "TiP72S9tf7o",
+      "ytMusicId": "PAQuydscS4I",
       "streams": 1454057,
       "peak": 99,
       "weeks": 12
@@ -1484,7 +1484,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "lAsxLc9_45w",
+      "ytMusicId": "hp02FwlpQYU",
       "streams": 1447905,
       "peak": 46,
       "weeks": 151
@@ -1495,7 +1495,7 @@
       "title": "Ishq Di Baajiyaan (w/ Diljit Dosanjh)",
       "artist": "Shankar-Ehsaan-Loy",
       "spotifyId": "7AAap8D4C4pTyNoMkM9vjG",
-      "ytMusicId": "vcjG17XGlEE",
+      "ytMusicId": "dNvqJIeHPis",
       "streams": 1446384,
       "peak": 60,
       "weeks": 93
@@ -1638,7 +1638,7 @@
       "title": "Sanam Re (w/ Arijit Singh)",
       "artist": "Mithoon",
       "spotifyId": "0CVfovmUv7BnemOyTtOcbL",
-      "ytMusicId": "1vVGjAonhEA",
+      "ytMusicId": "utU4laPPKls",
       "streams": 1404210,
       "peak": 144,
       "weeks": 8
