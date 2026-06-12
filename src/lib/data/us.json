@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-11",
-  "lastUpdated": "2026-06-11T10:18:28.058Z",
+  "weekDate": "2026-06-12",
+  "lastUpdated": "2026-06-12T10:06:56.398Z",
   "tracks": [
     {
       "rank": 1,
@@ -175,7 +175,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "HCgltcEaB_0",
+      "ytMusicId": "wbt_E7LNDaA",
       "streams": 5820958,
       "peak": 16,
       "weeks": 13
@@ -527,7 +527,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 3694271,
       "peak": 1,
       "weeks": 21
@@ -945,7 +945,7 @@
       "title": "Willing and Able",
       "artist": "Noah Kahan",
       "spotifyId": "6pk6E0SZxILzfaAGFngxEs",
-      "ytMusicId": "lRujFWpXglU",
+      "ytMusicId": "8aRIsqbLN_U",
       "streams": 2992262,
       "peak": 12,
       "weeks": 6
@@ -1242,7 +1242,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "8HBcV0MtAQg",
       "streams": 2770866,
       "peak": 10,
       "weeks": 526
@@ -1792,7 +1792,7 @@
       "title": "In the End",
       "artist": "Linkin Park",
       "spotifyId": "60a0Rd6pjrkxjPbaKzXjfq",
-      "ytMusicId": "KFA1hM91ffo",
+      "ytMusicId": "BLZWkjBXfN8",
       "streams": 2521856,
       "peak": 46,
       "weeks": 59
@@ -1891,7 +1891,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "EuKNEHLe3zM",
       "streams": 2447796,
       "peak": 2,
       "weeks": 195
@@ -2155,7 +2155,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 2301474,
       "peak": 108,
       "weeks": 19

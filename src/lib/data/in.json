@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-11",
-  "lastUpdated": "2026-06-11T10:16:58.057Z",
+  "weekDate": "2026-06-12",
+  "lastUpdated": "2026-06-12T10:05:26.518Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "TaTZb7NXja0",
+      "ytMusicId": "AxN0RjNx6WM",
       "streams": 4518225,
       "peak": 2,
       "weeks": 11
@@ -384,7 +384,7 @@
       "title": "Teri Deewani (w/ Paresh Kamath, Naresh Kamath)",
       "artist": "Kailash Kher",
       "spotifyId": "2iNqdCchlUZEgjJbQyZf8T",
-      "ytMusicId": "NxAGKLzIDds",
+      "ytMusicId": "3R-q79a7n98",
       "streams": 2515899,
       "peak": 28,
       "weeks": 96
@@ -439,7 +439,7 @@
       "title": "Jaan Se Guzarte Hain (w/ Khan Saab)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "4aWTPC6cuebk9zSpW1PY1Y",
-      "ytMusicId": "iICM37_na2U",
+      "ytMusicId": "9wnBVhOpJCU",
       "streams": 2402800,
       "peak": 7,
       "weeks": 11
@@ -582,7 +582,7 @@
       "title": "God Mode (w/ Gana Muthu, Vishnu Edavan)",
       "artist": "Sai Abhyankkar",
       "spotifyId": "5IA1BVN8OKwpCxkgeOR8YM",
-      "ytMusicId": "eIeIkZ5Li88",
+      "ytMusicId": "qemjcgBJMCE",
       "streams": 2127695,
       "peak": 39,
       "weeks": 3
@@ -604,7 +604,7 @@
       "title": "Tum Se Hi (w/ Mohit Chauhan)",
       "artist": "Pritam",
       "spotifyId": "7eQl3Yqv35ioqUfveKHitE",
-      "ytMusicId": "0mGolP7VkrM",
+      "ytMusicId": "I94fhjQ-U30",
       "streams": 2112714,
       "peak": 12,
       "weeks": 323
@@ -637,7 +637,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "piUHBTXsoiY",
+      "ytMusicId": "tbXNVm8CXxg",
       "streams": 2076394,
       "peak": 33,
       "weeks": 185
@@ -956,7 +956,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "Chp2DAqpKqU",
+      "ytMusicId": "KzhgaKWplog",
       "streams": 1682924,
       "peak": 33,
       "weeks": 170
@@ -1132,7 +1132,7 @@
       "title": "Pal (w/ Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole)",
       "artist": "Javed-Mohsin",
       "spotifyId": "79hQvdTHNBkq2fp2ZrM8b2",
-      "ytMusicId": "V87xSH-Ok70",
+      "ytMusicId": "6PL39H2B7UQ",
       "streams": 1557981,
       "peak": 56,
       "weeks": 76
@@ -1451,7 +1451,7 @@
       "title": "Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)",
       "artist": "Palak Muchhal",
       "spotifyId": "0zQfcBB4obvYUrUNITmyyf",
-      "ytMusicId": "PAQuydscS4I",
+      "ytMusicId": "TiP72S9tf7o",
       "streams": 1454057,
       "peak": 99,
       "weeks": 12
@@ -1638,7 +1638,7 @@
       "title": "Sanam Re (w/ Arijit Singh)",
       "artist": "Mithoon",
       "spotifyId": "0CVfovmUv7BnemOyTtOcbL",
-      "ytMusicId": "utU4laPPKls",
+      "ytMusicId": "1vVGjAonhEA",
       "streams": 1404210,
       "peak": 144,
       "weeks": 8
@@ -1682,7 +1682,7 @@
       "title": "Bekhayali (From \"Kabir Singh\") (w/ Sachet-Parampara, Shahid Kapoor, Kiara Advani)",
       "artist": "Sachet Tandon",
       "spotifyId": "1feANd8EfcDP5UqSvbheM3",
-      "ytMusicId": "PVDPkS4v8FQ",
+      "ytMusicId": "0HoQoPuNjAs",
       "streams": 1389945,
       "peak": 1,
       "weeks": 287
