@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-13",
-  "lastUpdated": "2026-06-13T08:54:55.195Z",
+  "weekDate": "2026-06-14",
+  "lastUpdated": "2026-06-14T09:27:31.692Z",
   "tracks": [
     {
       "rank": 1,
@@ -98,7 +98,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "AxN0RjNx6WM",
+      "ytMusicId": "TaTZb7NXja0",
       "streams": 4344880,
       "peak": 2,
       "weeks": 12
@@ -329,7 +329,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 2757753,
       "peak": 1,
       "weeks": 86
@@ -428,7 +428,7 @@
       "title": "Jaan Se Guzarte Hain (w/ Khan Saab)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "4aWTPC6cuebk9zSpW1PY1Y",
-      "ytMusicId": "9wnBVhOpJCU",
+      "ytMusicId": "iICM37_na2U",
       "streams": 2441832,
       "peak": 7,
       "weeks": 12
@@ -967,7 +967,7 @@
       "title": "Aaya Sher (From \"The Paradise\") (Telugu) (w/ Jangi Reddy, Arjun Chandy, Kasarla Shyam)",
       "artist": "Anirudh Ravichander",
       "spotifyId": "4kV0ugCwyF7OAb3huIdThG",
-      "ytMusicId": "lbEtG0ZjyJA",
+      "ytMusicId": "",
       "streams": 1724776,
       "peak": 8,
       "weeks": 16
@@ -1847,7 +1847,7 @@
       "title": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack) (w/ Kaushik-Guddu, Kunaal Vermaa)",
       "artist": "Vishal Mishra",
       "spotifyId": "3EKHZNd0qflQK8UImpUu3k",
-      "ytMusicId": "BU5kkhpgLz8",
+      "ytMusicId": "",
       "streams": 1395041,
       "peak": 6,
       "weeks": 40
@@ -1946,7 +1946,7 @@
       "title": "Mutta Kalakki (From \"Youth\") (w/ Ken Karunaas)",
       "artist": "G. V. Prakash",
       "spotifyId": "7DswdgrPTR2xDB1vCBToi4",
-      "ytMusicId": "sng0VbBxlJk",
+      "ytMusicId": "0qXI2lVMd5s",
       "streams": 1364796,
       "peak": 39,
       "weeks": 16

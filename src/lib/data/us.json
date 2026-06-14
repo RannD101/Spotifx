@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-13",
-  "lastUpdated": "2026-06-13T08:56:21.763Z",
+  "weekDate": "2026-06-14",
+  "lastUpdated": "2026-06-14T09:29:01.027Z",
   "tracks": [
     {
       "rank": 1,
@@ -725,7 +725,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "spsM82DZqbE",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 3099658,
       "peak": 1,
       "weeks": 22
@@ -1242,7 +1242,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "8HBcV0MtAQg",
+      "ytMusicId": "0EnRK5YvBwU",
       "streams": 2714421,
       "peak": 10,
       "weeks": 527
@@ -2155,7 +2155,7 @@
       "title": "Pink Skies",
       "artist": "Zach Bryan",
       "spotifyId": "4ZJ4vzLQekI0WntDbanNC7",
-      "ytMusicId": "j7vlkVzgBg4",
+      "ytMusicId": "hI6QvrRl698",
       "streams": 2274838,
       "peak": 8,
       "weeks": 100
