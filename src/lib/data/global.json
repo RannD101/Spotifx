@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-06-14",
-  "lastUpdated": "2026-06-14T09:24:31.936Z",
+  "weekDate": "2026-06-15",
+  "lastUpdated": "2026-06-15T11:52:56.821Z",
   "tracks": [
     {
       "rank": 1,
@@ -758,7 +758,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 12260559,
       "peak": 69,
       "weeks": 128
@@ -1792,7 +1792,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "8UY5BGFLtK0",
       "streams": 9010520,
       "peak": 70,
       "weeks": 107
@@ -2122,7 +2122,7 @@
       "title": "Love Me Harder (w/ The Weeknd)",
       "artist": "Ariana Grande",
       "spotifyId": "5J4ZkQpzMUFojo1CtAZYpn",
-      "ytMusicId": "uvXtC13GlxQ",
+      "ytMusicId": "9dmPKyHw8k8",
       "streams": 8524794,
       "peak": 7,
       "weeks": 43
