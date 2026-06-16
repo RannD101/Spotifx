@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-15",
-  "lastUpdated": "2026-06-15T11:55:58.975Z",
+  "weekDate": "2026-06-16",
+  "lastUpdated": "2026-06-16T11:03:41.670Z",
   "tracks": [
     {
       "rank": 1,
@@ -98,7 +98,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "TaTZb7NXja0",
+      "ytMusicId": "AxN0RjNx6WM",
       "streams": 4344880,
       "peak": 2,
       "weeks": 12
@@ -428,7 +428,7 @@
       "title": "Jaan Se Guzarte Hain (w/ Khan Saab)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "4aWTPC6cuebk9zSpW1PY1Y",
-      "ytMusicId": "9wnBVhOpJCU",
+      "ytMusicId": "iICM37_na2U",
       "streams": 2441832,
       "peak": 7,
       "weeks": 12
@@ -637,7 +637,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "tbXNVm8CXxg",
+      "ytMusicId": "piUHBTXsoiY",
       "streams": 2043983,
       "peak": 33,
       "weeks": 186
@@ -813,7 +813,7 @@
       "title": "Maahi (w/ Toshi Sabri)",
       "artist": "Shaarib Toshi",
       "spotifyId": "4bIQXffbALkCC0Xo6aTicP",
-      "ytMusicId": "_OgdZQ0c8Pw",
+      "ytMusicId": "L0FzCiuTVEw",
       "streams": 1869537,
       "peak": 57,
       "weeks": 56
@@ -978,7 +978,7 @@
       "title": "Haareya (From \"Meri Pyaari Bindu \") (w/ Arijit Singh, Priya Saraiya)",
       "artist": "Sachin-Jigar",
       "spotifyId": "678JJ0TF3KFkzw6bIFKcew",
-      "ytMusicId": "C14askJ1tO8",
+      "ytMusicId": "YALvuUpY_b0",
       "streams": 1715632,
       "peak": 89,
       "weeks": 2
@@ -1220,7 +1220,7 @@
       "title": "Itni Si Baat Hain (From \"Azhar\") (w/ Antara Mitra)",
       "artist": "Arijit Singh",
       "spotifyId": "55TlMMnPJTk9Qq6CrqB6dx",
-      "ytMusicId": "MzKvcV0Re7U",
+      "ytMusicId": "LJSPjyeRFSo",
       "streams": 1555478,
       "peak": 42,
       "weeks": 87
@@ -1528,7 +1528,7 @@
       "title": "Dil Ibaadat (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "3Kl8p2PxVf8eAayLwTxOIm",
-      "ytMusicId": "IgITZfS7L_8",
+      "ytMusicId": "QQrKqUnPT1A",
       "streams": 1461362,
       "peak": 54,
       "weeks": 69

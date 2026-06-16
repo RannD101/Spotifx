@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-06-15",
-  "lastUpdated": "2026-06-15T11:52:56.821Z",
+  "weekDate": "2026-06-16",
+  "lastUpdated": "2026-06-16T11:00:37.123Z",
   "tracks": [
     {
       "rank": 1,
@@ -285,7 +285,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "46a5bRqPy_E",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 18050783,
       "peak": 3,
       "weeks": 15
@@ -1022,7 +1022,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 11046420,
       "peak": 3,
       "weeks": 22
@@ -1033,7 +1033,7 @@
       "title": "REDRED",
       "artist": "CORTIS",
       "spotifyId": "2fCwv2ppU5nTRTckomIGsd",
-      "ytMusicId": "5sOgJQ3N03Q",
+      "ytMusicId": "DBOyG7y_FQg",
       "streams": 11040759,
       "peak": 61,
       "weeks": 7
@@ -1528,7 +1528,7 @@
       "title": "LEMONADE",
       "artist": "aespa",
       "spotifyId": "7a3iH9vM5Z58GqOMqXBU1M",
-      "ytMusicId": "LBhcqYqeu0U",
+      "ytMusicId": "EBFYYjdGwJg",
       "streams": 9704085,
       "peak": 64,
       "weeks": 2
@@ -1792,7 +1792,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "8UY5BGFLtK0",
+      "ytMusicId": "3ssXSY7f3s4",
       "streams": 9010520,
       "peak": 70,
       "weeks": 107
@@ -2100,7 +2100,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "x_GqgW94eSg",
+      "ytMusicId": "xXD5tltX9Pg",
       "streams": 8584980,
       "peak": 59,
       "weeks": 6
@@ -2122,7 +2122,7 @@
       "title": "Love Me Harder (w/ The Weeknd)",
       "artist": "Ariana Grande",
       "spotifyId": "5J4ZkQpzMUFojo1CtAZYpn",
-      "ytMusicId": "9dmPKyHw8k8",
+      "ytMusicId": "uvXtC13GlxQ",
       "streams": 8524794,
       "peak": 7,
       "weeks": 43

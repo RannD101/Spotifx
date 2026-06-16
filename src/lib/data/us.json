@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-15",
-  "lastUpdated": "2026-06-15T11:57:28.076Z",
+  "weekDate": "2026-06-16",
+  "lastUpdated": "2026-06-16T11:05:12.433Z",
   "tracks": [
     {
       "rank": 1,
@@ -472,7 +472,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "46a5bRqPy_E",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 3639159,
       "peak": 1,
       "weeks": 15
@@ -725,7 +725,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 3099658,
       "peak": 1,
       "weeks": 22
@@ -1176,7 +1176,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "COz9lDCFHjw",
+      "ytMusicId": "EgfsXTOn_pI",
       "streams": 2761524,
       "peak": 1,
       "weeks": 184
@@ -1385,7 +1385,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2626912,
       "peak": 70,
       "weeks": 54
@@ -1979,7 +1979,7 @@
       "title": "B's On The Table (w/ 21 Savage)",
       "artist": "Drake",
       "spotifyId": "4ygJHbpMGwZknVFaRikdFr",
-      "ytMusicId": "IrOTmo_OTUo",
+      "ytMusicId": "5xYbqgeUwLs",
       "streams": 2344545,
       "peak": 12,
       "weeks": 4
@@ -2122,7 +2122,7 @@
       "title": "Don't Stop Believin' (2022 Remaster)",
       "artist": "Journey",
       "spotifyId": "5RKQ5NdjSh2QzD4MaunT91",
-      "ytMusicId": "mM3Vmn4pdog",
+      "ytMusicId": "_2JmghTq12E",
       "streams": 2289962,
       "peak": 57,
       "weeks": 76
