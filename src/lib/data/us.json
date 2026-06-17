@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-16",
-  "lastUpdated": "2026-06-16T11:05:12.433Z",
+  "weekDate": "2026-06-17",
+  "lastUpdated": "2026-06-17T10:36:39.552Z",
   "tracks": [
     {
       "rank": 1,
@@ -1242,7 +1242,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "8HBcV0MtAQg",
       "streams": 2714421,
       "peak": 10,
       "weeks": 527
@@ -2166,7 +2166,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 2273452,
       "peak": 95,
       "weeks": 63
