@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-06-17",
-  "lastUpdated": "2026-06-17T10:37:38.363Z",
+  "weekDate": "2026-06-18",
+  "lastUpdated": "2026-06-18T10:18:09.534Z",
   "tracks": [
     {
       "rank": 1,
@@ -1077,7 +1077,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 701178,
       "peak": 27,
       "weeks": 205
@@ -1363,7 +1363,7 @@
       "title": "Ran To Atlanta (w/ Future, Molly Santana)",
       "artist": "Drake",
       "spotifyId": "3DK90400cDlV5WUJPraMph",
-      "ytMusicId": "JlfnEms4vRI",
+      "ytMusicId": "KrKeZZafngg",
       "streams": 638304,
       "peak": 9,
       "weeks": 4
@@ -1737,7 +1737,7 @@
       "title": "Don't Stop Believin' (2022 Remaster)",
       "artist": "Journey",
       "spotifyId": "5RKQ5NdjSh2QzD4MaunT91",
-      "ytMusicId": "_2JmghTq12E",
+      "ytMusicId": "mM3Vmn4pdog",
       "streams": 578648,
       "peak": 48,
       "weeks": 87

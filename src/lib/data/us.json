@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-17",
-  "lastUpdated": "2026-06-17T10:36:39.552Z",
+  "weekDate": "2026-06-18",
+  "lastUpdated": "2026-06-18T10:17:11.763Z",
   "tracks": [
     {
       "rank": 1,
@@ -340,7 +340,7 @@
       "title": "Ran To Atlanta (w/ Future, Molly Santana)",
       "artist": "Drake",
       "spotifyId": "3DK90400cDlV5WUJPraMph",
-      "ytMusicId": "JlfnEms4vRI",
+      "ytMusicId": "KrKeZZafngg",
       "streams": 4250010,
       "peak": 2,
       "weeks": 4
@@ -1176,7 +1176,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "EgfsXTOn_pI",
+      "ytMusicId": "COz9lDCFHjw",
       "streams": 2761524,
       "peak": 1,
       "weeks": 184
@@ -2122,7 +2122,7 @@
       "title": "Don't Stop Believin' (2022 Remaster)",
       "artist": "Journey",
       "spotifyId": "5RKQ5NdjSh2QzD4MaunT91",
-      "ytMusicId": "_2JmghTq12E",
+      "ytMusicId": "mM3Vmn4pdog",
       "streams": 2289962,
       "peak": 57,
       "weeks": 76
@@ -2166,7 +2166,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 2273452,
       "peak": 95,
       "weeks": 63
