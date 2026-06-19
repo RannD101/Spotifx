@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-06-18",
-  "lastUpdated": "2026-06-18T10:18:09.534Z",
+  "weekDate": "2026-06-19",
+  "lastUpdated": "2026-06-19T10:24:12.824Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 2191028,
       "peak": 4,
       "weeks": 51
@@ -98,7 +98,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 1834458,
       "peak": 6,
       "weeks": 8
@@ -494,7 +494,7 @@
       "title": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps) (w/ Rain Sounds)",
       "artist": "White Noise Radiance",
       "spotifyId": "7gF2mPcjipv2hLGHY7bi17",
-      "ytMusicId": "dedXQV_wO1c",
+      "ytMusicId": "13EL6Mgeocc",
       "streams": 1041210,
       "peak": 38,
       "weeks": 19
@@ -560,7 +560,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "oGvrcrY8Xbs",
+      "ytMusicId": "2y6zdAbN9o8",
       "streams": 991054,
       "peak": 51,
       "weeks": 8
@@ -648,7 +648,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable)",
       "artist": "Dream Supplier",
       "spotifyId": "4yVBarJHjhhzP1q7fU4p0W",
-      "ytMusicId": "tTFR2WK9Gz0",
+      "ytMusicId": "2y6zdAbN9o8",
       "streams": 934011,
       "peak": 46,
       "weeks": 8
@@ -835,7 +835,7 @@
       "title": "Everywhere",
       "artist": "Fleetwood Mac",
       "spotifyId": "38iKuyifRL4mQ36F2hIxmF",
-      "ytMusicId": "wLSUDSNqLgQ",
+      "ytMusicId": "fIoxpiS01gE",
       "streams": 783697,
       "peak": 48,
       "weeks": 22
@@ -1077,7 +1077,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 701178,
       "peak": 27,
       "weeks": 205
@@ -1132,7 +1132,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "mXonGAEPQp8",
       "streams": 685830,
       "peak": 35,
       "weeks": 33
@@ -2177,7 +2177,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 540299,
       "peak": 34,
       "weeks": 106
