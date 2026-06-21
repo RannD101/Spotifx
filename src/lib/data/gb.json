@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-06-20",
-  "lastUpdated": "2026-06-20T08:52:06.103Z",
+  "weekDate": "2026-06-21",
+  "lastUpdated": "2026-06-21T09:47:22.137Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "the cure",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4EoJ151oQ5jY48z4RhSE96",
-      "ytMusicId": "Pzoz_xhIMlE",
+      "ytMusicId": "LuxizOvIbog",
       "streams": 3391727,
       "peak": 2,
       "weeks": 4
@@ -131,7 +131,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 2147795,
       "peak": 4,
       "weeks": 52
@@ -208,7 +208,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 1770448,
       "peak": 6,
       "weeks": 9
@@ -637,7 +637,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "2y6zdAbN9o8",
+      "ytMusicId": "8CORlbgW0cM",
       "streams": 984111,
       "peak": 51,
       "weeks": 9
@@ -736,7 +736,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable)",
       "artist": "Dream Supplier",
       "spotifyId": "4yVBarJHjhhzP1q7fU4p0W",
-      "ytMusicId": "2y6zdAbN9o8",
+      "ytMusicId": "8CORlbgW0cM",
       "streams": 929405,
       "peak": 46,
       "weeks": 9
@@ -879,7 +879,7 @@
       "title": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps) (w/ Rain Sounds)",
       "artist": "White Noise Radiance",
       "spotifyId": "7gF2mPcjipv2hLGHY7bi17",
-      "ytMusicId": "13EL6Mgeocc",
+      "ytMusicId": "dedXQV_wO1c",
       "streams": 787503,
       "peak": 38,
       "weeks": 20
@@ -1385,7 +1385,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 665422,
       "peak": 35,
       "weeks": 34
@@ -1968,7 +1968,7 @@
       "title": "Baby (w/ Murda Beatz)",
       "artist": "Prospa",
       "spotifyId": "5q6QXK4K3DvIlwGEtElny3",
-      "ytMusicId": "mEl5J4JC4q4",
+      "ytMusicId": "K0uYRWa0XSo",
       "streams": 578759,
       "peak": 125,
       "weeks": 5
@@ -2122,7 +2122,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 560002,
       "peak": 34,
       "weeks": 107
@@ -2133,7 +2133,7 @@
       "title": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (w/ Freshlyground)",
       "artist": "Shakira",
       "spotifyId": "3XyCSaEvFQeflTqlF8FAjL",
-      "ytMusicId": "Z_slTWayFK0",
+      "ytMusicId": "1FeEa2Ew2yo",
       "streams": 559446,
       "peak": 194,
       "weeks": 1

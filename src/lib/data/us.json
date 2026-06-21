@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-20",
-  "lastUpdated": "2026-06-20T08:51:05.600Z",
+  "weekDate": "2026-06-21",
+  "lastUpdated": "2026-06-21T09:46:23.622Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "the cure",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4EoJ151oQ5jY48z4RhSE96",
-      "ytMusicId": "Pzoz_xhIMlE",
+      "ytMusicId": "LuxizOvIbog",
       "streams": 13535905,
       "peak": 2,
       "weeks": 4
@@ -197,7 +197,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 7117491,
       "peak": 4,
       "weeks": 24
@@ -296,7 +296,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 5138632,
       "peak": 12,
       "weeks": 8
@@ -670,7 +670,7 @@
       "title": "Ran To Atlanta (w/ Future, Molly Santana)",
       "artist": "Drake",
       "spotifyId": "3DK90400cDlV5WUJPraMph",
-      "ytMusicId": "KrKeZZafngg",
+      "ytMusicId": "JlfnEms4vRI",
       "streams": 3350066,
       "peak": 2,
       "weeks": 5
@@ -681,7 +681,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "46a5bRqPy_E",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 3343339,
       "peak": 1,
       "weeks": 16
@@ -1220,7 +1220,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "8HBcV0MtAQg",
       "streams": 2695502,
       "peak": 10,
       "weeks": 528
@@ -1583,7 +1583,7 @@
       "title": "2 Hard 4 The Radio",
       "artist": "Drake",
       "spotifyId": "7COiiObIVJIdBcW3J43Iy2",
-      "ytMusicId": "WrR8N4ND4vI",
+      "ytMusicId": "Q8eOdXdSxJQ",
       "streams": 2504767,
       "peak": 9,
       "weeks": 5
@@ -1726,7 +1726,7 @@
       "title": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps) (w/ Rain Sounds)",
       "artist": "White Noise Radiance",
       "spotifyId": "7gF2mPcjipv2hLGHY7bi17",
-      "ytMusicId": "13EL6Mgeocc",
+      "ytMusicId": "dedXQV_wO1c",
       "streams": 2423809,
       "peak": 60,
       "weeks": 18
@@ -1803,7 +1803,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "_ydMlTassYc",
+      "ytMusicId": "183mZ-wj7eA",
       "streams": 2396411,
       "peak": 164,
       "weeks": 1
@@ -1924,7 +1924,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 2330344,
       "peak": 23,
       "weeks": 46
