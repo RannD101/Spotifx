@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-21",
-  "lastUpdated": "2026-06-21T09:46:23.622Z",
+  "weekDate": "2026-06-22",
+  "lastUpdated": "2026-06-22T11:46:05.450Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 7117491,
       "peak": 4,
       "weeks": 24
@@ -208,7 +208,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "wbt_E7LNDaA",
+      "ytMusicId": "HCgltcEaB_0",
       "streams": 6981009,
       "peak": 10,
       "weeks": 15
@@ -296,7 +296,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 5138632,
       "peak": 12,
       "weeks": 8
@@ -670,7 +670,7 @@
       "title": "Ran To Atlanta (w/ Future, Molly Santana)",
       "artist": "Drake",
       "spotifyId": "3DK90400cDlV5WUJPraMph",
-      "ytMusicId": "JlfnEms4vRI",
+      "ytMusicId": "KrKeZZafngg",
       "streams": 3350066,
       "peak": 2,
       "weeks": 5
@@ -945,7 +945,7 @@
       "title": "POP DAT THANG",
       "artist": "DaBaby",
       "spotifyId": "0QgwjxR1VchizzckKXwyBu",
-      "ytMusicId": "-lyBxb7nagk",
+      "ytMusicId": "ThdQv0PFUsc",
       "streams": 2883740,
       "peak": 54,
       "weeks": 15
@@ -1154,7 +1154,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 2726036,
       "peak": 53,
       "weeks": 163
@@ -1418,7 +1418,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2593730,
       "peak": 70,
       "weeks": 55
@@ -1583,7 +1583,7 @@
       "title": "2 Hard 4 The Radio",
       "artist": "Drake",
       "spotifyId": "7COiiObIVJIdBcW3J43Iy2",
-      "ytMusicId": "Q8eOdXdSxJQ",
+      "ytMusicId": "WrR8N4ND4vI",
       "streams": 2504767,
       "peak": 9,
       "weeks": 5
@@ -1726,7 +1726,7 @@
       "title": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps) (w/ Rain Sounds)",
       "artist": "White Noise Radiance",
       "spotifyId": "7gF2mPcjipv2hLGHY7bi17",
-      "ytMusicId": "dedXQV_wO1c",
+      "ytMusicId": "13EL6Mgeocc",
       "streams": 2423809,
       "peak": 60,
       "weeks": 18
@@ -1803,7 +1803,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "183mZ-wj7eA",
+      "ytMusicId": "_ydMlTassYc",
       "streams": 2396411,
       "peak": 164,
       "weeks": 1
@@ -1924,7 +1924,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "mXonGAEPQp8",
       "streams": 2330344,
       "peak": 23,
       "weeks": 46
