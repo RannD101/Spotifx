@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-06-22",
-  "lastUpdated": "2026-06-22T11:47:05.751Z",
+  "weekDate": "2026-06-23",
+  "lastUpdated": "2026-06-23T09:33:49.507Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "the cure",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4EoJ151oQ5jY48z4RhSE96",
-      "ytMusicId": "LuxizOvIbog",
+      "ytMusicId": "cmzCwz4NkOA",
       "streams": 3391727,
       "peak": 2,
       "weeks": 4
@@ -131,7 +131,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 2147795,
       "peak": 4,
       "weeks": 52
@@ -208,7 +208,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 1770448,
       "peak": 6,
       "weeks": 9
@@ -351,7 +351,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "HCgltcEaB_0",
+      "ytMusicId": "wbt_E7LNDaA",
       "streams": 1360818,
       "peak": 22,
       "weeks": 5
@@ -637,7 +637,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "2y6zdAbN9o8",
+      "ytMusicId": "oGvrcrY8Xbs",
       "streams": 984111,
       "peak": 51,
       "weeks": 9
@@ -736,7 +736,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable)",
       "artist": "Dream Supplier",
       "spotifyId": "4yVBarJHjhhzP1q7fU4p0W",
-      "ytMusicId": "2y6zdAbN9o8",
+      "ytMusicId": "tTFR2WK9Gz0",
       "streams": 929405,
       "peak": 46,
       "weeks": 9
@@ -868,7 +868,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "8bvbiq9nM-4",
       "streams": 791762,
       "peak": 5,
       "weeks": 23
@@ -879,7 +879,7 @@
       "title": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps) (w/ Rain Sounds)",
       "artist": "White Noise Radiance",
       "spotifyId": "7gF2mPcjipv2hLGHY7bi17",
-      "ytMusicId": "13EL6Mgeocc",
+      "ytMusicId": "dedXQV_wO1c",
       "streams": 787503,
       "peak": 38,
       "weeks": 20
@@ -1132,7 +1132,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "1WTATreAg08",
+      "ytMusicId": "JnRw8bXVbPI",
       "streams": 716674,
       "peak": 85,
       "weeks": 72
@@ -1385,7 +1385,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 665422,
       "peak": 35,
       "weeks": 34
@@ -1528,7 +1528,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 643130,
       "peak": 27,
       "weeks": 206
@@ -1561,7 +1561,7 @@
       "title": "Boys Don't Cry",
       "artist": "The Cure",
       "spotifyId": "1QFh8OH1e78dGd3VyJZCAC",
-      "ytMusicId": "JAHZVS4tb1I",
+      "ytMusicId": "YSAqXEcgoZ4",
       "streams": 637000,
       "peak": 34,
       "weeks": 27
@@ -1968,7 +1968,7 @@
       "title": "Baby (w/ Murda Beatz)",
       "artist": "Prospa",
       "spotifyId": "5q6QXK4K3DvIlwGEtElny3",
-      "ytMusicId": "Cb5tJKN_zTA",
+      "ytMusicId": "K0uYRWa0XSo",
       "streams": 578759,
       "peak": 125,
       "weeks": 5
@@ -2100,7 +2100,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "RUm36FWCyqA",
+      "ytMusicId": "bgWmgmoCCSc",
       "streams": 560792,
       "peak": 8,
       "weeks": 77
@@ -2122,7 +2122,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "FiJgjWmvNHA",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 560002,
       "peak": 34,
       "weeks": 107
@@ -2133,7 +2133,7 @@
       "title": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (w/ Freshlyground)",
       "artist": "Shakira",
       "spotifyId": "3XyCSaEvFQeflTqlF8FAjL",
-      "ytMusicId": "Z_slTWayFK0",
+      "ytMusicId": "1FeEa2Ew2yo",
       "streams": 559446,
       "peak": 194,
       "weeks": 1
