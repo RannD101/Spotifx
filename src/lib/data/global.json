@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-06-23",
-  "lastUpdated": "2026-06-23T09:28:17.881Z",
+  "weekDate": "2026-06-24",
+  "lastUpdated": "2026-06-24T08:58:26.385Z",
   "tracks": [
     {
       "rank": 1,
@@ -725,7 +725,7 @@
       "title": "Cuando No Era Cantante RMX - Remix (w/ Anuel AA, Fuerza Regida, Yung Beef)",
       "artist": "El Bogueto",
       "spotifyId": "56V7nzrqr6Sq1uFym4odwa",
-      "ytMusicId": "6sE5F9Y8f1o",
+      "ytMusicId": "3Nm3hkwGOGM",
       "streams": 13555804,
       "peak": 66,
       "weeks": 1
@@ -780,7 +780,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 12481793,
       "peak": 1,
       "weeks": 312
@@ -1330,7 +1330,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8bvbiq9nM-4",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 10459097,
       "peak": 3,
       "weeks": 23

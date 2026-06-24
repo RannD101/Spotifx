@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-23",
-  "lastUpdated": "2026-06-23T09:31:24.605Z",
+  "weekDate": "2026-06-24",
+  "lastUpdated": "2026-06-24T09:01:27.540Z",
   "tracks": [
     {
       "rank": 1,
@@ -318,7 +318,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "1vFZso3WgAA",
+      "ytMusicId": "Gayw5AQvWcQ",
       "streams": 2936709,
       "peak": 7,
       "weeks": 27
@@ -340,7 +340,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "",
+      "ytMusicId": "7Iqe_yCYwvM",
       "streams": 2759209,
       "peak": 1,
       "weeks": 87
@@ -560,7 +560,7 @@
       "title": "Naal Nachna (w/ Afsana Khan, Irshad Kamil, Reble)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "2nnDPEbNxnBKq5RG6sObTg",
-      "ytMusicId": "bZvWM8pIUsI",
+      "ytMusicId": "P4UnrmPFPA4",
       "streams": 2222360,
       "peak": 24,
       "weeks": 26
@@ -1209,7 +1209,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 1608959,
       "peak": 12,
       "weeks": 255
@@ -1572,7 +1572,7 @@
       "title": "Aawaara Angaara (w/ Faheem Abdullah, Irshad Kamil)",
       "artist": "A.R. Rahman",
       "spotifyId": "6flQ5XJKj5qIhpxSHOd3jC",
-      "ytMusicId": "YJrqQRK4IWc",
+      "ytMusicId": "gkQx5m2KHAQ",
       "streams": 1483503,
       "peak": 6,
       "weeks": 30
@@ -1605,7 +1605,7 @@
       "title": "Main Rang Sharbaton Ka (w/ Chinmayi, Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "2IEhtVeM9TVql8fZdKdlo9",
-      "ytMusicId": "3tAmZlcZsHo",
+      "ytMusicId": "cE4atI_v-Z0",
       "streams": 1476519,
       "peak": 73,
       "weeks": 90
@@ -1616,7 +1616,7 @@
       "title": "Bekhayali (From \"Kabir Singh\") (w/ Sachet-Parampara, Shahid Kapoor, Kiara Advani)",
       "artist": "Sachet Tandon",
       "spotifyId": "1feANd8EfcDP5UqSvbheM3",
-      "ytMusicId": "0HoQoPuNjAs",
+      "ytMusicId": "PVDPkS4v8FQ",
       "streams": 1474083,
       "peak": 1,
       "weeks": 289

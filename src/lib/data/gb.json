@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-06-23",
-  "lastUpdated": "2026-06-23T09:33:49.507Z",
+  "weekDate": "2026-06-24",
+  "lastUpdated": "2026-06-24T09:03:48.255Z",
   "tracks": [
     {
       "rank": 1,
@@ -868,7 +868,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8bvbiq9nM-4",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 791762,
       "peak": 5,
       "weeks": 23
@@ -1132,7 +1132,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "JnRw8bXVbPI",
+      "ytMusicId": "1WTATreAg08",
       "streams": 716674,
       "peak": 85,
       "weeks": 72
@@ -1561,7 +1561,7 @@
       "title": "Boys Don't Cry",
       "artist": "The Cure",
       "spotifyId": "1QFh8OH1e78dGd3VyJZCAC",
-      "ytMusicId": "YSAqXEcgoZ4",
+      "ytMusicId": "JAHZVS4tb1I",
       "streams": 637000,
       "peak": 34,
       "weeks": 27
@@ -1968,7 +1968,7 @@
       "title": "Baby (w/ Murda Beatz)",
       "artist": "Prospa",
       "spotifyId": "5q6QXK4K3DvIlwGEtElny3",
-      "ytMusicId": "K0uYRWa0XSo",
+      "ytMusicId": "mEl5J4JC4q4",
       "streams": 578759,
       "peak": 125,
       "weeks": 5

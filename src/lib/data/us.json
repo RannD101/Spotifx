@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-06-23",
-  "lastUpdated": "2026-06-23T09:32:47.807Z",
+  "weekDate": "2026-06-24",
+  "lastUpdated": "2026-06-24T09:02:46.182Z",
   "tracks": [
     {
       "rank": 1,
@@ -967,7 +967,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8bvbiq9nM-4",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 2879082,
       "peak": 1,
       "weeks": 23
