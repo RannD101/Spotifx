@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-06-24",
-  "lastUpdated": "2026-06-24T08:58:26.385Z",
+  "weekDate": "2026-06-25",
+  "lastUpdated": "2026-06-25T08:53:34.711Z",
   "tracks": [
     {
       "rank": 1,
@@ -780,7 +780,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 12481793,
       "peak": 1,
       "weeks": 312
@@ -1869,7 +1869,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 9136156,
       "peak": 59,
       "weeks": 136
