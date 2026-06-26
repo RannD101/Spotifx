@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-06-25",
-  "lastUpdated": "2026-06-25T08:53:34.711Z",
+  "weekDate": "2026-06-26",
+  "lastUpdated": "2026-06-26T08:55:31.733Z",
   "tracks": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "title": "drop dead",
       "artist": "Olivia Rodrigo",
       "spotifyId": "7Hc6qcJG4NtyZgbNvQyd8U",
-      "ytMusicId": "G1--F4N-Gvs",
+      "ytMusicId": "wLmLB4Zzyiw",
       "streams": 37491149,
       "peak": 2,
       "weeks": 9
@@ -483,7 +483,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "n3qQtSRmHxo",
+      "ytMusicId": "m_O25dOQpCQ",
       "streams": 16307988,
       "peak": 8,
       "weeks": 8
@@ -1187,7 +1187,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 10867399,
       "peak": 31,
       "weeks": 203
@@ -2144,7 +2144,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 8588025,
       "peak": 121,
       "weeks": 41
