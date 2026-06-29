@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-06-28",
-  "lastUpdated": "2026-06-28T08:45:40.015Z",
+  "weekDate": "2026-06-29",
+  "lastUpdated": "2026-06-29T10:30:17.539Z",
   "tracks": [
     {
       "rank": 1,
@@ -527,7 +527,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "n3qQtSRmHxo",
+      "ytMusicId": "m_O25dOQpCQ",
       "streams": 14965728,
       "peak": 8,
       "weeks": 9
@@ -1638,7 +1638,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 9570636,
       "peak": 59,
       "weeks": 137
@@ -2111,7 +2111,7 @@
       "title": "Die For You",
       "artist": "The Weeknd",
       "spotifyId": "2LBqCSwhJGcFQeTHMVGwy3",
-      "ytMusicId": "QLCpqdqeoII",
+      "ytMusicId": "mTLQhPFx2nM",
       "streams": 8613689,
       "peak": 12,
       "weeks": 219
