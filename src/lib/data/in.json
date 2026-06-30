@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-06-29",
-  "lastUpdated": "2026-06-29T10:33:26.695Z",
+  "weekDate": "2026-06-30",
+  "lastUpdated": "2026-06-30T09:05:17.185Z",
   "tracks": [
     {
       "rank": 1,
@@ -384,7 +384,7 @@
       "title": "Zaalima (w/ Harshdeep Kaur)",
       "artist": "Arijit Singh",
       "spotifyId": "4MU4Kfkd9EnkArK2ocQyqK",
-      "ytMusicId": "eXkHvT--DBU",
+      "ytMusicId": "i_BBUsAZmd4",
       "streams": 2670906,
       "peak": 27,
       "weeks": 157
@@ -659,7 +659,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "aVPwXQgY2QI",
+      "ytMusicId": "tbXNVm8CXxg",
       "streams": 2059250,
       "peak": 33,
       "weeks": 188
@@ -934,7 +934,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "hJOKXvtb6VQ",
+      "ytMusicId": "",
       "streams": 1770967,
       "peak": 85,
       "weeks": 1
@@ -1561,7 +1561,7 @@
       "title": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\") (w/ Bunny, Sagar)",
       "artist": "Hunny",
       "spotifyId": "6egfWbtFFhMToV2DvmEzmo",
-      "ytMusicId": "L0FzCiuTVEw",
+      "ytMusicId": "I6iMUAjIy2o",
       "streams": 1481254,
       "peak": 8,
       "weeks": 66
@@ -1781,7 +1781,7 @@
       "title": "Aaya Sher (From \"The Paradise\") (Telugu) (w/ Jangi Reddy, Arjun Chandy, Kasarla Shyam)",
       "artist": "Anirudh Ravichander",
       "spotifyId": "4kV0ugCwyF7OAb3huIdThG",
-      "ytMusicId": "lbEtG0ZjyJA",
+      "ytMusicId": "",
       "streams": 1426877,
       "peak": 8,
       "weeks": 18
@@ -2133,7 +2133,7 @@
       "title": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack) (w/ Kaushik-Guddu, Kunaal Vermaa)",
       "artist": "Vishal Mishra",
       "spotifyId": "3EKHZNd0qflQK8UImpUu3k",
-      "ytMusicId": "BU5kkhpgLz8",
+      "ytMusicId": "",
       "streams": 1299727,
       "peak": 6,
       "weeks": 42
