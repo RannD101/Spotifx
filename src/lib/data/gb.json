@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-01",
-  "lastUpdated": "2026-07-01T09:41:21.439Z",
+  "weekDate": "2026-07-02",
+  "lastUpdated": "2026-07-02T08:52:15.256Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "4vpTO9TBZKc",
       "streams": 2631597,
       "peak": 1,
       "weeks": 53
@@ -813,7 +813,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "8bvbiq9nM-4",
       "streams": 826064,
       "peak": 5,
       "weeks": 24
@@ -846,7 +846,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "oGvrcrY8Xbs",
+      "ytMusicId": "8CORlbgW0cM",
       "streams": 805691,
       "peak": 51,
       "weeks": 10
@@ -1968,7 +1968,7 @@
       "title": "Go Your Own Way - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "34F6qT8udksbeKO7CVDBqF",
-      "ytMusicId": "IPBcoIlGp-8",
+      "ytMusicId": "MTIkFwMuiTw",
       "streams": 600033,
       "peak": 125,
       "weeks": 10
@@ -2045,7 +2045,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 587651,
       "peak": 186,
       "weeks": 2

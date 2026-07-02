@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-01",
-  "lastUpdated": "2026-07-01T09:40:17.888Z",
+  "weekDate": "2026-07-02",
+  "lastUpdated": "2026-07-02T08:51:15.870Z",
   "tracks": [
     {
       "rank": 1,
@@ -978,7 +978,7 @@
       "title": "Ran To Atlanta (w/ Future, Molly Santana)",
       "artist": "Drake",
       "spotifyId": "3DK90400cDlV5WUJPraMph",
-      "ytMusicId": "KrKeZZafngg",
+      "ytMusicId": "JlfnEms4vRI",
       "streams": 2865736,
       "peak": 2,
       "weeks": 6
@@ -1044,7 +1044,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "4vpTO9TBZKc",
       "streams": 2791667,
       "peak": 83,
       "weeks": 14
@@ -1066,7 +1066,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "8bvbiq9nM-4",
       "streams": 2763863,
       "peak": 1,
       "weeks": 24
