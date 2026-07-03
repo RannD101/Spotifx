@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-02",
-  "lastUpdated": "2026-07-02T08:51:15.870Z",
+  "weekDate": "2026-07-03",
+  "lastUpdated": "2026-07-03T08:59:20.155Z",
   "tracks": [
     {
       "rank": 1,
@@ -527,7 +527,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "6hkOqJ5mE093AQf2lbZnsG",
-      "ytMusicId": "64wxAbbWNag",
+      "ytMusicId": "5ZsotZ-IqZs",
       "streams": 3788675,
       "peak": 37,
       "weeks": 13
@@ -736,7 +736,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "46a5bRqPy_E",
       "streams": 3131048,
       "peak": 1,
       "weeks": 17
@@ -1099,7 +1099,7 @@
       "title": "Last Night",
       "artist": "Morgan Wallen",
       "spotifyId": "7K3BhSpAxZBznislvUMVtn",
-      "ytMusicId": "AnMr6Mm36eM",
+      "ytMusicId": "GwXVMhVjjCI",
       "streams": 2736147,
       "peak": 1,
       "weeks": 174
@@ -1407,7 +1407,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2559454,
       "peak": 70,
       "weeks": 56
