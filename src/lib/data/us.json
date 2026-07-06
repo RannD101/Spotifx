@@ -1,15 +1,15 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-05",
-  "lastUpdated": "2026-07-05T08:50:59.729Z",
+  "weekDate": "2026-07-06",
+  "lastUpdated": "2026-07-06T10:08:01.827Z",
   "tracks": [
     {
       "rank": 1,
       "change": "+1",
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
-      "spotifyId": "65DbTqJKhbwqYbZ1Okr0rc",
+      "spotifyId": "7scFxt9VhL4FJwuPSfRlfN",
       "ytMusicId": "3s1sZbW7Rt8",
       "streams": 11378176,
       "peak": 1,
@@ -593,7 +593,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EG6xVbwwLiI",
+      "ytMusicId": "7193204dpGU",
       "streams": 3387724,
       "peak": 1,
       "weeks": 178
@@ -780,7 +780,7 @@
       "title": "Riptide",
       "artist": "Vance Joy",
       "spotifyId": "7yq4Qj7cqayVTp3FF9CWbm",
-      "ytMusicId": "En_6WWOWh8E",
+      "ytMusicId": "duD0EBbrOMk",
       "streams": 3053658,
       "peak": 12,
       "weeks": 236
@@ -1077,7 +1077,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8bvbiq9nM-4",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 2773537,
       "peak": 1,
       "weeks": 25
@@ -2122,7 +2122,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2231781,
       "peak": 175,
       "weeks": 13
