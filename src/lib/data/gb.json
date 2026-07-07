@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-06",
-  "lastUpdated": "2026-07-06T10:08:56.837Z",
+  "weekDate": "2026-07-07",
+  "lastUpdated": "2026-07-07T09:36:23.855Z",
   "tracks": [
     {
       "rank": 1,
@@ -560,7 +560,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "6hkOqJ5mE093AQf2lbZnsG",
-      "ytMusicId": "5ZsotZ-IqZs",
+      "ytMusicId": "64wxAbbWNag",
       "streams": 948011,
       "peak": 46,
       "weeks": 14
@@ -615,7 +615,7 @@
       "title": "Riptide",
       "artist": "Vance Joy",
       "spotifyId": "7yq4Qj7cqayVTp3FF9CWbm",
-      "ytMusicId": "duD0EBbrOMk",
+      "ytMusicId": "En_6WWOWh8E",
       "streams": 922292,
       "peak": 7,
       "weeks": 589
@@ -1748,7 +1748,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 602837,
       "peak": 27,
       "weeks": 208
