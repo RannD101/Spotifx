@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-07",
-  "lastUpdated": "2026-07-07T09:35:26.395Z",
+  "weekDate": "2026-07-08",
+  "lastUpdated": "2026-07-08T08:19:49.361Z",
   "tracks": [
     {
       "rank": 1,
@@ -549,7 +549,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "6hkOqJ5mE093AQf2lbZnsG",
-      "ytMusicId": "64wxAbbWNag",
+      "ytMusicId": "5ZsotZ-IqZs",
       "streams": 3445141,
       "peak": 37,
       "weeks": 14
@@ -1440,7 +1440,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2517170,
       "peak": 70,
       "weeks": 57
@@ -1956,7 +1956,7 @@
       "change": "RE",
       "title": "bloodstream",
       "artist": "Alyssa Grace",
-      "spotifyId": "1fdgakuuEEfjRt3KYF36eG",
+      "spotifyId": "2oWFJJW9d1bIra3zHjR6GO",
       "ytMusicId": "CLSuAhT71yU",
       "streams": 2286628,
       "peak": 90,
