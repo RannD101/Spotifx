@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-08",
-  "lastUpdated": "2026-07-08T08:19:49.361Z",
+  "weekDate": "2026-07-09",
+  "lastUpdated": "2026-07-09T09:37:12.848Z",
   "tracks": [
     {
       "rank": 1,
@@ -593,7 +593,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "7193204dpGU",
+      "ytMusicId": "X7AN68W5qDI",
       "streams": 3387724,
       "peak": 1,
       "weeks": 178
@@ -1506,7 +1506,7 @@
       "title": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps) (w/ Rain Sounds)",
       "artist": "White Noise Radiance",
       "spotifyId": "7gF2mPcjipv2hLGHY7bi17",
-      "ytMusicId": "dedXQV_wO1c",
+      "ytMusicId": "zqZtPzmL13M",
       "streams": 2486106,
       "peak": 60,
       "weeks": 20
@@ -2122,7 +2122,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 2231781,
       "peak": 175,
       "weeks": 13
