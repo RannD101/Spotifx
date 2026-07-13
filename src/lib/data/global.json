@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-07-12",
-  "lastUpdated": "2026-07-12T08:06:43.117Z",
+  "weekDate": "2026-07-13",
+  "lastUpdated": "2026-07-13T08:56:57.163Z",
   "tracks": [
     {
       "rank": 1,
@@ -725,7 +725,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 11730057,
       "peak": 1,
       "weeks": 315
@@ -989,7 +989,7 @@
       "title": "REDRED",
       "artist": "CORTIS",
       "spotifyId": "2fCwv2ppU5nTRTckomIGsd",
-      "ytMusicId": "5sOgJQ3N03Q",
+      "ytMusicId": "DBOyG7y_FQg",
       "streams": 10444531,
       "peak": 61,
       "weeks": 11
