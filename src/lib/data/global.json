@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-07-15",
-  "lastUpdated": "2026-07-15T07:56:36.114Z",
+  "weekDate": "2026-07-16",
+  "lastUpdated": "2026-07-16T08:02:09.724Z",
   "tracks": [
     {
       "rank": 1,
@@ -989,7 +989,7 @@
       "title": "REDRED",
       "artist": "CORTIS",
       "spotifyId": "2fCwv2ppU5nTRTckomIGsd",
-      "ytMusicId": "5sOgJQ3N03Q",
+      "ytMusicId": "DBOyG7y_FQg",
       "streams": 10444531,
       "peak": 61,
       "weeks": 11
@@ -1088,7 +1088,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "4vpTO9TBZKc",
+      "ytMusicId": "NO3JTAsB4NI",
       "streams": 10277384,
       "peak": 56,
       "weeks": 19
@@ -2045,7 +2045,7 @@
       "title": "Die For You",
       "artist": "The Weeknd",
       "spotifyId": "2LBqCSwhJGcFQeTHMVGwy3",
-      "ytMusicId": "mTLQhPFx2nM",
+      "ytMusicId": "QLCpqdqeoII",
       "streams": 8441915,
       "peak": 12,
       "weeks": 221
