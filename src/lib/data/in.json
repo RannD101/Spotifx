@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-07-16",
-  "lastUpdated": "2026-07-16T08:05:16.192Z",
+  "weekDate": "2026-07-17",
+  "lastUpdated": "2026-07-17T08:01:40.602Z",
   "tracks": [
     {
       "rank": 1,
@@ -406,7 +406,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 2478498,
       "peak": 1,
       "weeks": 90
@@ -659,7 +659,7 @@
       "title": "Maahi (w/ Toshi Sabri)",
       "artist": "Shaarib Toshi",
       "spotifyId": "4bIQXffbALkCC0Xo6aTicP",
-      "ytMusicId": "L0FzCiuTVEw",
+      "ytMusicId": "_OgdZQ0c8Pw",
       "streams": 2097466,
       "peak": 57,
       "weeks": 60
@@ -956,7 +956,7 @@
       "title": "KALYANI (w/ KDS, FIFTY4, RONN)",
       "artist": "ARJN",
       "spotifyId": "2Uyj6K6mSaFTZsPvov415i",
-      "ytMusicId": "zAiIgYOH4Ys",
+      "ytMusicId": "TijBIPD4Jbw",
       "streams": 1711422,
       "peak": 21,
       "weeks": 32
@@ -1319,7 +1319,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "jk_BAZgyqpA",
+      "ytMusicId": "",
       "streams": 1532300,
       "peak": 85,
       "weeks": 3
@@ -1396,7 +1396,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 1508565,
       "peak": 12,
       "weeks": 258
@@ -1858,7 +1858,7 @@
       "title": "Othaiyadi Pathayila (w/ Sathyaraj, Aishwarya Rajesh)",
       "artist": "Anirudh Ravichander",
       "spotifyId": "09Z6o1yu596HJAwWZxTz4m",
-      "ytMusicId": "LXR2Y8TtY4E",
+      "ytMusicId": "",
       "streams": 1351445,
       "peak": 108,
       "weeks": 19
@@ -2056,7 +2056,7 @@
       "title": "Main Phir Bhi Tumko Chaahunga (w/ Mithoon, Shashaa Tirupati, Manoj Muntashir)",
       "artist": "Arijit Singh",
       "spotifyId": "3brtRojreYmKbZ93aSTCoW",
-      "ytMusicId": "EDjrVNHFkOc",
+      "ytMusicId": "q1uPPBJ2tcI",
       "streams": 1270344,
       "peak": 117,
       "weeks": 2
@@ -2089,7 +2089,7 @@
       "title": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack) (w/ Kaushik-Guddu, Kunaal Vermaa)",
       "artist": "Vishal Mishra",
       "spotifyId": "3EKHZNd0qflQK8UImpUu3k",
-      "ytMusicId": "BU5kkhpgLz8",
+      "ytMusicId": "",
       "streams": 1264783,
       "peak": 6,
       "weeks": 43
@@ -2144,7 +2144,7 @@
       "title": "Piche Tere (w/ Dishant)",
       "artist": "Kunwarr",
       "spotifyId": "4ZWoJ4tRi74mHHnItB3k9h",
-      "ytMusicId": "AM7u5EmM-IQ",
+      "ytMusicId": "_kdqbcuXl5A",
       "streams": 1255645,
       "peak": 94,
       "weeks": 23

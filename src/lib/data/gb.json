@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-16",
-  "lastUpdated": "2026-07-16T08:07:56.673Z",
+  "weekDate": "2026-07-17",
+  "lastUpdated": "2026-07-17T08:04:22.894Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "4vpTO9TBZKc",
       "streams": 2436565,
       "peak": 1,
       "weeks": 55
@@ -791,7 +791,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable)",
       "artist": "Dream Supplier",
       "spotifyId": "4yVBarJHjhhzP1q7fU4p0W",
-      "ytMusicId": "oGvrcrY8Xbs",
+      "ytMusicId": "81GUbfBqTv0",
       "streams": 801954,
       "peak": 46,
       "weeks": 12
@@ -1858,7 +1858,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "BbWY-avjDto",
+      "ytMusicId": "EKjdR-5XKYs",
       "streams": 572368,
       "peak": 169,
       "weeks": 4
