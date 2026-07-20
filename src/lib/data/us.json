@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-19",
-  "lastUpdated": "2026-07-19T08:10:30.306Z",
+  "weekDate": "2026-07-20",
+  "lastUpdated": "2026-07-20T08:51:55.166Z",
   "tracks": [
     {
       "rank": 1,
@@ -791,7 +791,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "m_O25dOQpCQ",
+      "ytMusicId": "n3qQtSRmHxo",
       "streams": 2952309,
       "peak": 14,
       "weeks": 12
@@ -1374,7 +1374,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 2492814,
       "peak": 53,
       "weeks": 167
