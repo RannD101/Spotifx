@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-07-20",
-  "lastUpdated": "2026-07-20T08:47:17.968Z",
+  "weekDate": "2026-07-21",
+  "lastUpdated": "2026-07-21T08:14:31.229Z",
   "tracks": [
     {
       "rank": 1,
@@ -648,7 +648,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 11992586,
       "peak": 1,
       "weeks": 316
@@ -1704,7 +1704,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "x_GqgW94eSg",
       "streams": 8875560,
       "peak": 59,
       "weeks": 10
@@ -2045,7 +2045,7 @@
       "title": "Die For You",
       "artist": "The Weeknd",
       "spotifyId": "2LBqCSwhJGcFQeTHMVGwy3",
-      "ytMusicId": "mTLQhPFx2nM",
+      "ytMusicId": "QLCpqdqeoII",
       "streams": 8438530,
       "peak": 12,
       "weeks": 222
