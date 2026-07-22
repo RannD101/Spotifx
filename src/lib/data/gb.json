@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-21",
-  "lastUpdated": "2026-07-21T08:20:06.204Z",
+  "weekDate": "2026-07-22",
+  "lastUpdated": "2026-07-22T08:20:19.357Z",
   "tracks": [
     {
       "rank": 1,
@@ -527,7 +527,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "n3qQtSRmHxo",
+      "ytMusicId": "m_O25dOQpCQ",
       "streams": 913331,
       "peak": 8,
       "weeks": 12
@@ -571,7 +571,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 872929,
       "peak": 5,
       "weeks": 27
@@ -813,7 +813,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "oGvrcrY8Xbs",
+      "ytMusicId": "n2FZ-pY4EOA",
       "streams": 768962,
       "peak": 51,
       "weeks": 13
@@ -1462,7 +1462,7 @@
       "title": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
       "artist": "Macklemore & Ryan Lewis",
       "spotifyId": "22skzmqfdWrjJylampe0kt",
-      "ytMusicId": "96L5sV7rqX0",
+      "ytMusicId": "Vik1dtQ0eHc",
       "streams": 626790,
       "peak": 68,
       "weeks": 191
@@ -1924,7 +1924,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 563062,
       "peak": 169,
       "weeks": 5
@@ -2078,7 +2078,7 @@
       "title": "Go Your Own Way - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "34F6qT8udksbeKO7CVDBqF",
-      "ytMusicId": "MTIkFwMuiTw",
+      "ytMusicId": "IPBcoIlGp-8",
       "streams": 552816,
       "peak": 125,
       "weeks": 12
