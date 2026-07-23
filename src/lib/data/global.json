@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-07-22",
-  "lastUpdated": "2026-07-22T08:14:45.993Z",
+  "weekDate": "2026-07-23",
+  "lastUpdated": "2026-07-23T08:18:30.491Z",
   "tracks": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 26313410,
       "peak": 1,
       "weeks": 60
@@ -670,7 +670,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "m_O25dOQpCQ",
+      "ytMusicId": "n3qQtSRmHxo",
       "streams": 11884873,
       "peak": 8,
       "weeks": 12
@@ -846,7 +846,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 11131937,
       "peak": 3,
       "weeks": 27
@@ -1165,7 +1165,7 @@
       "title": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
       "artist": "Macklemore & Ryan Lewis",
       "spotifyId": "22skzmqfdWrjJylampe0kt",
-      "ytMusicId": "Vik1dtQ0eHc",
+      "ytMusicId": "96L5sV7rqX0",
       "streams": 9945978,
       "peak": 86,
       "weeks": 192
@@ -1561,7 +1561,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "T_UEawa2wCk",
+      "ytMusicId": "gOrmQcOolJI",
       "streams": 9023924,
       "peak": 13,
       "weeks": 5
@@ -1704,7 +1704,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "x_GqgW94eSg",
+      "ytMusicId": "xXD5tltX9Pg",
       "streams": 8875560,
       "peak": 59,
       "weeks": 10
@@ -2045,7 +2045,7 @@
       "title": "Die For You",
       "artist": "The Weeknd",
       "spotifyId": "2LBqCSwhJGcFQeTHMVGwy3",
-      "ytMusicId": "mTLQhPFx2nM",
+      "ytMusicId": "QLCpqdqeoII",
       "streams": 8438530,
       "peak": 12,
       "weeks": 222
@@ -2133,7 +2133,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 8351183,
       "peak": 3,
       "weeks": 90

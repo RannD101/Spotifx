@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-22",
-  "lastUpdated": "2026-07-22T08:20:19.357Z",
+  "weekDate": "2026-07-23",
+  "lastUpdated": "2026-07-23T08:24:11.889Z",
   "tracks": [
     {
       "rank": 1,
@@ -109,7 +109,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 1552803,
       "peak": 4,
       "weeks": 56
@@ -527,7 +527,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "m_O25dOQpCQ",
+      "ytMusicId": "n3qQtSRmHxo",
       "streams": 913331,
       "peak": 8,
       "weeks": 12
@@ -571,7 +571,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 872929,
       "peak": 5,
       "weeks": 27
@@ -725,7 +725,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "JnRw8bXVbPI",
+      "ytMusicId": "1WTATreAg08",
       "streams": 790175,
       "peak": 66,
       "weeks": 76
@@ -813,7 +813,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "n2FZ-pY4EOA",
+      "ytMusicId": "2y6zdAbN9o8",
       "streams": 768962,
       "peak": 51,
       "weeks": 13
@@ -1033,7 +1033,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "T_UEawa2wCk",
+      "ytMusicId": "gOrmQcOolJI",
       "streams": 698516,
       "peak": 11,
       "weeks": 5
@@ -1154,7 +1154,7 @@
       "title": "World in Motion",
       "artist": "New Order",
       "spotifyId": "47x8g4l24IpCvlcRxv2Jb6",
-      "ytMusicId": "87YnE9fdlCU",
+      "ytMusicId": "STd0DbOIWGY",
       "streams": 670232,
       "peak": 42,
       "weeks": 6
@@ -1462,7 +1462,7 @@
       "title": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
       "artist": "Macklemore & Ryan Lewis",
       "spotifyId": "22skzmqfdWrjJylampe0kt",
-      "ytMusicId": "Vik1dtQ0eHc",
+      "ytMusicId": "96L5sV7rqX0",
       "streams": 626790,
       "peak": 68,
       "weeks": 191
@@ -1770,7 +1770,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 576153,
       "peak": 1,
       "weeks": 119
@@ -1825,7 +1825,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 572542,
       "peak": 1,
       "weeks": 91
@@ -1913,7 +1913,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 564524,
       "peak": 35,
       "weeks": 127

@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-22",
-  "lastUpdated": "2026-07-22T08:19:17.910Z",
+  "weekDate": "2026-07-23",
+  "lastUpdated": "2026-07-23T08:23:08.841Z",
   "tracks": [
     {
       "rank": 1,
@@ -153,7 +153,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 5203314,
       "peak": 4,
       "weeks": 28
@@ -593,7 +593,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "T_UEawa2wCk",
+      "ytMusicId": "gOrmQcOolJI",
       "streams": 3222863,
       "peak": 9,
       "weeks": 5
@@ -791,7 +791,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "m_O25dOQpCQ",
+      "ytMusicId": "n3qQtSRmHxo",
       "streams": 2952309,
       "peak": 14,
       "weeks": 12
@@ -1077,7 +1077,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 2718541,
       "peak": 1,
       "weeks": 27
@@ -1770,7 +1770,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 2308548,
       "peak": 108,
       "weeks": 20
@@ -2144,7 +2144,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 2182091,
       "peak": 1,
       "weeks": 112
@@ -2155,7 +2155,7 @@
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "spotifyId": "4k6Uh1HXdhtusDW5y8Gbvy",
-      "ytMusicId": "1E2ihUl6ed4",
+      "ytMusicId": "UGbDWUtqMsQ",
       "streams": 2181448,
       "peak": 1,
       "weeks": 154
