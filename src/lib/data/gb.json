@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-23",
-  "lastUpdated": "2026-07-23T08:24:11.889Z",
+  "weekDate": "2026-07-24",
+  "lastUpdated": "2026-07-24T08:20:07.593Z",
   "tracks": [
     {
       "rank": 1,
@@ -109,7 +109,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 1552803,
       "peak": 4,
       "weeks": 56
@@ -197,7 +197,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 1249725,
       "peak": 6,
       "weeks": 13
@@ -1033,7 +1033,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "gOrmQcOolJI",
+      "ytMusicId": "T_UEawa2wCk",
       "streams": 698516,
       "peak": 11,
       "weeks": 5
@@ -1825,7 +1825,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 572542,
       "peak": 1,
       "weeks": 91
@@ -2012,7 +2012,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 558288,
       "peak": 92,
       "weeks": 16
@@ -2034,7 +2034,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 556046,
       "peak": 130,
       "weeks": 33

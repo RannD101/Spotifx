@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-23",
-  "lastUpdated": "2026-07-23T08:23:08.841Z",
+  "weekDate": "2026-07-24",
+  "lastUpdated": "2026-07-24T08:19:04.809Z",
   "tracks": [
     {
       "rank": 1,
@@ -153,7 +153,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 5203314,
       "peak": 4,
       "weeks": 28
@@ -340,7 +340,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 3848585,
       "peak": 12,
       "weeks": 12
@@ -593,7 +593,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "gOrmQcOolJI",
+      "ytMusicId": "T_UEawa2wCk",
       "streams": 3222863,
       "peak": 9,
       "weeks": 5
@@ -1209,7 +1209,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 2623731,
       "peak": 65,
       "weeks": 20
@@ -1913,7 +1913,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 2250659,
       "peak": 174,
       "weeks": 14

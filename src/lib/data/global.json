@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-07-23",
-  "lastUpdated": "2026-07-23T08:18:30.491Z",
+  "weekDate": "2026-07-24",
+  "lastUpdated": "2026-07-24T08:14:31.335Z",
   "tracks": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 26313410,
       "peak": 1,
       "weeks": 60
@@ -153,7 +153,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 19536973,
       "peak": 5,
       "weeks": 15
@@ -1561,7 +1561,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "gOrmQcOolJI",
+      "ytMusicId": "T_UEawa2wCk",
       "streams": 9023924,
       "peak": 13,
       "weeks": 5
@@ -2133,7 +2133,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 8351183,
       "peak": 3,
       "weeks": 90
