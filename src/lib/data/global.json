@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-07-25",
-  "lastUpdated": "2026-07-25T07:56:24.412Z",
+  "weekDate": "2026-07-26",
+  "lastUpdated": "2026-07-26T08:14:58.273Z",
   "tracks": [
     {
       "rank": 1,
@@ -318,7 +318,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "cMy5DCrf0-w",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 15521750,
       "peak": 3,
       "weeks": 21
@@ -626,7 +626,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 12521296,
       "peak": 52,
       "weeks": 134
@@ -879,7 +879,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "4vpTO9TBZKc",
+      "ytMusicId": "NO3JTAsB4NI",
       "streams": 10967510,
       "peak": 56,
       "weeks": 21
@@ -1473,7 +1473,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 9239715,
       "peak": 59,
       "weeks": 141

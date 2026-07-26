@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-25",
-  "lastUpdated": "2026-07-25T08:01:53.184Z",
+  "weekDate": "2026-07-26",
+  "lastUpdated": "2026-07-26T08:20:34.411Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "4vpTO9TBZKc",
+      "ytMusicId": "NO3JTAsB4NI",
       "streams": 2547869,
       "peak": 1,
       "weeks": 57
@@ -934,7 +934,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "cMy5DCrf0-w",
+      "ytMusicId": "BF2_ipR1OI0",
       "streams": 729381,
       "peak": 26,
       "weeks": 10
@@ -1407,7 +1407,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "T_UEawa2wCk",
+      "ytMusicId": "gOrmQcOolJI",
       "streams": 635016,
       "peak": 11,
       "weeks": 6
@@ -1682,7 +1682,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "6A3PMQA5c74",
+      "ytMusicId": "mfha0a8IXKs",
       "streams": 599339,
       "peak": 1,
       "weeks": 120
@@ -1693,7 +1693,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 598197,
       "peak": 34,
       "weeks": 112
@@ -1704,7 +1704,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 597639,
       "peak": 155,
       "weeks": 6
@@ -1781,7 +1781,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 587168,
       "peak": 92,
       "weeks": 17
