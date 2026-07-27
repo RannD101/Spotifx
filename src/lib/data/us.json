@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-26",
-  "lastUpdated": "2026-07-26T08:19:29.631Z",
+  "weekDate": "2026-07-27",
+  "lastUpdated": "2026-07-27T09:43:02.238Z",
   "tracks": [
     {
       "rank": 1,
@@ -153,7 +153,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 4951246,
       "peak": 4,
       "weeks": 29
@@ -197,7 +197,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 4650510,
       "peak": 17,
       "weeks": 3
@@ -615,7 +615,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "7193204dpGU",
+      "ytMusicId": "VCM22ET7Vvs",
       "streams": 3089631,
       "peak": 1,
       "weeks": 181
@@ -736,7 +736,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "4vpTO9TBZKc",
       "streams": 2958485,
       "peak": 67,
       "weeks": 18
@@ -1275,7 +1275,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2552573,
       "peak": 65,
       "weeks": 21
@@ -1572,7 +1572,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2357147,
       "peak": 70,
       "weeks": 60
@@ -1781,7 +1781,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 2279678,
       "peak": 1,
       "weeks": 113
@@ -1869,7 +1869,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2247336,
       "peak": 170,
       "weeks": 15

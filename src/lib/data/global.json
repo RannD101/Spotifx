@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-07-26",
-  "lastUpdated": "2026-07-26T08:14:58.273Z",
+  "weekDate": "2026-07-27",
+  "lastUpdated": "2026-07-27T09:38:23.895Z",
   "tracks": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 25748858,
       "peak": 4,
       "weeks": 145
@@ -65,7 +65,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 24995403,
       "peak": 1,
       "weeks": 61
@@ -560,7 +560,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "7193204dpGU",
+      "ytMusicId": "VCM22ET7Vvs",
       "streams": 13219318,
       "peak": 1,
       "weeks": 325
@@ -879,7 +879,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "4vpTO9TBZKc",
       "streams": 10967510,
       "peak": 56,
       "weeks": 21
@@ -1473,7 +1473,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "-kEnb77mcUk",
       "streams": 9239715,
       "peak": 59,
       "weeks": 141
