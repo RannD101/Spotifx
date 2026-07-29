@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-28",
-  "lastUpdated": "2026-07-28T08:27:18.445Z",
+  "weekDate": "2026-07-29",
+  "lastUpdated": "2026-07-29T08:33:06.910Z",
   "tracks": [
     {
       "rank": 1,
@@ -615,7 +615,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "VCM22ET7Vvs",
+      "ytMusicId": "7193204dpGU",
       "streams": 3089631,
       "peak": 1,
       "weeks": 181
@@ -692,7 +692,7 @@
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "spotifyId": "7ujApz6iFP3PmKIDGcaGbe",
-      "ytMusicId": "_5-Dzam3jPU",
+      "ytMusicId": "cpYCFjfeFKs",
       "streams": 2991681,
       "peak": 63,
       "weeks": 2
@@ -1275,7 +1275,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 2552573,
       "peak": 65,
       "weeks": 21
@@ -1550,7 +1550,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 2359679,
       "peak": 108,
       "weeks": 21
@@ -1869,7 +1869,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2247336,
       "peak": 170,
       "weeks": 15

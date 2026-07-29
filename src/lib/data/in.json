@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-07-28",
-  "lastUpdated": "2026-07-28T08:25:47.387Z",
+  "weekDate": "2026-07-29",
+  "lastUpdated": "2026-07-29T08:31:37.188Z",
   "tracks": [
     {
       "rank": 1,
@@ -230,7 +230,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "TaTZb7NXja0",
+      "ytMusicId": "AxN0RjNx6WM",
       "streams": 3070554,
       "peak": 2,
       "weeks": 18
@@ -1022,7 +1022,7 @@
       "title": "KALYANI (w/ KDS, FIFTY4, RONN)",
       "artist": "ARJN",
       "spotifyId": "2Uyj6K6mSaFTZsPvov415i",
-      "ytMusicId": "zAiIgYOH4Ys",
+      "ytMusicId": "TijBIPD4Jbw",
       "streams": 1660845,
       "peak": 21,
       "weeks": 34
@@ -1242,7 +1242,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "KzhgaKWplog",
+      "ytMusicId": "zv-tbc4F818",
       "streams": 1578796,
       "peak": 33,
       "weeks": 177
@@ -1275,7 +1275,7 @@
       "title": "Itni Si Baat Hain (From \"Azhar\") (w/ Antara Mitra)",
       "artist": "Arijit Singh",
       "spotifyId": "55TlMMnPJTk9Qq6CrqB6dx",
-      "ytMusicId": "MzKvcV0Re7U",
+      "ytMusicId": "LJSPjyeRFSo",
       "streams": 1559121,
       "peak": 42,
       "weeks": 93
@@ -1869,7 +1869,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "jk_BAZgyqpA",
+      "ytMusicId": "",
       "streams": 1369151,
       "peak": 85,
       "weeks": 5
