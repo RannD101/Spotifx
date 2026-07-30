@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-29",
-  "lastUpdated": "2026-07-29T08:34:04.681Z",
+  "weekDate": "2026-07-30",
+  "lastUpdated": "2026-07-30T08:18:52.789Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "spotifyId": "7ujApz6iFP3PmKIDGcaGbe",
-      "ytMusicId": "cpYCFjfeFKs",
+      "ytMusicId": "_5-Dzam3jPU",
       "streams": 1224312,
       "peak": 23,
       "weeks": 3
@@ -615,7 +615,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "7193204dpGU",
+      "ytMusicId": "pu5Dvh1NpXc",
       "streams": 864677,
       "peak": 1,
       "weeks": 397
@@ -1341,7 +1341,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 648308,
       "peak": 27,
       "weeks": 211
@@ -1605,7 +1605,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 609701,
       "peak": 1,
       "weeks": 92
@@ -1693,7 +1693,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 598197,
       "peak": 34,
       "weeks": 112
@@ -1781,7 +1781,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 587168,
       "peak": 92,
       "weeks": 17
@@ -1825,7 +1825,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "RUm36FWCyqA",
+      "ytMusicId": "m5brBz2t4Vs",
       "streams": 582870,
       "peak": 8,
       "weeks": 82
