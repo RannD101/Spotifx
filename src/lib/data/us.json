@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-07-30",
-  "lastUpdated": "2026-07-30T08:17:54.224Z",
+  "weekDate": "2026-07-31",
+  "lastUpdated": "2026-07-31T08:45:18.757Z",
   "tracks": [
     {
       "rank": 1,
@@ -615,7 +615,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "pu5Dvh1NpXc",
+      "ytMusicId": "cHeAyTkOyEA",
       "streams": 3089631,
       "peak": 1,
       "weeks": 181
@@ -1572,7 +1572,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2357147,
       "peak": 70,
       "weeks": 60

@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-07-30",
-  "lastUpdated": "2026-07-30T08:18:52.789Z",
+  "weekDate": "2026-07-31",
+  "lastUpdated": "2026-07-31T08:46:16.396Z",
   "tracks": [
     {
       "rank": 1,
@@ -615,7 +615,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "pu5Dvh1NpXc",
+      "ytMusicId": "cHeAyTkOyEA",
       "streams": 864677,
       "peak": 1,
       "weeks": 397
@@ -1341,7 +1341,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 648308,
       "peak": 27,
       "weeks": 211
@@ -1704,7 +1704,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "BbWY-avjDto",
+      "ytMusicId": "EKjdR-5XKYs",
       "streams": 597639,
       "peak": 155,
       "weeks": 6
