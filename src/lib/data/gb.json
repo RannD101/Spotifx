@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-01",
-  "lastUpdated": "2026-08-01T08:15:29.090Z",
+  "weekDate": "2026-08-02",
+  "lastUpdated": "2026-08-02T08:17:27.823Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "4vpTO9TBZKc",
+      "ytMusicId": "NO3JTAsB4NI",
       "streams": 2440346,
       "peak": 1,
       "weeks": 58
@@ -142,7 +142,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 1376318,
       "peak": 2,
       "weeks": 504
@@ -538,7 +538,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "7193204dpGU",
+      "ytMusicId": "pu5Dvh1NpXc",
       "streams": 871350,
       "peak": 1,
       "weeks": 398
@@ -967,7 +967,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "46a5bRqPy_E",
       "streams": 695402,
       "peak": 26,
       "weeks": 11
@@ -1319,7 +1319,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 636902,
       "peak": 34,
       "weeks": 113
@@ -1583,7 +1583,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 597712,
       "peak": 35,
       "weeks": 129
@@ -1649,7 +1649,7 @@
       "title": "Meet Me Halfway",
       "artist": "Black Eyed Peas",
       "spotifyId": "3F9ByoUqu31xU0I3G5xfVg",
-      "ytMusicId": "n02efead1C4",
+      "ytMusicId": "jzjIJ56wi-k",
       "streams": 588454,
       "peak": 134,
       "weeks": 18
@@ -1836,7 +1836,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "gOrmQcOolJI",
+      "ytMusicId": "T_UEawa2wCk",
       "streams": 572478,
       "peak": 11,
       "weeks": 7
@@ -2045,7 +2045,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 554454,
       "peak": 1,
       "weeks": 121
@@ -2056,7 +2056,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 553982,
       "peak": 92,
       "weeks": 18

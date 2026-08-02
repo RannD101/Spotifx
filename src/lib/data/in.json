@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-08-01",
-  "lastUpdated": "2026-08-01T08:13:02.374Z",
+  "weekDate": "2026-08-02",
+  "lastUpdated": "2026-08-02T08:14:58.806Z",
   "tracks": [
     {
       "rank": 1,
@@ -406,7 +406,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "",
+      "ytMusicId": "7Iqe_yCYwvM",
       "streams": 2504529,
       "peak": 1,
       "weeks": 93
@@ -1231,7 +1231,7 @@
       "title": "Itni Si Baat Hain (From \"Azhar\") (w/ Antara Mitra)",
       "artist": "Arijit Singh",
       "spotifyId": "55TlMMnPJTk9Qq6CrqB6dx",
-      "ytMusicId": "LJSPjyeRFSo",
+      "ytMusicId": "MzKvcV0Re7U",
       "streams": 1590123,
       "peak": 42,
       "weeks": 94
