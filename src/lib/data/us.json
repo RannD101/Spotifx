@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-02",
-  "lastUpdated": "2026-08-02T08:16:29.251Z",
+  "weekDate": "2026-08-03",
+  "lastUpdated": "2026-08-03T09:35:37.905Z",
   "tracks": [
     {
       "rank": 1,
@@ -582,7 +582,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "pu5Dvh1NpXc",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 3149890,
       "peak": 1,
       "weeks": 182
@@ -1033,7 +1033,7 @@
       "title": "Camera",
       "artist": "Charli xcx",
       "spotifyId": "5Fdj0DtH4ZhymltyN5xEv2",
-      "ytMusicId": "LlD8-j7ddDg",
+      "ytMusicId": "YFt6aqFboKQ",
       "streams": 2667534,
       "peak": 94,
       "weeks": 1
@@ -1165,7 +1165,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "T_UEawa2wCk",
+      "ytMusicId": "gOrmQcOolJI",
       "streams": 2561809,
       "peak": 9,
       "weeks": 7
@@ -2012,7 +2012,7 @@
       "title": "Come As You Are - Remastered",
       "artist": "Nirvana",
       "spotifyId": "5AEOqLsRJFAoSS4ay4Jzao",
-      "ytMusicId": "f1IdyrhOrGs",
+      "ytMusicId": "XrXEfnbcWV8",
       "streams": 2201777,
       "peak": 137,
       "weeks": 53

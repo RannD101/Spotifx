@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-02",
-  "lastUpdated": "2026-08-02T08:17:27.823Z",
+  "weekDate": "2026-08-03",
+  "lastUpdated": "2026-08-03T09:36:37.846Z",
   "tracks": [
     {
       "rank": 1,
@@ -538,7 +538,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "pu5Dvh1NpXc",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 871350,
       "peak": 1,
       "weeks": 398
@@ -714,7 +714,7 @@
       "title": "Camera",
       "artist": "Charli xcx",
       "spotifyId": "5Fdj0DtH4ZhymltyN5xEv2",
-      "ytMusicId": "LlD8-j7ddDg",
+      "ytMusicId": "YFt6aqFboKQ",
       "streams": 790841,
       "peak": 65,
       "weeks": 1
@@ -1605,7 +1605,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 596895,
       "peak": 1,
       "weeks": 93
@@ -1649,7 +1649,7 @@
       "title": "Meet Me Halfway",
       "artist": "Black Eyed Peas",
       "spotifyId": "3F9ByoUqu31xU0I3G5xfVg",
-      "ytMusicId": "jzjIJ56wi-k",
+      "ytMusicId": "n02efead1C4",
       "streams": 588454,
       "peak": 134,
       "weeks": 18
@@ -1836,7 +1836,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "T_UEawa2wCk",
+      "ytMusicId": "gOrmQcOolJI",
       "streams": 572478,
       "peak": 11,
       "weeks": 7
