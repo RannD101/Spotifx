@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-03",
-  "lastUpdated": "2026-08-03T09:30:56.836Z",
+  "weekDate": "2026-08-04",
+  "lastUpdated": "2026-08-04T08:27:48.449Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 21949498,
       "peak": 4,
       "weeks": 146
@@ -185,7 +185,7 @@
       "change": "-3",
       "title": "drop dead",
       "artist": "Olivia Rodrigo",
-      "spotifyId": "7Hc6qcJG4NtyZgbNvQyd8U",
+      "spotifyId": "3fRCAPMMZ8l8P9YKI6OCzD",
       "ytMusicId": "wLmLB4Zzyiw",
       "streams": 18564370,
       "peak": 2,

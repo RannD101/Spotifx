@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-03",
-  "lastUpdated": "2026-08-03T09:36:37.846Z",
+  "weekDate": "2026-08-04",
+  "lastUpdated": "2026-08-04T08:33:26.570Z",
   "tracks": [
     {
       "rank": 1,
@@ -142,7 +142,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 1376318,
       "peak": 2,
       "weeks": 504
@@ -251,7 +251,7 @@
       "change": "-1",
       "title": "drop dead",
       "artist": "Olivia Rodrigo",
-      "spotifyId": "7Hc6qcJG4NtyZgbNvQyd8U",
+      "spotifyId": "3fRCAPMMZ8l8P9YKI6OCzD",
       "ytMusicId": "wLmLB4Zzyiw",
       "streams": 1149944,
       "peak": 1,
@@ -1605,7 +1605,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 596895,
       "peak": 1,
       "weeks": 93
@@ -2045,7 +2045,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "6A3PMQA5c74",
+      "ytMusicId": "mfha0a8IXKs",
       "streams": 554454,
       "peak": 1,
       "weeks": 121
@@ -2056,7 +2056,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 553982,
       "peak": 92,
       "weeks": 18
