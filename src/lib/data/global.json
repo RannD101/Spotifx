@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-04",
-  "lastUpdated": "2026-08-04T08:27:48.449Z",
+  "weekDate": "2026-08-05",
+  "lastUpdated": "2026-08-05T08:25:45.223Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 21949498,
       "peak": 4,
       "weeks": 146
@@ -1242,7 +1242,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 9948743,
       "peak": 59,
       "weeks": 142
@@ -1990,7 +1990,7 @@
       "title": "Blank Space",
       "artist": "Taylor Swift",
       "spotifyId": "1u8c2t2Cy7UBoG4ArRcF5g",
-      "ytMusicId": "6hCqRb8Dtvo",
+      "ytMusicId": "-MtKC5wXqdQ",
       "streams": 8391935,
       "peak": 27,
       "weeks": 112
