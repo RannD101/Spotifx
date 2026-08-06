@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-05",
-  "lastUpdated": "2026-08-05T08:25:45.223Z",
+  "weekDate": "2026-08-06",
+  "lastUpdated": "2026-08-06T08:22:50.769Z",
   "tracks": [
     {
       "rank": 1,
@@ -361,7 +361,7 @@
       "change": "+15",
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
-      "spotifyId": "3ZFTkvIE7kyPt6Nu3PEa7V",
+      "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
       "ytMusicId": "nOj6d-HOw2w",
       "streams": 14988413,
       "peak": 33,
@@ -1242,7 +1242,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 9948743,
       "peak": 59,
       "weeks": 142

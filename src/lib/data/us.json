@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-05",
-  "lastUpdated": "2026-08-05T08:30:25.264Z",
+  "weekDate": "2026-08-06",
+  "lastUpdated": "2026-08-06T08:27:25.718Z",
   "tracks": [
     {
       "rank": 1,
@@ -1330,7 +1330,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 2462763,
       "peak": 65,
       "weeks": 22
@@ -1813,7 +1813,7 @@
       "change": "RE",
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
-      "spotifyId": "3ZFTkvIE7kyPt6Nu3PEa7V",
+      "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
       "ytMusicId": "nOj6d-HOw2w",
       "streams": 2263078,
       "peak": 146,
@@ -1880,7 +1880,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2242963,
       "peak": 170,
       "weeks": 16
