@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-06",
-  "lastUpdated": "2026-08-06T08:22:50.769Z",
+  "weekDate": "2026-08-07",
+  "lastUpdated": "2026-08-07T07:05:12.109Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 17748965,
       "peak": 5,
       "weeks": 17
@@ -1583,7 +1583,7 @@
       "title": "Young And Beautiful",
       "artist": "Lana Del Rey",
       "spotifyId": "2nMeu6UenVvwUktBCpLMK9",
-      "ytMusicId": "6_r40KTSqtk",
+      "ytMusicId": "7X-w_4iRFYI",
       "streams": 9159074,
       "peak": 104,
       "weeks": 65
@@ -1990,7 +1990,7 @@
       "title": "Blank Space",
       "artist": "Taylor Swift",
       "spotifyId": "1u8c2t2Cy7UBoG4ArRcF5g",
-      "ytMusicId": "-MtKC5wXqdQ",
+      "ytMusicId": "6hCqRb8Dtvo",
       "streams": 8391935,
       "peak": 27,
       "weeks": 112

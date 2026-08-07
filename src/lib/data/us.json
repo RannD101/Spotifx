@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-06",
-  "lastUpdated": "2026-08-06T08:27:25.718Z",
+  "weekDate": "2026-08-07",
+  "lastUpdated": "2026-08-07T07:09:46.213Z",
   "tracks": [
     {
       "rank": 1,
@@ -417,7 +417,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 3480907,
       "peak": 12,
       "weeks": 14
@@ -1330,7 +1330,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2462763,
       "peak": 65,
       "weeks": 22
@@ -1440,7 +1440,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2404081,
       "peak": 70,
       "weeks": 61
@@ -1880,7 +1880,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 2242963,
       "peak": 170,
       "weeks": 16
@@ -2111,7 +2111,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 2164561,
       "peak": 1,
       "weeks": 114
