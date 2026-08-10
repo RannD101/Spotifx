@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-08-09",
-  "lastUpdated": "2026-08-09T06:47:13.878Z",
+  "weekDate": "2026-08-10",
+  "lastUpdated": "2026-08-10T07:21:27.732Z",
   "tracks": [
     {
       "rank": 1,
@@ -593,7 +593,7 @@
       "title": "Tera Mera Rishta (w/ Mustafa Zahid)",
       "artist": "Pritam",
       "spotifyId": "23T4WcVkvuaAEOgXr848i1",
-      "ytMusicId": "kb_6Vz-k7Wc",
+      "ytMusicId": "XA_uBJjutgc",
       "streams": 2132458,
       "peak": 54,
       "weeks": 6
@@ -747,7 +747,7 @@
       "title": "Jeene Laga Hoon (w/ Shreya Ghoshal, Sachin-Jigar)",
       "artist": "Atif Aslam",
       "spotifyId": "3t3wsY5IdLVzB9WidegJSU",
-      "ytMusicId": "3M3o3Ak1qBY",
+      "ytMusicId": "",
       "streams": 1890674,
       "peak": 28,
       "weeks": 100
@@ -1297,7 +1297,7 @@
       "title": "Toh Phir Aao (w/ Mustafa Zahid)",
       "artist": "Pritam",
       "spotifyId": "10rTRsKQDEke6Dd1Qj57Jd",
-      "ytMusicId": "XwDV5xldudU",
+      "ytMusicId": "KtUZ9xTsCBM",
       "streams": 1560053,
       "peak": 106,
       "weeks": 6
@@ -1814,7 +1814,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "",
+      "ytMusicId": "jk_BAZgyqpA",
       "streams": 1372939,
       "peak": 85,
       "weeks": 7

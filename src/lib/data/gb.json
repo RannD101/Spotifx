@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-09",
-  "lastUpdated": "2026-08-09T06:49:37.990Z",
+  "weekDate": "2026-08-10",
+  "lastUpdated": "2026-08-10T07:23:49.732Z",
   "tracks": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "spotifyId": "20jbSiX29FDX4oQxBXyUEi",
-      "ytMusicId": "7CUz7Ec7cWc",
+      "ytMusicId": "-YOpbOA8-5o",
       "streams": 1961973,
       "peak": 3,
       "weeks": 9
@@ -450,7 +450,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 1032277,
       "peak": 6,
       "weeks": 16
@@ -1231,7 +1231,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 654692,
       "peak": 27,
       "weeks": 213
@@ -1275,7 +1275,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "JnRw8bXVbPI",
+      "ytMusicId": "1WTATreAg08",
       "streams": 646325,
       "peak": 66,
       "weeks": 79
@@ -1869,7 +1869,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "6A3PMQA5c74",
+      "ytMusicId": "mfha0a8IXKs",
       "streams": 552791,
       "peak": 1,
       "weeks": 122
@@ -1990,7 +1990,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "E2lX1ZovtcA",
+      "ytMusicId": "PgokHFH8_7g",
       "streams": 549598,
       "peak": 71,
       "weeks": 48
@@ -2034,7 +2034,7 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "spotifyId": "2nLtzopw4rPReszdYBJU6h",
-      "ytMusicId": "Q7cQU86CDB0",
+      "ytMusicId": "dxp9w9Ggehc",
       "streams": 546909,
       "peak": 32,
       "weeks": 36
