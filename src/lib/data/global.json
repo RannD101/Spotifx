@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-10",
-  "lastUpdated": "2026-08-10T07:18:27.911Z",
+  "weekDate": "2026-08-11",
+  "lastUpdated": "2026-08-11T06:56:21.125Z",
   "tracks": [
     {
       "rank": 1,
@@ -230,7 +230,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "7scFxt9VhL4FJwuPSfRlfN",
-      "ytMusicId": "xukbqwRuN5w",
+      "ytMusicId": "3s1sZbW7Rt8",
       "streams": 18164850,
       "peak": 15,
       "weeks": 31
@@ -472,7 +472,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "46a5bRqPy_E",
       "streams": 14516287,
       "peak": 3,
       "weeks": 23
@@ -824,7 +824,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 11868235,
       "peak": 31,
       "weeks": 210
@@ -1143,7 +1143,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "PgokHFH8_7g",
+      "ytMusicId": "E2lX1ZovtcA",
       "streams": 10153580,
       "peak": 72,
       "weeks": 91
@@ -1264,7 +1264,7 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "spotifyId": "2nLtzopw4rPReszdYBJU6h",
-      "ytMusicId": "dxp9w9Ggehc",
+      "ytMusicId": "Q7cQU86CDB0",
       "streams": 9866730,
       "peak": 24,
       "weeks": 122
@@ -2056,7 +2056,7 @@
       "title": "Love Yourself",
       "artist": "Justin Bieber",
       "spotifyId": "3hB5DgAiMAQ4DzYbsMq1IT",
-      "ytMusicId": "Z5uR4frdqd8",
+      "ytMusicId": "p-IXgwqhfmg",
       "streams": 8514609,
       "peak": 1,
       "weeks": 138

@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-10",
-  "lastUpdated": "2026-08-10T07:22:54.600Z",
+  "weekDate": "2026-08-11",
+  "lastUpdated": "2026-08-11T07:00:54.314Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "7scFxt9VhL4FJwuPSfRlfN",
-      "ytMusicId": "xukbqwRuN5w",
+      "ytMusicId": "3s1sZbW7Rt8",
       "streams": 10042032,
       "peak": 1,
       "weeks": 42
@@ -1055,7 +1055,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "46a5bRqPy_E",
       "streams": 2703629,
       "peak": 1,
       "weeks": 23
@@ -1517,7 +1517,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "T_UEawa2wCk",
+      "ytMusicId": "gOrmQcOolJI",
       "streams": 2382931,
       "peak": 9,
       "weeks": 8
@@ -1638,7 +1638,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2316595,
       "peak": 70,
       "weeks": 62
@@ -1825,7 +1825,7 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "spotifyId": "2nLtzopw4rPReszdYBJU6h",
-      "ytMusicId": "dxp9w9Ggehc",
+      "ytMusicId": "Q7cQU86CDB0",
       "streams": 2263328,
       "peak": 53,
       "weeks": 20
@@ -2177,7 +2177,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 2163631,
       "peak": 95,
       "weeks": 65
