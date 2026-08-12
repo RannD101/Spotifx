@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-11",
-  "lastUpdated": "2026-08-11T07:01:49.911Z",
+  "weekDate": "2026-08-12",
+  "lastUpdated": "2026-08-12T07:20:49.375Z",
   "tracks": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "spotifyId": "20jbSiX29FDX4oQxBXyUEi",
-      "ytMusicId": "-YOpbOA8-5o",
+      "ytMusicId": "7CUz7Ec7cWc",
       "streams": 1961973,
       "peak": 3,
       "weeks": 9
@@ -186,7 +186,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 1202640,
       "peak": 2,
       "weeks": 505
@@ -329,7 +329,7 @@
       "title": "Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
       "artist": "SIENNA SPIRO",
       "spotifyId": "2aQcGu5C6qFcicPsaywTEK",
-      "ytMusicId": "zXPQYk35ltw",
+      "ytMusicId": "qz6hApXSHAM",
       "streams": 1097366,
       "peak": 28,
       "weeks": 5
@@ -1011,7 +1011,7 @@
       "title": "Teenage Dirtbag",
       "artist": "Wheatus",
       "spotifyId": "25FTMokYEbEWHEdss5JLZS",
-      "ytMusicId": "dSlYFtXENPo",
+      "ytMusicId": "vj6attxE5Gw",
       "streams": 699362,
       "peak": 71,
       "weeks": 115
@@ -1231,7 +1231,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 654692,
       "peak": 27,
       "weeks": 213
@@ -1781,7 +1781,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 561338,
       "peak": 130,
       "weeks": 36
@@ -1869,7 +1869,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 552791,
       "peak": 1,
       "weeks": 122
@@ -2001,7 +2001,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 548363,
       "peak": 1,
       "weeks": 94
@@ -2034,7 +2034,7 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "spotifyId": "2nLtzopw4rPReszdYBJU6h",
-      "ytMusicId": "Q7cQU86CDB0",
+      "ytMusicId": "dxp9w9Ggehc",
       "streams": 546909,
       "peak": 32,
       "weeks": 36
