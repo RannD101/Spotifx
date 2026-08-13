@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-12",
-  "lastUpdated": "2026-08-12T07:20:49.375Z",
+  "weekDate": "2026-08-13",
+  "lastUpdated": "2026-08-13T07:24:08.982Z",
   "tracks": [
     {
       "rank": 1,
@@ -714,7 +714,7 @@
       "title": "nowhere, nobody",
       "artist": "Ariana Grande",
       "spotifyId": "5JbnupagBhD0AanbkCELdH",
-      "ytMusicId": "DT06UE8qX4M",
+      "ytMusicId": "A0wYyF2vaZA",
       "streams": 820904,
       "peak": 65,
       "weeks": 1
@@ -1781,7 +1781,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 561338,
       "peak": 130,
       "weeks": 36
@@ -1825,7 +1825,7 @@
       "title": "Meet Me Halfway",
       "artist": "Black Eyed Peas",
       "spotifyId": "3F9ByoUqu31xU0I3G5xfVg",
-      "ytMusicId": "n02efead1C4",
+      "ytMusicId": "jzjIJ56wi-k",
       "streams": 558236,
       "peak": 134,
       "weeks": 19
@@ -1869,7 +1869,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "6A3PMQA5c74",
+      "ytMusicId": "mfha0a8IXKs",
       "streams": 552791,
       "peak": 1,
       "weeks": 122
@@ -2001,7 +2001,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 548363,
       "peak": 1,
       "weeks": 94
@@ -2034,7 +2034,7 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "spotifyId": "2nLtzopw4rPReszdYBJU6h",
-      "ytMusicId": "dxp9w9Ggehc",
+      "ytMusicId": "Q7cQU86CDB0",
       "streams": 546909,
       "peak": 32,
       "weeks": 36

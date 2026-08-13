@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-12",
-  "lastUpdated": "2026-08-12T07:19:52.089Z",
+  "weekDate": "2026-08-13",
+  "lastUpdated": "2026-08-13T07:23:10.763Z",
   "tracks": [
     {
       "rank": 1,
@@ -274,7 +274,7 @@
       "title": "nowhere, nobody",
       "artist": "Ariana Grande",
       "spotifyId": "5JbnupagBhD0AanbkCELdH",
-      "ytMusicId": "DT06UE8qX4M",
+      "ytMusicId": "A0wYyF2vaZA",
       "streams": 4849046,
       "peak": 25,
       "weeks": 1
@@ -1583,7 +1583,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2339241,
       "peak": 65,
       "weeks": 23
@@ -1638,7 +1638,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2316595,
       "peak": 70,
       "weeks": 62
@@ -1825,7 +1825,7 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "spotifyId": "2nLtzopw4rPReszdYBJU6h",
-      "ytMusicId": "dxp9w9Ggehc",
+      "ytMusicId": "Q7cQU86CDB0",
       "streams": 2263328,
       "peak": 53,
       "weeks": 20
@@ -1891,7 +1891,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 2257774,
       "peak": 170,
       "weeks": 17
@@ -2144,7 +2144,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "6A3PMQA5c74",
+      "ytMusicId": "mfha0a8IXKs",
       "streams": 2172211,
       "peak": 1,
       "weeks": 115
