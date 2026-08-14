@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-13",
-  "lastUpdated": "2026-08-13T07:23:10.763Z",
+  "weekDate": "2026-08-14",
+  "lastUpdated": "2026-08-14T07:20:12.768Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "7scFxt9VhL4FJwuPSfRlfN",
-      "ytMusicId": "3s1sZbW7Rt8",
+      "ytMusicId": "xukbqwRuN5w",
       "streams": 10042032,
       "peak": 1,
       "weeks": 42
@@ -274,7 +274,7 @@
       "title": "nowhere, nobody",
       "artist": "Ariana Grande",
       "spotifyId": "5JbnupagBhD0AanbkCELdH",
-      "ytMusicId": "A0wYyF2vaZA",
+      "ytMusicId": "DT06UE8qX4M",
       "streams": 4849046,
       "peak": 25,
       "weeks": 1
@@ -439,7 +439,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 3810816,
       "peak": 17,
       "weeks": 5
@@ -769,7 +769,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "5oxwCU3D7vU",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 3034489,
       "peak": 1,
       "weeks": 183
@@ -1891,7 +1891,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2257774,
       "peak": 170,
       "weeks": 17
@@ -2034,7 +2034,7 @@
       "title": "Come As You Are - Remastered",
       "artist": "Nirvana",
       "spotifyId": "5AEOqLsRJFAoSS4ay4Jzao",
-      "ytMusicId": "XrXEfnbcWV8",
+      "ytMusicId": "zudQm-twCI4",
       "streams": 2204444,
       "peak": 137,
       "weeks": 54

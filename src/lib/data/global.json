@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-13",
-  "lastUpdated": "2026-08-13T07:18:30.062Z",
+  "weekDate": "2026-08-14",
+  "lastUpdated": "2026-08-14T07:15:47.953Z",
   "tracks": [
     {
       "rank": 1,
@@ -109,7 +109,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 21477910,
       "peak": 4,
       "weeks": 147
@@ -230,7 +230,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "7scFxt9VhL4FJwuPSfRlfN",
-      "ytMusicId": "3s1sZbW7Rt8",
+      "ytMusicId": "xukbqwRuN5w",
       "streams": 18164850,
       "peak": 15,
       "weeks": 31
@@ -626,7 +626,7 @@
       "title": "nowhere, nobody",
       "artist": "Ariana Grande",
       "spotifyId": "5JbnupagBhD0AanbkCELdH",
-      "ytMusicId": "A0wYyF2vaZA",
+      "ytMusicId": "DT06UE8qX4M",
       "streams": 13354446,
       "peak": 57,
       "weeks": 1
@@ -703,7 +703,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "5oxwCU3D7vU",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 12753206,
       "peak": 1,
       "weeks": 327
@@ -1231,7 +1231,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "4MpR36LubV4",
       "streams": 10010922,
       "peak": 70,
       "weeks": 115
@@ -2012,7 +2012,7 @@
       "title": "Young And Beautiful",
       "artist": "Lana Del Rey",
       "spotifyId": "2nMeu6UenVvwUktBCpLMK9",
-      "ytMusicId": "7X-w_4iRFYI",
+      "ytMusicId": "6_r40KTSqtk",
       "streams": 8579594,
       "peak": 104,
       "weeks": 66

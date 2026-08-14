@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-08-13",
-  "lastUpdated": "2026-08-13T07:21:40.080Z",
+  "weekDate": "2026-08-14",
+  "lastUpdated": "2026-08-14T07:18:46.470Z",
   "tracks": [
     {
       "rank": 1,
@@ -593,7 +593,7 @@
       "title": "Tera Mera Rishta (w/ Mustafa Zahid)",
       "artist": "Pritam",
       "spotifyId": "23T4WcVkvuaAEOgXr848i1",
-      "ytMusicId": "XA_uBJjutgc",
+      "ytMusicId": "N1CRtzmK1D0",
       "streams": 2132458,
       "peak": 54,
       "weeks": 6
@@ -703,7 +703,7 @@
       "title": "Haareya (From \"Meri Pyaari Bindu \") (w/ Arijit Singh, Priya Saraiya)",
       "artist": "Sachin-Jigar",
       "spotifyId": "678JJ0TF3KFkzw6bIFKcew",
-      "ytMusicId": "EtSAs6GD0Yk",
+      "ytMusicId": "YALvuUpY_b0",
       "streams": 1969248,
       "peak": 49,
       "weeks": 10
@@ -1132,7 +1132,7 @@
       "title": "Itni Si Baat Hain (From \"Azhar\") (w/ Antara Mitra)",
       "artist": "Arijit Singh",
       "spotifyId": "55TlMMnPJTk9Qq6CrqB6dx",
-      "ytMusicId": "LJSPjyeRFSo",
+      "ytMusicId": "MzKvcV0Re7U",
       "streams": 1603001,
       "peak": 42,
       "weeks": 95
@@ -1352,7 +1352,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "zv-tbc4F818",
+      "ytMusicId": "KzhgaKWplog",
       "streams": 1549726,
       "peak": 33,
       "weeks": 179
@@ -1550,7 +1550,7 @@
       "title": "Main Rang Sharbaton Ka (w/ Chinmayi, Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "2IEhtVeM9TVql8fZdKdlo9",
-      "ytMusicId": "CCCn8oOk8cU",
+      "ytMusicId": "cE4atI_v-Z0",
       "streams": 1460829,
       "peak": 73,
       "weeks": 97
@@ -2166,7 +2166,7 @@
       "title": "Jhol - Acoustic (w/ Annural Khalid, Abdullah Siddiqui)",
       "artist": "Maanu",
       "spotifyId": "44LaY2y6wRRlSRjsqbKnuU",
-      "ytMusicId": "-WE_iBqLmMI",
+      "ytMusicId": "15tpdUBflC0",
       "streams": 1260414,
       "peak": 11,
       "weeks": 68
