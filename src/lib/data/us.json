@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-15",
-  "lastUpdated": "2026-08-15T06:30:55.261Z",
+  "weekDate": "2026-08-16",
+  "lastUpdated": "2026-08-16T06:33:05.318Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "spotifyId": "20jbSiX29FDX4oQxBXyUEi",
-      "ytMusicId": "7CUz7Ec7cWc",
+      "ytMusicId": "-YOpbOA8-5o",
       "streams": 6407553,
       "peak": 1,
       "weeks": 11
@@ -76,7 +76,7 @@
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "spotifyId": "49j6SvuvWfbEKZKzsHCdLJ",
-      "ytMusicId": "P7VgXIZSN_w",
+      "ytMusicId": "DKaxuPbgyFM",
       "streams": 6364607,
       "peak": 1,
       "weeks": 9
@@ -637,7 +637,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 3106985,
       "peak": 17,
       "weeks": 6
@@ -802,7 +802,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "EG6xVbwwLiI",
       "streams": 2875527,
       "peak": 1,
       "weeks": 184
@@ -2188,7 +2188,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 2148214,
       "peak": 95,
       "weeks": 66

@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-15",
-  "lastUpdated": "2026-08-15T06:31:54.396Z",
+  "weekDate": "2026-08-16",
+  "lastUpdated": "2026-08-16T06:34:04.845Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "spotifyId": "49j6SvuvWfbEKZKzsHCdLJ",
-      "ytMusicId": "P7VgXIZSN_w",
+      "ytMusicId": "DKaxuPbgyFM",
       "streams": 1519066,
       "peak": 1,
       "weeks": 9
@@ -131,7 +131,7 @@
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "spotifyId": "20jbSiX29FDX4oQxBXyUEi",
-      "ytMusicId": "7CUz7Ec7cWc",
+      "ytMusicId": "-YOpbOA8-5o",
       "streams": 1360541,
       "peak": 3,
       "weeks": 10
@@ -351,7 +351,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 1044899,
       "peak": 2,
       "weeks": 506
@@ -736,7 +736,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "EG6xVbwwLiI",
       "streams": 757325,
       "peak": 1,
       "weeks": 400
@@ -1011,7 +1011,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 662460,
       "peak": 27,
       "weeks": 214
@@ -1781,7 +1781,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 548654,
       "peak": 1,
       "weeks": 95
@@ -1891,7 +1891,7 @@
       "title": "A Couple Minutes",
       "artist": "Olivia Dean",
       "spotifyId": "312z6PZ8wwREck8613PkJk",
-      "ytMusicId": "hhsD3eyUlYk",
+      "ytMusicId": "VSyMCmLK85E",
       "streams": 532230,
       "peak": 23,
       "weeks": 42
@@ -2012,7 +2012,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "m5brBz2t4Vs",
+      "ytMusicId": "RUm36FWCyqA",
       "streams": 523282,
       "peak": 8,
       "weeks": 84
