@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-16",
-  "lastUpdated": "2026-08-16T06:34:04.845Z",
+  "weekDate": "2026-08-17",
+  "lastUpdated": "2026-08-17T06:45:44.337Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "spotifyId": "49j6SvuvWfbEKZKzsHCdLJ",
-      "ytMusicId": "DKaxuPbgyFM",
+      "ytMusicId": "P7VgXIZSN_w",
       "streams": 1519066,
       "peak": 1,
       "weeks": 9
@@ -351,7 +351,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 1044899,
       "peak": 2,
       "weeks": 506
@@ -428,7 +428,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 990513,
       "peak": 6,
       "weeks": 17
@@ -681,7 +681,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "8_C6lXoGB5Y",
       "streams": 770904,
       "peak": 5,
       "weeks": 31
@@ -1627,7 +1627,7 @@
       "title": "Drops of Jupiter",
       "artist": "Train",
       "spotifyId": "2hKdd3qO7cWr2Jo0Bcs0MA",
-      "ytMusicId": "qthko5ppHcM",
+      "ytMusicId": "10rw7IKHv2g",
       "streams": 574026,
       "peak": 134,
       "weeks": 40
@@ -1638,7 +1638,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 571401,
       "peak": 130,
       "weeks": 37
@@ -1682,7 +1682,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 561410,
       "peak": 35,
       "weeks": 131
@@ -1781,7 +1781,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 548654,
       "peak": 1,
       "weeks": 95
@@ -1814,7 +1814,7 @@
       "title": "Boys Don't Cry",
       "artist": "The Cure",
       "spotifyId": "1QFh8OH1e78dGd3VyJZCAC",
-      "ytMusicId": "JAHZVS4tb1I",
+      "ytMusicId": "YSAqXEcgoZ4",
       "streams": 544168,
       "peak": 34,
       "weeks": 35
@@ -1891,7 +1891,7 @@
       "title": "A Couple Minutes",
       "artist": "Olivia Dean",
       "spotifyId": "312z6PZ8wwREck8613PkJk",
-      "ytMusicId": "VSyMCmLK85E",
+      "ytMusicId": "hhsD3eyUlYk",
       "streams": 532230,
       "peak": 23,
       "weeks": 42
@@ -2012,7 +2012,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "RUm36FWCyqA",
+      "ytMusicId": "m5brBz2t4Vs",
       "streams": 523282,
       "peak": 8,
       "weeks": 84
@@ -2089,7 +2089,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 518180,
       "peak": 2,
       "weeks": 173
@@ -2188,7 +2188,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 510482,
       "peak": 92,
       "weeks": 19
