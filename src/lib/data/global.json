@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-17",
-  "lastUpdated": "2026-08-17T06:40:03.884Z",
+  "weekDate": "2026-08-18",
+  "lastUpdated": "2026-08-18T06:32:00.703Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 18253844,
       "peak": 4,
       "weeks": 148
@@ -285,7 +285,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 15699916,
       "peak": 5,
       "weeks": 19
@@ -494,7 +494,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "46a5bRqPy_E",
       "streams": 13528313,
       "peak": 3,
       "weeks": 24
@@ -527,7 +527,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 12985122,
       "peak": 1,
       "weeks": 320
@@ -681,7 +681,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 11700250,
       "peak": 49,
       "weeks": 18
@@ -890,7 +890,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "BbWY-avjDto",
+      "ytMusicId": "EKjdR-5XKYs",
       "streams": 10628790,
       "peak": 52,
       "weeks": 137
@@ -1330,7 +1330,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "r7-A9NqUjRI",
       "streams": 9393254,
       "peak": 3,
       "weeks": 31
@@ -1704,7 +1704,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "m_O25dOQpCQ",
+      "ytMusicId": "n3qQtSRmHxo",
       "streams": 8670543,
       "peak": 8,
       "weeks": 16
@@ -1748,7 +1748,7 @@
       "title": "Gabriela",
       "artist": "KATSEYE",
       "spotifyId": "1xOqGUkyxGQRdCvGpvWKmL",
-      "ytMusicId": "G-fCOEZnnTs",
+      "ytMusicId": "yUuWpGZOFEg",
       "streams": 8572958,
       "peak": 10,
       "weeks": 60
@@ -2045,7 +2045,7 @@
       "title": "Te Estoy Correteando (w/ Fred again..)",
       "artist": "LATIN MAFIA",
       "spotifyId": "5B579RUazOpBcuxjTZWnMs",
-      "ytMusicId": "Utm26SSZ06A",
+      "ytMusicId": "j3POFK8nR5w",
       "streams": 8243818,
       "peak": 186,
       "weeks": 1
@@ -2133,7 +2133,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 8051672,
       "peak": 121,
       "weeks": 42
