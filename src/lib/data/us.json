@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-18",
-  "lastUpdated": "2026-08-18T06:36:32.704Z",
+  "weekDate": "2026-08-19",
+  "lastUpdated": "2026-08-19T06:36:56.050Z",
   "tracks": [
     {
       "rank": 1,
@@ -967,7 +967,7 @@
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "spotifyId": "4k6Uh1HXdhtusDW5y8Gbvy",
-      "ytMusicId": "UGbDWUtqMsQ",
+      "ytMusicId": "1E2ihUl6ed4",
       "streams": 2732260,
       "peak": 1,
       "weeks": 158
@@ -1121,7 +1121,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2618627,
       "peak": 70,
       "weeks": 63
@@ -1572,7 +1572,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 2327716,
       "peak": 65,
       "weeks": 24
