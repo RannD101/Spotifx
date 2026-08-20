@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-19",
-  "lastUpdated": "2026-08-19T06:36:56.050Z",
+  "weekDate": "2026-08-20",
+  "lastUpdated": "2026-08-20T06:38:50.346Z",
   "tracks": [
     {
       "rank": 1,
@@ -802,7 +802,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EG6xVbwwLiI",
+      "ytMusicId": "lAPBLQRbong",
       "streams": 2875527,
       "peak": 1,
       "weeks": 184
@@ -1539,7 +1539,7 @@
       "title": "bad thing (bunny hop)",
       "artist": "Ariana Grande",
       "spotifyId": "4zmXWmILSBkn7gTvIyCiNi",
-      "ytMusicId": "w5eysjwoDKU",
+      "ytMusicId": "xtKJAAJqrfA",
       "streams": 2334810,
       "peak": 19,
       "weeks": 2

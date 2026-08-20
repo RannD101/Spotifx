@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-19",
-  "lastUpdated": "2026-08-19T06:37:57.258Z",
+  "weekDate": "2026-08-20",
+  "lastUpdated": "2026-08-20T06:39:51.637Z",
   "tracks": [
     {
       "rank": 1,
@@ -736,7 +736,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EG6xVbwwLiI",
+      "ytMusicId": "lAPBLQRbong",
       "streams": 757325,
       "peak": 1,
       "weeks": 400
@@ -2012,7 +2012,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "RUm36FWCyqA",
+      "ytMusicId": "m5brBz2t4Vs",
       "streams": 523282,
       "peak": 8,
       "weeks": 84
