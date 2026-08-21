@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-20",
-  "lastUpdated": "2026-08-20T06:34:27.921Z",
+  "weekDate": "2026-08-21",
+  "lastUpdated": "2026-08-21T06:35:14.886Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 18253844,
       "peak": 4,
       "weeks": 148

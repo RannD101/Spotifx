@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-08-20",
-  "lastUpdated": "2026-08-20T06:37:24.086Z",
+  "weekDate": "2026-08-21",
+  "lastUpdated": "2026-08-21T06:38:17.737Z",
   "tracks": [
     {
       "rank": 1,
@@ -1297,7 +1297,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "zv-tbc4F818",
+      "ytMusicId": "KzhgaKWplog",
       "streams": 1582206,
       "peak": 33,
       "weeks": 180
@@ -1528,7 +1528,7 @@
       "title": "Haseen (w/ NDS, Rippy Grewal)",
       "artist": "Talwiinder",
       "spotifyId": "08GYLNhKthS3arMdXsveRI",
-      "ytMusicId": "WSy0sjZiO8I",
+      "ytMusicId": "mkQMY0MEiXM",
       "streams": 1500983,
       "peak": 2,
       "weeks": 63
@@ -2166,7 +2166,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "jk_BAZgyqpA",
+      "ytMusicId": "",
       "streams": 1285886,
       "peak": 85,
       "weeks": 8

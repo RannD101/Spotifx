@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-20",
-  "lastUpdated": "2026-08-20T06:38:50.346Z",
+  "weekDate": "2026-08-21",
+  "lastUpdated": "2026-08-21T06:39:47.196Z",
   "tracks": [
     {
       "rank": 1,
@@ -637,7 +637,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 3106985,
       "peak": 17,
       "weeks": 6
@@ -1473,7 +1473,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "gOrmQcOolJI",
+      "ytMusicId": "T_UEawa2wCk",
       "streams": 2388847,
       "peak": 9,
       "weeks": 9
@@ -1539,7 +1539,7 @@
       "title": "bad thing (bunny hop)",
       "artist": "Ariana Grande",
       "spotifyId": "4zmXWmILSBkn7gTvIyCiNi",
-      "ytMusicId": "xtKJAAJqrfA",
+      "ytMusicId": "w5eysjwoDKU",
       "streams": 2334810,
       "peak": 19,
       "weeks": 2
@@ -1572,7 +1572,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2327716,
       "peak": 65,
       "weeks": 24
@@ -1858,7 +1858,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "WHExCPm6kIM",
       "streams": 2238226,
       "peak": 1,
       "weeks": 116
