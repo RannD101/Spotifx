@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-22",
-  "lastUpdated": "2026-08-22T06:28:25.665Z",
+  "weekDate": "2026-08-23",
+  "lastUpdated": "2026-08-23T06:30:03.044Z",
   "tracks": [
     {
       "rank": 1,
@@ -307,7 +307,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 15038457,
       "peak": 5,
       "weeks": 20
@@ -1704,7 +1704,7 @@
       "title": "Gabriela",
       "artist": "KATSEYE",
       "spotifyId": "1xOqGUkyxGQRdCvGpvWKmL",
-      "ytMusicId": "G-fCOEZnnTs",
+      "ytMusicId": "yUuWpGZOFEg",
       "streams": 8610117,
       "peak": 10,
       "weeks": 61

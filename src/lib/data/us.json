@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-22",
-  "lastUpdated": "2026-08-22T06:32:58.051Z",
+  "weekDate": "2026-08-23",
+  "lastUpdated": "2026-08-23T06:34:48.615Z",
   "tracks": [
     {
       "rank": 1,
@@ -780,7 +780,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 2820853,
       "peak": 12,
       "weeks": 17
@@ -2144,7 +2144,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "U7k2qv8KTDI",
       "streams": 2116341,
       "peak": 65,
       "weeks": 25
