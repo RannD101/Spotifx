@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-23",
-  "lastUpdated": "2026-08-23T06:34:48.615Z",
+  "weekDate": "2026-08-24",
+  "lastUpdated": "2026-08-24T06:47:37.327Z",
   "tracks": [
     {
       "rank": 1,
@@ -846,7 +846,7 @@
       "title": "The Spins (w/ Empire Of The Sun)",
       "artist": "Mac Miller",
       "spotifyId": "3iEUDvanZwQhLCIqUmCR7N",
-      "ytMusicId": "JAr3y9X63Kc",
+      "ytMusicId": "Gom3xUAUtfI",
       "streams": 2746127,
       "peak": 39,
       "weeks": 22
@@ -857,7 +857,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "lAPBLQRbong",
+      "ytMusicId": "uj6cJTmVg6Y",
       "streams": 2738239,
       "peak": 1,
       "weeks": 185
@@ -1187,7 +1187,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2469896,
       "peak": 70,
       "weeks": 64
@@ -1572,7 +1572,7 @@
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6Hdc3IQeyCxG5d14uAcwQW",
-      "ytMusicId": "gOrmQcOolJI",
+      "ytMusicId": "T_UEawa2wCk",
       "streams": 2263065,
       "peak": 9,
       "weeks": 10
@@ -1770,7 +1770,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2218914,
       "peak": 161,
       "weeks": 19
@@ -2078,7 +2078,7 @@
       "title": "Come As You Are - Remastered",
       "artist": "Nirvana",
       "spotifyId": "5AEOqLsRJFAoSS4ay4Jzao",
-      "ytMusicId": "grOAHaIODfM",
+      "ytMusicId": "XrXEfnbcWV8",
       "streams": 2130089,
       "peak": 137,
       "weeks": 56
@@ -2177,7 +2177,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 2102074,
       "peak": 95,
       "weeks": 67

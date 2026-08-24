@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-23",
-  "lastUpdated": "2026-08-23T06:35:52.253Z",
+  "weekDate": "2026-08-24",
+  "lastUpdated": "2026-08-24T06:48:39.584Z",
   "tracks": [
     {
       "rank": 1,
@@ -802,7 +802,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "lAPBLQRbong",
+      "ytMusicId": "uj6cJTmVg6Y",
       "streams": 699947,
       "peak": 1,
       "weeks": 401
@@ -1121,7 +1121,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 627564,
       "peak": 27,
       "weeks": 215
@@ -1374,7 +1374,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 584104,
       "peak": 125,
       "weeks": 38
