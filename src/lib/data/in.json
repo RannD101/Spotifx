@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-08-24",
-  "lastUpdated": "2026-08-24T06:46:02.964Z",
+  "weekDate": "2026-08-25",
+  "lastUpdated": "2026-08-25T06:38:27.889Z",
   "tracks": [
     {
       "rank": 1,
@@ -615,7 +615,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 2223341,
       "peak": 1,
       "weeks": 96
@@ -725,7 +725,7 @@
       "title": "Haareya (From \"Meri Pyaari Bindu \") (w/ Arijit Singh, Priya Saraiya)",
       "artist": "Sachin-Jigar",
       "spotifyId": "678JJ0TF3KFkzw6bIFKcew",
-      "ytMusicId": "C14askJ1tO8",
+      "ytMusicId": "EtSAs6GD0Yk",
       "streams": 2047959,
       "peak": 49,
       "weeks": 12
