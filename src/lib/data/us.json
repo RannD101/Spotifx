@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-08-25",
-  "lastUpdated": "2026-08-25T06:40:02.495Z",
+  "weekDate": "2026-08-26",
+  "lastUpdated": "2026-08-26T06:41:26.773Z",
   "tracks": [
     {
       "rank": 1,
@@ -395,7 +395,7 @@
       "title": "Jaded (w/ Ella Langley)",
       "artist": "Koe Wetzel",
       "spotifyId": "0j7cf4wWPAvvvLPbCA6nBC",
-      "ytMusicId": "V4BRDhcndnI",
+      "ytMusicId": "qnEmwwjzAno",
       "streams": 3482321,
       "peak": 30,
       "weeks": 2
@@ -857,7 +857,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "lAPBLQRbong",
+      "ytMusicId": "uj6cJTmVg6Y",
       "streams": 2738239,
       "peak": 1,
       "weeks": 185
@@ -1187,7 +1187,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2469896,
       "peak": 70,
       "weeks": 64
@@ -1990,7 +1990,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 2144055,
       "peak": 1,
       "weeks": 117
@@ -2144,7 +2144,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "U7k2qv8KTDI",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2116341,
       "peak": 65,
       "weeks": 25
@@ -2177,7 +2177,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 2102074,
       "peak": 95,
       "weeks": 67

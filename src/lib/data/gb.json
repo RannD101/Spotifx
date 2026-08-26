@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-25",
-  "lastUpdated": "2026-08-25T06:41:08.361Z",
+  "weekDate": "2026-08-26",
+  "lastUpdated": "2026-08-26T06:42:27.254Z",
   "tracks": [
     {
       "rank": 1,
@@ -802,7 +802,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "lAPBLQRbong",
+      "ytMusicId": "uj6cJTmVg6Y",
       "streams": 699947,
       "peak": 1,
       "weeks": 401
@@ -1121,7 +1121,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 627564,
       "peak": 27,
       "weeks": 215
@@ -1946,7 +1946,7 @@
       "title": "The Days - NOTION Remix (w/ NOTION)",
       "artist": "Chrystal",
       "spotifyId": "2FAZskT9yRjp2Oow9szJD8",
-      "ytMusicId": "RUm36FWCyqA",
+      "ytMusicId": "m5brBz2t4Vs",
       "streams": 524503,
       "peak": 8,
       "weeks": 85
@@ -2122,7 +2122,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "mfha0a8IXKs",
+      "ytMusicId": "6A3PMQA5c74",
       "streams": 498747,
       "peak": 1,
       "weeks": 124
