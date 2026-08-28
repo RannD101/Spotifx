@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-27",
-  "lastUpdated": "2026-08-27T17:13:30.885Z",
+  "weekDate": "2026-08-28",
+  "lastUpdated": "2026-08-28T18:00:37.575Z",
   "tracks": [
     {
       "rank": 1,
@@ -120,7 +120,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 19778354,
       "peak": 1,
       "weeks": 65
@@ -307,7 +307,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 15038457,
       "peak": 5,
       "weeks": 20
@@ -857,7 +857,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 10783842,
       "peak": 49,
       "weeks": 19
@@ -1022,7 +1022,7 @@
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "spotifyId": "36idurZmYRjJ56KQ8JD9bN",
-      "ytMusicId": "C2elY5Tctqg",
+      "ytMusicId": "2dQ65kcnUL4",
       "streams": 10186310,
       "peak": 93,
       "weeks": 8
@@ -1132,7 +1132,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 9876496,
       "peak": 2,
       "weeks": 166
@@ -1143,7 +1143,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "nWKgjnh2zD0",
       "streams": 9865046,
       "peak": 70,
       "weeks": 117
@@ -1682,7 +1682,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "iKejQrGq04w",
+      "ytMusicId": "dxB6Gqg26Kw",
       "streams": 8630722,
       "peak": 16,
       "weeks": 83
@@ -1792,7 +1792,7 @@
       "title": "Don't Stop 'Til You Get Enough - Single Version",
       "artist": "Michael Jackson",
       "spotifyId": "46eu3SBuFCXWsPT39Yg3tJ",
-      "ytMusicId": "n3qQtSRmHxo",
+      "ytMusicId": "m_O25dOQpCQ",
       "streams": 8521195,
       "peak": 8,
       "weeks": 17
@@ -1935,7 +1935,7 @@
       "title": "Somebody That I Used To Know (w/ Kimbra)",
       "artist": "Gotye",
       "spotifyId": "1qDrWA6lyx8cLECdZE7TV7",
-      "ytMusicId": "jg51kFe7CWU",
+      "ytMusicId": "Vyc0APmATDc",
       "streams": 8366185,
       "peak": 129,
       "weeks": 31
@@ -1990,7 +1990,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "oodQMZLjoBU",
+      "ytMusicId": "N5jD5CI93JM",
       "streams": 8235594,
       "peak": 37,
       "weeks": 85
