@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-29",
-  "lastUpdated": "2026-08-29T12:05:18.767Z",
+  "weekDate": "2026-08-30",
+  "lastUpdated": "2026-08-30T11:01:59.283Z",
   "tracks": [
     {
       "rank": 1,
@@ -120,7 +120,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 19551109,
       "peak": 1,
       "weeks": 66
@@ -186,7 +186,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 17951320,
       "peak": 4,
       "weeks": 150
@@ -494,7 +494,7 @@
       "title": "Riptide",
       "artist": "Vance Joy",
       "spotifyId": "7yq4Qj7cqayVTp3FF9CWbm",
-      "ytMusicId": "En_6WWOWh8E",
+      "ytMusicId": "JPkxG667_go",
       "streams": 13339023,
       "peak": 16,
       "weeks": 420
@@ -780,7 +780,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 11073579,
       "peak": 31,
       "weeks": 213
@@ -802,7 +802,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 10980421,
       "peak": 49,
       "weeks": 20
@@ -1022,7 +1022,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "hSW-Mc6iNJ4",
       "streams": 10046134,
       "peak": 70,
       "weeks": 118
@@ -1055,7 +1055,7 @@
       "title": "bloodstream",
       "artist": "Alyssa Grace",
       "spotifyId": "2oWFJJW9d1bIra3zHjR6GO",
-      "ytMusicId": "CLSuAhT71yU",
+      "ytMusicId": "wWlf7tHmSf4",
       "streams": 9923603,
       "peak": 96,
       "weeks": 5
@@ -1121,7 +1121,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "iKejQrGq04w",
+      "ytMusicId": "dxB6Gqg26Kw",
       "streams": 9789870,
       "peak": 16,
       "weeks": 84
@@ -1616,7 +1616,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 8805785,
       "peak": 2,
       "weeks": 167
@@ -1726,7 +1726,7 @@
       "title": "Young And Beautiful",
       "artist": "Lana Del Rey",
       "spotifyId": "2nMeu6UenVvwUktBCpLMK9",
-      "ytMusicId": "mjcX-5lKdeg",
+      "ytMusicId": "6_r40KTSqtk",
       "streams": 8651915,
       "peak": 104,
       "weeks": 69
@@ -1858,7 +1858,7 @@
       "title": "Gabriela",
       "artist": "KATSEYE",
       "spotifyId": "1xOqGUkyxGQRdCvGpvWKmL",
-      "ytMusicId": "yUuWpGZOFEg",
+      "ytMusicId": "G-fCOEZnnTs",
       "streams": 8471046,
       "peak": 10,
       "weeks": 62

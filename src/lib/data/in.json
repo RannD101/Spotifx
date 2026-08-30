@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-08-29",
-  "lastUpdated": "2026-08-29T12:08:23.657Z",
+  "weekDate": "2026-08-30",
+  "lastUpdated": "2026-08-30T11:05:06.490Z",
   "tracks": [
     {
       "rank": 1,
@@ -527,7 +527,7 @@
       "title": "Majboor (w/ Zoha Waseem)",
       "artist": "Sheheryar Rehan",
       "spotifyId": "0lp3WWhjxFVUht81AQmWX8",
-      "ytMusicId": "dLAYG-TjnVQ",
+      "ytMusicId": "OtWjS4I2ojU",
       "streams": 2337450,
       "peak": 3,
       "weeks": 19
@@ -582,7 +582,7 @@
       "title": "Bum Baa Diga Diga (w/ Vedan, Heisenberg)",
       "artist": "Anirudh Ravichander",
       "spotifyId": "7sNHxjkI4mzpmz6ZVS6TF7",
-      "ytMusicId": "Lwrkid2LBHE",
+      "ytMusicId": "paQK4v-bPHo",
       "streams": 2264492,
       "peak": 53,
       "weeks": 2
@@ -615,7 +615,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 2223341,
       "peak": 1,
       "weeks": 96
@@ -1143,7 +1143,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "zv-tbc4F818",
+      "ytMusicId": "KzhgaKWplog",
       "streams": 1666741,
       "peak": 33,
       "weeks": 181
@@ -1407,7 +1407,7 @@
       "title": "Aadat (w/ Mithoon, Atif Aslam)",
       "artist": "Jal",
       "spotifyId": "2YbKtL9lJBzrjFo4Krld7R",
-      "ytMusicId": "8FzeqBVF8ms",
+      "ytMusicId": "tjsckg5t1k8",
       "streams": 1539567,
       "peak": 128,
       "weeks": 6
