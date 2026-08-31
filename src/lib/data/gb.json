@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-08-30",
-  "lastUpdated": "2026-08-30T11:07:43.209Z",
+  "weekDate": "2026-08-31",
+  "lastUpdated": "2026-08-31T12:27:10.428Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 1117826,
       "peak": 4,
       "weeks": 62
@@ -285,7 +285,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 1057918,
       "peak": 22,
       "weeks": 20
@@ -318,7 +318,7 @@
       "title": "bloodstream",
       "artist": "Alyssa Grace",
       "spotifyId": "2oWFJJW9d1bIra3zHjR6GO",
-      "ytMusicId": "wWlf7tHmSf4",
+      "ytMusicId": "CLSuAhT71yU",
       "streams": 1013433,
       "peak": 29,
       "weeks": 12
@@ -395,7 +395,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 955203,
       "peak": 2,
       "weeks": 508
@@ -428,7 +428,7 @@
       "title": "Riptide",
       "artist": "Vance Joy",
       "spotifyId": "7yq4Qj7cqayVTp3FF9CWbm",
-      "ytMusicId": "JPkxG667_go",
+      "ytMusicId": "En_6WWOWh8E",
       "streams": 939416,
       "peak": 7,
       "weeks": 597
@@ -538,7 +538,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "dxB6Gqg26Kw",
+      "ytMusicId": "iKejQrGq04w",
       "streams": 885381,
       "peak": 11,
       "weeks": 122
@@ -956,7 +956,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 675153,
       "peak": 35,
       "weeks": 44
@@ -967,7 +967,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "uj6cJTmVg6Y",
+      "ytMusicId": "4IbRT6Vfl_U",
       "streams": 674851,
       "peak": 1,
       "weeks": 402
@@ -1176,7 +1176,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 619806,
       "peak": 27,
       "weeks": 216
@@ -2045,7 +2045,7 @@
       "title": "Boys Don't Cry",
       "artist": "The Cure",
       "spotifyId": "1QFh8OH1e78dGd3VyJZCAC",
-      "ytMusicId": "ekNzsgbNTrU",
+      "ytMusicId": "JAHZVS4tb1I",
       "streams": 515212,
       "peak": 34,
       "weeks": 37
