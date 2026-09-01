@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-08-31",
-  "lastUpdated": "2026-08-31T12:21:22.888Z",
+  "weekDate": "2026-09-01",
+  "lastUpdated": "2026-09-01T10:55:46.342Z",
   "tracks": [
     {
       "rank": 1,
@@ -120,7 +120,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 19551109,
       "peak": 1,
       "weeks": 66
@@ -692,7 +692,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "plnfIj7dkJE",
       "streams": 11480396,
       "peak": 1,
       "weeks": 322
@@ -802,7 +802,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 10980421,
       "peak": 49,
       "weeks": 20
@@ -1088,7 +1088,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "r-3nwdUth1U",
+      "ytMusicId": "EKjdR-5XKYs",
       "streams": 9846242,
       "peak": 52,
       "weeks": 139
@@ -1616,7 +1616,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 8805785,
       "peak": 2,
       "weeks": 167
@@ -1693,7 +1693,7 @@
       "title": "Die For You",
       "artist": "The Weeknd",
       "spotifyId": "2LBqCSwhJGcFQeTHMVGwy3",
-      "ytMusicId": "QLCpqdqeoII",
+      "ytMusicId": "mTLQhPFx2nM",
       "streams": 8705937,
       "peak": 12,
       "weeks": 227
@@ -1726,7 +1726,7 @@
       "title": "Young And Beautiful",
       "artist": "Lana Del Rey",
       "spotifyId": "2nMeu6UenVvwUktBCpLMK9",
-      "ytMusicId": "mjcX-5lKdeg",
+      "ytMusicId": "6_r40KTSqtk",
       "streams": 8651915,
       "peak": 104,
       "weeks": 69
