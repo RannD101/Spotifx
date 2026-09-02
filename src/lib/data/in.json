@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-09-01",
-  "lastUpdated": "2026-09-01T10:58:53.582Z",
+  "weekDate": "2026-09-02",
+  "lastUpdated": "2026-09-02T10:24:22.900Z",
   "tracks": [
     {
       "rank": 1,
@@ -131,7 +131,7 @@
       "title": "Tera Mera Rishta (w/ Mustafa Zahid)",
       "artist": "Pritam",
       "spotifyId": "23T4WcVkvuaAEOgXr848i1",
-      "ytMusicId": "XA_uBJjutgc",
+      "ytMusicId": "kb_6Vz-k7Wc",
       "streams": 3742151,
       "peak": 12,
       "weeks": 8
@@ -285,7 +285,7 @@
       "title": "Saiyaara (w/ Faheem Abdullah, Arslan Nizami, Irshad Kamil)",
       "artist": "Tanishk Bagchi",
       "spotifyId": "5SSZtFWdrmFV4MxtlRA13N",
-      "ytMusicId": "ge4M2dVBgTw",
+      "ytMusicId": "TS0moaD8gO0",
       "streams": 3059508,
       "peak": 2,
       "weeks": 44
@@ -582,7 +582,7 @@
       "title": "Bum Baa Diga Diga (w/ Vedan, Heisenberg)",
       "artist": "Anirudh Ravichander",
       "spotifyId": "7sNHxjkI4mzpmz6ZVS6TF7",
-      "ytMusicId": "paQK4v-bPHo",
+      "ytMusicId": "Lwrkid2LBHE",
       "streams": 2264492,
       "peak": 53,
       "weeks": 2
@@ -615,7 +615,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 2223341,
       "peak": 1,
       "weeks": 96
@@ -626,7 +626,7 @@
       "title": "Ishq Bulaava (w/ Sanam Puri, Shipra Goyal)",
       "artist": "Vishal-Shekhar",
       "spotifyId": "1fkjRQA8wXPPyxqYLbxuqy",
-      "ytMusicId": "ZCRL8V0ZkEA",
+      "ytMusicId": "Jo6yKbvJcNs",
       "streams": 2197041,
       "peak": 27,
       "weeks": 70
@@ -758,7 +758,7 @@
       "title": "Taare (w/ 10A, Saswat Balan)",
       "artist": "Farak",
       "spotifyId": "2iVj11OdEBNIGUv9f7jGPK",
-      "ytMusicId": "OUilrtigWGg",
+      "ytMusicId": "IBJwZw7N77U",
       "streams": 1991338,
       "peak": 52,
       "weeks": 4
@@ -1154,7 +1154,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 1661503,
       "peak": 12,
       "weeks": 264
@@ -1330,7 +1330,7 @@
       "title": "Main Rang Sharbaton Ka (w/ Chinmayi, Pritam)",
       "artist": "Atif Aslam",
       "spotifyId": "2IEhtVeM9TVql8fZdKdlo9",
-      "ytMusicId": "3tAmZlcZsHo",
+      "ytMusicId": "cE4atI_v-Z0",
       "streams": 1573290,
       "peak": 73,
       "weeks": 99
@@ -1506,7 +1506,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "9lybsz-7TFM",
+      "ytMusicId": "KUhf8CA90lU",
       "streams": 1509086,
       "peak": 42,
       "weeks": 13
@@ -1616,7 +1616,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "lAsxLc9_45w",
+      "ytMusicId": "hp02FwlpQYU",
       "streams": 1474678,
       "peak": 46,
       "weeks": 162
@@ -1935,7 +1935,7 @@
       "title": "Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)",
       "artist": "Palak Muchhal",
       "spotifyId": "0zQfcBB4obvYUrUNITmyyf",
-      "ytMusicId": "TiP72S9tf7o",
+      "ytMusicId": "mQwR-GYCX5c",
       "streams": 1349685,
       "peak": 84,
       "weeks": 16
@@ -2001,7 +2001,7 @@
       "title": "Khamoshiyan (w/ Arijit Singh)",
       "artist": "Jeet Gannguli",
       "spotifyId": "6zCQF5tu7HVwU9shhKqiuF",
-      "ytMusicId": "sf88b0a2Law",
+      "ytMusicId": "_joAvsj4_qc",
       "streams": 1327790,
       "peak": 136,
       "weeks": 28
@@ -2078,7 +2078,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "jk_BAZgyqpA",
+      "ytMusicId": "",
       "streams": 1307458,
       "peak": 85,
       "weeks": 9
@@ -2111,7 +2111,7 @@
       "title": "Bairi (w/ Pradeep Solanki, Heena)",
       "artist": "Virat",
       "spotifyId": "1GfcRba0wGXDTtT4r8C65Z",
-      "ytMusicId": "Wajjr-7RajQ",
+      "ytMusicId": "U6bKSnYHuhw",
       "streams": 1299689,
       "peak": 13,
       "weeks": 25
@@ -2122,7 +2122,7 @@
       "title": "Vaaroon (w/ Romy, Ginny Diwan)",
       "artist": "Anand Bhaskar",
       "spotifyId": "4sgYmcu4FKb1ZC6qBlxMiw",
-      "ytMusicId": "pMnCDFzDJZ0",
+      "ytMusicId": "aiR3MSxIww0",
       "streams": 1299664,
       "peak": 73,
       "weeks": 59

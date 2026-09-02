@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-01",
-  "lastUpdated": "2026-09-01T11:01:32.289Z",
+  "weekDate": "2026-09-02",
+  "lastUpdated": "2026-09-02T10:26:59.323Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 1117826,
       "peak": 4,
       "weeks": 62
@@ -285,7 +285,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 1057918,
       "peak": 22,
       "weeks": 20
@@ -571,7 +571,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable)",
       "artist": "Dream Supplier",
       "spotifyId": "4yVBarJHjhhzP1q7fU4p0W",
-      "ytMusicId": "81GUbfBqTv0",
+      "ytMusicId": "2y6zdAbN9o8",
       "streams": 866357,
       "peak": 46,
       "weeks": 19
@@ -615,7 +615,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 810564,
       "peak": 6,
       "weeks": 19
@@ -956,7 +956,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 675153,
       "peak": 35,
       "weeks": 44
@@ -1176,7 +1176,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 619806,
       "peak": 27,
       "weeks": 216
@@ -1726,7 +1726,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 551002,
       "peak": 125,
       "weeks": 39
@@ -1803,7 +1803,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 544227,
       "peak": 34,
       "weeks": 117
@@ -2045,7 +2045,7 @@
       "title": "Boys Don't Cry",
       "artist": "The Cure",
       "spotifyId": "1QFh8OH1e78dGd3VyJZCAC",
-      "ytMusicId": "ekNzsgbNTrU",
+      "ytMusicId": "YSAqXEcgoZ4",
       "streams": 515212,
       "peak": 34,
       "weeks": 37
@@ -2078,7 +2078,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 507851,
       "peak": 2,
       "weeks": 175

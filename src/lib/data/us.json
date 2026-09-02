@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-01",
-  "lastUpdated": "2026-09-01T11:00:29.088Z",
+  "weekDate": "2026-09-02",
+  "lastUpdated": "2026-09-02T10:25:56.127Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 3992182,
       "peak": 12,
       "weeks": 20
@@ -307,7 +307,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 3668456,
       "peak": 4,
       "weeks": 34
@@ -912,7 +912,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "8HBcV0MtAQg",
+      "ytMusicId": "0EnRK5YvBwU",
       "streams": 2690231,
       "peak": 10,
       "weeks": 538
@@ -1077,7 +1077,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 2524099,
       "peak": 23,
       "weeks": 53
@@ -1099,7 +1099,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 2503595,
       "peak": 12,
       "weeks": 18
@@ -1187,7 +1187,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2470602,
       "peak": 70,
       "weeks": 65
@@ -1814,7 +1814,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "N5jD5CI93JM",
+      "ytMusicId": "oodQMZLjoBU",
       "streams": 2169939,
       "peak": 5,
       "weeks": 105
@@ -1836,7 +1836,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2166602,
       "peak": 161,
       "weeks": 20
@@ -1990,7 +1990,7 @@
       "title": "Too Sweet",
       "artist": "Hozier",
       "spotifyId": "19XpFsce28aByvCC4g89tJ",
-      "ytMusicId": "iX4JVt3Tk_s",
+      "ytMusicId": "mfha0a8IXKs",
       "streams": 2101505,
       "peak": 1,
       "weeks": 118

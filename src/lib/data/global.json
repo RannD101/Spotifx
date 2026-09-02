@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-01",
-  "lastUpdated": "2026-09-01T10:55:46.342Z",
+  "weekDate": "2026-09-02",
+  "lastUpdated": "2026-09-02T10:21:20.486Z",
   "tracks": [
     {
       "rank": 1,
@@ -120,7 +120,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 19551109,
       "peak": 1,
       "weeks": 66
@@ -472,7 +472,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 13528635,
       "peak": 5,
       "weeks": 21
@@ -692,7 +692,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 11480396,
       "peak": 1,
       "weeks": 322
@@ -780,7 +780,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 11073579,
       "peak": 31,
       "weeks": 213
@@ -802,7 +802,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 10980421,
       "peak": 49,
       "weeks": 20
@@ -857,7 +857,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "9lybsz-7TFM",
+      "ytMusicId": "KUhf8CA90lU",
       "streams": 10845117,
       "peak": 25,
       "weeks": 15
@@ -1088,7 +1088,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 9846242,
       "peak": 52,
       "weeks": 139
@@ -1572,7 +1572,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 8930179,
       "peak": 59,
       "weeks": 146
@@ -1693,7 +1693,7 @@
       "title": "Die For You",
       "artist": "The Weeknd",
       "spotifyId": "2LBqCSwhJGcFQeTHMVGwy3",
-      "ytMusicId": "mTLQhPFx2nM",
+      "ytMusicId": "QLCpqdqeoII",
       "streams": 8705937,
       "peak": 12,
       "weeks": 227
@@ -1726,7 +1726,7 @@
       "title": "Young And Beautiful",
       "artist": "Lana Del Rey",
       "spotifyId": "2nMeu6UenVvwUktBCpLMK9",
-      "ytMusicId": "6_r40KTSqtk",
+      "ytMusicId": "mjcX-5lKdeg",
       "streams": 8651915,
       "peak": 104,
       "weeks": 69
