@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-02",
-  "lastUpdated": "2026-09-02T10:25:56.127Z",
+  "weekDate": "2026-09-03",
+  "lastUpdated": "2026-09-03T10:36:07.388Z",
   "tracks": [
     {
       "rank": 1,
@@ -604,7 +604,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 3032675,
       "peak": 17,
       "weeks": 8
@@ -912,7 +912,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "8HBcV0MtAQg",
       "streams": 2690231,
       "peak": 10,
       "weeks": 538
@@ -1099,7 +1099,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 2503595,
       "peak": 12,
       "weeks": 18
@@ -1286,7 +1286,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 2411229,
       "peak": 53,
       "weeks": 173
@@ -1836,7 +1836,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 2166602,
       "peak": 161,
       "weeks": 20
@@ -1869,7 +1869,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 2158887,
       "peak": 108,
       "weeks": 24

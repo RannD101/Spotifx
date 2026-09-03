@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-02",
-  "lastUpdated": "2026-09-02T10:26:59.323Z",
+  "weekDate": "2026-09-03",
+  "lastUpdated": "2026-09-03T10:37:15.173Z",
   "tracks": [
     {
       "rank": 1,
@@ -395,7 +395,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "hpSrLjc5SMs",
       "streams": 955203,
       "peak": 2,
       "weeks": 508
@@ -615,7 +615,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 810564,
       "peak": 6,
       "weeks": 19
@@ -1484,7 +1484,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 571516,
       "peak": 35,
       "weeks": 133
@@ -1726,7 +1726,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "hhSLkkLl750",
       "streams": 551002,
       "peak": 125,
       "weeks": 39
@@ -2045,7 +2045,7 @@
       "title": "Boys Don't Cry",
       "artist": "The Cure",
       "spotifyId": "1QFh8OH1e78dGd3VyJZCAC",
-      "ytMusicId": "YSAqXEcgoZ4",
+      "ytMusicId": "JAHZVS4tb1I",
       "streams": 515212,
       "peak": 34,
       "weeks": 37
