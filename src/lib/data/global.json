@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-03",
-  "lastUpdated": "2026-09-03T10:31:20.216Z",
+  "weekDate": "2026-09-04",
+  "lastUpdated": "2026-09-04T10:19:07.480Z",
   "tracks": [
     {
       "rank": 1,
@@ -186,7 +186,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 17951320,
       "peak": 4,
       "weeks": 150
@@ -472,7 +472,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 13528635,
       "peak": 5,
       "weeks": 21
