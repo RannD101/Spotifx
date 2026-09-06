@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-05",
-  "lastUpdated": "2026-09-05T09:47:15.935Z",
+  "weekDate": "2026-09-06",
+  "lastUpdated": "2026-09-06T10:02:53.891Z",
   "tracks": [
     {
       "rank": 1,
@@ -142,7 +142,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 19044517,
       "peak": 1,
       "weeks": 67
@@ -230,7 +230,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 16042639,
       "peak": 4,
       "weeks": 151
@@ -428,7 +428,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 13726741,
       "peak": 5,
       "weeks": 22
@@ -813,7 +813,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "nWKgjnh2zD0",
       "streams": 11198103,
       "peak": 70,
       "weeks": 119
@@ -1693,7 +1693,7 @@
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "ytMusicId": "U4zA0xnBEJU",
+      "ytMusicId": "awoFZaSuko4",
       "streams": 8757462,
       "peak": 51,
       "weeks": 163
@@ -1869,7 +1869,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 8485595,
       "peak": 121,
       "weeks": 43

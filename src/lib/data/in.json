@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-09-05",
-  "lastUpdated": "2026-09-05T09:50:22.862Z",
+  "weekDate": "2026-09-06",
+  "lastUpdated": "2026-09-06T10:05:49.732Z",
   "tracks": [
     {
       "rank": 1,
@@ -505,7 +505,7 @@
       "title": "Humsafar (From \"Badrinath Ki Dulhania\") (w/ Mansheel Gujral)",
       "artist": "Akhil Sachdeva",
       "spotifyId": "7aE1lfskJLMHQnzCCP1zsV",
-      "ytMusicId": "Aokj-w3COw0",
+      "ytMusicId": "",
       "streams": 2368775,
       "peak": 34,
       "weeks": 135
@@ -615,7 +615,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 2223341,
       "peak": 1,
       "weeks": 96
@@ -626,7 +626,7 @@
       "title": "Ishq Bulaava (w/ Sanam Puri, Shipra Goyal)",
       "artist": "Vishal-Shekhar",
       "spotifyId": "1fkjRQA8wXPPyxqYLbxuqy",
-      "ytMusicId": "ZCRL8V0ZkEA",
+      "ytMusicId": "Jo6yKbvJcNs",
       "streams": 2197041,
       "peak": 27,
       "weeks": 70
@@ -1143,7 +1143,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "KzhgaKWplog",
+      "ytMusicId": "zv-tbc4F818",
       "streams": 1666741,
       "peak": 33,
       "weeks": 181
@@ -1704,7 +1704,7 @@
       "title": "Darmiyaan (From \"Musafir Cafe\") (w/ Raghav Kaushik, Amrita Saluja)",
       "artist": "Rekha Bhardwaj",
       "spotifyId": "37JOhPdeecNxkqpfcj1XcX",
-      "ytMusicId": "v2TsWj3wxHM",
+      "ytMusicId": "",
       "streams": 1451879,
       "peak": 92,
       "weeks": 3
@@ -2012,7 +2012,7 @@
       "title": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\") (w/ Bunny, Sagar)",
       "artist": "Hunny",
       "spotifyId": "6egfWbtFFhMToV2DvmEzmo",
-      "ytMusicId": "ohx5VxmQCmM",
+      "ytMusicId": "",
       "streams": 1319033,
       "peak": 8,
       "weeks": 72
@@ -2078,7 +2078,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "jk_BAZgyqpA",
+      "ytMusicId": "",
       "streams": 1307458,
       "peak": 85,
       "weeks": 9

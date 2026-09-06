@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-05",
-  "lastUpdated": "2026-09-05T09:51:59.479Z",
+  "weekDate": "2026-09-06",
+  "lastUpdated": "2026-09-06T10:07:24.382Z",
   "tracks": [
     {
       "rank": 1,
@@ -307,7 +307,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 3610998,
       "peak": 4,
       "weeks": 35
@@ -703,7 +703,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 2810571,
       "peak": 53,
       "weeks": 174
@@ -747,7 +747,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2793106,
       "peak": 68,
       "weeks": 66
@@ -989,7 +989,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 2630649,
       "peak": 17,
       "weeks": 9
@@ -1011,7 +1011,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 2622058,
       "peak": 12,
       "weeks": 19
@@ -1209,7 +1209,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "mXonGAEPQp8",
       "streams": 2496432,
       "peak": 23,
       "weeks": 54
@@ -1352,7 +1352,7 @@
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "ytMusicId": "U4zA0xnBEJU",
+      "ytMusicId": "awoFZaSuko4",
       "streams": 2409539,
       "peak": 30,
       "weeks": 168
@@ -1792,7 +1792,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "oodQMZLjoBU",
+      "ytMusicId": "N5jD5CI93JM",
       "streams": 2219670,
       "peak": 5,
       "weeks": 106
@@ -1990,7 +1990,7 @@
       "title": "The Sweet Escape (w/ Akon)",
       "artist": "Gwen Stefani",
       "spotifyId": "66ZcOcouenzZEnzTJvoFmH",
-      "ytMusicId": "BsqG3_FpRzE",
+      "ytMusicId": "G05cbZtoR1I",
       "streams": 2137178,
       "peak": 181,
       "weeks": 2

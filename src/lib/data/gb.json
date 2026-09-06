@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-05",
-  "lastUpdated": "2026-09-05T09:53:05.526Z",
+  "weekDate": "2026-09-06",
+  "lastUpdated": "2026-09-06T10:08:25.664Z",
   "tracks": [
     {
       "rank": 1,
@@ -208,7 +208,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 1080643,
       "peak": 4,
       "weeks": 63
@@ -527,7 +527,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "hpSrLjc5SMs",
+      "ytMusicId": "FVdjZYfDuLE",
       "streams": 840002,
       "peak": 2,
       "weeks": 509
@@ -648,7 +648,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 803913,
       "peak": 6,
       "weeks": 20
@@ -967,7 +967,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "mXonGAEPQp8",
       "streams": 656058,
       "peak": 35,
       "weeks": 45
@@ -978,7 +978,7 @@
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "ytMusicId": "U4zA0xnBEJU",
+      "ytMusicId": "awoFZaSuko4",
       "streams": 655806,
       "peak": 34,
       "weeks": 249
@@ -1990,7 +1990,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "nWKgjnh2zD0",
       "streams": 507774,
       "peak": 133,
       "weeks": 30
