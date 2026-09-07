@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-06",
-  "lastUpdated": "2026-09-06T10:07:24.382Z",
+  "weekDate": "2026-09-07",
+  "lastUpdated": "2026-09-07T11:19:21.800Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 3891706,
       "peak": 12,
       "weeks": 21
@@ -1528,7 +1528,7 @@
       "title": "Stayin' Alive",
       "artist": "Bee Gees",
       "spotifyId": "2Lz4iCypeUTy62CP3Xwk6i",
-      "ytMusicId": "z2qoihbzc3E",
+      "ytMusicId": "W_dDNNEdIJg",
       "streams": 2331605,
       "peak": 139,
       "weeks": 1
@@ -1825,7 +1825,7 @@
       "title": "Habits (Stay High)",
       "artist": "Tove Lo",
       "spotifyId": "73DdlUXPj6SIOJQRrqgjld",
-      "ytMusicId": "ANOPNV7wb2Y",
+      "ytMusicId": "SQ-iwsVHbH8",
       "streams": 2190008,
       "peak": 4,
       "weeks": 40
@@ -2111,7 +2111,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 2106084,
       "peak": 108,
       "weeks": 25
