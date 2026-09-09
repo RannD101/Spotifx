@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-09-08",
-  "lastUpdated": "2026-09-08T10:27:49.536Z",
+  "weekDate": "2026-09-09",
+  "lastUpdated": "2026-09-09T10:36:49.899Z",
   "tracks": [
     {
       "rank": 1,
@@ -505,7 +505,7 @@
       "title": "Humsafar (From \"Badrinath Ki Dulhania\") (w/ Mansheel Gujral)",
       "artist": "Akhil Sachdeva",
       "spotifyId": "7aE1lfskJLMHQnzCCP1zsV",
-      "ytMusicId": "Aokj-w3COw0",
+      "ytMusicId": "",
       "streams": 2368775,
       "peak": 34,
       "weeks": 135
@@ -582,7 +582,7 @@
       "title": "Bum Baa Diga Diga (w/ Vedan, Heisenberg)",
       "artist": "Anirudh Ravichander",
       "spotifyId": "7sNHxjkI4mzpmz6ZVS6TF7",
-      "ytMusicId": "Lwrkid2LBHE",
+      "ytMusicId": "paQK4v-bPHo",
       "streams": 2264492,
       "peak": 53,
       "weeks": 2
@@ -615,7 +615,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 2223341,
       "peak": 1,
       "weeks": 96
@@ -1704,7 +1704,7 @@
       "title": "Darmiyaan (From \"Musafir Cafe\") (w/ Raghav Kaushik, Amrita Saluja)",
       "artist": "Rekha Bhardwaj",
       "spotifyId": "37JOhPdeecNxkqpfcj1XcX",
-      "ytMusicId": "v2TsWj3wxHM",
+      "ytMusicId": "",
       "streams": 1451879,
       "peak": 92,
       "weeks": 3
@@ -2078,7 +2078,7 @@
       "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\") (w/ Vikram Montrose, Rubai, Meggha Bali)",
       "artist": "Anand Raj Anand",
       "spotifyId": "7J9m7Heb1kdSVdqRgSIDGq",
-      "ytMusicId": "jk_BAZgyqpA",
+      "ytMusicId": "",
       "streams": 1307458,
       "peak": 85,
       "weeks": 9
@@ -2111,7 +2111,7 @@
       "title": "Bairi (w/ Pradeep Solanki, Heena)",
       "artist": "Virat",
       "spotifyId": "1GfcRba0wGXDTtT4r8C65Z",
-      "ytMusicId": "Wajjr-7RajQ",
+      "ytMusicId": "U6bKSnYHuhw",
       "streams": 1299689,
       "peak": 13,
       "weeks": 25

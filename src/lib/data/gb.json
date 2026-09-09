@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-08",
-  "lastUpdated": "2026-09-08T10:30:26.224Z",
+  "weekDate": "2026-09-09",
+  "lastUpdated": "2026-09-09T10:39:32.740Z",
   "tracks": [
     {
       "rank": 1,
@@ -1605,7 +1605,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 545338,
       "peak": 35,
       "weeks": 134
@@ -2100,7 +2100,7 @@
       "title": "Stayin' Alive",
       "artist": "Bee Gees",
       "spotifyId": "2Lz4iCypeUTy62CP3Xwk6i",
-      "ytMusicId": "W_dDNNEdIJg",
+      "ytMusicId": "z2qoihbzc3E",
       "streams": 501394,
       "peak": 191,
       "weeks": 1
