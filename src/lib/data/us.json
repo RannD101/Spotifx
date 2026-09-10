@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-09",
-  "lastUpdated": "2026-09-09T10:38:27.025Z",
+  "weekDate": "2026-09-10",
+  "lastUpdated": "2026-09-10T10:27:59.517Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 3891706,
       "peak": 12,
       "weeks": 21
@@ -307,7 +307,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 3610998,
       "peak": 4,
       "weeks": 35
@@ -1011,7 +1011,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 2622058,
       "peak": 12,
       "weeks": 19
@@ -1209,7 +1209,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 2496432,
       "peak": 23,
       "weeks": 54
@@ -1308,7 +1308,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "vdXsLt0o_9g",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 2444112,
       "peak": 2,
       "weeks": 208
@@ -1352,7 +1352,7 @@
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "ytMusicId": "awoFZaSuko4",
+      "ytMusicId": "U4zA0xnBEJU",
       "streams": 2409539,
       "peak": 30,
       "weeks": 168
@@ -1539,7 +1539,7 @@
       "title": "Kiss It Better",
       "artist": "Rihanna",
       "spotifyId": "0UHB9METy4VCXNgkcGqHqS",
-      "ytMusicId": "Ht2O3xYjJik",
+      "ytMusicId": "np30lwvSoPY",
       "streams": 2329009,
       "peak": 89,
       "weeks": 39
@@ -1792,7 +1792,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "N5jD5CI93JM",
+      "ytMusicId": "oodQMZLjoBU",
       "streams": 2219670,
       "peak": 5,
       "weeks": 106
@@ -1825,7 +1825,7 @@
       "title": "Habits (Stay High)",
       "artist": "Tove Lo",
       "spotifyId": "73DdlUXPj6SIOJQRrqgjld",
-      "ytMusicId": "SQ-iwsVHbH8",
+      "ytMusicId": "ANOPNV7wb2Y",
       "streams": 2190008,
       "peak": 4,
       "weeks": 40
@@ -1990,7 +1990,7 @@
       "title": "The Sweet Escape (w/ Akon)",
       "artist": "Gwen Stefani",
       "spotifyId": "66ZcOcouenzZEnzTJvoFmH",
-      "ytMusicId": "G05cbZtoR1I",
+      "ytMusicId": "BsqG3_FpRzE",
       "streams": 2137178,
       "peak": 181,
       "weeks": 2
@@ -2089,7 +2089,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "A__cH65WRvE",
       "streams": 2108872,
       "peak": 65,
       "weeks": 27
@@ -2111,7 +2111,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 2106084,
       "peak": 108,
       "weeks": 25

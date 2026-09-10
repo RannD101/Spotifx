@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-09",
-  "lastUpdated": "2026-09-09T10:39:32.740Z",
+  "weekDate": "2026-09-10",
+  "lastUpdated": "2026-09-10T10:29:09.209Z",
   "tracks": [
     {
       "rank": 1,
@@ -208,7 +208,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 1080643,
       "peak": 4,
       "weeks": 63
@@ -318,7 +318,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 988203,
       "peak": 22,
       "weeks": 21
@@ -450,7 +450,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable)",
       "artist": "Dream Supplier",
       "spotifyId": "4yVBarJHjhhzP1q7fU4p0W",
-      "ytMusicId": "81GUbfBqTv0",
+      "ytMusicId": "2y6zdAbN9o8",
       "streams": 881615,
       "peak": 41,
       "weeks": 20
@@ -648,7 +648,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 803913,
       "peak": 6,
       "weeks": 20
@@ -967,7 +967,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 656058,
       "peak": 35,
       "weeks": 45
@@ -978,7 +978,7 @@
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "ytMusicId": "awoFZaSuko4",
+      "ytMusicId": "U4zA0xnBEJU",
       "streams": 655806,
       "peak": 34,
       "weeks": 249
@@ -1605,7 +1605,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 545338,
       "peak": 35,
       "weeks": 134

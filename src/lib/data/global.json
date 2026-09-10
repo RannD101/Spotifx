@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-09",
-  "lastUpdated": "2026-09-09T10:33:41.746Z",
+  "weekDate": "2026-09-10",
+  "lastUpdated": "2026-09-10T10:23:14.149Z",
   "tracks": [
     {
       "rank": 1,
@@ -142,7 +142,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 19044517,
       "peak": 1,
       "weeks": 67
@@ -428,7 +428,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 13726741,
       "peak": 5,
       "weeks": 22
@@ -868,7 +868,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 10854217,
       "peak": 49,
       "weeks": 21
@@ -956,7 +956,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 10388799,
       "peak": 52,
       "weeks": 140
@@ -1011,7 +1011,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "vdXsLt0o_9g",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 10227426,
       "peak": 2,
       "weeks": 168
@@ -1451,7 +1451,7 @@
       "title": "Young And Beautiful",
       "artist": "Lana Del Rey",
       "spotifyId": "2nMeu6UenVvwUktBCpLMK9",
-      "ytMusicId": "6_r40KTSqtk",
+      "ytMusicId": "mjcX-5lKdeg",
       "streams": 9118093,
       "peak": 104,
       "weeks": 70
@@ -1660,7 +1660,7 @@
       "title": "Kiss It Better",
       "artist": "Rihanna",
       "spotifyId": "0UHB9METy4VCXNgkcGqHqS",
-      "ytMusicId": "Ht2O3xYjJik",
+      "ytMusicId": "np30lwvSoPY",
       "streams": 8809613,
       "peak": 100,
       "weeks": 32
@@ -1693,7 +1693,7 @@
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "ytMusicId": "awoFZaSuko4",
+      "ytMusicId": "U4zA0xnBEJU",
       "streams": 8757462,
       "peak": 51,
       "weeks": 163
