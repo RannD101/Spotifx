@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-10",
-  "lastUpdated": "2026-09-10T10:23:14.149Z",
+  "weekDate": "2026-09-11",
+  "lastUpdated": "2026-09-11T10:23:10.244Z",
   "tracks": [
     {
       "rank": 1,
@@ -1011,7 +1011,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 10227426,
       "peak": 2,
       "weeks": 168

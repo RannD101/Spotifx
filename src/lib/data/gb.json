@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-10",
-  "lastUpdated": "2026-09-10T10:29:09.209Z",
+  "weekDate": "2026-09-11",
+  "lastUpdated": "2026-09-11T10:28:46.144Z",
   "tracks": [
     {
       "rank": 1,
@@ -1605,7 +1605,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 545338,
       "peak": 35,
       "weeks": 134
@@ -2056,7 +2056,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 503839,
       "peak": 125,
       "weeks": 40

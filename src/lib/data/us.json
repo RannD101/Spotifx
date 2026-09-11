@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-10",
-  "lastUpdated": "2026-09-10T10:27:59.517Z",
+  "weekDate": "2026-09-11",
+  "lastUpdated": "2026-09-11T10:27:41.668Z",
   "tracks": [
     {
       "rank": 1,
@@ -747,7 +747,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2793106,
       "peak": 68,
       "weeks": 66
@@ -1033,7 +1033,7 @@
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "spotifyId": "4k6Uh1HXdhtusDW5y8Gbvy",
-      "ytMusicId": "UGbDWUtqMsQ",
+      "ytMusicId": "1E2ihUl6ed4",
       "streams": 2613815,
       "peak": 1,
       "weeks": 161
@@ -1088,7 +1088,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "NajmHZ6kcUg",
+      "ytMusicId": "YNP0YJ5gq0M",
       "streams": 2568803,
       "peak": 11,
       "weeks": 122
@@ -1308,7 +1308,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 2444112,
       "peak": 2,
       "weeks": 208
@@ -1704,7 +1704,7 @@
       "title": "less",
       "artist": "Olivia Rodrigo",
       "spotifyId": "16xRAbH0vI3iKvDEhWQ4ZO",
-      "ytMusicId": "gyAlICIHUdU",
+      "ytMusicId": "EV_eMMhS0Iw",
       "streams": 2230903,
       "peak": 12,
       "weeks": 12
@@ -1858,7 +1858,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2166304,
       "peak": 161,
       "weeks": 21
@@ -2089,7 +2089,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "A__cH65WRvE",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2108872,
       "peak": 65,
       "weeks": 27
@@ -2111,7 +2111,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 2106084,
       "peak": 108,
       "weeks": 25
