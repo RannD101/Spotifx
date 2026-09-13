@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-12",
-  "lastUpdated": "2026-09-12T09:59:29.312Z",
+  "weekDate": "2026-09-13",
+  "lastUpdated": "2026-09-13T10:59:38.587Z",
   "tracks": [
     {
       "rank": 1,
@@ -857,7 +857,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2722636,
       "peak": 68,
       "weeks": 67
@@ -1253,7 +1253,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "NajmHZ6kcUg",
+      "ytMusicId": "YNP0YJ5gq0M",
       "streams": 2449279,
       "peak": 11,
       "weeks": 123

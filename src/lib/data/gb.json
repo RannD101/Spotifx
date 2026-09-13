@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-12",
-  "lastUpdated": "2026-09-12T10:00:26.110Z",
+  "weekDate": "2026-09-13",
+  "lastUpdated": "2026-09-13T11:00:39.366Z",
   "tracks": [
     {
       "rank": 1,
@@ -351,7 +351,7 @@
       "title": "Die On This Hill",
       "artist": "SIENNA SPIRO",
       "spotifyId": "2gYTC8DsplN3RNdpdBcCOQ",
-      "ytMusicId": "dXncjYrvuNY",
+      "ytMusicId": "w_uqjwAovb0",
       "streams": 960766,
       "peak": 8,
       "weeks": 48
@@ -362,7 +362,7 @@
       "title": "Talk To You (ft. 54 Ultra) (w/ 54 Ultra)",
       "artist": "ANOTR",
       "spotifyId": "0eUP3XYOCAj7lGoz4LOhyQ",
-      "ytMusicId": "3nxq0f8-VU0",
+      "ytMusicId": "eWY7WNnig7U",
       "streams": 952518,
       "peak": 12,
       "weeks": 4
@@ -1110,7 +1110,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "JnRw8bXVbPI",
+      "ytMusicId": "1WTATreAg08",
       "streams": 643368,
       "peak": 66,
       "weeks": 84
@@ -1891,7 +1891,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 519660,
       "peak": 117,
       "weeks": 26
@@ -2067,7 +2067,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 501125,
       "peak": 34,
       "weeks": 119
@@ -2177,7 +2177,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "4MpR36LubV4",
       "streams": 489828,
       "peak": 133,
       "weeks": 31
@@ -2199,7 +2199,7 @@
       "title": "Boys Don't Cry",
       "artist": "The Cure",
       "spotifyId": "1QFh8OH1e78dGd3VyJZCAC",
-      "ytMusicId": "JAHZVS4tb1I",
+      "ytMusicId": "YSAqXEcgoZ4",
       "streams": 487472,
       "peak": 34,
       "weeks": 38
