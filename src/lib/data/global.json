@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-13",
-  "lastUpdated": "2026-09-13T10:54:59.928Z",
+  "weekDate": "2026-09-14",
+  "lastUpdated": "2026-09-14T11:24:38.415Z",
   "tracks": [
     {
       "rank": 1,
@@ -373,7 +373,7 @@
       "title": "Animal",
       "artist": "KATSEYE",
       "spotifyId": "3ouNEk0tv5TTi8VWMe1xbX",
-      "ytMusicId": "vOfyxPRunFM",
+      "ytMusicId": "kDsRsv3DsHg",
       "streams": 14403528,
       "peak": 8,
       "weeks": 7
@@ -1033,7 +1033,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 10045474,
       "peak": 52,
       "weeks": 141
@@ -1307,7 +1307,7 @@
       "change": "-26",
       "title": "Apocalypse",
       "artist": "Cigarettes After Sex",
-      "spotifyId": "0yc6Gst2xkRu0eMLeRMGCX",
+      "spotifyId": "1oAwsWBovWRIp7qLMGPIet",
       "ytMusicId": "DdI598gKkKw",
       "streams": 9424798,
       "peak": 53,
@@ -1539,7 +1539,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 8956988,
       "peak": 59,
       "weeks": 148

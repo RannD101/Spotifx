@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-13",
-  "lastUpdated": "2026-09-13T10:59:38.587Z",
+  "weekDate": "2026-09-14",
+  "lastUpdated": "2026-09-14T11:29:12.923Z",
   "tracks": [
     {
       "rank": 1,
@@ -670,7 +670,7 @@
       "title": "Animal",
       "artist": "KATSEYE",
       "spotifyId": "3ouNEk0tv5TTi8VWMe1xbX",
-      "ytMusicId": "vOfyxPRunFM",
+      "ytMusicId": "kDsRsv3DsHg",
       "streams": 2864779,
       "peak": 8,
       "weeks": 7
@@ -1242,7 +1242,7 @@
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "spotifyId": "4k6Uh1HXdhtusDW5y8Gbvy",
-      "ytMusicId": "UGbDWUtqMsQ",
+      "ytMusicId": "1E2ihUl6ed4",
       "streams": 2462918,
       "peak": 1,
       "weeks": 162
@@ -2066,7 +2066,7 @@
       "change": "-52",
       "title": "Apocalypse",
       "artist": "Cigarettes After Sex",
-      "spotifyId": "0yc6Gst2xkRu0eMLeRMGCX",
+      "spotifyId": "1oAwsWBovWRIp7qLMGPIet",
       "ytMusicId": "DdI598gKkKw",
       "streams": 2087084,
       "peak": 49,
