@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-09-14",
-  "lastUpdated": "2026-09-14T11:27:44.257Z",
+  "weekDate": "2026-09-15",
+  "lastUpdated": "2026-09-15T10:52:07.504Z",
   "tracks": [
     {
       "rank": 1,
@@ -1935,7 +1935,7 @@
       "title": "Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)",
       "artist": "Palak Muchhal",
       "spotifyId": "0zQfcBB4obvYUrUNITmyyf",
-      "ytMusicId": "TiP72S9tf7o",
+      "ytMusicId": "",
       "streams": 1349685,
       "peak": 84,
       "weeks": 16
@@ -2122,7 +2122,7 @@
       "title": "Vaaroon (w/ Romy, Ginny Diwan)",
       "artist": "Anand Bhaskar",
       "spotifyId": "4sgYmcu4FKb1ZC6qBlxMiw",
-      "ytMusicId": "aiR3MSxIww0",
+      "ytMusicId": "pMnCDFzDJZ0",
       "streams": 1299664,
       "peak": 73,
       "weeks": 59
