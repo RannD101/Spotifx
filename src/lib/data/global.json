@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-15",
-  "lastUpdated": "2026-09-15T10:49:01.651Z",
+  "weekDate": "2026-09-16",
+  "lastUpdated": "2026-09-16T10:37:31.964Z",
   "tracks": [
     {
       "rank": 1,
@@ -857,7 +857,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "4MpR36LubV4",
+      "ytMusicId": "3ssXSY7f3s4",
       "streams": 10795681,
       "peak": 70,
       "weeks": 120
@@ -967,7 +967,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "9lybsz-7TFM",
+      "ytMusicId": "gDRL47NzG5o",
       "streams": 10360921,
       "peak": 25,
       "weeks": 17
@@ -1550,7 +1550,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 8921182,
       "peak": 121,
       "weeks": 44

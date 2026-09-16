@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-15",
-  "lastUpdated": "2026-09-15T10:53:37.461Z",
+  "weekDate": "2026-09-16",
+  "lastUpdated": "2026-09-16T10:42:13.027Z",
   "tracks": [
     {
       "rank": 1,
@@ -516,7 +516,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 3044072,
       "peak": 47,
       "weeks": 175
@@ -857,7 +857,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2722636,
       "peak": 68,
       "weeks": 67
