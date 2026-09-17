@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-16",
-  "lastUpdated": "2026-09-16T10:42:13.027Z",
+  "weekDate": "2026-09-17",
+  "lastUpdated": "2026-09-17T10:51:28.710Z",
   "tracks": [
     {
       "rank": 1,
@@ -494,7 +494,7 @@
       "title": "Don't Stop The Music",
       "artist": "Rihanna",
       "spotifyId": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "ytMusicId": "NengL7n9tR8",
+      "ytMusicId": "C75J03JXz24",
       "streams": 3085016,
       "peak": 39,
       "weeks": 46
@@ -516,7 +516,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 3044072,
       "peak": 47,
       "weeks": 175
@@ -857,7 +857,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "eQL-E_TtB0o",
       "streams": 2722636,
       "peak": 68,
       "weeks": 67
@@ -1935,7 +1935,7 @@
       "title": "less",
       "artist": "Olivia Rodrigo",
       "spotifyId": "16xRAbH0vI3iKvDEhWQ4ZO",
-      "ytMusicId": "gyAlICIHUdU",
+      "ytMusicId": "EV_eMMhS0Iw",
       "streams": 2122256,
       "peak": 12,
       "weeks": 13
