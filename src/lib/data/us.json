@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-17",
-  "lastUpdated": "2026-09-17T10:51:28.710Z",
+  "weekDate": "2026-09-18",
+  "lastUpdated": "2026-09-18T10:26:36.049Z",
   "tracks": [
     {
       "rank": 1,
@@ -494,7 +494,7 @@
       "title": "Don't Stop The Music",
       "artist": "Rihanna",
       "spotifyId": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "ytMusicId": "C75J03JXz24",
+      "ytMusicId": "NengL7n9tR8",
       "streams": 3085016,
       "peak": 39,
       "weeks": 46
@@ -769,7 +769,7 @@
       "title": "The Spins (w/ Empire Of The Sun)",
       "artist": "Mac Miller",
       "spotifyId": "3iEUDvanZwQhLCIqUmCR7N",
-      "ytMusicId": "Gom3xUAUtfI",
+      "ytMusicId": "rXsQmkz1T7A",
       "streams": 2746433,
       "peak": 39,
       "weeks": 25
@@ -857,7 +857,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2722636,
       "peak": 68,
       "weeks": 67
@@ -1495,7 +1495,7 @@
       "title": "Roommates",
       "artist": "Malcolm Todd",
       "spotifyId": "5vPUv0xziXbV4lnWeVNXNq",
-      "ytMusicId": "nNN88hijp-o",
+      "ytMusicId": "BI9HQCzpDgQ",
       "streams": 2317679,
       "peak": 102,
       "weeks": 28
