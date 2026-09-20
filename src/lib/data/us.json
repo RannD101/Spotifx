@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-19",
-  "lastUpdated": "2026-09-19T10:10:26.635Z",
+  "weekDate": "2026-09-20",
+  "lastUpdated": "2026-09-20T10:29:13.728Z",
   "tracks": [
     {
       "rank": 1,
@@ -472,7 +472,7 @@
       "title": "Ordinary",
       "artist": "Alex Warren",
       "spotifyId": "2RkZ5LkEzeHGRsmDqKwmaJ",
-      "ytMusicId": "Q2NePVoGxYg",
+      "ytMusicId": "TR19QSL7WuQ",
       "streams": 3141617,
       "peak": 1,
       "weeks": 84
@@ -1781,7 +1781,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "ABfQuZqq8wg",
       "streams": 2159487,
       "peak": 108,
       "weeks": 27

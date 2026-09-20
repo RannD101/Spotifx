@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-19",
-  "lastUpdated": "2026-09-19T10:05:43.633Z",
+  "weekDate": "2026-09-20",
+  "lastUpdated": "2026-09-20T10:24:55.675Z",
   "tracks": [
     {
       "rank": 1,
@@ -318,7 +318,7 @@
       "title": "Ordinary",
       "artist": "Alex Warren",
       "spotifyId": "2RkZ5LkEzeHGRsmDqKwmaJ",
-      "ytMusicId": "Q2NePVoGxYg",
+      "ytMusicId": "TR19QSL7WuQ",
       "streams": 15054300,
       "peak": 1,
       "weeks": 84
