@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-20",
-  "lastUpdated": "2026-09-20T10:30:14.023Z",
+  "weekDate": "2026-09-21",
+  "lastUpdated": "2026-09-21T11:45:00.185Z",
   "tracks": [
     {
       "rank": 1,
@@ -923,7 +923,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "7MAs5b7EJyc",
+      "ytMusicId": "G_FNGJeAWlk",
       "streams": 682024,
       "peak": 84,
       "weeks": 2
@@ -1286,7 +1286,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 597403,
       "peak": 35,
       "weeks": 136
@@ -1836,7 +1836,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 532548,
       "peak": 117,
       "weeks": 27
@@ -1968,7 +1968,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 515547,
       "peak": 56,
       "weeks": 77

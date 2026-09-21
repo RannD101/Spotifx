@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-20",
-  "lastUpdated": "2026-09-20T10:29:13.728Z",
+  "weekDate": "2026-09-21",
+  "lastUpdated": "2026-09-21T11:43:52.238Z",
   "tracks": [
     {
       "rank": 1,
@@ -692,7 +692,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 2784583,
       "peak": 47,
       "weeks": 176
@@ -802,7 +802,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 2703131,
       "peak": 68,
       "weeks": 68
@@ -1781,7 +1781,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "oB9JIz72BoM",
       "streams": 2159487,
       "peak": 108,
       "weeks": 27
