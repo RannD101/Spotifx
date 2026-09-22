@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-21",
-  "lastUpdated": "2026-09-21T11:43:52.238Z",
+  "weekDate": "2026-09-22",
+  "lastUpdated": "2026-09-22T10:49:31.456Z",
   "tracks": [
     {
       "rank": 1,
@@ -153,7 +153,7 @@
       "title": "Ain't In LA",
       "artist": "ADÉLA",
       "spotifyId": "02HyFYmpzt02VJ8k0CqxKj",
-      "ytMusicId": "E2gPsY36uR0",
+      "ytMusicId": "nyNm-dVBMoo",
       "streams": 4347610,
       "peak": 14,
       "weeks": 7
@@ -241,7 +241,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 3793756,
       "peak": 12,
       "weeks": 23
@@ -516,7 +516,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 3072473,
       "peak": 3,
       "weeks": 23
@@ -736,7 +736,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "8HBcV0MtAQg",
       "streams": 2744669,
       "peak": 10,
       "weeks": 541
@@ -956,7 +956,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "4IbRT6Vfl_U",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 2587682,
       "peak": 1,
       "weeks": 189
@@ -1319,7 +1319,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "YNP0YJ5gq0M",
+      "ytMusicId": "NajmHZ6kcUg",
       "streams": 2402200,
       "peak": 11,
       "weeks": 124
@@ -1374,7 +1374,7 @@
       "title": "Heartless",
       "artist": "Kanye West",
       "spotifyId": "4EWCNWgDS8707fNSZ1oaA5",
-      "ytMusicId": "s40BTpfAELs",
+      "ytMusicId": "",
       "streams": 2351915,
       "peak": 37,
       "weeks": 202
@@ -1704,7 +1704,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "x_GqgW94eSg",
       "streams": 2174915,
       "peak": 22,
       "weeks": 11
@@ -1781,7 +1781,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "g3qjQSohny8",
       "streams": 2159487,
       "peak": 108,
       "weeks": 27
@@ -2012,7 +2012,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 2054458,
       "peak": 95,
       "weeks": 68
