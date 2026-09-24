@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-23",
-  "lastUpdated": "2026-09-23T10:40:41.066Z",
+  "weekDate": "2026-09-24",
+  "lastUpdated": "2026-09-24T10:50:53.379Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Choosin' Texas",
       "artist": "Ella Langley",
       "spotifyId": "7scFxt9VhL4FJwuPSfRlfN",
-      "ytMusicId": "xukbqwRuN5w",
+      "ytMusicId": "",
       "streams": 8518584,
       "peak": 1,
       "weeks": 48
@@ -21,7 +21,7 @@
       "title": "BbY WOW (w/ Judeline, rusowsky)",
       "artist": "KAROL G",
       "spotifyId": "3h5T5JypYU7huFiVYhv1dr",
-      "ytMusicId": "ljAH6jNaApU",
+      "ytMusicId": "",
       "streams": 7524874,
       "peak": 2,
       "weeks": 5
@@ -32,7 +32,7 @@
       "title": "Earrings",
       "artist": "Malcolm Todd",
       "spotifyId": "0eAuGrXyGFYwur9ARUe7LJ",
-      "ytMusicId": "BI9HQCzpDgQ",
+      "ytMusicId": "",
       "streams": 7169927,
       "peak": 2,
       "weeks": 37
@@ -43,7 +43,7 @@
       "title": "Nicole Kidman",
       "artist": "ADÉLA",
       "spotifyId": "70cHKK8bHAfJrOGVnfRG9J",
-      "ytMusicId": "h-zuG75Ds-w",
+      "ytMusicId": "",
       "streams": 5912544,
       "peak": 4,
       "weeks": 2
@@ -54,7 +54,7 @@
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "spotifyId": "49j6SvuvWfbEKZKzsHCdLJ",
-      "ytMusicId": "P7VgXIZSN_w",
+      "ytMusicId": "",
       "streams": 5630336,
       "peak": 1,
       "weeks": 14
@@ -65,7 +65,7 @@
       "title": "Mr. Brightside",
       "artist": "The Killers",
       "spotifyId": "003vvx7Niy0yvhvHt4a68B",
-      "ytMusicId": "m2zUrruKjDQ",
+      "ytMusicId": "",
       "streams": 5430993,
       "peak": 6,
       "weeks": 316
@@ -76,7 +76,7 @@
       "title": "the cure",
       "artist": "Olivia Rodrigo",
       "spotifyId": "55pBIZO1cqoldeqpp5WR7H",
-      "ytMusicId": "cmzCwz4NkOA",
+      "ytMusicId": "",
       "streams": 5287539,
       "peak": 2,
       "weeks": 17
@@ -87,7 +87,7 @@
       "title": "Loser",
       "artist": "Tame Impala",
       "spotifyId": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "ytMusicId": "MX7FSAnRPug",
+      "ytMusicId": "",
       "streams": 5024458,
       "peak": 3,
       "weeks": 9
@@ -98,7 +98,7 @@
       "title": "oh yeah?",
       "artist": "Steve Lacy",
       "spotifyId": "22NHkFYbgxB2Zirj29Gbp8",
-      "ytMusicId": "2zPGWGqdfJ8",
+      "ytMusicId": "",
       "streams": 4895127,
       "peak": 2,
       "weeks": 7
@@ -109,7 +109,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "wbt_E7LNDaA",
+      "ytMusicId": "",
       "streams": 4756976,
       "peak": 6,
       "weeks": 28
@@ -120,7 +120,7 @@
       "title": "Be Her",
       "artist": "Ella Langley",
       "spotifyId": "13HD3tYTiz8oSRxWzXEq7g",
-      "ytMusicId": "2xklUpzCXcQ",
+      "ytMusicId": "",
       "streams": 4732189,
       "peak": 3,
       "weeks": 31
@@ -131,7 +131,7 @@
       "title": "Broken Window Serenade",
       "artist": "Whiskey Myers",
       "spotifyId": "1VOSSXuWRcBj2rpfxNdX9v",
-      "ytMusicId": "RX_VXoi4Rck",
+      "ytMusicId": "",
       "streams": 4580844,
       "peak": 12,
       "weeks": 59
@@ -142,7 +142,7 @@
       "title": "Man I Need",
       "artist": "Olivia Dean",
       "spotifyId": "1qbmS6ep2hbBRaEZFpn7BX",
-      "ytMusicId": "fsGjRf-N71I",
+      "ytMusicId": "",
       "streams": 4411886,
       "peak": 2,
       "weeks": 56
@@ -153,7 +153,7 @@
       "title": "Ain't In LA",
       "artist": "ADÉLA",
       "spotifyId": "02HyFYmpzt02VJ8k0CqxKj",
-      "ytMusicId": "nyNm-dVBMoo",
+      "ytMusicId": "",
       "streams": 4347610,
       "peak": 14,
       "weeks": 7
@@ -164,7 +164,7 @@
       "title": "Janice STFU",
       "artist": "Drake",
       "spotifyId": "514joG57v4yKTsfQmz7stz",
-      "ytMusicId": "x30_IHP1x3s",
+      "ytMusicId": "",
       "streams": 4246673,
       "peak": 1,
       "weeks": 18
@@ -175,7 +175,7 @@
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "spotifyId": "36idurZmYRjJ56KQ8JD9bN",
-      "ytMusicId": "C2elY5Tctqg",
+      "ytMusicId": "",
       "streams": 4190448,
       "peak": 7,
       "weeks": 23
@@ -186,7 +186,7 @@
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "spotifyId": "20jbSiX29FDX4oQxBXyUEi",
-      "ytMusicId": "-YOpbOA8-5o",
+      "ytMusicId": "",
       "streams": 4100980,
       "peak": 1,
       "weeks": 16
@@ -197,7 +197,7 @@
       "title": "Orbiter",
       "artist": "Noah Kahan",
       "spotifyId": "77fL8ATR0dpUDLI0XLmDBV",
-      "ytMusicId": "of6KPs4PTN0",
+      "ytMusicId": "",
       "streams": 3946368,
       "peak": 18,
       "weeks": 21
@@ -208,7 +208,7 @@
       "title": "Babydoll",
       "artist": "Dominic Fike",
       "spotifyId": "7yNf9YjeO5JXUE3JEBgnYc",
-      "ytMusicId": "UnuEzP1rDLY",
+      "ytMusicId": "",
       "streams": 3935373,
       "peak": 1,
       "weeks": 65
@@ -219,7 +219,7 @@
       "title": "Iris",
       "artist": "The Goo Goo Dolls",
       "spotifyId": "6Qyc6fS4DsZjB2mRW9DsQs",
-      "ytMusicId": "Dy_eP-mqWow",
+      "ytMusicId": "",
       "streams": 3808378,
       "peak": 13,
       "weeks": 135
@@ -230,7 +230,7 @@
       "title": "Sweater Weather",
       "artist": "The Neighbourhood",
       "spotifyId": "2QjOHCTQ1Jl3zawyYOpxh6",
-      "ytMusicId": "cULQhvuq1Zc",
+      "ytMusicId": "",
       "streams": 3800802,
       "peak": 8,
       "weeks": 396
@@ -241,7 +241,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "",
       "streams": 3793756,
       "peak": 12,
       "weeks": 23
@@ -252,7 +252,7 @@
       "title": "Freakin’ Out",
       "artist": "Dexter and The Moonrocks",
       "spotifyId": "2SaWT781xr3hHLdbVt5DB7",
-      "ytMusicId": "7Exi4_Za-Qc",
+      "ytMusicId": "",
       "streams": 3736785,
       "peak": 16,
       "weeks": 26
@@ -263,7 +263,7 @@
       "title": "Been By Now",
       "artist": "Morgan Wallen",
       "spotifyId": "3xwMjQriBVW0OGEvNKo9c0",
-      "ytMusicId": "HOqxmOXrZnY",
+      "ytMusicId": "",
       "streams": 3712296,
       "peak": 2,
       "weeks": 8
@@ -274,7 +274,7 @@
       "title": "505",
       "artist": "Arctic Monkeys",
       "spotifyId": "58ge6dfP91o9oXMzq3XkIS",
-      "ytMusicId": "KfEEm4Zx-EU",
+      "ytMusicId": "",
       "streams": 3636218,
       "peak": 18,
       "weeks": 295
@@ -285,7 +285,7 @@
       "title": "Dead Fresh",
       "artist": "Lil Baby",
       "spotifyId": "5ZAMlvo6ZUjVRZOGu2bJib",
-      "ytMusicId": "RKZ2BJNgass",
+      "ytMusicId": "",
       "streams": 3560944,
       "peak": 18,
       "weeks": 9
@@ -296,7 +296,7 @@
       "title": "Self Aware",
       "artist": "Temper City",
       "spotifyId": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "ytMusicId": "R-hYM3BqTbA",
+      "ytMusicId": "",
       "streams": 3545168,
       "peak": 21,
       "weeks": 22
@@ -307,7 +307,7 @@
       "title": "drop dead",
       "artist": "Olivia Rodrigo",
       "spotifyId": "3fRCAPMMZ8l8P9YKI6OCzD",
-      "ytMusicId": "wLmLB4Zzyiw",
+      "ytMusicId": "",
       "streams": 3496936,
       "peak": 1,
       "weeks": 22
@@ -318,7 +318,7 @@
       "title": "bloodstream",
       "artist": "Alyssa Grace",
       "spotifyId": "2oWFJJW9d1bIra3zHjR6GO",
-      "ytMusicId": "CLSuAhT71yU",
+      "ytMusicId": "",
       "streams": 3489794,
       "peak": 29,
       "weeks": 13
@@ -329,7 +329,7 @@
       "title": "weren't for the wind",
       "artist": "Ella Langley",
       "spotifyId": "2A22iI0x4EYAVXNpKPhNEM",
-      "ytMusicId": "73ZD-sbo4UU",
+      "ytMusicId": "",
       "streams": 3451606,
       "peak": 10,
       "weeks": 74
@@ -340,7 +340,7 @@
       "title": "Sure Thing",
       "artist": "Miguel",
       "spotifyId": "0JXXNGljqupsJaZsgSbMZV",
-      "ytMusicId": "esKJ8BbauGk",
+      "ytMusicId": "",
       "streams": 3445020,
       "peak": 10,
       "weeks": 156
@@ -351,7 +351,7 @@
       "title": "Creep",
       "artist": "Radiohead",
       "spotifyId": "70LcF31zb1H0PyJoS1Sx1r",
-      "ytMusicId": "9RfVp-GhKfs",
+      "ytMusicId": "",
       "streams": 3437020,
       "peak": 12,
       "weeks": 123
@@ -362,7 +362,7 @@
       "title": "I Got Better",
       "artist": "Morgan Wallen",
       "spotifyId": "4gfrYDtaRmp6HPvN80V2ob",
-      "ytMusicId": "Xc-dEsMbQJM",
+      "ytMusicId": "",
       "streams": 3403673,
       "peak": 3,
       "weeks": 70
@@ -373,7 +373,7 @@
       "title": "NOBLE",
       "artist": "F3miii",
       "spotifyId": "4Jsus7N4d8hFB2G9gcRdBv",
-      "ytMusicId": "4rDMvIZ4nWE",
+      "ytMusicId": "",
       "streams": 3348979,
       "peak": 21,
       "weeks": 21
@@ -384,7 +384,7 @@
       "title": "No Scrubs",
       "artist": "TLC",
       "spotifyId": "1KGi9sZVMeszgZOWivFpxs",
-      "ytMusicId": "q3MkrF5fPew",
+      "ytMusicId": "",
       "streams": 3347194,
       "peak": 35,
       "weeks": 29
@@ -395,7 +395,7 @@
       "title": "back to friends",
       "artist": "sombr",
       "spotifyId": "7qjZnBKE73H4Oxkopwulqe",
-      "ytMusicId": "c-8abSPAPOU",
+      "ytMusicId": "",
       "streams": 3306073,
       "peak": 2,
       "weeks": 78
@@ -406,7 +406,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "",
       "streams": 3284550,
       "peak": 4,
       "weeks": 37
@@ -417,7 +417,7 @@
       "title": "E85",
       "artist": "Don Toliver",
       "spotifyId": "3B4cjvGlPvyBLNG3AzEgkZ",
-      "ytMusicId": "VrLwRDOVQ6U",
+      "ytMusicId": "",
       "streams": 3280952,
       "peak": 5,
       "weeks": 33
@@ -428,7 +428,7 @@
       "title": "So Easy (To Fall In Love)",
       "artist": "Olivia Dean",
       "spotifyId": "6sGIMrtIzQjdzNndVxe397",
-      "ytMusicId": "7f_mlKlOLMo",
+      "ytMusicId": "",
       "streams": 3272980,
       "peak": 4,
       "weeks": 51
@@ -439,7 +439,7 @@
       "title": "I Can't Love You Anymore (w/ Morgan Wallen)",
       "artist": "Ella Langley",
       "spotifyId": "61rwYQu9An4QWrcCUyFUyq",
-      "ytMusicId": "OTBY7wo4LuE",
+      "ytMusicId": "",
       "streams": 3192922,
       "peak": 16,
       "weeks": 21
@@ -450,7 +450,7 @@
       "title": "Rein Me In (w/ Olivia Dean)",
       "artist": "Sam Fender",
       "spotifyId": "0MUXBhPUDF8or0kfQ0EHwV",
-      "ytMusicId": "NO3JTAsB4NI",
+      "ytMusicId": "",
       "streams": 3167146,
       "peak": 31,
       "weeks": 26
@@ -461,7 +461,7 @@
       "title": "Everlong",
       "artist": "Foo Fighters",
       "spotifyId": "5UWwZ5lm5PKu6eKsHAGxOk",
-      "ytMusicId": "AxuTd9rwEHQ",
+      "ytMusicId": "",
       "streams": 3166929,
       "peak": 39,
       "weeks": 167
@@ -472,7 +472,7 @@
       "title": "Ordinary",
       "artist": "Alex Warren",
       "spotifyId": "2RkZ5LkEzeHGRsmDqKwmaJ",
-      "ytMusicId": "TR19QSL7WuQ",
+      "ytMusicId": "",
       "streams": 3141617,
       "peak": 1,
       "weeks": 84
@@ -483,7 +483,7 @@
       "title": "Love Me Not",
       "artist": "Ravyn Lenae",
       "spotifyId": "4WFgvKVfEhb3IUAFGrutTR",
-      "ytMusicId": "HfpR4tAmI7E",
+      "ytMusicId": "",
       "streams": 3130247,
       "peak": 5,
       "weeks": 80
@@ -494,7 +494,7 @@
       "title": "Sailor Song",
       "artist": "Gigi Perez",
       "spotifyId": "21IYMdzTrzSe191Cy5eMap",
-      "ytMusicId": "wPY6dOC-MDA",
+      "ytMusicId": "",
       "streams": 3073571,
       "peak": 3,
       "weeks": 112
@@ -505,7 +505,7 @@
       "title": "Evergreen",
       "artist": "Omar Apollo",
       "spotifyId": "2TktkzfozZifbQhXjT6I33",
-      "ytMusicId": "m3Gs5e6ux08",
+      "ytMusicId": "",
       "streams": 3072719,
       "peak": 12,
       "weeks": 42
@@ -516,7 +516,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "",
       "streams": 3072473,
       "peak": 3,
       "weeks": 23
@@ -527,7 +527,7 @@
       "title": "Willing and Able",
       "artist": "Noah Kahan",
       "spotifyId": "6pk6E0SZxILzfaAGFngxEs",
-      "ytMusicId": "lRujFWpXglU",
+      "ytMusicId": "",
       "streams": 3019692,
       "peak": 12,
       "weeks": 21
@@ -538,7 +538,7 @@
       "title": "Stick Season",
       "artist": "Noah Kahan",
       "spotifyId": "0mflMxspEfB0VbI1kyLiAv",
-      "ytMusicId": "gLA6VyT4QOw",
+      "ytMusicId": "",
       "streams": 2933101,
       "peak": 2,
       "weeks": 201
@@ -549,7 +549,7 @@
       "title": "Don't Stop The Music",
       "artist": "Rihanna",
       "spotifyId": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "ytMusicId": "NengL7n9tR8",
+      "ytMusicId": "",
       "streams": 2920463,
       "peak": 39,
       "weeks": 47
@@ -560,7 +560,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "2009X8GyWTqyxIdzAEYW6N",
-      "ytMusicId": "64wxAbbWNag",
+      "ytMusicId": "",
       "streams": 2914818,
       "peak": 35,
       "weeks": 25
@@ -571,7 +571,7 @@
       "title": "the feeling",
       "artist": "Steve Lacy",
       "spotifyId": "1OWBh1eVxUdA1Z6UA8r4nh",
-      "ytMusicId": "5fg_aqJxtHU",
+      "ytMusicId": "",
       "streams": 2905801,
       "peak": 47,
       "weeks": 10
@@ -582,7 +582,7 @@
       "title": "End of Beginning",
       "artist": "Djo",
       "spotifyId": "3qhlB30KknSejmIvZZLjOD",
-      "ytMusicId": "Kf5pXDhx5Vc",
+      "ytMusicId": "",
       "streams": 2903020,
       "peak": 1,
       "weeks": 121
@@ -593,7 +593,7 @@
       "title": "Chicago",
       "artist": "Michael Jackson",
       "spotifyId": "5BKKy9fIJL5uM9fz1SnqyP",
-      "ytMusicId": "wAoq__SQpwk",
+      "ytMusicId": "",
       "streams": 2901080,
       "peak": 8,
       "weeks": 21
@@ -604,7 +604,7 @@
       "title": "Everybody Wants To Rule The World",
       "artist": "Tears For Fears",
       "spotifyId": "4RvWPyQ5RL0ao9LPZeSouE",
-      "ytMusicId": "U4zA0xnBEJU",
+      "ytMusicId": "",
       "streams": 2876515,
       "peak": 30,
       "weeks": 170
@@ -615,7 +615,7 @@
       "title": "DtMF",
       "artist": "Bad Bunny",
       "spotifyId": "3sK8wGT43QFpWrvNQsrQya",
-      "ytMusicId": "TiebZllW8As",
+      "ytMusicId": "",
       "streams": 2852239,
       "peak": 1,
       "weeks": 89
@@ -626,7 +626,7 @@
       "title": "expectations",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4bkClAuofJULiaIZsuL3gT",
-      "ytMusicId": "ZYUql_ZPHrc",
+      "ytMusicId": "",
       "streams": 2846284,
       "peak": 9,
       "weeks": 14
@@ -637,7 +637,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BO7FQnegW1o",
+      "ytMusicId": "",
       "streams": 2837169,
       "peak": 58,
       "weeks": 76
@@ -648,7 +648,7 @@
       "title": "Circles",
       "artist": "Post Malone",
       "spotifyId": "21jGcNKet2qwijlDFuPiPb",
-      "ytMusicId": "4EQkYVtE-28",
+      "ytMusicId": "",
       "streams": 2833081,
       "peak": 1,
       "weeks": 189
@@ -659,7 +659,7 @@
       "title": "Linger - Remastered 2026",
       "artist": "The Cranberries",
       "spotifyId": "1WYrTfvKjQYaYfVziGG1ET",
-      "ytMusicId": "2JqRN_R1vt0",
+      "ytMusicId": "",
       "streams": 2829906,
       "peak": 34,
       "weeks": 4
@@ -670,7 +670,7 @@
       "title": "Riptide",
       "artist": "Vance Joy",
       "spotifyId": "7yq4Qj7cqayVTp3FF9CWbm",
-      "ytMusicId": "En_6WWOWh8E",
+      "ytMusicId": "",
       "streams": 2797256,
       "peak": 12,
       "weeks": 247
@@ -681,7 +681,7 @@
       "title": "Stateside + Zara Larsson (w/ Zara Larsson)",
       "artist": "PinkPantheress",
       "spotifyId": "1DwscornXpj8fmOmYVlqZt",
-      "ytMusicId": "iHsObIWkM-s",
+      "ytMusicId": "",
       "streams": 2796712,
       "peak": 1,
       "weeks": 37
@@ -692,7 +692,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "",
       "streams": 2784583,
       "peak": 47,
       "weeks": 176
@@ -703,7 +703,7 @@
       "title": "Hell At Night (w/ Ella Langley)",
       "artist": "BigXthaPlug",
       "spotifyId": "3pAVk6Ydn0dcGpG8gDyxSJ",
-      "ytMusicId": "ACJiIgOZ7lU",
+      "ytMusicId": "",
       "streams": 2772154,
       "peak": 19,
       "weeks": 57
@@ -714,7 +714,7 @@
       "title": "Bring Me To Life",
       "artist": "Evanescence",
       "spotifyId": "0COqiPhxzoWICwFCS4eZcp",
-      "ytMusicId": "-eGM0IJc70Y",
+      "ytMusicId": "",
       "streams": 2755821,
       "peak": 65,
       "weeks": 52
@@ -725,7 +725,7 @@
       "title": "Smells Like Teen Spirit - Remastered",
       "artist": "Nirvana",
       "spotifyId": "0gucTLf7trAf37Ua1uAyAu",
-      "ytMusicId": "7TDeBi34OtE",
+      "ytMusicId": "",
       "streams": 2747879,
       "peak": 60,
       "weeks": 110
@@ -736,7 +736,7 @@
       "title": "No Role Modelz",
       "artist": "J. Cole",
       "spotifyId": "68Dni7IE4VyPkTOH9mRWHr",
-      "ytMusicId": "0EnRK5YvBwU",
+      "ytMusicId": "",
       "streams": 2744669,
       "peak": 10,
       "weeks": 541
@@ -747,7 +747,7 @@
       "title": "maggots for brains",
       "artist": "Olivia Rodrigo",
       "spotifyId": "6jfiwkcwt8iYCdkbLukxeI",
-      "ytMusicId": "-h1ZefBxAek",
+      "ytMusicId": "",
       "streams": 2740652,
       "peak": 6,
       "weeks": 14
@@ -758,7 +758,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "JjuLy7r1hOg",
+      "ytMusicId": "",
       "streams": 2728025,
       "peak": 32,
       "weeks": 75
@@ -769,7 +769,7 @@
       "title": "Take Me Back (Leave Me There)",
       "artist": "Cody Johnson",
       "spotifyId": "3eZcmEO0X0nsfV8E3NZelo",
-      "ytMusicId": "uoKgr_oYHsA",
+      "ytMusicId": "",
       "streams": 2722202,
       "peak": 68,
       "weeks": 5
@@ -780,7 +780,7 @@
       "title": "Wonderwall - Remastered",
       "artist": "Oasis",
       "spotifyId": "5qqabIl2vWzo9ApSC317sa",
-      "ytMusicId": "FVdjZYfDuLE",
+      "ytMusicId": "",
       "streams": 2721241,
       "peak": 17,
       "weeks": 11
@@ -791,7 +791,7 @@
       "title": "Headlines",
       "artist": "Drake",
       "spotifyId": "6LxSe8YmdPxy095Ux6znaQ",
-      "ytMusicId": "LP6wKYLccKI",
+      "ytMusicId": "",
       "streams": 2712083,
       "peak": 28,
       "weeks": 82
@@ -802,7 +802,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "L8gGHqPBuZM",
+      "ytMusicId": "",
       "streams": 2703131,
       "peak": 68,
       "weeks": 68
@@ -813,7 +813,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "B8VEqSBTjZQ",
+      "ytMusicId": "",
       "streams": 2698273,
       "peak": 1,
       "weeks": 123
@@ -824,7 +824,7 @@
       "title": "Sign of the Times",
       "artist": "Harry Styles",
       "spotifyId": "5Ohxk2dO5COHF1krpoPigN",
-      "ytMusicId": "oHVVoe2Vj8s",
+      "ytMusicId": "",
       "streams": 2686115,
       "peak": 16,
       "weeks": 46
@@ -835,7 +835,7 @@
       "title": "Fade Into You",
       "artist": "Mazzy Star",
       "spotifyId": "1LzNfuep1bnAUR9skqdHCK",
-      "ytMusicId": "avv2IIdDnnk",
+      "ytMusicId": "",
       "streams": 2682073,
       "peak": 76,
       "weeks": 45
@@ -846,7 +846,7 @@
       "title": "Great Expectation",
       "artist": "SIENNA SPIRO",
       "spotifyId": "7ujApz6iFP3PmKIDGcaGbe",
-      "ytMusicId": "_5-Dzam3jPU",
+      "ytMusicId": "",
       "streams": 2676668,
       "peak": 52,
       "weeks": 10
@@ -857,7 +857,7 @@
       "title": "Risk It All",
       "artist": "Bruno Mars",
       "spotifyId": "5y2ijHECwFYWqcAHKTZgzD",
-      "ytMusicId": "BF2_ipR1OI0",
+      "ytMusicId": "",
       "streams": 2661557,
       "peak": 1,
       "weeks": 29
@@ -868,7 +868,7 @@
       "title": "The Fate of Ophelia",
       "artist": "Taylor Swift",
       "spotifyId": "53iuhJlwXhSER5J2IYYv1W",
-      "ytMusicId": "7nVctvQVz0U",
+      "ytMusicId": "",
       "streams": 2655104,
       "peak": 1,
       "weeks": 50
@@ -879,7 +879,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "2plbrEY59IikOBgBGLjaoe",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "",
       "streams": 2641735,
       "peak": 1,
       "weeks": 109
@@ -890,7 +890,7 @@
       "title": "Missed Call",
       "artist": "Treaty Oak Revival",
       "spotifyId": "6ybZUqlfk938oS6WeBmDab",
-      "ytMusicId": "3W61YfdhFlc",
+      "ytMusicId": "",
       "streams": 2637208,
       "peak": 67,
       "weeks": 74
@@ -901,7 +901,7 @@
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "spotifyId": "5g7sDjBhZ4I3gcFIpkrLuI",
-      "ytMusicId": "GKsR3A1zyjo",
+      "ytMusicId": "",
       "streams": 2634094,
       "peak": 24,
       "weeks": 120
@@ -912,7 +912,7 @@
       "title": "Animal",
       "artist": "KATSEYE",
       "spotifyId": "3ouNEk0tv5TTi8VWMe1xbX",
-      "ytMusicId": "kDsRsv3DsHg",
+      "ytMusicId": "",
       "streams": 2632488,
       "peak": 8,
       "weeks": 8
@@ -923,7 +923,7 @@
       "title": "Midnight Sun",
       "artist": "Zara Larsson",
       "spotifyId": "1qRV1dKLOfH1s00b9J2LUQ",
-      "ytMusicId": "sGgMHiRiklo",
+      "ytMusicId": "",
       "streams": 2630478,
       "peak": 40,
       "weeks": 35
@@ -934,7 +934,7 @@
       "title": "Don't Stop Believin' (2022 Remaster)",
       "artist": "Journey",
       "spotifyId": "5RKQ5NdjSh2QzD4MaunT91",
-      "ytMusicId": "mM3Vmn4pdog",
+      "ytMusicId": "",
       "streams": 2616640,
       "peak": 32,
       "weeks": 90
@@ -945,7 +945,7 @@
       "title": "The Spins (w/ Empire Of The Sun)",
       "artist": "Mac Miller",
       "spotifyId": "3iEUDvanZwQhLCIqUmCR7N",
-      "ytMusicId": "rXsQmkz1T7A",
+      "ytMusicId": "",
       "streams": 2599859,
       "peak": 39,
       "weeks": 26
@@ -956,7 +956,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "4IbRT6Vfl_U",
+      "ytMusicId": "",
       "streams": 2587682,
       "peak": 1,
       "weeks": 189
@@ -967,7 +967,7 @@
       "title": "Neon Moon",
       "artist": "Brooks & Dunn",
       "spotifyId": "2M38X60UJnupGPbFTkVPNQ",
-      "ytMusicId": "8IjOQmwlGmk",
+      "ytMusicId": "",
       "streams": 2587570,
       "peak": 57,
       "weeks": 53
@@ -978,7 +978,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "",
       "streams": 2571849,
       "peak": 10,
       "weeks": 44
@@ -989,7 +989,7 @@
       "title": "See You Again (w/ Kali Uchis)",
       "artist": "Tyler, The Creator",
       "spotifyId": "7KA4W4McWYRpgf0fWsJZWB",
-      "ytMusicId": "EZE62LpaqHg",
+      "ytMusicId": "",
       "streams": 2570801,
       "peak": 5,
       "weeks": 272
@@ -1000,7 +1000,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "r7Rn4ryE_w8",
+      "ytMusicId": "",
       "streams": 2565419,
       "peak": 1,
       "weeks": 339
@@ -1011,7 +1011,7 @@
       "title": "Every Breath You Take",
       "artist": "The Police",
       "spotifyId": "1JSTJqkT5qHq8MDJnJbRE1",
-      "ytMusicId": "-SaUrDhp034",
+      "ytMusicId": "",
       "streams": 2558875,
       "peak": 22,
       "weeks": 54
@@ -1022,7 +1022,7 @@
       "title": "DAISIES",
       "artist": "Justin Bieber",
       "spotifyId": "5BZsQlgw21vDOAjoqkNgKb",
-      "ytMusicId": "s5oSscNIyIs",
+      "ytMusicId": "",
       "streams": 2530002,
       "peak": 1,
       "weeks": 61
@@ -1033,7 +1033,7 @@
       "title": "The Less I Know The Better",
       "artist": "Tame Impala",
       "spotifyId": "6K4t31amVTZDgR3sKmwUJJ",
-      "ytMusicId": "PvM79DJ2PmM",
+      "ytMusicId": "",
       "streams": 2523899,
       "peak": 48,
       "weeks": 201
@@ -1044,7 +1044,7 @@
       "title": "Sweet Boy",
       "artist": "Malcolm Todd",
       "spotifyId": "59c2xv2kMzYM6HR9oY6BIa",
-      "ytMusicId": "p9OtySpRRL8",
+      "ytMusicId": "",
       "streams": 2522161,
       "peak": 68,
       "weeks": 37
@@ -1055,7 +1055,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "9_bTl2vvYQg",
+      "ytMusicId": "",
       "streams": 2519803,
       "peak": 1,
       "weeks": 65
@@ -1066,7 +1066,7 @@
       "title": "I Remember Everything (w/ Kacey Musgraves)",
       "artist": "Zach Bryan",
       "spotifyId": "4KULAymBBJcPRpk1yO4dOG",
-      "ytMusicId": "Qdjw81ZVEe8",
+      "ytMusicId": "",
       "streams": 2517777,
       "peak": 1,
       "weeks": 160
@@ -1077,7 +1077,7 @@
       "title": "Lovers Rock",
       "artist": "TV Girl",
       "spotifyId": "6dBUzqjtbnIa1TwYbyw5CM",
-      "ytMusicId": "j_sG_Juncn8",
+      "ytMusicId": "",
       "streams": 2506551,
       "peak": 38,
       "weeks": 178
@@ -1088,7 +1088,7 @@
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "spotifyId": "3zOYmiNOuyDL0ClxJcEJ0T",
-      "ytMusicId": "WNxAvQNsJuM",
+      "ytMusicId": "",
       "streams": 2504065,
       "peak": 99,
       "weeks": 2
@@ -1099,7 +1099,7 @@
       "title": "damned",
       "artist": "Miguel",
       "spotifyId": "2ZCe5vjgNDAmoWe73C46nc",
-      "ytMusicId": "Tbt-u24w6Yk",
+      "ytMusicId": "",
       "streams": 2499282,
       "peak": 98,
       "weeks": 15
@@ -1110,7 +1110,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "",
       "streams": 2499253,
       "peak": 12,
       "weeks": 21
@@ -1121,7 +1121,7 @@
       "title": "EoO",
       "artist": "Bad Bunny",
       "spotifyId": "6J5kc12BW5HuP3d7C3vvx8",
-      "ytMusicId": "JYekRpqL4O8",
+      "ytMusicId": "",
       "streams": 2492353,
       "peak": 4,
       "weeks": 80
@@ -1132,7 +1132,7 @@
       "title": "In My Room",
       "artist": "Julia Wolf",
       "spotifyId": "2Ui2JtVjnbHZuExldryCOA",
-      "ytMusicId": "VWx9WoEYb5E",
+      "ytMusicId": "",
       "streams": 2490481,
       "peak": 43,
       "weeks": 30
@@ -1143,7 +1143,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "oodQMZLjoBU",
+      "ytMusicId": "",
       "streams": 2481203,
       "peak": 5,
       "weeks": 108
@@ -1154,7 +1154,7 @@
       "title": "Passionfruit",
       "artist": "Drake",
       "spotifyId": "7hDc8b7IXETo14hHIHdnhd",
-      "ytMusicId": "COz9lDCFHjw",
+      "ytMusicId": "",
       "streams": 2479963,
       "peak": 1,
       "weeks": 198
@@ -1165,7 +1165,7 @@
       "title": "honeybee",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4kX7xkopoXZCfE1D6fNwl2",
-      "ytMusicId": "XezOkkUM--w",
+      "ytMusicId": "",
       "streams": 2479272,
       "peak": 3,
       "weeks": 14
@@ -1176,7 +1176,7 @@
       "title": "iloveitiloveitiloveit",
       "artist": "Bella Kay",
       "spotifyId": "5IMpnpD0tQVcqWlVIgtAtV",
-      "ytMusicId": "OqTpNnSnwxQ",
+      "ytMusicId": "",
       "streams": 2478122,
       "peak": 4,
       "weeks": 31
@@ -1187,7 +1187,7 @@
       "title": "BIRDS OF A FEATHER",
       "artist": "Billie Eilish",
       "spotifyId": "6dOtVTDdiauQNBQEDOtlAB",
-      "ytMusicId": "WKZO-CWeOVA",
+      "ytMusicId": "",
       "streams": 2470396,
       "peak": 2,
       "weeks": 122
@@ -1198,7 +1198,7 @@
       "title": "In the End",
       "artist": "Linkin Park",
       "spotifyId": "60a0Rd6pjrkxjPbaKzXjfq",
-      "ytMusicId": "BLZWkjBXfN8",
+      "ytMusicId": "",
       "streams": 2462176,
       "peak": 46,
       "weeks": 74
@@ -1209,7 +1209,7 @@
       "title": "Tennessee Whiskey",
       "artist": "Chris Stapleton",
       "spotifyId": "3fqwjXwUGN6vbzIwvyFMhx",
-      "ytMusicId": "l6_w3887Rwo",
+      "ytMusicId": "",
       "streams": 2448859,
       "peak": 62,
       "weeks": 300
@@ -1220,7 +1220,7 @@
       "title": "Have You Ever Seen The Rain",
       "artist": "Creedence Clearwater Revival",
       "spotifyId": "2LawezPeJhN4AWuSB0GtAU",
-      "ytMusicId": "Xwy-3aI435o",
+      "ytMusicId": "",
       "streams": 2446469,
       "peak": 81,
       "weeks": 72
@@ -1231,7 +1231,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "k4M53xndqiU",
+      "ytMusicId": "",
       "streams": 2429689,
       "peak": 23,
       "weeks": 56
@@ -1242,7 +1242,7 @@
       "title": "Roommates",
       "artist": "Malcolm Todd",
       "spotifyId": "5vPUv0xziXbV4lnWeVNXNq",
-      "ytMusicId": "nNN88hijp-o",
+      "ytMusicId": "",
       "streams": 2428858,
       "peak": 102,
       "weeks": 29
@@ -1253,7 +1253,7 @@
       "title": "Homewrecker",
       "artist": "sombr",
       "spotifyId": "7tICCrK3CcyRFKza7yrR0z",
-      "ytMusicId": "E9onENVBmKY",
+      "ytMusicId": "",
       "streams": 2424576,
       "peak": 12,
       "weeks": 32
@@ -1264,7 +1264,7 @@
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "spotifyId": "4k6Uh1HXdhtusDW5y8Gbvy",
-      "ytMusicId": "1E2ihUl6ed4",
+      "ytMusicId": "",
       "streams": 2422115,
       "peak": 1,
       "weeks": 163
@@ -1275,7 +1275,7 @@
       "title": "Kiss Me",
       "artist": "Sixpence None The Richer",
       "spotifyId": "754kgU5rWscRTfvlsuEwFp",
-      "ytMusicId": "K2tbQ_g2VbQ",
+      "ytMusicId": "",
       "streams": 2417990,
       "peak": 116,
       "weeks": 2
@@ -1286,7 +1286,7 @@
       "title": "No Pole",
       "artist": "Don Toliver",
       "spotifyId": "0eaVIYo2zeOaGJeqZ5TwYz",
-      "ytMusicId": "KIXP--0-Tac",
+      "ytMusicId": "",
       "streams": 2414142,
       "peak": 25,
       "weeks": 100
@@ -1297,7 +1297,7 @@
       "title": "So Good (w/ Kendrick Lamar)",
       "artist": "Jhené Aiko",
       "spotifyId": "3Yd3J42s3GZaYty4Iy4ewT",
-      "ytMusicId": "KFcZLiCJGyU",
+      "ytMusicId": "",
       "streams": 2412151,
       "peak": 118,
       "weeks": 1
@@ -1308,7 +1308,7 @@
       "title": "Sparks",
       "artist": "Coldplay",
       "spotifyId": "7D0RhFcb3CrfPuTJ0obrod",
-      "ytMusicId": "1aokooixKIo",
+      "ytMusicId": "",
       "streams": 2402471,
       "peak": 28,
       "weeks": 93
@@ -1319,7 +1319,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "YNP0YJ5gq0M",
+      "ytMusicId": "",
       "streams": 2402200,
       "peak": 11,
       "weeks": 124
@@ -1330,7 +1330,7 @@
       "title": "Sue me",
       "artist": "Audrey Hobert",
       "spotifyId": "6ZAuQOgLrNQb9s7BXheuTy",
-      "ytMusicId": "--CL5uH8-bg",
+      "ytMusicId": "",
       "streams": 2380971,
       "peak": 63,
       "weeks": 11
@@ -1341,7 +1341,7 @@
       "title": "I Knew It, I Knew You",
       "artist": "Taylor Swift",
       "spotifyId": "5uPaqMMt59KGrdKIitDRqa",
-      "ytMusicId": "SzJXikN_4wA",
+      "ytMusicId": "",
       "streams": 2358429,
       "peak": 2,
       "weeks": 15
@@ -1352,7 +1352,7 @@
       "title": "Worst Way",
       "artist": "Riley Green",
       "spotifyId": "1osfLqL6L2iQsirRf83ded",
-      "ytMusicId": "4KLt4_k4lKI",
+      "ytMusicId": "",
       "streams": 2353919,
       "peak": 39,
       "weeks": 89
@@ -1363,7 +1363,7 @@
       "title": "I'm The Problem",
       "artist": "Morgan Wallen",
       "spotifyId": "7AeM1BGYM7emrqmQn1PuWv",
-      "ytMusicId": "zUHtvbqQXbk",
+      "ytMusicId": "",
       "streams": 2352576,
       "peak": 4,
       "weeks": 85
@@ -1374,7 +1374,7 @@
       "title": "Heartless",
       "artist": "Kanye West",
       "spotifyId": "4EWCNWgDS8707fNSZ1oaA5",
-      "ytMusicId": "s40BTpfAELs",
+      "ytMusicId": "",
       "streams": 2351915,
       "peak": 37,
       "weeks": 202
@@ -1385,7 +1385,7 @@
       "title": "misery.",
       "artist": "pupsies",
       "spotifyId": "6De8sirPzVyAoBDlQpcutY",
-      "ytMusicId": "qJKcADiAuAw",
+      "ytMusicId": "",
       "streams": 2345229,
       "peak": 17,
       "weeks": 12
@@ -1396,7 +1396,7 @@
       "title": "Yellow",
       "artist": "Coldplay",
       "spotifyId": "3AJwUDP919kvQ9QcozQPxg",
-      "ytMusicId": "9qnqYL0eNNI",
+      "ytMusicId": "",
       "streams": 2340775,
       "peak": 70,
       "weeks": 91
@@ -1407,7 +1407,7 @@
       "title": "you look like you love me (w/ Riley Green)",
       "artist": "Ella Langley",
       "spotifyId": "2PyJAiQjp1OPkow2FJZKHR",
-      "ytMusicId": "-82dK3N6ZVw",
+      "ytMusicId": "",
       "streams": 2337203,
       "peak": 28,
       "weeks": 40
@@ -1418,7 +1418,7 @@
       "title": "Thinkin Bout You",
       "artist": "Frank Ocean",
       "spotifyId": "7DfFc7a6Rwfi3YQMRbDMau",
-      "ytMusicId": "6JHu3b-pbh8",
+      "ytMusicId": "",
       "streams": 2335210,
       "peak": 42,
       "weeks": 107
@@ -1429,7 +1429,7 @@
       "title": "Beautiful Things",
       "artist": "Benson Boone",
       "spotifyId": "3xkHsmpQCBMytMJNiDf3Ii",
-      "ytMusicId": "eLhSxOAaWmg",
+      "ytMusicId": "",
       "streams": 2330044,
       "peak": 1,
       "weeks": 139
@@ -1440,7 +1440,7 @@
       "title": "A Bar Song (Tipsy)",
       "artist": "Shaboozey",
       "spotifyId": "5fZJQrFKWQLb7FpJXZ1g7K",
-      "ytMusicId": "DPaqlPFznBI",
+      "ytMusicId": "",
       "streams": 2327312,
       "peak": 3,
       "weeks": 126
@@ -1451,7 +1451,7 @@
       "title": "Novacane",
       "artist": "Frank Ocean",
       "spotifyId": "4osgfFTICMkcGbbigdsa53",
-      "ytMusicId": "hgOu8eRJZ3Q",
+      "ytMusicId": "",
       "streams": 2316274,
       "peak": 90,
       "weeks": 74
@@ -1462,7 +1462,7 @@
       "title": "Trap Queen",
       "artist": "Fetty Wap",
       "spotifyId": "2d8JP84HNLKhmd6IYOoupQ",
-      "ytMusicId": "ZjODWsHFo5Y",
+      "ytMusicId": "",
       "streams": 2290796,
       "peak": 1,
       "weeks": 138
@@ -1473,7 +1473,7 @@
       "title": "Pink Pony Club",
       "artist": "Chappell Roan",
       "spotifyId": "6393yGahSJ9slVdOwSxOVR",
-      "ytMusicId": "R_iTpfSCIVk",
+      "ytMusicId": "",
       "streams": 2290050,
       "peak": 8,
       "weeks": 119
@@ -1484,7 +1484,7 @@
       "title": "D>E>A>T>H>M>E>T>A>L",
       "artist": "Panchiko",
       "spotifyId": "4sIFi8LpJWPvI5xviWFyA6",
-      "ytMusicId": "xlX7NwTq9Zo",
+      "ytMusicId": "",
       "streams": 2289285,
       "peak": 135,
       "weeks": 1
@@ -1495,7 +1495,7 @@
       "title": "Something in the Orange",
       "artist": "Zach Bryan",
       "spotifyId": "3WMj8moIAXJhHsyLaqIIHI",
-      "ytMusicId": "B_ZDf1SFqHc",
+      "ytMusicId": "",
       "streams": 2287468,
       "peak": 4,
       "weeks": 230
@@ -1506,7 +1506,7 @@
       "title": "we fell in love in october",
       "artist": "girl in red",
       "spotifyId": "6IPwKM3fUUzlElbvKw2sKl",
-      "ytMusicId": "FJX0JPXD2nM",
+      "ytMusicId": "",
       "streams": 2282346,
       "peak": 46,
       "weeks": 52
@@ -1517,7 +1517,7 @@
       "title": "what’s wrong with me (w/ Robert Smith)",
       "artist": "Olivia Rodrigo",
       "spotifyId": "2e3YJ6Hm8tR5L5Zy8HzOtv",
-      "ytMusicId": "zT0a4u-cFlY",
+      "ytMusicId": "",
       "streams": 2274316,
       "peak": 8,
       "weeks": 14
@@ -1528,7 +1528,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "",
       "streams": 2269861,
       "peak": 2,
       "weeks": 210
@@ -1539,7 +1539,7 @@
       "title": "onsra",
       "artist": "comehelpglo",
       "spotifyId": "7wS6EAZast0FJGw79CXGND",
-      "ytMusicId": "-hMYooJLq0I",
+      "ytMusicId": "",
       "streams": 2269784,
       "peak": 140,
       "weeks": 1
@@ -1550,7 +1550,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "iKejQrGq04w",
+      "ytMusicId": "",
       "streams": 2259298,
       "peak": 85,
       "weeks": 70
@@ -1561,7 +1561,7 @@
       "title": "20 Min",
       "artist": "Lil Uzi Vert",
       "spotifyId": "0uxSUdBrJy9Un0EYoBowng",
-      "ytMusicId": "rj9sZsKE7-g",
+      "ytMusicId": "",
       "streams": 2253433,
       "peak": 48,
       "weeks": 200
@@ -1572,7 +1572,7 @@
       "title": "Apocalypse",
       "artist": "Cigarettes After Sex",
       "spotifyId": "1oAwsWBovWRIp7qLMGPIet",
-      "ytMusicId": "DdI598gKkKw",
+      "ytMusicId": "",
       "streams": 2242756,
       "peak": 49,
       "weeks": 154
@@ -1583,7 +1583,7 @@
       "title": "The Night We Met",
       "artist": "Lord Huron",
       "spotifyId": "3hRV0jL3vUpRrcy398teAU",
-      "ytMusicId": "90DKXLbzLto",
+      "ytMusicId": "",
       "streams": 2231875,
       "peak": 48,
       "weeks": 168
@@ -1594,7 +1594,7 @@
       "title": "Good Luck, Babe!",
       "artist": "Chappell Roan",
       "spotifyId": "0WbMK4wrZ1wFSty9F7FCgu",
-      "ytMusicId": "VZ-oGLluGAc",
+      "ytMusicId": "",
       "streams": 2225790,
       "peak": 1,
       "weeks": 116
@@ -1605,7 +1605,7 @@
       "title": "It's Been Awhile",
       "artist": "Staind",
       "spotifyId": "25CMmGsl22APKhfuj4Tp7j",
-      "ytMusicId": "RNDWIh3Z_zo",
+      "ytMusicId": "",
       "streams": 2219783,
       "peak": 131,
       "weeks": 10
@@ -1616,7 +1616,7 @@
       "title": "You Should Probably Leave",
       "artist": "Chris Stapleton",
       "spotifyId": "2UikqkwBv7aIvlixeVXHWt",
-      "ytMusicId": "wilhfxYfqfc",
+      "ytMusicId": "",
       "streams": 2218386,
       "peak": 56,
       "weeks": 165
@@ -1627,7 +1627,7 @@
       "title": "Training Season",
       "artist": "Dua Lipa",
       "spotifyId": "5b5cPscqVEMChvDqscVw26",
-      "ytMusicId": "n0GXk_T2zs8",
+      "ytMusicId": "",
       "streams": 2214992,
       "peak": 24,
       "weeks": 11
@@ -1638,7 +1638,7 @@
       "title": "Purple Rain",
       "artist": "Prince",
       "spotifyId": "1uvyZBs4IZYRebHIB1747m",
-      "ytMusicId": "347vCib_lMs",
+      "ytMusicId": "",
       "streams": 2205232,
       "peak": 15,
       "weeks": 11
@@ -1649,7 +1649,7 @@
       "title": "Obsessica",
       "artist": "Malcolm Todd",
       "spotifyId": "77Jy02wGI2iU5HCcynsBmS",
-      "ytMusicId": "D4Ha40XUE1E",
+      "ytMusicId": "",
       "streams": 2203655,
       "peak": 150,
       "weeks": 1
@@ -1660,7 +1660,7 @@
       "title": "BAILE INoLVIDABLE",
       "artist": "Bad Bunny",
       "spotifyId": "2lTm559tuIvatlT1u0JYG2",
-      "ytMusicId": "JseJETvMtHY",
+      "ytMusicId": "",
       "streams": 2196701,
       "peak": 2,
       "weeks": 89
@@ -1671,7 +1671,7 @@
       "title": "That's What I Like",
       "artist": "Bruno Mars",
       "spotifyId": "0KKkJNfGyhkQ5aFogxQAPU",
-      "ytMusicId": "JucvYrdSIcM",
+      "ytMusicId": "",
       "streams": 2186870,
       "peak": 3,
       "weeks": 139
@@ -1682,7 +1682,7 @@
       "title": "Feel Good Inc",
       "artist": "Gorillaz",
       "spotifyId": "0d28khcov6AiegSCpG5TuT",
-      "ytMusicId": "NxxjLD2pmlk",
+      "ytMusicId": "",
       "streams": 2186850,
       "peak": 40,
       "weeks": 91
@@ -1693,7 +1693,7 @@
       "title": "Come As You Are - Remastered",
       "artist": "Nirvana",
       "spotifyId": "5AEOqLsRJFAoSS4ay4Jzao",
-      "ytMusicId": "f1IdyrhOrGs",
+      "ytMusicId": "",
       "streams": 2186060,
       "peak": 137,
       "weeks": 60
@@ -1704,7 +1704,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "",
       "streams": 2174915,
       "peak": 22,
       "weeks": 11
@@ -1715,7 +1715,7 @@
       "title": "Last Night",
       "artist": "Morgan Wallen",
       "spotifyId": "7K3BhSpAxZBznislvUMVtn",
-      "ytMusicId": "AnMr6Mm36eM",
+      "ytMusicId": "",
       "streams": 2171989,
       "peak": 1,
       "weeks": 186
@@ -1726,7 +1726,7 @@
       "title": "I Hate Everything About You",
       "artist": "Three Days Grace",
       "spotifyId": "0M955bMOoilikPXwKLYpoi",
-      "ytMusicId": "ph9KP2_lT5Q",
+      "ytMusicId": "",
       "streams": 2171944,
       "peak": 122,
       "weeks": 35
@@ -1737,7 +1737,7 @@
       "title": "9 to 5",
       "artist": "Dolly Parton",
       "spotifyId": "4w3tQBXhn5345eUXDGBWZG",
-      "ytMusicId": "OPoSuyu0dsY",
+      "ytMusicId": "",
       "streams": 2164665,
       "peak": 13,
       "weeks": 4
@@ -1748,7 +1748,7 @@
       "title": "Don't",
       "artist": "Bryson Tiller",
       "spotifyId": "3pXF1nA74528Edde4of9CC",
-      "ytMusicId": "gRPNA5lF7Hg",
+      "ytMusicId": "",
       "streams": 2164641,
       "peak": 6,
       "weeks": 282
@@ -1759,7 +1759,7 @@
       "title": "Kryptonite",
       "artist": "3 Doors Down",
       "spotifyId": "6ZOBP3NvffbU4SZcrnt1k6",
-      "ytMusicId": "UjWZGLi-1jM",
+      "ytMusicId": "",
       "streams": 2163306,
       "peak": 89,
       "weeks": 20
@@ -1770,7 +1770,7 @@
       "title": "nothing",
       "artist": "Steve Lacy",
       "spotifyId": "3lIHa4fUwNKOCSS5k3Za0i",
-      "ytMusicId": "vQs-U3VlD0U",
+      "ytMusicId": "",
       "streams": 2163278,
       "peak": 161,
       "weeks": 1
@@ -1781,7 +1781,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "",
       "streams": 2159487,
       "peak": 108,
       "weeks": 27
@@ -1792,7 +1792,7 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "spotifyId": "2nLtzopw4rPReszdYBJU6h",
-      "ytMusicId": "Q7cQU86CDB0",
+      "ytMusicId": "",
       "streams": 2150080,
       "peak": 53,
       "weeks": 25
@@ -1803,7 +1803,7 @@
       "title": "The Great Divide",
       "artist": "Noah Kahan",
       "spotifyId": "4ck9vo0gEmjVHWUb5q2rYe",
-      "ytMusicId": "sKaMlLT3tro",
+      "ytMusicId": "",
       "streams": 2138455,
       "peak": 1,
       "weeks": 33
@@ -1814,7 +1814,7 @@
       "title": "Wagon Wheel",
       "artist": "Darius Rucker",
       "spotifyId": "3xdjjKMcMOFgo1eQrfbogM",
-      "ytMusicId": "rSH7wmGntfo",
+      "ytMusicId": "",
       "streams": 2126355,
       "peak": 29,
       "weeks": 44
@@ -1825,7 +1825,7 @@
       "title": "A Couple Minutes",
       "artist": "Olivia Dean",
       "spotifyId": "312z6PZ8wwREck8613PkJk",
-      "ytMusicId": "hhsD3eyUlYk",
+      "ytMusicId": "",
       "streams": 2121925,
       "peak": 27,
       "weeks": 30
@@ -1836,7 +1836,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "vkvrbbtnp6s",
+      "ytMusicId": "",
       "streams": 2121114,
       "peak": 161,
       "weeks": 23
@@ -1847,7 +1847,7 @@
       "title": "Hootie Frutti",
       "artist": "KATSEYE",
       "spotifyId": "6oUUmBcUbZa5O48V5pjgAD",
-      "ytMusicId": "kwH2nYwuFdA",
+      "ytMusicId": "",
       "streams": 2118201,
       "peak": 18,
       "weeks": 5
@@ -1858,7 +1858,7 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "spotifyId": "6f68Ac5tt5BQOpwr0BV9oN",
-      "ytMusicId": "8_C6lXoGB5Y",
+      "ytMusicId": "",
       "streams": 2108112,
       "peak": 1,
       "weeks": 36
@@ -1869,7 +1869,7 @@
       "title": "Amor",
       "artist": "Emmanuel Cortes",
       "spotifyId": "6r6IPuFvUX72kQGc9b46rk",
-      "ytMusicId": "2C29r956v40",
+      "ytMusicId": "",
       "streams": 2097909,
       "peak": 164,
       "weeks": 4
@@ -1880,7 +1880,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "T3bbIN_hNQ4",
+      "ytMusicId": "",
       "streams": 2088307,
       "peak": 9,
       "weeks": 47
@@ -1891,7 +1891,7 @@
       "title": "Like a Stone",
       "artist": "Audioslave",
       "spotifyId": "2xt2piJx6jlFkjS77YiqpL",
-      "ytMusicId": "C6uqTWHzHvo",
+      "ytMusicId": "",
       "streams": 2087140,
       "peak": 169,
       "weeks": 5
@@ -1902,7 +1902,7 @@
       "title": "WHERE IS MY HUSBAND!",
       "artist": "RAYE",
       "spotifyId": "55lijDD6OAjLFFUHU9tcDm",
-      "ytMusicId": "94mq0YBsn8U",
+      "ytMusicId": "",
       "streams": 2083190,
       "peak": 10,
       "weeks": 51
@@ -1913,7 +1913,7 @@
       "title": "Animal I Have Become",
       "artist": "Three Days Grace",
       "spotifyId": "5eFxwmqKrHpSQDOEIFYlgY",
-      "ytMusicId": "ysho2xTWUYo",
+      "ytMusicId": "",
       "streams": 2081616,
       "peak": 138,
       "weeks": 20
@@ -1924,7 +1924,7 @@
       "title": "Habits (Stay High)",
       "artist": "Tove Lo",
       "spotifyId": "73DdlUXPj6SIOJQRrqgjld",
-      "ytMusicId": "ANOPNV7wb2Y",
+      "ytMusicId": "",
       "streams": 2078246,
       "peak": 4,
       "weeks": 42
@@ -1935,7 +1935,7 @@
       "title": "Your Love",
       "artist": "The Outfield",
       "spotifyId": "2jPCbFrFlyGbKgblxub8Lm",
-      "ytMusicId": "W2a8Ng1qM8Q",
+      "ytMusicId": "",
       "streams": 2074734,
       "peak": 118,
       "weeks": 11
@@ -1946,7 +1946,7 @@
       "title": "Duvet",
       "artist": "bôa",
       "spotifyId": "42qNWdLKCI41S4uzfamhFM",
-      "ytMusicId": "o7fgFaXKVa0",
+      "ytMusicId": "",
       "streams": 2074136,
       "peak": 177,
       "weeks": 1
@@ -1957,7 +1957,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "cuMuMnCRfqk",
+      "ytMusicId": "",
       "streams": 2071412,
       "peak": 8,
       "weeks": 51
@@ -1968,7 +1968,7 @@
       "title": "Lover, You Should've Come Over",
       "artist": "Jeff Buckley",
       "spotifyId": "6Jv7kjGkhY2fT4yuBF3aTz",
-      "ytMusicId": "TVKGM7dPSrY",
+      "ytMusicId": "",
       "streams": 2071341,
       "peak": 64,
       "weeks": 32
@@ -1979,7 +1979,7 @@
       "title": "12 to 12",
       "artist": "sombr",
       "spotifyId": "05od2qm2MTSKCHxy1GBp5W",
-      "ytMusicId": "Lylp6w7LpHc",
+      "ytMusicId": "",
       "streams": 2070634,
       "peak": 12,
       "weeks": 58
@@ -1990,7 +1990,7 @@
       "title": "The Way I Are (w/ Keri Hilson, D.O.E.)",
       "artist": "Timbaland",
       "spotifyId": "2bLqfJjuC5syrsgDsZfGmn",
-      "ytMusicId": "iM6iO8TD3tM",
+      "ytMusicId": "",
       "streams": 2061667,
       "peak": 181,
       "weeks": 3
@@ -2001,7 +2001,7 @@
       "title": "The Color Violet",
       "artist": "Tory Lanez",
       "spotifyId": "3azJifCSqg9fRij2yKIbWz",
-      "ytMusicId": "Istt2aXmWFg",
+      "ytMusicId": "",
       "streams": 2060766,
       "peak": 26,
       "weeks": 169
@@ -2012,7 +2012,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "",
       "streams": 2054458,
       "peak": 95,
       "weeks": 68
@@ -2023,7 +2023,7 @@
       "title": "luther",
       "artist": "Kendrick Lamar",
       "spotifyId": "2CGNAOSuO1MEFCbBRgUzjd",
-      "ytMusicId": "XVveECQmiAk",
+      "ytMusicId": "",
       "streams": 2053830,
       "peak": 1,
       "weeks": 87
@@ -2034,7 +2034,7 @@
       "title": "Teenage Dirtbag",
       "artist": "Wheatus",
       "spotifyId": "25FTMokYEbEWHEdss5JLZS",
-      "ytMusicId": "dSlYFtXENPo",
+      "ytMusicId": "",
       "streams": 2053147,
       "peak": 145,
       "weeks": 3
@@ -2045,7 +2045,7 @@
       "title": "The Only Exception",
       "artist": "Paramore",
       "spotifyId": "7JIuqL4ZqkpfGKQhYlrirs",
-      "ytMusicId": "ChXcD6Z4uvQ",
+      "ytMusicId": "",
       "streams": 2049498,
       "peak": 186,
       "weeks": 1
@@ -2056,7 +2056,7 @@
       "title": "Pink + White",
       "artist": "Frank Ocean",
       "spotifyId": "3xKsf9qdS1CyvXSMEid6g8",
-      "ytMusicId": "9cHbvRUALrc",
+      "ytMusicId": "",
       "streams": 2047516,
       "peak": 30,
       "weeks": 203
@@ -2067,7 +2067,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "",
       "streams": 2046028,
       "peak": 65,
       "weeks": 29
@@ -2078,7 +2078,7 @@
       "title": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
       "artist": "Macklemore & Ryan Lewis",
       "spotifyId": "22skzmqfdWrjJylampe0kt",
-      "ytMusicId": "96L5sV7rqX0",
+      "ytMusicId": "",
       "streams": 2045556,
       "peak": 189,
       "weeks": 1
@@ -2089,7 +2089,7 @@
       "title": "What I Want (w/ Tate McRae)",
       "artist": "Morgan Wallen",
       "spotifyId": "04emojnbYkrRmv5qtJcgVP",
-      "ytMusicId": "IpKJdfzLsdU",
+      "ytMusicId": "",
       "streams": 2043261,
       "peak": 1,
       "weeks": 70
@@ -2100,7 +2100,7 @@
       "title": "Feathered Indians",
       "artist": "Tyler Childers",
       "spotifyId": "2tgQaL85WoRfgEa4hFQgrE",
-      "ytMusicId": "j-lwWgYLb68",
+      "ytMusicId": "",
       "streams": 2040897,
       "peak": 114,
       "weeks": 70
@@ -2111,7 +2111,7 @@
       "title": "petal",
       "artist": "Ariana Grande",
       "spotifyId": "70pVCVMGjmIWPbWXDwf11e",
-      "ytMusicId": "fuBMrVffb84",
+      "ytMusicId": "",
       "streams": 2040529,
       "peak": 1,
       "weeks": 7
@@ -2122,7 +2122,7 @@
       "title": "Zombie - 2025 Remastered",
       "artist": "The Cranberries",
       "spotifyId": "3gjHnylel3PTRpjS44ocqr",
-      "ytMusicId": "lSDfCdycdvk",
+      "ytMusicId": "",
       "streams": 2037463,
       "peak": 193,
       "weeks": 1
@@ -2133,7 +2133,7 @@
       "title": "SaWaDiKa",
       "artist": "LISA",
       "spotifyId": "1VWiDyYTrqQhhmnWANWkFa",
-      "ytMusicId": "z71d3cWLwsw",
+      "ytMusicId": "",
       "streams": 2036548,
       "peak": 121,
       "weeks": 2
@@ -2144,7 +2144,7 @@
       "title": "Kiss It Better",
       "artist": "Rihanna",
       "spotifyId": "0UHB9METy4VCXNgkcGqHqS",
-      "ytMusicId": "Ht2O3xYjJik",
+      "ytMusicId": "",
       "streams": 2036168,
       "peak": 89,
       "weeks": 40
@@ -2155,7 +2155,7 @@
       "title": "Die On This Hill",
       "artist": "SIENNA SPIRO",
       "spotifyId": "2gYTC8DsplN3RNdpdBcCOQ",
-      "ytMusicId": "w_uqjwAovb0",
+      "ytMusicId": "",
       "streams": 2032654,
       "peak": 15,
       "weeks": 28
@@ -2166,7 +2166,7 @@
       "title": "Sienna",
       "artist": "The Marías",
       "spotifyId": "0InIeZW4P6VO7dUGRM4AKH",
-      "ytMusicId": "ZUDBd-md0VE",
+      "ytMusicId": "",
       "streams": 2027414,
       "peak": 21,
       "weeks": 44
@@ -2177,7 +2177,7 @@
       "title": "Santeria",
       "artist": "Sublime",
       "spotifyId": "2hnMS47jN0etwvFPzYk11f",
-      "ytMusicId": "2l5hR3WKL8I",
+      "ytMusicId": "",
       "streams": 2026694,
       "peak": 65,
       "weeks": 70
@@ -2188,7 +2188,7 @@
       "title": "Hey There Delilah",
       "artist": "Plain White T's",
       "spotifyId": "4RCWB3V8V0dignt99LZ8vH",
-      "ytMusicId": "oEeet9t--tI",
+      "ytMusicId": "",
       "streams": 2022197,
       "peak": 123,
       "weeks": 18
@@ -2199,7 +2199,7 @@
       "title": "Just the Way You Are",
       "artist": "Bruno Mars",
       "spotifyId": "7BqBn9nzAq8spo5e7cZ0dJ",
-      "ytMusicId": "GnUW4AF1LZo",
+      "ytMusicId": "",
       "streams": 2018733,
       "peak": 79,
       "weeks": 33
