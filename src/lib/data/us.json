@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-09-27",
-  "lastUpdated": "2026-09-27T11:14:50.850Z",
+  "weekDate": "2026-09-28",
+  "lastUpdated": "2026-09-28T12:38:09.539Z",
   "tracks": [
     {
       "rank": 1,
@@ -1561,7 +1561,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 2299238,
       "peak": 12,
       "weeks": 22
@@ -1836,7 +1836,7 @@
       "title": "misery.",
       "artist": "pupsies",
       "spotifyId": "6De8sirPzVyAoBDlQpcutY",
-      "ytMusicId": "qJKcADiAuAw",
+      "ytMusicId": "nEUZPehC6rs",
       "streams": 2169366,
       "peak": 17,
       "weeks": 13

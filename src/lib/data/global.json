@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-27",
-  "lastUpdated": "2026-09-27T11:10:15.892Z",
+  "weekDate": "2026-09-28",
+  "lastUpdated": "2026-09-28T12:33:36.762Z",
   "tracks": [
     {
       "rank": 1,
@@ -593,7 +593,7 @@
       "title": "Blank Space",
       "artist": "Taylor Swift",
       "spotifyId": "1u8c2t2Cy7UBoG4ArRcF5g",
-      "ytMusicId": "6hCqRb8Dtvo",
+      "ytMusicId": "-MtKC5wXqdQ",
       "streams": 12037785,
       "peak": 27,
       "weeks": 120
@@ -626,7 +626,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 11823117,
       "peak": 5,
       "weeks": 25
@@ -736,7 +736,7 @@
       "title": "Sesi Potret (w/ Ari Lesmana)",
       "artist": "eńau",
       "spotifyId": "4xoY4lZNoTjEuHsSmhgF1G",
-      "ytMusicId": "UmBNAt4xMSE",
+      "ytMusicId": "",
       "streams": 11178837,
       "peak": 24,
       "weeks": 18
@@ -1165,7 +1165,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "E2lX1ZovtcA",
+      "ytMusicId": "FEexxsmnLBA",
       "streams": 9655004,
       "peak": 72,
       "weeks": 98
@@ -1330,7 +1330,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "UUpuyzPJeWA",
       "streams": 9364269,
       "peak": 59,
       "weeks": 150
