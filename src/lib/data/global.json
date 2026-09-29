@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-28",
-  "lastUpdated": "2026-09-28T12:33:36.762Z",
+  "weekDate": "2026-09-29",
+  "lastUpdated": "2026-09-29T11:56:20.412Z",
   "tracks": [
     {
       "rank": 1,
@@ -571,7 +571,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "plnfIj7dkJE",
+      "ytMusicId": "3_g2un5M350",
       "streams": 12114932,
       "peak": 1,
       "weeks": 326
@@ -626,7 +626,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 11823117,
       "peak": 5,
       "weeks": 25
@@ -736,7 +736,7 @@
       "title": "Sesi Potret (w/ Ari Lesmana)",
       "artist": "eńau",
       "spotifyId": "4xoY4lZNoTjEuHsSmhgF1G",
-      "ytMusicId": "",
+      "ytMusicId": "UmBNAt4xMSE",
       "streams": 11178837,
       "peak": 24,
       "weeks": 18
@@ -1165,7 +1165,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "FEexxsmnLBA",
+      "ytMusicId": "E2lX1ZovtcA",
       "streams": 9655004,
       "peak": 72,
       "weeks": 98

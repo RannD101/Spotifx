@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-09-28",
-  "lastUpdated": "2026-09-28T12:39:13.866Z",
+  "weekDate": "2026-09-29",
+  "lastUpdated": "2026-09-29T12:02:02.939Z",
   "tracks": [
     {
       "rank": 1,
@@ -901,7 +901,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 684286,
       "peak": 6,
       "weeks": 23
