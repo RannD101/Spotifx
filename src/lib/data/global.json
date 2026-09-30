@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-29",
-  "lastUpdated": "2026-09-29T11:56:20.412Z",
+  "weekDate": "2026-09-30",
+  "lastUpdated": "2026-09-30T11:43:47.903Z",
   "tracks": [
     {
       "rank": 1,
@@ -593,7 +593,7 @@
       "title": "Blank Space",
       "artist": "Taylor Swift",
       "spotifyId": "1u8c2t2Cy7UBoG4ArRcF5g",
-      "ytMusicId": "-MtKC5wXqdQ",
+      "ytMusicId": "6hCqRb8Dtvo",
       "streams": 12037785,
       "peak": 27,
       "weeks": 120
@@ -725,7 +725,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "nWKgjnh2zD0",
+      "ytMusicId": "3ssXSY7f3s4",
       "streams": 11226631,
       "peak": 61,
       "weeks": 122
@@ -1330,7 +1330,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "UUpuyzPJeWA",
+      "ytMusicId": "-kEnb77mcUk",
       "streams": 9364269,
       "peak": 59,
       "weeks": 150
