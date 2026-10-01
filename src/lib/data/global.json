@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-09-30",
-  "lastUpdated": "2026-09-30T11:43:47.903Z",
+  "weekDate": "2026-10-01",
+  "lastUpdated": "2026-10-01T12:12:30.326Z",
   "tracks": [
     {
       "rank": 1,
@@ -241,7 +241,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 16441107,
       "peak": 1,
       "weeks": 70
@@ -329,7 +329,7 @@
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "spotifyId": "5g7sDjBhZ4I3gcFIpkrLuI",
-      "ytMusicId": "GKsR3A1zyjo",
+      "ytMusicId": "zuaBRqUBhyw",
       "streams": 14704378,
       "peak": 18,
       "weeks": 253
@@ -626,7 +626,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 11823117,
       "peak": 5,
       "weeks": 25
@@ -670,7 +670,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "4IbRT6Vfl_U",
+      "ytMusicId": "7193204dpGU",
       "streams": 11640637,
       "peak": 1,
       "weeks": 334
@@ -714,7 +714,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 11267589,
       "peak": 31,
       "weeks": 217
@@ -725,7 +725,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "3ssXSY7f3s4",
+      "ytMusicId": "hSW-Mc6iNJ4",
       "streams": 11226631,
       "peak": 61,
       "weeks": 122
@@ -758,7 +758,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 11084926,
       "peak": 40,
       "weeks": 23
@@ -1000,7 +1000,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "9lybsz-7TFM",
+      "ytMusicId": "E71PDyY5zQg",
       "streams": 10172069,
       "peak": 25,
       "weeks": 19
@@ -1099,7 +1099,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 9895090,
       "peak": 27,
       "weeks": 43
@@ -1286,7 +1286,7 @@
       "title": "Young And Beautiful",
       "artist": "Lana Del Rey",
       "spotifyId": "2nMeu6UenVvwUktBCpLMK9",
-      "ytMusicId": "6_r40KTSqtk",
+      "ytMusicId": "mjcX-5lKdeg",
       "streams": 9404841,
       "peak": 104,
       "weeks": 73
@@ -1297,7 +1297,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "EKjdR-5XKYs",
+      "ytMusicId": "F7wROdnDz34",
       "streams": 9402244,
       "peak": 52,
       "weeks": 143
@@ -1330,7 +1330,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "fv_mTllORDg",
       "streams": 9364269,
       "peak": 59,
       "weeks": 150
@@ -1484,7 +1484,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "rJ0D1GbDq1Q",
+      "ytMusicId": "3adcqXjtb7Q",
       "streams": 9094942,
       "peak": 2,
       "weeks": 144
@@ -1517,7 +1517,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "r7zTKRonHXM",
+      "ytMusicId": "KdFPYgBPnmg",
       "streams": 8995519,
       "peak": 1,
       "weeks": 280
@@ -1726,7 +1726,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "_ydMlTassYc",
+      "ytMusicId": "adAsBd25hl4",
       "streams": 8647679,
       "peak": 91,
       "weeks": 14
@@ -1902,7 +1902,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "N5jD5CI93JM",
+      "ytMusicId": "oodQMZLjoBU",
       "streams": 8362019,
       "peak": 37,
       "weeks": 88
@@ -2122,7 +2122,7 @@
       "title": "We Don't Talk Anymore (w/ Selena Gomez)",
       "artist": "Charlie Puth",
       "spotifyId": "06KyNuuMOX1ROXRhj787tj",
-      "ytMusicId": "yN6JgL0IUJg",
+      "ytMusicId": "3r-GMbxkO-w",
       "streams": 8142496,
       "peak": 9,
       "weeks": 145
