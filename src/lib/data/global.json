@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-01",
-  "lastUpdated": "2026-10-01T12:12:30.326Z",
+  "weekDate": "2026-10-02",
+  "lastUpdated": "2026-10-02T11:42:39.718Z",
   "tracks": [
     {
       "rank": 1,
@@ -329,7 +329,7 @@
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "spotifyId": "5g7sDjBhZ4I3gcFIpkrLuI",
-      "ytMusicId": "zuaBRqUBhyw",
+      "ytMusicId": "GKsR3A1zyjo",
       "streams": 14704378,
       "peak": 18,
       "weeks": 253
@@ -626,7 +626,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 11823117,
       "peak": 5,
       "weeks": 25
@@ -670,7 +670,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "7193204dpGU",
+      "ytMusicId": "SgV2nfCkz1M",
       "streams": 11640637,
       "peak": 1,
       "weeks": 334
@@ -758,7 +758,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 11084926,
       "peak": 40,
       "weeks": 23
@@ -1000,7 +1000,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "E71PDyY5zQg",
+      "ytMusicId": "9lybsz-7TFM",
       "streams": 10172069,
       "peak": 25,
       "weeks": 19
@@ -1297,7 +1297,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "F7wROdnDz34",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 9402244,
       "peak": 52,
       "weeks": 143
@@ -1330,7 +1330,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "fv_mTllORDg",
+      "ytMusicId": "TI3r-tvxiIA",
       "streams": 9364269,
       "peak": 59,
       "weeks": 150
@@ -1484,7 +1484,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "3adcqXjtb7Q",
+      "ytMusicId": "rJ0D1GbDq1Q",
       "streams": 9094942,
       "peak": 2,
       "weeks": 144
@@ -1517,7 +1517,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "KdFPYgBPnmg",
+      "ytMusicId": "r7zTKRonHXM",
       "streams": 8995519,
       "peak": 1,
       "weeks": 280
@@ -1726,7 +1726,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "adAsBd25hl4",
+      "ytMusicId": "_ydMlTassYc",
       "streams": 8647679,
       "peak": 91,
       "weeks": 14
@@ -2033,7 +2033,7 @@
       "change": "NEW",
       "title": "Wicked Game",
       "artist": "Chris Isaak",
-      "spotifyId": "7w5AOd6HrDIHewHfpABEss",
+      "spotifyId": "2y42xAsl6dfMeVXQgOYsUw",
       "ytMusicId": "rslMMY64BVg",
       "streams": 8206514,
       "peak": 185,
@@ -2122,7 +2122,7 @@
       "title": "We Don't Talk Anymore (w/ Selena Gomez)",
       "artist": "Charlie Puth",
       "spotifyId": "06KyNuuMOX1ROXRhj787tj",
-      "ytMusicId": "3r-GMbxkO-w",
+      "ytMusicId": "yN6JgL0IUJg",
       "streams": 8142496,
       "peak": 9,
       "weeks": 145
