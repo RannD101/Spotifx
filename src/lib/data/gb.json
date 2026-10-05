@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-10-04",
-  "lastUpdated": "2026-10-04T11:44:56.549Z",
+  "weekDate": "2026-10-05",
+  "lastUpdated": "2026-10-05T13:20:02.712Z",
   "tracks": [
     {
       "rank": 1,
@@ -131,7 +131,7 @@
       "title": "Pink Clouding",
       "artist": "Taylor Swift",
       "spotifyId": "3gyJbNBTRVRdZDA1yO3clm",
-      "ytMusicId": "678mwtFHxzs",
+      "ytMusicId": "9FHuWije2VE",
       "streams": 1565504,
       "peak": 12,
       "weeks": 1
@@ -208,7 +208,7 @@
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "spotifyId": "36idurZmYRjJ56KQ8JD9bN",
-      "ytMusicId": "C2elY5Tctqg",
+      "ytMusicId": "2dQ65kcnUL4",
       "streams": 1152302,
       "peak": 11,
       "weeks": 25
@@ -571,7 +571,7 @@
       "title": "Talk To You (ft. 54 Ultra) (w/ 54 Ultra)",
       "artist": "ANOTR",
       "spotifyId": "0eUP3XYOCAj7lGoz4LOhyQ",
-      "ytMusicId": "eWY7WNnig7U",
+      "ytMusicId": "3nxq0f8-VU0",
       "streams": 848244,
       "peak": 12,
       "weeks": 7
@@ -1044,7 +1044,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 653914,
       "peak": 6,
       "weeks": 24
@@ -1165,7 +1165,7 @@
       "title": "Animal",
       "artist": "KATSEYE",
       "spotifyId": "3ouNEk0tv5TTi8VWMe1xbX",
-      "ytMusicId": "kDsRsv3DsHg",
+      "ytMusicId": "Cx-rRpsKoTg",
       "streams": 636415,
       "peak": 22,
       "weeks": 10

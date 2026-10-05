@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-04",
-  "lastUpdated": "2026-10-04T11:43:55.576Z",
+  "weekDate": "2026-10-05",
+  "lastUpdated": "2026-10-05T13:19:00.920Z",
   "tracks": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "title": "Pink Clouding",
       "artist": "Taylor Swift",
       "spotifyId": "3gyJbNBTRVRdZDA1yO3clm",
-      "ytMusicId": "678mwtFHxzs",
+      "ytMusicId": "9FHuWije2VE",
       "streams": 10785211,
       "peak": 4,
       "weeks": 1
@@ -219,7 +219,7 @@
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "spotifyId": "36idurZmYRjJ56KQ8JD9bN",
-      "ytMusicId": "C2elY5Tctqg",
+      "ytMusicId": "2dQ65kcnUL4",
       "streams": 4123210,
       "peak": 7,
       "weeks": 25
@@ -1000,7 +1000,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "oodQMZLjoBU",
+      "ytMusicId": "N5jD5CI93JM",
       "streams": 2549892,
       "peak": 5,
       "weeks": 110
@@ -1363,7 +1363,7 @@
       "title": "Animal",
       "artist": "KATSEYE",
       "spotifyId": "3ouNEk0tv5TTi8VWMe1xbX",
-      "ytMusicId": "kDsRsv3DsHg",
+      "ytMusicId": "Cx-rRpsKoTg",
       "streams": 2400586,
       "peak": 8,
       "weeks": 10
@@ -1891,7 +1891,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 2183883,
       "peak": 12,
       "weeks": 23
