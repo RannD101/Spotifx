@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-10-05",
-  "lastUpdated": "2026-10-05T13:20:02.712Z",
+  "weekDate": "2026-10-06",
+  "lastUpdated": "2026-10-06T12:40:30.484Z",
   "tracks": [
     {
       "rank": 1,
@@ -98,7 +98,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 1585004,
       "peak": 9,
       "weeks": 4
@@ -362,7 +362,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "2y6zdAbN9o8",
+      "ytMusicId": "jMRQNDIjkSA",
       "streams": 982913,
       "peak": 26,
       "weeks": 24
@@ -483,7 +483,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 887543,
       "peak": 4,
       "weeks": 25
@@ -516,7 +516,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "tRyjFDzc4Ug",
       "streams": 872285,
       "peak": 7,
       "weeks": 23
@@ -615,7 +615,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "Kr4EQDVETuA",
+      "ytMusicId": "7CTJcHjkq0E",
       "streams": 838837,
       "peak": 4,
       "weeks": 67
@@ -758,7 +758,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 734357,
       "peak": 33,
       "weeks": 35
@@ -923,7 +923,7 @@
       "title": "Unwritten",
       "artist": "Natasha Bedingfield",
       "spotifyId": "3U5JVgI2x4rDyHGObzJfNf",
-      "ytMusicId": "dxB6Gqg26Kw",
+      "ytMusicId": "iKejQrGq04w",
       "streams": 679901,
       "peak": 11,
       "weeks": 127
@@ -1011,7 +1011,7 @@
       "title": "Landslide",
       "artist": "Fleetwood Mac",
       "spotifyId": "5ihS6UUlyQAfmp48eSkxuQ",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "k4M53xndqiU",
       "streams": 663662,
       "peak": 35,
       "weeks": 49
@@ -1099,7 +1099,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "4IbRT6Vfl_U",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 645057,
       "peak": 1,
       "weeks": 407
@@ -1363,7 +1363,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 594170,
       "peak": 27,
       "weeks": 221
@@ -1671,7 +1671,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "oB9JIz72BoM",
+      "ytMusicId": "g3qjQSohny8",
       "streams": 551565,
       "peak": 35,
       "weeks": 138
@@ -1693,7 +1693,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "hhSLkkLl750",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 548318,
       "peak": 125,
       "weeks": 44
@@ -1792,7 +1792,7 @@
       "title": "Candy",
       "artist": "Paolo Nutini",
       "spotifyId": "4h5m56ExHLPUC9NGz7U1Qa",
-      "ytMusicId": "geE39E0AOEk",
+      "ytMusicId": "D3oNs2n0Qjo",
       "streams": 530134,
       "peak": 163,
       "weeks": 5
@@ -1803,7 +1803,7 @@
       "title": "Can't Stop - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "6ojiTSzyv2qPMWqyhUKAqz",
-      "ytMusicId": "D4INE2zO9OU",
+      "ytMusicId": "zFmj--X57Vc",
       "streams": 528571,
       "peak": 73,
       "weeks": 31
@@ -1968,7 +1968,7 @@
       "title": "Les",
       "artist": "Childish Gambino",
       "spotifyId": "7ghKr0pCYyPPyp7t1FH8k4",
-      "ytMusicId": "eQL-E_TtB0o",
+      "ytMusicId": "L8gGHqPBuZM",
       "streams": 518365,
       "peak": 117,
       "weeks": 29
@@ -2111,7 +2111,7 @@
       "title": "She Moves In Her Own Way",
       "artist": "The Kooks",
       "spotifyId": "5xoUgPXbMNUmoHU0Enwtwq",
-      "ytMusicId": "kWh6upGkX5Q",
+      "ytMusicId": "ycdx7i7zt7M",
       "streams": 507048,
       "peak": 74,
       "weeks": 345
@@ -2188,7 +2188,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "-kEnb77mcUk",
+      "ytMusicId": "fv_mTllORDg",
       "streams": 501988,
       "peak": 34,
       "weeks": 122
