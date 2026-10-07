@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-06",
-  "lastUpdated": "2026-10-06T12:39:26.489Z",
+  "weekDate": "2026-10-07",
+  "lastUpdated": "2026-10-07T12:32:07.968Z",
   "tracks": [
     {
       "rank": 1,
@@ -1715,7 +1715,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "7MAs5b7EJyc",
+      "ytMusicId": "G_FNGJeAWlk",
       "streams": 2228663,
       "peak": 156,
       "weeks": 1
@@ -1946,7 +1946,7 @@
       "title": "luther",
       "artist": "Kendrick Lamar",
       "spotifyId": "2CGNAOSuO1MEFCbBRgUzjd",
-      "ytMusicId": "XVveECQmiAk",
+      "ytMusicId": "",
       "streams": 2160487,
       "peak": 1,
       "weeks": 89
