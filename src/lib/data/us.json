@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-07",
-  "lastUpdated": "2026-10-07T12:32:07.968Z",
+  "weekDate": "2026-10-08",
+  "lastUpdated": "2026-10-08T12:41:29.240Z",
   "tracks": [
     {
       "rank": 1,
@@ -593,7 +593,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "MaZ5UJWTw7A",
+      "ytMusicId": "aWkPBCF8rFU",
       "streams": 3025112,
       "peak": 3,
       "weeks": 25
@@ -1715,7 +1715,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 2228663,
       "peak": 156,
       "weeks": 1
@@ -1935,7 +1935,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "tRyjFDzc4Ug",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 2162813,
       "peak": 5,
       "weeks": 22
@@ -1946,7 +1946,7 @@
       "title": "luther",
       "artist": "Kendrick Lamar",
       "spotifyId": "2CGNAOSuO1MEFCbBRgUzjd",
-      "ytMusicId": "",
+      "ytMusicId": "XVveECQmiAk",
       "streams": 2160487,
       "peak": 1,
       "weeks": 89
