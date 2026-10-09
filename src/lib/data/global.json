@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-08",
-  "lastUpdated": "2026-10-08T12:36:46.869Z",
+  "weekDate": "2026-10-09",
+  "lastUpdated": "2026-10-09T12:24:35.157Z",
   "tracks": [
     {
       "rank": 1,
@@ -109,7 +109,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 20469224,
       "peak": 1,
       "weeks": 30
@@ -120,7 +120,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "2009X8GyWTqyxIdzAEYW6N",
-      "ytMusicId": "64wxAbbWNag",
+      "ytMusicId": "5ZsotZ-IqZs",
       "streams": 20225366,
       "peak": 4,
       "weeks": 28
@@ -593,7 +593,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "BfAEttBwyaw",
       "streams": 12462198,
       "peak": 1,
       "weeks": 327
@@ -604,7 +604,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "-E8Mey1Gi5I",
       "streams": 12403661,
       "peak": 40,
       "weeks": 24
@@ -1011,7 +1011,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "9lybsz-7TFM",
+      "ytMusicId": "E71PDyY5zQg",
       "streams": 10172585,
       "peak": 25,
       "weeks": 20
@@ -1330,7 +1330,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "E2lX1ZovtcA",
+      "ytMusicId": "623e2Hih_x4",
       "streams": 9331366,
       "peak": 72,
       "weeks": 99
@@ -1418,7 +1418,7 @@
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
       "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
-      "ytMusicId": "nOj6d-HOw2w",
+      "ytMusicId": "9zfWg3tvPCo",
       "streams": 9136037,
       "peak": 33,
       "weeks": 73
@@ -1583,7 +1583,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "rJ0D1GbDq1Q",
+      "ytMusicId": "3adcqXjtb7Q",
       "streams": 8853683,
       "peak": 2,
       "weeks": 145
@@ -1649,7 +1649,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "r7zTKRonHXM",
+      "ytMusicId": "KdFPYgBPnmg",
       "streams": 8814918,
       "peak": 1,
       "weeks": 281
@@ -1935,7 +1935,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "_ydMlTassYc",
+      "ytMusicId": "adAsBd25hl4",
       "streams": 8367703,
       "peak": 91,
       "weeks": 15
@@ -1990,7 +1990,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 8281189,
       "peak": 3,
       "weeks": 92
@@ -2001,7 +2001,7 @@
       "title": "No Lie (w/ Dua Lipa)",
       "artist": "Sean Paul",
       "spotifyId": "48QmG1dfvMuYLxMPt7KSRA",
-      "ytMusicId": "jOF8gqpoPgs",
+      "ytMusicId": "Kgkp3XqN804",
       "streams": 8231376,
       "peak": 82,
       "weeks": 48
@@ -2012,7 +2012,7 @@
       "title": "Outside (w/ Ellie Goulding)",
       "artist": "Calvin Harris",
       "spotifyId": "7MmG8p0F9N3C4AXdK6o6Eb",
-      "ytMusicId": "lMQH_xmx1zE",
+      "ytMusicId": "HANwDJt-RGU",
       "streams": 8227574,
       "peak": 4,
       "weeks": 84

@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-08",
-  "lastUpdated": "2026-10-08T12:41:29.240Z",
+  "weekDate": "2026-10-09",
+  "lastUpdated": "2026-10-09T12:29:13.183Z",
   "tracks": [
     {
       "rank": 1,
@@ -593,7 +593,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 3025112,
       "peak": 3,
       "weeks": 25
@@ -637,7 +637,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "2009X8GyWTqyxIdzAEYW6N",
-      "ytMusicId": "64wxAbbWNag",
+      "ytMusicId": "5ZsotZ-IqZs",
       "streams": 2931895,
       "peak": 35,
       "weeks": 27
@@ -1935,7 +1935,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "-E8Mey1Gi5I",
       "streams": 2162813,
       "peak": 5,
       "weeks": 22
@@ -2166,7 +2166,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "FhgFtXESdPk",
+      "ytMusicId": "d1QgQI83PQo",
       "streams": 2043288,
       "peak": 115,
       "weeks": 12
