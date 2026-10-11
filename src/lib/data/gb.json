@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-10-10",
-  "lastUpdated": "2026-10-10T11:49:00.251Z",
+  "weekDate": "2026-10-11",
+  "lastUpdated": "2026-10-11T12:02:11.019Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 1717436,
       "peak": 6,
       "weeks": 5
@@ -318,7 +318,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 969028,
       "peak": 7,
       "weeks": 24
@@ -549,7 +549,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 819110,
       "peak": 4,
       "weeks": 26
@@ -945,7 +945,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 669352,
       "peak": 6,
       "weeks": 25
@@ -1275,7 +1275,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "JnRw8bXVbPI",
+      "ytMusicId": "1WTATreAg08",
       "streams": 616475,
       "peak": 66,
       "weeks": 88
@@ -1517,7 +1517,7 @@
       "title": "Ain't No Mountain High Enough (w/ Tammi Terrell)",
       "artist": "Marvin Gaye",
       "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
-      "ytMusicId": "ABfQuZqq8wg",
+      "ytMusicId": "g3qjQSohny8",
       "streams": 565796,
       "peak": 35,
       "weeks": 139
@@ -1792,7 +1792,7 @@
       "title": "Can't Stop - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "6ojiTSzyv2qPMWqyhUKAqz",
-      "ytMusicId": "D4INE2zO9OU",
+      "ytMusicId": "Qfe-8BbfbFI",
       "streams": 533109,
       "peak": 73,
       "weeks": 32
@@ -2199,7 +2199,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "zWHj5s4uCmQ",
       "streams": 495155,
       "peak": 3,
       "weeks": 106

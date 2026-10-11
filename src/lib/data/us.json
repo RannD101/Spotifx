@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-10",
-  "lastUpdated": "2026-10-10T11:47:55.648Z",
+  "weekDate": "2026-10-11",
+  "lastUpdated": "2026-10-11T12:01:01.126Z",
   "tracks": [
     {
       "rank": 1,
@@ -747,7 +747,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 2704782,
       "peak": 3,
       "weeks": 26
@@ -1033,7 +1033,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "zWHj5s4uCmQ",
       "streams": 2507147,
       "peak": 1,
       "weeks": 112
@@ -1088,7 +1088,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 2487431,
       "peak": 5,
       "weeks": 23
@@ -1121,7 +1121,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "0ZqsQ9ap5_4",
+      "ytMusicId": "ZAz3rnLGthg",
       "streams": 2462281,
       "peak": 47,
       "weeks": 179
@@ -1517,7 +1517,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 2250957,
       "peak": 138,
       "weeks": 2
@@ -1528,7 +1528,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "T3bbIN_hNQ4",
+      "ytMusicId": "aLNksgXTSKc",
       "streams": 2242371,
       "peak": 9,
       "weeks": 50
@@ -1572,7 +1572,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "B8VEqSBTjZQ",
+      "ytMusicId": "kqkv3iY8Ws0",
       "streams": 2227065,
       "peak": 1,
       "weeks": 126
@@ -1671,7 +1671,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 2190262,
       "peak": 12,
       "weeks": 24
@@ -1715,7 +1715,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "NajmHZ6kcUg",
+      "ytMusicId": "YNP0YJ5gq0M",
       "streams": 2180069,
       "peak": 11,
       "weeks": 127
@@ -1781,7 +1781,7 @@
       "title": "Kiss It Better",
       "artist": "Rihanna",
       "spotifyId": "0UHB9METy4VCXNgkcGqHqS",
-      "ytMusicId": "np30lwvSoPY",
+      "ytMusicId": "Ht2O3xYjJik",
       "streams": 2156740,
       "peak": 89,
       "weeks": 43
@@ -2199,7 +2199,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "Ohq6cTsok08",
       "streams": 2032329,
       "peak": 65,
       "weeks": 30
