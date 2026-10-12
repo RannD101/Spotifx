@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-11",
-  "lastUpdated": "2026-10-11T11:56:22.743Z",
+  "weekDate": "2026-10-12",
+  "lastUpdated": "2026-10-12T14:05:20.038Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "MaZ5UJWTw7A",
+      "ytMusicId": "aWkPBCF8rFU",
       "streams": 19251380,
       "peak": 1,
       "weeks": 31
@@ -164,7 +164,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "zWHj5s4uCmQ",
+      "ytMusicId": "DlFXDl_ROAM",
       "streams": 17252375,
       "peak": 1,
       "weeks": 112
@@ -428,7 +428,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 13602054,
       "peak": 39,
       "weeks": 25
@@ -912,7 +912,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "DF94DPz47_k",
+      "ytMusicId": "hSW-Mc6iNJ4",
       "streams": 10100126,
       "peak": 61,
       "weeks": 124
@@ -1077,7 +1077,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "ALsvdSA9tOU",
+      "ytMusicId": "HGorCGszxZU",
       "streams": 9777677,
       "peak": 31,
       "weeks": 219
@@ -1297,7 +1297,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "GC7VIqfyPPw",
+      "ytMusicId": "E2lX1ZovtcA",
       "streams": 9358985,
       "peak": 72,
       "weeks": 100
@@ -1385,7 +1385,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "r7zTKRonHXM",
+      "ytMusicId": "08ZYKedDsAo",
       "streams": 9243550,
       "peak": 1,
       "weeks": 282
@@ -1407,7 +1407,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "dfShAV90250",
+      "ytMusicId": "EDcmA03o9OE",
       "streams": 9220314,
       "peak": 27,
       "weeks": 45
@@ -1946,7 +1946,7 @@
       "title": "We Don't Talk Anymore (w/ Selena Gomez)",
       "artist": "Charlie Puth",
       "spotifyId": "06KyNuuMOX1ROXRhj787tj",
-      "ytMusicId": "yN6JgL0IUJg",
+      "ytMusicId": "3r-GMbxkO-w",
       "streams": 8244950,
       "peak": 9,
       "weeks": 147
@@ -2023,7 +2023,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "_ydMlTassYc",
+      "ytMusicId": "Op9XFHzVZlo",
       "streams": 8163259,
       "peak": 91,
       "weeks": 16

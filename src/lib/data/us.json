@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-11",
-  "lastUpdated": "2026-10-11T12:01:01.126Z",
+  "weekDate": "2026-10-12",
+  "lastUpdated": "2026-10-12T14:10:14.706Z",
   "tracks": [
     {
       "rank": 1,
@@ -747,7 +747,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "MaZ5UJWTw7A",
+      "ytMusicId": "aWkPBCF8rFU",
       "streams": 2704782,
       "peak": 3,
       "weeks": 26
@@ -1033,7 +1033,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "zWHj5s4uCmQ",
+      "ytMusicId": "DlFXDl_ROAM",
       "streams": 2507147,
       "peak": 1,
       "weeks": 112
@@ -1088,7 +1088,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 2487431,
       "peak": 5,
       "weeks": 23
@@ -1473,7 +1473,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "dfShAV90250",
+      "ytMusicId": "EDcmA03o9OE",
       "streams": 2260835,
       "peak": 10,
       "weeks": 47
@@ -1528,7 +1528,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "aLNksgXTSKc",
+      "ytMusicId": "T3bbIN_hNQ4",
       "streams": 2242371,
       "peak": 9,
       "weeks": 50
@@ -1572,7 +1572,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "kqkv3iY8Ws0",
+      "ytMusicId": "B8VEqSBTjZQ",
       "streams": 2227065,
       "peak": 1,
       "weeks": 126
@@ -1715,7 +1715,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "YNP0YJ5gq0M",
+      "ytMusicId": "NajmHZ6kcUg",
       "streams": 2180069,
       "peak": 11,
       "weeks": 127
@@ -1913,7 +1913,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "d1QgQI83PQo",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 2109986,
       "peak": 115,
       "weeks": 13
@@ -2111,7 +2111,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "sbLqX7cUKoM",
+      "ytMusicId": "KnkDL9lkbX8",
       "streams": 2047698,
       "peak": 1,
       "weeks": 109
@@ -2199,7 +2199,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "Ohq6cTsok08",
+      "ytMusicId": "jJlLO8wcMsE",
       "streams": 2032329,
       "peak": 65,
       "weeks": 30
