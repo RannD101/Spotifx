@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-12",
-  "lastUpdated": "2026-10-12T14:05:20.038Z",
+  "weekDate": "2026-10-13",
+  "lastUpdated": "2026-10-13T13:19:18.555Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "2009X8GyWTqyxIdzAEYW6N",
-      "ytMusicId": "64wxAbbWNag",
+      "ytMusicId": "5ZsotZ-IqZs",
       "streams": 19462181,
       "peak": 4,
       "weeks": 29
@@ -87,7 +87,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 19251380,
       "peak": 1,
       "weeks": 31
@@ -428,7 +428,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 13602054,
       "peak": 39,
       "weeks": 25
@@ -692,7 +692,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "r7Rn4ryE_w8",
+      "ytMusicId": "c1jqWODXZ64",
       "streams": 11369550,
       "peak": 1,
       "weeks": 357
@@ -846,7 +846,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "ViIYOT8asN0",
       "streams": 10310455,
       "peak": 49,
       "weeks": 26
@@ -879,7 +879,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "AOz9V0NhJe8",
+      "ytMusicId": "W_YOJWZIjxo",
       "streams": 10157154,
       "peak": 3,
       "weeks": 93
@@ -1077,7 +1077,7 @@
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "spotifyId": "1mea3bSkSGXuIRvnydlB5b",
-      "ytMusicId": "HGorCGszxZU",
+      "ytMusicId": "ALsvdSA9tOU",
       "streams": 9777677,
       "peak": 31,
       "weeks": 219
@@ -1297,7 +1297,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "E2lX1ZovtcA",
+      "ytMusicId": "GC7VIqfyPPw",
       "streams": 9358985,
       "peak": 72,
       "weeks": 100
@@ -1385,7 +1385,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "08ZYKedDsAo",
+      "ytMusicId": "ZRtVdfRFR4o",
       "streams": 9243550,
       "peak": 1,
       "weeks": 282
@@ -1506,7 +1506,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "pkMDEWIMTiI",
       "streams": 9021088,
       "peak": 59,
       "weeks": 22
