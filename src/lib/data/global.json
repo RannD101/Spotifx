@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-13",
-  "lastUpdated": "2026-10-13T13:19:18.555Z",
+  "weekDate": "2026-10-14",
+  "lastUpdated": "2026-10-14T10:59:39.477Z",
   "tracks": [
     {
       "rank": 1,
@@ -76,7 +76,7 @@
       "title": "The One That Got Away",
       "artist": "Katy Perry",
       "spotifyId": "2009X8GyWTqyxIdzAEYW6N",
-      "ytMusicId": "5ZsotZ-IqZs",
+      "ytMusicId": "64wxAbbWNag",
       "streams": 19462181,
       "peak": 4,
       "weeks": 29
@@ -87,7 +87,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "MaZ5UJWTw7A",
+      "ytMusicId": "aWkPBCF8rFU",
       "streams": 19251380,
       "peak": 1,
       "weeks": 31
@@ -428,7 +428,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 13602054,
       "peak": 39,
       "weeks": 25
@@ -472,7 +472,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "BfAEttBwyaw",
+      "ytMusicId": "3_g2un5M350",
       "streams": 12952475,
       "peak": 1,
       "weeks": 328
@@ -692,7 +692,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "c1jqWODXZ64",
+      "ytMusicId": "r7Rn4ryE_w8",
       "streams": 11369550,
       "peak": 1,
       "weeks": 357
@@ -703,7 +703,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 11295022,
       "peak": 5,
       "weeks": 27
@@ -725,7 +725,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "EgfsXTOn_pI",
       "streams": 10967786,
       "peak": 1,
       "weeks": 336
@@ -846,7 +846,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "ViIYOT8asN0",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 10310455,
       "peak": 49,
       "weeks": 26
@@ -890,7 +890,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "E71PDyY5zQg",
+      "ytMusicId": "9lybsz-7TFM",
       "streams": 10130129,
       "peak": 25,
       "weeks": 21
@@ -1198,7 +1198,7 @@
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
       "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
-      "ytMusicId": "9zfWg3tvPCo",
+      "ytMusicId": "nOj6d-HOw2w",
       "streams": 9488087,
       "peak": 33,
       "weeks": 74
@@ -1297,7 +1297,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "GC7VIqfyPPw",
+      "ytMusicId": "E2lX1ZovtcA",
       "streams": 9358985,
       "peak": 72,
       "weeks": 100
@@ -1385,7 +1385,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "ZRtVdfRFR4o",
+      "ytMusicId": "r7zTKRonHXM",
       "streams": 9243550,
       "peak": 1,
       "weeks": 282
@@ -1407,7 +1407,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 9220314,
       "peak": 27,
       "weeks": 45
@@ -1495,7 +1495,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "F7wROdnDz34",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 9065584,
       "peak": 52,
       "weeks": 145
@@ -1506,7 +1506,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "pkMDEWIMTiI",
+      "ytMusicId": "xXD5tltX9Pg",
       "streams": 9021088,
       "peak": 59,
       "weeks": 22
@@ -1583,7 +1583,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "3adcqXjtb7Q",
+      "ytMusicId": "rJ0D1GbDq1Q",
       "streams": 8875466,
       "peak": 2,
       "weeks": 146
@@ -1946,7 +1946,7 @@
       "title": "We Don't Talk Anymore (w/ Selena Gomez)",
       "artist": "Charlie Puth",
       "spotifyId": "06KyNuuMOX1ROXRhj787tj",
-      "ytMusicId": "3r-GMbxkO-w",
+      "ytMusicId": "yN6JgL0IUJg",
       "streams": 8244950,
       "peak": 9,
       "weeks": 147
@@ -2023,7 +2023,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "Op9XFHzVZlo",
+      "ytMusicId": "_ydMlTassYc",
       "streams": 8163259,
       "peak": 91,
       "weeks": 16
@@ -2089,7 +2089,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "7MAs5b7EJyc",
+      "ytMusicId": "G_FNGJeAWlk",
       "streams": 7995810,
       "peak": 190,
       "weeks": 1
