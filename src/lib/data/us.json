@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-14",
-  "lastUpdated": "2026-10-14T11:04:32.483Z",
+  "weekDate": "2026-10-15",
+  "lastUpdated": "2026-10-15T10:45:15.533Z",
   "tracks": [
     {
       "rank": 1,
@@ -1176,7 +1176,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EgfsXTOn_pI",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 2402233,
       "peak": 1,
       "weeks": 192
@@ -1473,7 +1473,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "dfShAV90250",
+      "ytMusicId": "EDcmA03o9OE",
       "streams": 2260835,
       "peak": 10,
       "weeks": 47
@@ -1517,7 +1517,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 2250957,
       "peak": 138,
       "weeks": 2
@@ -1671,7 +1671,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 2190262,
       "peak": 12,
       "weeks": 24
@@ -1913,7 +1913,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "d1QgQI83PQo",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 2109986,
       "peak": 115,
       "weeks": 13
@@ -1946,7 +1946,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 2106692,
       "peak": 1,
       "weeks": 75
@@ -2199,7 +2199,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "tpYdGgzCW-M",
+      "ytMusicId": "Ohq6cTsok08",
       "streams": 2032329,
       "peak": 65,
       "weeks": 30

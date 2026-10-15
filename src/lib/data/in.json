@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-10-14",
-  "lastUpdated": "2026-10-14T11:02:55.296Z",
+  "weekDate": "2026-10-15",
+  "lastUpdated": "2026-10-15T10:43:44.065Z",
   "tracks": [
     {
       "rank": 1,
@@ -703,7 +703,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "sJV8kbT1MEU",
+      "ytMusicId": "aVPwXQgY2QI",
       "streams": 0,
       "peak": 33,
       "weeks": 203
@@ -747,7 +747,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "7Iqe_yCYwvM",
+      "ytMusicId": "",
       "streams": 0,
       "peak": 1,
       "weeks": 103
@@ -813,7 +813,7 @@
       "title": "Vaaroon (w/ Romy, Ginny Diwan)",
       "artist": "Anand Bhaskar",
       "spotifyId": "4sgYmcu4FKb1ZC6qBlxMiw",
-      "ytMusicId": "pMnCDFzDJZ0",
+      "ytMusicId": "aiR3MSxIww0",
       "streams": 0,
       "peak": 44,
       "weeks": 66
@@ -945,7 +945,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "BfAEttBwyaw",
       "streams": 0,
       "peak": 12,
       "weeks": 271
@@ -1638,7 +1638,7 @@
       "title": "Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",
       "artist": "Amaal Mallik",
       "spotifyId": "6mTvwBzWTGDOVeCNQEqtOE",
-      "ytMusicId": "hp02FwlpQYU",
+      "ytMusicId": "lAsxLc9_45w",
       "streams": 0,
       "peak": 46,
       "weeks": 169
@@ -1946,7 +1946,7 @@
       "title": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\") (w/ Bunny, Sagar)",
       "artist": "Hunny",
       "spotifyId": "6egfWbtFFhMToV2DvmEzmo",
-      "ytMusicId": "ohx5VxmQCmM",
+      "ytMusicId": "",
       "streams": 0,
       "peak": 8,
       "weeks": 76
@@ -2188,7 +2188,7 @@
       "title": "Zara Sa (w/ KK)",
       "artist": "Pritam",
       "spotifyId": "18YHbIhrleUkKKj2DvEp79",
-      "ytMusicId": "zv-tbc4F818",
+      "ytMusicId": "KzhgaKWplog",
       "streams": 0,
       "peak": 33,
       "weeks": 188

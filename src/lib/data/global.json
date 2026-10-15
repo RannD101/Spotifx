@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-14",
-  "lastUpdated": "2026-10-14T10:59:39.477Z",
+  "weekDate": "2026-10-15",
+  "lastUpdated": "2026-10-15T10:40:41.956Z",
   "tracks": [
     {
       "rank": 1,
@@ -472,7 +472,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "BfAEttBwyaw",
       "streams": 12952475,
       "peak": 1,
       "weeks": 328
@@ -703,7 +703,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "kOn-HdEg6AQ",
+      "ytMusicId": "WlTlUseVt7E",
       "streams": 11295022,
       "peak": 5,
       "weeks": 27
@@ -725,7 +725,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EgfsXTOn_pI",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 10967786,
       "peak": 1,
       "weeks": 336
@@ -879,7 +879,7 @@
       "title": "That’s So True",
       "artist": "Gracie Abrams",
       "spotifyId": "7ne4VBA60CxGM75vw0EYad",
-      "ytMusicId": "W_YOJWZIjxo",
+      "ytMusicId": "AOz9V0NhJe8",
       "streams": 10157154,
       "peak": 3,
       "weeks": 93
@@ -912,7 +912,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "hSW-Mc6iNJ4",
+      "ytMusicId": "rN5PAlc73_k",
       "streams": 10100126,
       "peak": 61,
       "weeks": 124
@@ -1407,7 +1407,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "dfShAV90250",
+      "ytMusicId": "EDcmA03o9OE",
       "streams": 9220314,
       "peak": 27,
       "weeks": 45
@@ -1495,7 +1495,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "BbWY-avjDto",
+      "ytMusicId": "F7wROdnDz34",
       "streams": 9065584,
       "peak": 52,
       "weeks": 145
@@ -1616,7 +1616,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "17rFEzznMGo",
       "streams": 8854325,
       "peak": 2,
       "weeks": 173
@@ -2089,7 +2089,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 7995810,
       "peak": 190,
       "weeks": 1
