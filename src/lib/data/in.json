@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-10-15",
-  "lastUpdated": "2026-10-15T10:43:44.065Z",
+  "weekDate": "2026-10-16",
+  "lastUpdated": "2026-10-16T10:30:44.578Z",
   "tracks": [
     {
       "rank": 1,
@@ -747,7 +747,7 @@
       "title": "Raanjhan (From \"Do Patti\") (w/ Parampara Tandon, Kausar Munir)",
       "artist": "Sachet-Parampara",
       "spotifyId": "4vHRQnzGcKEtqsLH70tAms",
-      "ytMusicId": "",
+      "ytMusicId": "7Iqe_yCYwvM",
       "streams": 0,
       "peak": 1,
       "weeks": 103
@@ -758,7 +758,7 @@
       "title": "Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "6xwKNAUHeo2DbWNAPi8aEy",
-      "ytMusicId": "AxN0RjNx6WM",
+      "ytMusicId": "TaTZb7NXja0",
       "streams": 0,
       "peak": 2,
       "weeks": 29
@@ -835,7 +835,7 @@
       "title": "Tera Mera Rishta (w/ Mustafa Zahid)",
       "artist": "Pritam",
       "spotifyId": "23T4WcVkvuaAEOgXr848i1",
-      "ytMusicId": "kb_6Vz-k7Wc",
+      "ytMusicId": "XA_uBJjutgc",
       "streams": 0,
       "peak": 12,
       "weeks": 15
@@ -1825,7 +1825,7 @@
       "title": "Ae Dil Hai Mushkil Title Track (From \"Ae Dil Hai Mushkil\") (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "1UWacd8x8tPPwmrPB1MoBI",
-      "ytMusicId": "wx89ZdkwtS8",
+      "ytMusicId": "dXKrpx6cZQg",
       "streams": 0,
       "peak": 66,
       "weeks": 334
@@ -1946,7 +1946,7 @@
       "title": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\") (w/ Bunny, Sagar)",
       "artist": "Hunny",
       "spotifyId": "6egfWbtFFhMToV2DvmEzmo",
-      "ytMusicId": "",
+      "ytMusicId": "ohx5VxmQCmM",
       "streams": 0,
       "peak": 8,
       "weeks": 76

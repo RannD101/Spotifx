@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-15",
-  "lastUpdated": "2026-10-15T10:45:15.533Z",
+  "weekDate": "2026-10-16",
+  "lastUpdated": "2026-10-16T10:32:19.244Z",
   "tracks": [
     {
       "rank": 1,
@@ -329,7 +329,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "ViIYOT8asN0",
       "streams": 3594391,
       "peak": 12,
       "weeks": 26
@@ -747,7 +747,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 2704782,
       "peak": 3,
       "weeks": 26
@@ -1088,7 +1088,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 2487431,
       "peak": 5,
       "weeks": 23
@@ -1176,7 +1176,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "7193204dpGU",
       "streams": 2402233,
       "peak": 1,
       "weeks": 192
@@ -1264,7 +1264,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "9_bTl2vvYQg",
+      "ytMusicId": "",
       "streams": 2333765,
       "peak": 1,
       "weeks": 68
@@ -1913,7 +1913,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "FhgFtXESdPk",
+      "ytMusicId": "d1QgQI83PQo",
       "streams": 2109986,
       "peak": 115,
       "weeks": 13
@@ -2199,7 +2199,7 @@
       "title": "Scar Tissue - 2014 Remaster",
       "artist": "Red Hot Chili Peppers",
       "spotifyId": "32sx78QsGg6pKXn42XvF9L",
-      "ytMusicId": "Ohq6cTsok08",
+      "ytMusicId": "tpYdGgzCW-M",
       "streams": 2032329,
       "peak": 65,
       "weeks": 30
