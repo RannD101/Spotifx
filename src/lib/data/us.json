@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-17",
-  "lastUpdated": "2026-10-17T10:04:34.925Z",
+  "weekDate": "2026-10-18",
+  "lastUpdated": "2026-10-18T10:16:54.443Z",
   "tracks": [
     {
       "rank": 1,
@@ -450,7 +450,7 @@
       "title": "expectations",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4bkClAuofJULiaIZsuL3gT",
-      "ytMusicId": "9KcnxA36s04",
+      "ytMusicId": "ZYUql_ZPHrc",
       "streams": 3205108,
       "peak": 9,
       "weeks": 18
@@ -1121,7 +1121,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "7193204dpGU",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 2428348,
       "peak": 1,
       "weeks": 193
@@ -1880,7 +1880,7 @@
       "title": "Beat It",
       "artist": "Michael Jackson",
       "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytMusicId": "WlTlUseVt7E",
+      "ytMusicId": "kOn-HdEg6AQ",
       "streams": 2100967,
       "peak": 12,
       "weeks": 25
