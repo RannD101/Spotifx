@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-10-18",
-  "lastUpdated": "2026-10-18T10:17:59.134Z",
+  "weekDate": "2026-10-19",
+  "lastUpdated": "2026-10-19T11:51:37.782Z",
   "tracks": [
     {
       "rank": 1,
@@ -175,7 +175,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "tRyjFDzc4Ug",
       "streams": 1170561,
       "peak": 7,
       "weeks": 25
@@ -340,7 +340,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "ViIYOT8asN0",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 965672,
       "peak": 22,
       "weeks": 27
@@ -648,7 +648,7 @@
       "title": "expectations",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4bkClAuofJULiaIZsuL3gT",
-      "ytMusicId": "ZYUql_ZPHrc",
+      "ytMusicId": "9KcnxA36s04",
       "streams": 746658,
       "peak": 10,
       "weeks": 18
@@ -1341,7 +1341,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "JnRw8bXVbPI",
+      "ytMusicId": "1WTATreAg08",
       "streams": 587472,
       "peak": 66,
       "weeks": 89
@@ -1605,7 +1605,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "zWHj5s4uCmQ",
       "streams": 552228,
       "peak": 3,
       "weeks": 107
@@ -1759,7 +1759,7 @@
       "title": "Stay (w/ Mikky Ekko)",
       "artist": "Rihanna",
       "spotifyId": "789CxjEOtO76BVD1A9yJQH",
-      "ytMusicId": "-zlPkMP_gU0",
+      "ytMusicId": "2aLO6Ecof4s",
       "streams": 534153,
       "peak": 79,
       "weeks": 65
@@ -1825,7 +1825,7 @@
       "title": "Go Your Own Way - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "34F6qT8udksbeKO7CVDBqF",
-      "ytMusicId": "mXonGAEPQp8",
+      "ytMusicId": "MTIkFwMuiTw",
       "streams": 528518,
       "peak": 125,
       "weeks": 24
