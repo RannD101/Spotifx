@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-20",
-  "lastUpdated": "2026-10-20T10:47:11.817Z",
+  "weekDate": "2026-10-21",
+  "lastUpdated": "2026-10-21T10:58:18.699Z",
   "tracks": [
     {
       "rank": 1,
@@ -263,7 +263,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 15567856,
       "peak": 1,
       "weeks": 73
@@ -890,7 +890,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 10295775,
       "peak": 49,
       "weeks": 27
@@ -1583,7 +1583,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "flTobuZEyy0",
       "streams": 8681923,
       "peak": 59,
       "weeks": 153
@@ -1649,7 +1649,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "BbWY-avjDto",
+      "ytMusicId": "o3My0v4PcYk",
       "streams": 8590154,
       "peak": 52,
       "weeks": 146
@@ -2023,7 +2023,7 @@
       "title": "Wicked Game",
       "artist": "Chris Isaak",
       "spotifyId": "2y42xAsl6dfMeVXQgOYsUw",
-      "ytMusicId": "rslMMY64BVg",
+      "ytMusicId": "r68qMLSzGl8",
       "streams": 8084275,
       "peak": 165,
       "weeks": 4

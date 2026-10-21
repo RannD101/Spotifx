@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-20",
-  "lastUpdated": "2026-10-20T10:52:04.229Z",
+  "weekDate": "2026-10-21",
+  "lastUpdated": "2026-10-21T11:02:59.238Z",
   "tracks": [
     {
       "rank": 1,
@@ -274,7 +274,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 3622946,
       "peak": 12,
       "weeks": 27
@@ -560,7 +560,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 2937874,
       "peak": 4,
       "weeks": 41

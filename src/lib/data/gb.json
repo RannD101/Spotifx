@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-10-20",
-  "lastUpdated": "2026-10-20T10:53:13.385Z",
+  "weekDate": "2026-10-21",
+  "lastUpdated": "2026-10-21T11:04:06.739Z",
   "tracks": [
     {
       "rank": 1,
@@ -340,7 +340,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 965672,
       "peak": 22,
       "weeks": 27
@@ -439,7 +439,7 @@
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
-      "ytMusicId": "7CTJcHjkq0E",
+      "ytMusicId": "Kr4EQDVETuA",
       "streams": 847180,
       "peak": 4,
       "weeks": 69
@@ -2166,7 +2166,7 @@
       "title": "Wicked Game",
       "artist": "Chris Isaak",
       "spotifyId": "2y42xAsl6dfMeVXQgOYsUw",
-      "ytMusicId": "rslMMY64BVg",
+      "ytMusicId": "r68qMLSzGl8",
       "streams": 492976,
       "peak": 169,
       "weeks": 4
@@ -2177,7 +2177,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "flTobuZEyy0",
       "streams": 492936,
       "peak": 34,
       "weeks": 123
