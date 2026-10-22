@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-21",
-  "lastUpdated": "2026-10-21T11:02:59.238Z",
+  "weekDate": "2026-10-22",
+  "lastUpdated": "2026-10-22T11:03:18.146Z",
   "tracks": [
     {
       "rank": 1,
@@ -274,7 +274,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 3622946,
       "peak": 12,
       "weeks": 27
@@ -1198,7 +1198,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "FhgFtXESdPk",
+      "ytMusicId": "d1QgQI83PQo",
       "streams": 2352005,
       "peak": 109,
       "weeks": 14
@@ -1319,7 +1319,7 @@
       "title": "Animal",
       "artist": "KATSEYE",
       "spotifyId": "3ouNEk0tv5TTi8VWMe1xbX",
-      "ytMusicId": "Cx-rRpsKoTg",
+      "ytMusicId": "vOfyxPRunFM",
       "streams": 2317959,
       "peak": 8,
       "weeks": 12
@@ -1418,7 +1418,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "r7Rn4ryE_w8",
+      "ytMusicId": "c1jqWODXZ64",
       "streams": 2274239,
       "peak": 1,
       "weeks": 343
@@ -1495,7 +1495,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 2243997,
       "peak": 10,
       "weeks": 48
@@ -1594,7 +1594,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "sbLqX7cUKoM",
+      "ytMusicId": "bndrFmNG47M",
       "streams": 2204687,
       "peak": 1,
       "weeks": 110
@@ -1891,7 +1891,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "NajmHZ6kcUg",
+      "ytMusicId": "YNP0YJ5gq0M",
       "streams": 2100345,
       "peak": 11,
       "weeks": 128

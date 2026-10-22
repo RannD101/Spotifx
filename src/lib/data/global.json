@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-21",
-  "lastUpdated": "2026-10-21T10:58:18.699Z",
+  "weekDate": "2026-10-22",
+  "lastUpdated": "2026-10-22T10:58:28.466Z",
   "tracks": [
     {
       "rank": 1,
@@ -604,7 +604,7 @@
       "title": "Animal",
       "artist": "KATSEYE",
       "spotifyId": "3ouNEk0tv5TTi8VWMe1xbX",
-      "ytMusicId": "Cx-rRpsKoTg",
+      "ytMusicId": "vOfyxPRunFM",
       "streams": 12119600,
       "peak": 8,
       "weeks": 12
@@ -681,7 +681,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "r7Rn4ryE_w8",
+      "ytMusicId": "c1jqWODXZ64",
       "streams": 11310822,
       "peak": 1,
       "weeks": 358
@@ -890,7 +890,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 10295775,
       "peak": 49,
       "weeks": 27
@@ -1396,7 +1396,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 9037223,
       "peak": 27,
       "weeks": 46
@@ -1528,7 +1528,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "E2lX1ZovtcA",
+      "ytMusicId": "GC7VIqfyPPw",
       "streams": 8856617,
       "peak": 72,
       "weeks": 101
@@ -1682,7 +1682,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "rJ0D1GbDq1Q",
+      "ytMusicId": "3adcqXjtb7Q",
       "streams": 8538362,
       "peak": 2,
       "weeks": 147
@@ -2023,7 +2023,7 @@
       "title": "Wicked Game",
       "artist": "Chris Isaak",
       "spotifyId": "2y42xAsl6dfMeVXQgOYsUw",
-      "ytMusicId": "r68qMLSzGl8",
+      "ytMusicId": "rslMMY64BVg",
       "streams": 8084275,
       "peak": 165,
       "weeks": 4
@@ -2144,7 +2144,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "FhgFtXESdPk",
+      "ytMusicId": "d1QgQI83PQo",
       "streams": 7866648,
       "peak": 195,
       "weeks": 1
