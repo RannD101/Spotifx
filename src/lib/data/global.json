@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-22",
-  "lastUpdated": "2026-10-22T10:58:28.466Z",
+  "weekDate": "2026-10-23",
+  "lastUpdated": "2026-10-23T10:50:23.139Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 19711214,
       "peak": 1,
       "weeks": 32
@@ -494,7 +494,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "BfAEttBwyaw",
       "streams": 12782802,
       "peak": 1,
       "weeks": 329
@@ -681,7 +681,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "c1jqWODXZ64",
+      "ytMusicId": "r7Rn4ryE_w8",
       "streams": 11310822,
       "peak": 1,
       "weeks": 358
@@ -813,7 +813,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "lWLnZ7x4i8o",
+      "ytMusicId": "rN5PAlc73_k",
       "streams": 10703676,
       "peak": 61,
       "weeks": 125
@@ -890,7 +890,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 10295775,
       "peak": 49,
       "weeks": 27
@@ -934,7 +934,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "9lybsz-7TFM",
+      "ytMusicId": "E71PDyY5zQg",
       "streams": 10191378,
       "peak": 25,
       "weeks": 22
@@ -1308,7 +1308,7 @@
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
       "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
-      "ytMusicId": "nOj6d-HOw2w",
+      "ytMusicId": "YSVN_XhB7bc",
       "streams": 9097427,
       "peak": 33,
       "weeks": 75
@@ -1341,7 +1341,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "T0pYq_Saf7g",
       "streams": 9078238,
       "peak": 2,
       "weeks": 174
@@ -1484,7 +1484,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "_ydMlTassYc",
+      "ytMusicId": "Op9XFHzVZlo",
       "streams": 8894404,
       "peak": 91,
       "weeks": 17
@@ -1528,7 +1528,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "GC7VIqfyPPw",
+      "ytMusicId": "UsBQJrpP3UQ",
       "streams": 8856617,
       "peak": 72,
       "weeks": 101
@@ -1583,7 +1583,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "flTobuZEyy0",
+      "ytMusicId": "fv_mTllORDg",
       "streams": 8681923,
       "peak": 59,
       "weeks": 153
@@ -1649,7 +1649,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "o3My0v4PcYk",
+      "ytMusicId": "dFxYTPtA5bw",
       "streams": 8590154,
       "peak": 52,
       "weeks": 146
@@ -1726,7 +1726,7 @@
       "title": "APT. (w/ Bruno Mars)",
       "artist": "ROSÉ",
       "spotifyId": "4wJ5Qq0jBN4ajy7ouZIV1c",
-      "ytMusicId": "DiTd771WumE",
+      "ytMusicId": "z6VX_TtUtfI",
       "streams": 8471700,
       "peak": 1,
       "weeks": 104
@@ -1968,7 +1968,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "wj0C2oet2r0",
       "streams": 8138802,
       "peak": 121,
       "weeks": 48
@@ -1979,7 +1979,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "r7zTKRonHXM",
+      "ytMusicId": "KdFPYgBPnmg",
       "streams": 8127269,
       "peak": 1,
       "weeks": 283
@@ -2144,7 +2144,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "d1QgQI83PQo",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 7866648,
       "peak": 195,
       "weeks": 1
