@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-10-25",
-  "lastUpdated": "2026-10-25T10:37:15.204Z",
+  "weekDate": "2026-10-26",
+  "lastUpdated": "2026-10-26T12:08:21.652Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 1166349,
       "peak": 7,
       "weeks": 26
@@ -1033,7 +1033,7 @@
       "title": "Zombie - 2025 Remastered",
       "artist": "The Cranberries",
       "spotifyId": "3gjHnylel3PTRpjS44ocqr",
-      "ytMusicId": "hND0thL_i9c",
+      "ytMusicId": "lSDfCdycdvk",
       "streams": 690074,
       "peak": 72,
       "weeks": 28
@@ -1055,7 +1055,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "QQcZ6iRhHC4",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 676328,
       "peak": 55,
       "weeks": 28
@@ -1088,7 +1088,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "3xvEjhaYADk",
+      "ytMusicId": "BO7FQnegW1o",
       "streams": 668093,
       "peak": 73,
       "weeks": 187
@@ -1594,7 +1594,7 @@
       "title": "Valerie (w/ Amy Winehouse)",
       "artist": "Mark Ronson",
       "spotifyId": "6kopmMZiyLmw7h66uXcXR7",
-      "ytMusicId": "t2TKqJ2FXGM",
+      "ytMusicId": "-WrSLR5oEao",
       "streams": 581073,
       "peak": 40,
       "weeks": 109
@@ -1627,7 +1627,7 @@
       "title": "Only Girl (In The World)",
       "artist": "Rihanna",
       "spotifyId": "2ENexcMEMsYk0rVJigVD3i",
-      "ytMusicId": "DxC-PpNdwxo",
+      "ytMusicId": "JhCA0y_ya6w",
       "streams": 576094,
       "peak": 114,
       "weeks": 71
