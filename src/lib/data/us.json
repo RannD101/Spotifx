@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-26",
-  "lastUpdated": "2026-10-26T12:07:13.605Z",
+  "weekDate": "2026-10-27",
+  "lastUpdated": "2026-10-27T11:28:30.481Z",
   "tracks": [
     {
       "rank": 1,
@@ -340,7 +340,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "ViIYOT8asN0",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 3473367,
       "peak": 12,
       "weeks": 28
@@ -758,7 +758,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "MaZ5UJWTw7A",
+      "ytMusicId": "aWkPBCF8rFU",
       "streams": 2730267,
       "peak": 3,
       "weeks": 28
@@ -846,7 +846,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "0ZqsQ9ap5_4",
+      "ytMusicId": "wj0C2oet2r0",
       "streams": 2666510,
       "peak": 47,
       "weeks": 181
@@ -1033,7 +1033,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 2547221,
       "peak": 10,
       "weeks": 49
@@ -2067,7 +2067,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "FhgFtXESdPk",
+      "ytMusicId": "QQcZ6iRhHC4",
       "streams": 2095328,
       "peak": 109,
       "weeks": 15
@@ -2111,7 +2111,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "T0pYq_Saf7g",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 2091632,
       "peak": 2,
       "weeks": 214
