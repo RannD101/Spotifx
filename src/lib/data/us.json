@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-27",
-  "lastUpdated": "2026-10-27T11:28:30.481Z",
+  "weekDate": "2026-10-28",
+  "lastUpdated": "2026-10-28T12:02:33.957Z",
   "tracks": [
     {
       "rank": 1,
@@ -307,7 +307,7 @@
       "title": "Loser",
       "artist": "Tame Impala",
       "spotifyId": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "ytMusicId": "MX7FSAnRPug",
+      "ytMusicId": "GQgL-Dk9sq0",
       "streams": 3617447,
       "peak": 3,
       "weeks": 14
@@ -846,7 +846,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "wj0C2oet2r0",
+      "ytMusicId": "0ZqsQ9ap5_4",
       "streams": 2666510,
       "peak": 47,
       "weeks": 181
@@ -923,7 +923,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "-TVokYjyLHU",
+      "ytMusicId": "JjuLy7r1hOg",
       "streams": 2647999,
       "peak": 32,
       "weeks": 80
@@ -934,7 +934,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "bndrFmNG47M",
+      "ytMusicId": "sbLqX7cUKoM",
       "streams": 2645146,
       "peak": 1,
       "weeks": 111
@@ -2111,7 +2111,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "T0pYq_Saf7g",
       "streams": 2091632,
       "peak": 2,
       "weeks": 214
