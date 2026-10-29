@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-10-28",
-  "lastUpdated": "2026-10-28T12:03:46.391Z",
+  "weekDate": "2026-10-29",
+  "lastUpdated": "2026-10-29T12:10:50.882Z",
   "tracks": [
     {
       "rank": 1,
@@ -527,7 +527,7 @@
       "title": "Loser",
       "artist": "Tame Impala",
       "spotifyId": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "ytMusicId": "GQgL-Dk9sq0",
+      "ytMusicId": "MX7FSAnRPug",
       "streams": 912575,
       "peak": 7,
       "weeks": 12
@@ -1055,7 +1055,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "QQcZ6iRhHC4",
+      "ytMusicId": "FhgFtXESdPk",
       "streams": 676328,
       "peak": 55,
       "weeks": 28
