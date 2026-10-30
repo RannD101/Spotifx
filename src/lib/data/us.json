@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-29",
-  "lastUpdated": "2026-10-29T12:09:39.478Z",
+  "weekDate": "2026-10-30",
+  "lastUpdated": "2026-10-30T12:03:29.779Z",
   "tracks": [
     {
       "rank": 1,
@@ -318,7 +318,7 @@
       "title": "nothing",
       "artist": "Steve Lacy",
       "spotifyId": "3lIHa4fUwNKOCSS5k3Za0i",
-      "ytMusicId": "vQs-U3VlD0U",
+      "ytMusicId": "",
       "streams": 3605147,
       "peak": 29,
       "weeks": 6
@@ -637,7 +637,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 2844814,
       "peak": 5,
       "weeks": 25
@@ -934,7 +934,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "sbLqX7cUKoM",
+      "ytMusicId": "bndrFmNG47M",
       "streams": 2645146,
       "peak": 1,
       "weeks": 111
@@ -1407,7 +1407,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "TuzfXgUpboA",
+      "ytMusicId": "ssLCcp_T87s",
       "streams": 2335121,
       "peak": 1,
       "weeks": 70
@@ -1990,7 +1990,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "r7Rn4ryE_w8",
+      "ytMusicId": "hFSFaFvChqs",
       "streams": 2123248,
       "peak": 1,
       "weeks": 344
@@ -2111,7 +2111,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "qnpXlEwKmzA",
       "streams": 2091632,
       "peak": 2,
       "weeks": 214
