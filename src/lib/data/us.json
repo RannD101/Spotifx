@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-10-31",
-  "lastUpdated": "2026-10-31T11:36:55.300Z",
+  "weekDate": "2026-11-01",
+  "lastUpdated": "2026-11-01T12:33:52.886Z",
   "tracks": [
     {
       "rank": 1,
@@ -428,7 +428,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 3040033,
       "peak": 5,
       "weeks": 26
@@ -483,7 +483,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "bndrFmNG47M",
+      "ytMusicId": "KnkDL9lkbX8",
       "streams": 2978406,
       "peak": 1,
       "weeks": 112
@@ -835,7 +835,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BqWuX4KWE_0",
+      "ytMusicId": "BO7FQnegW1o",
       "streams": 2622988,
       "peak": 58,
       "weeks": 82
@@ -1033,7 +1033,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "QKPxNQfrtzU",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 2445886,
       "peak": 1,
       "weeks": 195
@@ -1154,7 +1154,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "dfShAV90250",
+      "ytMusicId": "EDcmA03o9OE",
       "streams": 2366957,
       "peak": 10,
       "weeks": 50
@@ -1946,7 +1946,7 @@
       "title": "She Will (w/ Drake)",
       "artist": "Lil Wayne",
       "spotifyId": "78O33U6jbQtNiNfbkZudpd",
-      "ytMusicId": "CLrCngdGfWw",
+      "ytMusicId": "v_5qP1YukCA",
       "streams": 2067452,
       "peak": 75,
       "weeks": 41

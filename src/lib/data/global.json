@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-10-31",
-  "lastUpdated": "2026-10-31T11:32:08.253Z",
+  "weekDate": "2026-11-01",
+  "lastUpdated": "2026-11-01T12:29:01.277Z",
   "tracks": [
     {
       "rank": 1,
@@ -142,7 +142,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 17759053,
       "peak": 13,
       "weeks": 28
@@ -659,7 +659,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "CDePAnRbjxw",
       "streams": 11560972,
       "peak": 1,
       "weeks": 331
@@ -736,7 +736,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "QKPxNQfrtzU",
+      "ytMusicId": "TwtGrHg0M3w",
       "streams": 10981557,
       "peak": 1,
       "weeks": 339
@@ -978,7 +978,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "hSW-Mc6iNJ4",
+      "ytMusicId": "DF94DPz47_k",
       "streams": 9768153,
       "peak": 61,
       "weeks": 127
@@ -1154,7 +1154,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "dfShAV90250",
+      "ytMusicId": "EDcmA03o9OE",
       "streams": 9479296,
       "peak": 27,
       "weeks": 48
@@ -1583,7 +1583,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "623e2Hih_x4",
+      "ytMusicId": "E2lX1ZovtcA",
       "streams": 8842317,
       "peak": 72,
       "weeks": 103
@@ -1781,7 +1781,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "9lybsz-7TFM",
+      "ytMusicId": "E71PDyY5zQg",
       "streams": 8474182,
       "peak": 25,
       "weeks": 24
@@ -1935,7 +1935,7 @@
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
       "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
-      "ytMusicId": "2vbFUG8K3uE",
+      "ytMusicId": "nOj6d-HOw2w",
       "streams": 8255175,
       "peak": 33,
       "weeks": 77
@@ -1968,7 +1968,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BqWuX4KWE_0",
+      "ytMusicId": "BO7FQnegW1o",
       "streams": 8159334,
       "peak": 140,
       "weeks": 38
@@ -2177,7 +2177,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "rJ0D1GbDq1Q",
+      "ytMusicId": "wnJNYYQSv98",
       "streams": 7902905,
       "peak": 2,
       "weeks": 149
