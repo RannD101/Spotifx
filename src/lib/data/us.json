@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-01",
-  "lastUpdated": "2026-11-01T12:33:52.886Z",
+  "weekDate": "2026-11-02",
+  "lastUpdated": "2026-11-02T14:30:28.907Z",
   "tracks": [
     {
       "rank": 1,
@@ -428,7 +428,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 3040033,
       "peak": 5,
       "weeks": 26
@@ -483,7 +483,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "KnkDL9lkbX8",
+      "ytMusicId": "bndrFmNG47M",
       "streams": 2978406,
       "peak": 1,
       "weeks": 112
@@ -604,7 +604,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "T3bbIN_hNQ4",
+      "ytMusicId": "2Xk35un-zdw",
       "streams": 2800254,
       "peak": 9,
       "weeks": 53
@@ -1935,7 +1935,7 @@
       "title": "What I Want (w/ Tate McRae)",
       "artist": "Morgan Wallen",
       "spotifyId": "04emojnbYkrRmv5qtJcgVP",
-      "ytMusicId": "IpKJdfzLsdU",
+      "ytMusicId": "SAsA0QOT1CA",
       "streams": 2070142,
       "peak": 1,
       "weeks": 73
@@ -2045,7 +2045,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "B8VEqSBTjZQ",
+      "ytMusicId": "xNb4JHrz5z4",
       "streams": 2033675,
       "peak": 1,
       "weeks": 129
@@ -2177,7 +2177,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "pzCzvroFvI4",
       "streams": 2001560,
       "peak": 22,
       "weeks": 14
