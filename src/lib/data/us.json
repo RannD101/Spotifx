@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-02",
-  "lastUpdated": "2026-11-02T14:30:28.907Z",
+  "weekDate": "2026-11-03",
+  "lastUpdated": "2026-11-03T13:30:42.026Z",
   "tracks": [
     {
       "rank": 1,
@@ -373,7 +373,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "DIOWSXLzi0I",
       "streams": 3155077,
       "peak": 12,
       "weeks": 29
@@ -416,7 +416,7 @@
       "change": "RE",
       "title": "Ghostbusters",
       "artist": "Ray Parker Jr.",
-      "spotifyId": "6thXB4RmajS4oZPNiBAKy0",
+      "spotifyId": "569uHYIB0X324FZOBEhvit",
       "ytMusicId": "TaV1r341wYk",
       "streams": 3049476,
       "peak": 13,
@@ -989,7 +989,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "JjuLy7r1hOg",
+      "ytMusicId": "-LheEo-OmH4",
       "streams": 2472234,
       "peak": 32,
       "weeks": 81
@@ -1033,7 +1033,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "FrsOnNxIrg8",
       "streams": 2445886,
       "peak": 1,
       "weeks": 195
@@ -1088,7 +1088,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "zWHj5s4uCmQ",
       "streams": 2396456,
       "peak": 1,
       "weeks": 115
@@ -1154,7 +1154,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 2366957,
       "peak": 10,
       "weeks": 50
@@ -1594,7 +1594,7 @@
       "title": "Have You Ever Seen The Rain",
       "artist": "Creedence Clearwater Revival",
       "spotifyId": "2LawezPeJhN4AWuSB0GtAU",
-      "ytMusicId": "Xwy-3aI435o",
+      "ytMusicId": "BEa_r67DqR8",
       "streams": 2217548,
       "peak": 81,
       "weeks": 78
@@ -1935,7 +1935,7 @@
       "title": "What I Want (w/ Tate McRae)",
       "artist": "Morgan Wallen",
       "spotifyId": "04emojnbYkrRmv5qtJcgVP",
-      "ytMusicId": "SAsA0QOT1CA",
+      "ytMusicId": "IpKJdfzLsdU",
       "streams": 2070142,
       "peak": 1,
       "weeks": 73
@@ -2045,7 +2045,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "xNb4JHrz5z4",
+      "ytMusicId": "B8VEqSBTjZQ",
       "streams": 2033675,
       "peak": 1,
       "weeks": 129
@@ -2122,7 +2122,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "qnpXlEwKmzA",
+      "ytMusicId": "FL-0pJsDz7k",
       "streams": 2013906,
       "peak": 2,
       "weeks": 215

@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-02",
-  "lastUpdated": "2026-11-02T14:31:42.739Z",
+  "weekDate": "2026-11-03",
+  "lastUpdated": "2026-11-03T13:32:01.577Z",
   "tracks": [
     {
       "rank": 1,
@@ -252,7 +252,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "81GUbfBqTv0",
+      "ytMusicId": "jMRQNDIjkSA",
       "streams": 1065811,
       "peak": 23,
       "weeks": 28
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "DIOWSXLzi0I",
       "streams": 855435,
       "peak": 22,
       "weeks": 29
@@ -747,7 +747,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 724648,
       "peak": 33,
       "weeks": 39
@@ -1275,7 +1275,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "FrsOnNxIrg8",
       "streams": 624545,
       "peak": 1,
       "weeks": 411
@@ -1594,7 +1594,7 @@
       "title": "Candy",
       "artist": "Paolo Nutini",
       "spotifyId": "4h5m56ExHLPUC9NGz7U1Qa",
-      "ytMusicId": "D3oNs2n0Qjo",
+      "ytMusicId": "",
       "streams": 564364,
       "peak": 126,
       "weeks": 9
@@ -1604,7 +1604,7 @@
       "change": "RE",
       "title": "Ghostbusters",
       "artist": "Ray Parker Jr.",
-      "spotifyId": "6thXB4RmajS4oZPNiBAKy0",
+      "spotifyId": "569uHYIB0X324FZOBEhvit",
       "ytMusicId": "TaV1r341wYk",
       "streams": 561356,
       "peak": 42,
@@ -1638,7 +1638,7 @@
       "title": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
       "artist": "Macklemore & Ryan Lewis",
       "spotifyId": "22skzmqfdWrjJylampe0kt",
-      "ytMusicId": "96L5sV7rqX0",
+      "ytMusicId": "kpC1LmXVu1A",
       "streams": 559490,
       "peak": 58,
       "weeks": 206
@@ -1913,7 +1913,7 @@
       "title": "Un-thinkable (I'm Ready) (w/ Drake)",
       "artist": "Alicia Keys",
       "spotifyId": "4o4wEDRqotccDTXiQ7TORu",
-      "ytMusicId": "vHLZdxaT3jI",
+      "ytMusicId": "sLF-OnxdiDU",
       "streams": 531433,
       "peak": 174,
       "weeks": 1
@@ -2056,7 +2056,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "zWHj5s4uCmQ",
       "streams": 514308,
       "peak": 3,
       "weeks": 109
