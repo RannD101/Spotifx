@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-11-05",
-  "lastUpdated": "2026-11-05T13:50:12.183Z",
+  "weekDate": "2026-11-06",
+  "lastUpdated": "2026-11-06T13:34:28.908Z",
   "tracks": [
     {
       "rank": 1,
@@ -659,7 +659,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "CDePAnRbjxw",
       "streams": 11560972,
       "peak": 1,
       "weeks": 331
@@ -791,7 +791,7 @@
       "title": "No Scrubs",
       "artist": "TLC",
       "spotifyId": "1KGi9sZVMeszgZOWivFpxs",
-      "ytMusicId": "q3MkrF5fPew",
+      "ytMusicId": "",
       "streams": 10539604,
       "peak": 55,
       "weeks": 8
@@ -1132,7 +1132,7 @@
       "title": "Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
       "artist": "Macklemore & Ryan Lewis",
       "spotifyId": "22skzmqfdWrjJylampe0kt",
-      "ytMusicId": "96L5sV7rqX0",
+      "ytMusicId": "kpC1LmXVu1A",
       "streams": 9503513,
       "peak": 56,
       "weeks": 207
@@ -1165,7 +1165,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "r7zTKRonHXM",
+      "ytMusicId": "Gcw5BwEwYb8",
       "streams": 9474101,
       "peak": 1,
       "weeks": 285
@@ -1198,7 +1198,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "pzCzvroFvI4",
       "streams": 9348534,
       "peak": 59,
       "weeks": 25
@@ -1429,7 +1429,7 @@
       "title": "NEON (w/ A2O LITE)",
       "artist": "A2O",
       "spotifyId": "5PvLNQRNRj61y3CU4SFIY4",
-      "ytMusicId": "rlYOsUfpi3M",
+      "ytMusicId": "",
       "streams": 9013093,
       "peak": 130,
       "weeks": 2
@@ -1517,7 +1517,7 @@
       "title": "APT. (w/ Bruno Mars)",
       "artist": "ROSÉ",
       "spotifyId": "4wJ5Qq0jBN4ajy7ouZIV1c",
-      "ytMusicId": "DiTd771WumE",
+      "ytMusicId": "Hc5-0O4YbWs",
       "streams": 8914845,
       "peak": 1,
       "weeks": 106
@@ -1583,7 +1583,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "E2lX1ZovtcA",
+      "ytMusicId": "623e2Hih_x4",
       "streams": 8842317,
       "peak": 72,
       "weeks": 103
@@ -1660,7 +1660,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "1wjjH0vxOnk",
+      "ytMusicId": "_ydMlTassYc",
       "streams": 8730392,
       "peak": 91,
       "weeks": 19
@@ -1792,7 +1792,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "17rFEzznMGo",
+      "ytMusicId": "FL-0pJsDz7k",
       "streams": 8443620,
       "peak": 2,
       "weeks": 176
@@ -1869,7 +1869,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "wj0C2oet2r0",
+      "ytMusicId": "0ZqsQ9ap5_4",
       "streams": 8370645,
       "peak": 121,
       "weeks": 50
@@ -1880,7 +1880,7 @@
       "title": "Unforgettable (w/ Swae Lee)",
       "artist": "French Montana",
       "spotifyId": "3B54sVLJ402zGa6Xm4YGNe",
-      "ytMusicId": "48ydDUQ16RE",
+      "ytMusicId": "4VPIYXiPRk0",
       "streams": 8369756,
       "peak": 3,
       "weeks": 164
@@ -2023,7 +2023,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "6KjVYeQ9SRw",
+      "ytMusicId": "5nCOjdHeYjM",
       "streams": 8101293,
       "peak": 35,
       "weeks": 46
