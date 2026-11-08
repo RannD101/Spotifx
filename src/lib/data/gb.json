@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-07",
-  "lastUpdated": "2026-11-07T12:20:43.635Z",
+  "weekDate": "2026-11-08",
+  "lastUpdated": "2026-11-08T12:40:31.420Z",
   "tracks": [
     {
       "rank": 1,
@@ -197,7 +197,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 1096327,
       "peak": 7,
       "weeks": 28
@@ -241,7 +241,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "2y6zdAbN9o8",
+      "ytMusicId": "oGvrcrY8Xbs",
       "streams": 1048087,
       "peak": 22,
       "weeks": 29
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "ViIYOT8asN0",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 871270,
       "peak": 22,
       "weeks": 30
@@ -1099,7 +1099,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "x7YFeMibEdc",
+      "ytMusicId": "FMpsyyeg0GA",
       "streams": 639810,
       "peak": 55,
       "weeks": 30
@@ -2144,7 +2144,7 @@
       "title": "Just Dance (w/ Colby O'Donis)",
       "artist": "Lady Gaga",
       "spotifyId": "1dzQoRqT5ucxXVaAhTcT0J",
-      "ytMusicId": "N4arkZu6Cho",
+      "ytMusicId": "ACNwMzZejQQ",
       "streams": 497596,
       "peak": 99,
       "weeks": 29
