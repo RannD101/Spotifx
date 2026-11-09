@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-08",
-  "lastUpdated": "2026-11-08T12:40:31.420Z",
+  "weekDate": "2026-11-09",
+  "lastUpdated": "2026-11-09T14:58:17.303Z",
   "tracks": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "change": "=",
       "title": "Stop The Wedding!",
       "artist": "Ashe",
-      "spotifyId": "3zOYmiNOuyDL0ClxJcEJ0T",
+      "spotifyId": "7MOO89Qv9AV7VZkt5mcqA8",
       "ytMusicId": "WNxAvQNsJuM",
       "streams": 2445318,
       "peak": 2,
@@ -197,7 +197,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 1096327,
       "peak": 7,
       "weeks": 28
@@ -241,7 +241,7 @@
       "title": "Clean Baby Sleep White Noise (Loopable no fade)",
       "artist": "Dream Supplier",
       "spotifyId": "3BgK59BTBUs8iQtnegfMfz",
-      "ytMusicId": "oGvrcrY8Xbs",
+      "ytMusicId": "jMRQNDIjkSA",
       "streams": 1048087,
       "peak": 22,
       "weeks": 29
@@ -384,7 +384,7 @@
       "title": "Shotta's.",
       "artist": "Season 25",
       "spotifyId": "0M4R6G6junOgTJDccOEGHo",
-      "ytMusicId": "BCA_Z7_7rik",
+      "ytMusicId": "RMXe4RnC-m8",
       "streams": 923202,
       "peak": 28,
       "weeks": 4
@@ -439,7 +439,7 @@
       "title": "Monster Mash",
       "artist": "Bobby \"Boris\" Pickett",
       "spotifyId": "4uUVNaxpS4zYcXkTrrRp6R",
-      "ytMusicId": "bRLML36HnzU",
+      "ytMusicId": "4qJ97lRm1as",
       "streams": 901996,
       "peak": 40,
       "weeks": 3
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "ViIYOT8asN0",
       "streams": 871270,
       "peak": 22,
       "weeks": 30
@@ -538,7 +538,7 @@
       "title": "Free Your Mind (w/ Cloonee)",
       "artist": "Prospa",
       "spotifyId": "39hHUnYBmyMwprzRaPODCX",
-      "ytMusicId": "V9Suvx0K5Eo",
+      "ytMusicId": "Qnp46kZ0DqE",
       "streams": 820541,
       "peak": 12,
       "weeks": 30
@@ -571,7 +571,7 @@
       "title": "Loser",
       "artist": "Tame Impala",
       "spotifyId": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "ytMusicId": "MX7FSAnRPug",
+      "ytMusicId": "GQgL-Dk9sq0",
       "streams": 802744,
       "peak": 7,
       "weeks": 14
@@ -604,7 +604,7 @@
       "title": "Zombie - 2025 Remastered",
       "artist": "The Cranberries",
       "spotifyId": "3gjHnylel3PTRpjS44ocqr",
-      "ytMusicId": "lSDfCdycdvk",
+      "ytMusicId": "bbZ384fVNh0",
       "streams": 782682,
       "peak": 45,
       "weeks": 30
@@ -758,7 +758,7 @@
       "title": "Somebody's Watching Me - Single Version",
       "artist": "Rockwell",
       "spotifyId": "2QN9zL3SzXdGqqmXO68gFp",
-      "ytMusicId": "KFS9c852M_k",
+      "ytMusicId": "qNQtq218vEc",
       "streams": 710721,
       "peak": 69,
       "weeks": 9
@@ -890,7 +890,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BO7FQnegW1o",
+      "ytMusicId": "zNexSgmB8w8",
       "streams": 678130,
       "peak": 73,
       "weeks": 189
@@ -945,7 +945,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "TuzfXgUpboA",
+      "ytMusicId": "US9pXNh8OUQ",
       "streams": 667627,
       "peak": 1,
       "weeks": 71
@@ -1253,7 +1253,7 @@
       "title": "No Broke Boys (w/ Tinashe)",
       "artist": "Disco Lines",
       "spotifyId": "3cZajhyr8LmtPfHZ9296tj",
-      "ytMusicId": "l6Fx2nyU52w",
+      "ytMusicId": "rnRRnlV3T84",
       "streams": 609219,
       "peak": 2,
       "weeks": 73
@@ -1451,7 +1451,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "5nCOjdHeYjM",
+      "ytMusicId": "6KjVYeQ9SRw",
       "streams": 578078,
       "peak": 33,
       "weeks": 44
@@ -1814,7 +1814,7 @@
       "title": "Valerie (w/ Amy Winehouse)",
       "artist": "Mark Ronson",
       "spotifyId": "6kopmMZiyLmw7h66uXcXR7",
-      "ytMusicId": "-WrSLR5oEao",
+      "ytMusicId": "NhHsjZZpF7s",
       "streams": 535601,
       "peak": 40,
       "weeks": 111
@@ -1935,7 +1935,7 @@
       "title": "Let Me Love You",
       "artist": "Mario",
       "spotifyId": "7GaFYUqP2WdR4KTPk7cXoP",
-      "ytMusicId": "D6vCMxmkMKI",
+      "ytMusicId": "Ef72p-zplwM",
       "streams": 522368,
       "peak": 123,
       "weeks": 31
@@ -2012,7 +2012,7 @@
       "title": "Un-thinkable (I'm Ready) (w/ Drake)",
       "artist": "Alicia Keys",
       "spotifyId": "4o4wEDRqotccDTXiQ7TORu",
-      "ytMusicId": "sLF-OnxdiDU",
+      "ytMusicId": "MsLuUpMw_Yc",
       "streams": 510728,
       "peak": 174,
       "weeks": 2
@@ -2133,7 +2133,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "T3bbIN_hNQ4",
+      "ytMusicId": "yi0V-Mzb5WE",
       "streams": 498138,
       "peak": 179,
       "weeks": 2
@@ -2144,7 +2144,7 @@
       "title": "Just Dance (w/ Colby O'Donis)",
       "artist": "Lady Gaga",
       "spotifyId": "1dzQoRqT5ucxXVaAhTcT0J",
-      "ytMusicId": "ACNwMzZejQQ",
+      "ytMusicId": "N4arkZu6Cho",
       "streams": 497596,
       "peak": 99,
       "weeks": 29

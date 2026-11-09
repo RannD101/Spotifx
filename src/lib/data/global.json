@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-11-08",
-  "lastUpdated": "2026-11-08T12:34:48.248Z",
+  "weekDate": "2026-11-09",
+  "lastUpdated": "2026-11-09T14:52:16.323Z",
   "tracks": [
     {
       "rank": 1,
@@ -42,7 +42,7 @@
       "change": "+1",
       "title": "Stop The Wedding!",
       "artist": "Ashe",
-      "spotifyId": "3zOYmiNOuyDL0ClxJcEJ0T",
+      "spotifyId": "7MOO89Qv9AV7VZkt5mcqA8",
       "ytMusicId": "WNxAvQNsJuM",
       "streams": 26907929,
       "peak": 4,
@@ -153,7 +153,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 17213963,
       "peak": 13,
       "weeks": 29
@@ -318,7 +318,7 @@
       "title": "Loser",
       "artist": "Tame Impala",
       "spotifyId": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "ytMusicId": "MX7FSAnRPug",
+      "ytMusicId": "GQgL-Dk9sq0",
       "streams": 14642618,
       "peak": 2,
       "weeks": 14
@@ -505,7 +505,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "WmcBE2wg8Vc",
       "streams": 12355227,
       "peak": 1,
       "weeks": 332
@@ -956,7 +956,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "5nCOjdHeYjM",
+      "ytMusicId": "6KjVYeQ9SRw",
       "streams": 10144858,
       "peak": 35,
       "weeks": 47
@@ -967,7 +967,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "hSW-Mc6iNJ4",
+      "ytMusicId": "lWLnZ7x4i8o",
       "streams": 10115846,
       "peak": 61,
       "weeks": 128
@@ -1022,7 +1022,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "r7Rn4ryE_w8",
+      "ytMusicId": "t5MnAiIZYlc",
       "streams": 9976241,
       "peak": 1,
       "weeks": 361
@@ -1044,7 +1044,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "TuzfXgUpboA",
+      "ytMusicId": "US9pXNh8OUQ",
       "streams": 9916834,
       "peak": 1,
       "weeks": 72
@@ -1088,7 +1088,7 @@
       "title": "Monster Mash",
       "artist": "Bobby \"Boris\" Pickett",
       "spotifyId": "4uUVNaxpS4zYcXkTrrRp6R",
-      "ytMusicId": "bRLML36HnzU",
+      "ytMusicId": "4qJ97lRm1as",
       "streams": 9730640,
       "peak": 99,
       "weeks": 1
@@ -1143,7 +1143,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "r7zTKRonHXM",
+      "ytMusicId": "Gcw5BwEwYb8",
       "streams": 9551640,
       "peak": 1,
       "weeks": 286
@@ -1198,7 +1198,7 @@
       "title": "Zombie - 2025 Remastered",
       "artist": "The Cranberries",
       "spotifyId": "3gjHnylel3PTRpjS44ocqr",
-      "ytMusicId": "lSDfCdycdvk",
+      "ytMusicId": "bbZ384fVNh0",
       "streams": 9505379,
       "peak": 73,
       "weeks": 9
@@ -1253,7 +1253,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "ViIYOT8asN0",
       "streams": 9385377,
       "peak": 49,
       "weeks": 30
@@ -1385,7 +1385,7 @@
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
       "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
-      "ytMusicId": "nOj6d-HOw2w",
+      "ytMusicId": "379vq5fTYfA",
       "streams": 9070029,
       "peak": 33,
       "weeks": 78
@@ -1473,7 +1473,7 @@
       "title": "APT. (w/ Bruno Mars)",
       "artist": "ROSÉ",
       "spotifyId": "4wJ5Qq0jBN4ajy7ouZIV1c",
-      "ytMusicId": "DiTd771WumE",
+      "ytMusicId": "bt5wQv2NnQw",
       "streams": 8964140,
       "peak": 1,
       "weeks": 107
@@ -1484,7 +1484,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "rkWZ7QwZOiY",
+      "ytMusicId": "RPNZ1hKjuOs",
       "streams": 8946925,
       "peak": 2,
       "weeks": 150
@@ -1638,7 +1638,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BO7FQnegW1o",
+      "ytMusicId": "zNexSgmB8w8",
       "streams": 8737914,
       "peak": 140,
       "weeks": 39
@@ -1726,7 +1726,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "17rFEzznMGo",
       "streams": 8582451,
       "peak": 2,
       "weeks": 177
@@ -1803,7 +1803,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "_ydMlTassYc",
+      "ytMusicId": "1wjjH0vxOnk",
       "streams": 8424734,
       "peak": 91,
       "weeks": 20
@@ -1814,7 +1814,7 @@
       "title": "Just Dance (w/ Colby O'Donis)",
       "artist": "Lady Gaga",
       "spotifyId": "1dzQoRqT5ucxXVaAhTcT0J",
-      "ytMusicId": "ACNwMzZejQQ",
+      "ytMusicId": "N4arkZu6Cho",
       "streams": 8421627,
       "peak": 93,
       "weeks": 12
@@ -2023,7 +2023,7 @@
       "title": "Unforgettable (w/ Swae Lee)",
       "artist": "French Montana",
       "spotifyId": "3B54sVLJ402zGa6Xm4YGNe",
-      "ytMusicId": "48ydDUQ16RE",
+      "ytMusicId": "4VPIYXiPRk0",
       "streams": 8209166,
       "peak": 3,
       "weeks": 165
@@ -2111,7 +2111,7 @@
       "title": "Baby (w/ Ludacris)",
       "artist": "Justin Bieber",
       "spotifyId": "6epn3r7S14KUqlReYr77hA",
-      "ytMusicId": "GqWYJT-iMTw",
+      "ytMusicId": "UgEt2_USCKU",
       "streams": 8112646,
       "peak": 6,
       "weeks": 25

@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-08",
-  "lastUpdated": "2026-11-08T12:39:23.784Z",
+  "weekDate": "2026-11-09",
+  "lastUpdated": "2026-11-09T14:57:05.954Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "Monster Mash",
       "artist": "Bobby \"Boris\" Pickett",
       "spotifyId": "4uUVNaxpS4zYcXkTrrRp6R",
-      "ytMusicId": "bRLML36HnzU",
+      "ytMusicId": "4qJ97lRm1as",
       "streams": 5374390,
       "peak": 6,
       "weeks": 2
@@ -141,7 +141,7 @@
       "change": "-1",
       "title": "Stop The Wedding!",
       "artist": "Ashe",
-      "spotifyId": "3zOYmiNOuyDL0ClxJcEJ0T",
+      "spotifyId": "7MOO89Qv9AV7VZkt5mcqA8",
       "ytMusicId": "WNxAvQNsJuM",
       "streams": 4644140,
       "peak": 12,
@@ -230,7 +230,7 @@
       "title": "Somebody's Watching Me - Single Version",
       "artist": "Rockwell",
       "spotifyId": "2QN9zL3SzXdGqqmXO68gFp",
-      "ytMusicId": "KFS9c852M_k",
+      "ytMusicId": "qNQtq218vEc",
       "streams": 3697866,
       "peak": 21,
       "weeks": 7
@@ -362,7 +362,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "5nCOjdHeYjM",
+      "ytMusicId": "6KjVYeQ9SRw",
       "streams": 3268323,
       "peak": 8,
       "weeks": 57
@@ -384,7 +384,7 @@
       "title": "Loser",
       "artist": "Tame Impala",
       "spotifyId": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "ytMusicId": "MX7FSAnRPug",
+      "ytMusicId": "GQgL-Dk9sq0",
       "streams": 3246200,
       "peak": 3,
       "weeks": 16
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "ViIYOT8asN0",
       "streams": 3111104,
       "peak": 12,
       "weeks": 30
@@ -538,7 +538,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "GJ60oMer9Gc",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 2965674,
       "peak": 5,
       "weeks": 27
@@ -604,7 +604,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "BO7FQnegW1o",
+      "ytMusicId": "zNexSgmB8w8",
       "streams": 2880851,
       "peak": 55,
       "weeks": 83
@@ -780,7 +780,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "KnkDL9lkbX8",
+      "ytMusicId": "bndrFmNG47M",
       "streams": 2621145,
       "peak": 1,
       "weeks": 113
@@ -813,7 +813,7 @@
       "title": "Zombie - 2025 Remastered",
       "artist": "The Cranberries",
       "spotifyId": "3gjHnylel3PTRpjS44ocqr",
-      "ytMusicId": "lSDfCdycdvk",
+      "ytMusicId": "bbZ384fVNh0",
       "streams": 2618858,
       "peak": 74,
       "weeks": 5
@@ -890,7 +890,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "JjuLy7r1hOg",
+      "ytMusicId": "-LheEo-OmH4",
       "streams": 2558657,
       "peak": 32,
       "weeks": 82
@@ -923,7 +923,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "TuzfXgUpboA",
+      "ytMusicId": "US9pXNh8OUQ",
       "streams": 2544798,
       "peak": 1,
       "weeks": 72
@@ -1000,7 +1000,7 @@
       "title": "I Can't Love You Anymore (w/ Morgan Wallen)",
       "artist": "Ella Langley",
       "spotifyId": "61rwYQu9An4QWrcCUyFUyq",
-      "ytMusicId": "OTBY7wo4LuE",
+      "ytMusicId": "mAlnpfjMGgA",
       "streams": 2458657,
       "peak": 16,
       "weeks": 28
@@ -1187,7 +1187,7 @@
       "title": "Rockin' Around The Christmas Tree",
       "artist": "Brenda Lee",
       "spotifyId": "2EjXfH91m7f8HiJN1yQg97",
-      "ytMusicId": "O1x-hOOrl5E",
+      "ytMusicId": "R9qxXooHVFc",
       "streams": 2307789,
       "peak": 1,
       "weeks": 76
@@ -1264,7 +1264,7 @@
       "title": "(Don't Fear) The Reaper",
       "artist": "Blue Öyster Cult",
       "spotifyId": "5QTxFnGygVM4jFQiBovmRo",
-      "ytMusicId": "FS8p_F0Stog",
+      "ytMusicId": "j7MK-sbfNsQ",
       "streams": 2277241,
       "peak": 115,
       "weeks": 6
@@ -1341,7 +1341,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "T3bbIN_hNQ4",
+      "ytMusicId": "yi0V-Mzb5WE",
       "streams": 2267122,
       "peak": 9,
       "weeks": 54
@@ -1462,7 +1462,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "YNP0YJ5gq0M",
+      "ytMusicId": "XBQwlYWcUBc",
       "streams": 2218823,
       "peak": 11,
       "weeks": 131
@@ -1473,7 +1473,7 @@
       "title": "Jingle Bell Rock",
       "artist": "Bobby Helms",
       "spotifyId": "7vQbuQcyTflfCIOu3Uzzya",
-      "ytMusicId": "RNfL8JSw-1A",
+      "ytMusicId": "IRDFIui7Szg",
       "streams": 2215458,
       "peak": 2,
       "weeks": 75
@@ -1715,7 +1715,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "B8VEqSBTjZQ",
+      "ytMusicId": "xNb4JHrz5z4",
       "streams": 2096085,
       "peak": 1,
       "weeks": 130
@@ -1858,7 +1858,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "r7Rn4ryE_w8",
+      "ytMusicId": "t5MnAiIZYlc",
       "streams": 2064618,
       "peak": 1,
       "weeks": 346
@@ -2067,7 +2067,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "17rFEzznMGo",
       "streams": 2015154,
       "peak": 2,
       "weeks": 216
