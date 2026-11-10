@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-09",
-  "lastUpdated": "2026-11-09T14:57:05.954Z",
+  "weekDate": "2026-11-10",
+  "lastUpdated": "2026-11-10T14:09:39.247Z",
   "tracks": [
     {
       "rank": 1,
@@ -65,7 +65,7 @@
       "title": "Monster Mash",
       "artist": "Bobby \"Boris\" Pickett",
       "spotifyId": "4uUVNaxpS4zYcXkTrrRp6R",
-      "ytMusicId": "4qJ97lRm1as",
+      "ytMusicId": "bRLML36HnzU",
       "streams": 5374390,
       "peak": 6,
       "weeks": 2
@@ -230,7 +230,7 @@
       "title": "Somebody's Watching Me - Single Version",
       "artist": "Rockwell",
       "spotifyId": "2QN9zL3SzXdGqqmXO68gFp",
-      "ytMusicId": "qNQtq218vEc",
+      "ytMusicId": "KFS9c852M_k",
       "streams": 3697866,
       "peak": 21,
       "weeks": 7
@@ -384,7 +384,7 @@
       "title": "Loser",
       "artist": "Tame Impala",
       "spotifyId": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "ytMusicId": "GQgL-Dk9sq0",
+      "ytMusicId": "MX7FSAnRPug",
       "streams": 3246200,
       "peak": 3,
       "weeks": 16
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "ViIYOT8asN0",
+      "ytMusicId": "3oZunnY-Cbs",
       "streams": 3111104,
       "peak": 12,
       "weeks": 30
@@ -538,7 +538,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "tRyjFDzc4Ug",
       "streams": 2965674,
       "peak": 5,
       "weeks": 27
@@ -604,7 +604,7 @@
       "title": "Promiscuous (w/ Timbaland)",
       "artist": "Nelly Furtado",
       "spotifyId": "2gam98EZKrF9XuOkU13ApN",
-      "ytMusicId": "zNexSgmB8w8",
+      "ytMusicId": "BO7FQnegW1o",
       "streams": 2880851,
       "peak": 55,
       "weeks": 83
@@ -813,7 +813,7 @@
       "title": "Zombie - 2025 Remastered",
       "artist": "The Cranberries",
       "spotifyId": "3gjHnylel3PTRpjS44ocqr",
-      "ytMusicId": "bbZ384fVNh0",
+      "ytMusicId": "lSDfCdycdvk",
       "streams": 2618858,
       "peak": 74,
       "weeks": 5
@@ -923,7 +923,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "US9pXNh8OUQ",
+      "ytMusicId": "TuzfXgUpboA",
       "streams": 2544798,
       "peak": 1,
       "weeks": 72
@@ -956,7 +956,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "zWHj5s4uCmQ",
       "streams": 2506578,
       "peak": 1,
       "weeks": 116
@@ -1000,7 +1000,7 @@
       "title": "I Can't Love You Anymore (w/ Morgan Wallen)",
       "artist": "Ella Langley",
       "spotifyId": "61rwYQu9An4QWrcCUyFUyq",
-      "ytMusicId": "mAlnpfjMGgA",
+      "ytMusicId": "OTBY7wo4LuE",
       "streams": 2458657,
       "peak": 16,
       "weeks": 28
@@ -1187,7 +1187,7 @@
       "title": "Rockin' Around The Christmas Tree",
       "artist": "Brenda Lee",
       "spotifyId": "2EjXfH91m7f8HiJN1yQg97",
-      "ytMusicId": "R9qxXooHVFc",
+      "ytMusicId": "O1x-hOOrl5E",
       "streams": 2307789,
       "peak": 1,
       "weeks": 76
@@ -1264,7 +1264,7 @@
       "title": "(Don't Fear) The Reaper",
       "artist": "Blue Öyster Cult",
       "spotifyId": "5QTxFnGygVM4jFQiBovmRo",
-      "ytMusicId": "j7MK-sbfNsQ",
+      "ytMusicId": "FS8p_F0Stog",
       "streams": 2277241,
       "peak": 115,
       "weeks": 6
@@ -1341,7 +1341,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "yi0V-Mzb5WE",
+      "ytMusicId": "T3bbIN_hNQ4",
       "streams": 2267122,
       "peak": 9,
       "weeks": 54
@@ -1462,7 +1462,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "XBQwlYWcUBc",
+      "ytMusicId": "YNP0YJ5gq0M",
       "streams": 2218823,
       "peak": 11,
       "weeks": 131
@@ -1473,7 +1473,7 @@
       "title": "Jingle Bell Rock",
       "artist": "Bobby Helms",
       "spotifyId": "7vQbuQcyTflfCIOu3Uzzya",
-      "ytMusicId": "IRDFIui7Szg",
+      "ytMusicId": "RNfL8JSw-1A",
       "streams": 2215458,
       "peak": 2,
       "weeks": 75
@@ -1715,7 +1715,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "xNb4JHrz5z4",
+      "ytMusicId": "B8VEqSBTjZQ",
       "streams": 2096085,
       "peak": 1,
       "weeks": 130
@@ -1858,7 +1858,7 @@
       "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
       "artist": "Post Malone",
       "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
-      "ytMusicId": "t5MnAiIZYlc",
+      "ytMusicId": "r7Rn4ryE_w8",
       "streams": 2064618,
       "peak": 1,
       "weeks": 346
@@ -2067,7 +2067,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "17rFEzznMGo",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 2015154,
       "peak": 2,
       "weeks": 216
