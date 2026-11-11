@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T14:09:39.247Z",
+  "weekDate": "2026-11-11",
+  "lastUpdated": "2026-11-11T13:26:20.477Z",
   "tracks": [
     {
       "rank": 1,
@@ -362,7 +362,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "6KjVYeQ9SRw",
+      "ytMusicId": "5nCOjdHeYjM",
       "streams": 3268323,
       "peak": 8,
       "weeks": 57
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "3oZunnY-Cbs",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 3111104,
       "peak": 12,
       "weeks": 30
@@ -538,7 +538,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "tRyjFDzc4Ug",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 2965674,
       "peak": 5,
       "weeks": 27
@@ -868,7 +868,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "0ZqsQ9ap5_4",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 2583284,
       "peak": 47,
       "weeks": 183
@@ -890,7 +890,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "-LheEo-OmH4",
+      "ytMusicId": "JjuLy7r1hOg",
       "streams": 2558657,
       "peak": 32,
       "weeks": 82
@@ -956,7 +956,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "zWHj5s4uCmQ",
+      "ytMusicId": "DlFXDl_ROAM",
       "streams": 2506578,
       "peak": 1,
       "weeks": 116
@@ -1462,7 +1462,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "YNP0YJ5gq0M",
+      "ytMusicId": "NajmHZ6kcUg",
       "streams": 2218823,
       "peak": 11,
       "weeks": 131
@@ -2067,7 +2067,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "FL-0pJsDz7k",
       "streams": 2015154,
       "peak": 2,
       "weeks": 216
@@ -2155,7 +2155,7 @@
       "title": "Dead Fresh",
       "artist": "Lil Baby",
       "spotifyId": "5ZAMlvo6ZUjVRZOGu2bJib",
-      "ytMusicId": "RKZ2BJNgass",
+      "ytMusicId": "slpnlNsA6mg",
       "streams": 1980738,
       "peak": 18,
       "weeks": 16
