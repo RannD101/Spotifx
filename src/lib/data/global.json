@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-11-11",
-  "lastUpdated": "2026-11-11T13:21:35.089Z",
+  "weekDate": "2026-11-12",
+  "lastUpdated": "2026-11-12T14:26:20.467Z",
   "tracks": [
     {
       "rank": 1,
@@ -956,7 +956,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "5nCOjdHeYjM",
+      "ytMusicId": "6KjVYeQ9SRw",
       "streams": 10144858,
       "peak": 35,
       "weeks": 47
@@ -1253,7 +1253,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "DIOWSXLzi0I",
       "streams": 9385377,
       "peak": 49,
       "weeks": 30
@@ -1286,7 +1286,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "E2lX1ZovtcA",
+      "ytMusicId": "fYPIwxk3F3c",
       "streams": 9285577,
       "peak": 72,
       "weeks": 104
@@ -1385,7 +1385,7 @@
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
       "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
-      "ytMusicId": "379vq5fTYfA",
+      "ytMusicId": "nOj6d-HOw2w",
       "streams": 9070029,
       "peak": 33,
       "weeks": 78
@@ -1462,7 +1462,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "pzCzvroFvI4",
+      "ytMusicId": "xXD5tltX9Pg",
       "streams": 8964729,
       "peak": 59,
       "weeks": 26
@@ -2144,7 +2144,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "_d1bcQZUAYg",
       "streams": 8090826,
       "peak": 121,
       "weeks": 51

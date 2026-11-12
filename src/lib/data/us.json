@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-11",
-  "lastUpdated": "2026-11-11T13:26:20.477Z",
+  "weekDate": "2026-11-12",
+  "lastUpdated": "2026-11-12T14:31:14.085Z",
   "tracks": [
     {
       "rank": 1,
@@ -362,7 +362,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "5nCOjdHeYjM",
+      "ytMusicId": "6KjVYeQ9SRw",
       "streams": 3268323,
       "peak": 8,
       "weeks": 57
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "DIOWSXLzi0I",
       "streams": 3111104,
       "peak": 12,
       "weeks": 30
@@ -868,7 +868,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "_d1bcQZUAYg",
       "streams": 2583284,
       "peak": 47,
       "weeks": 183
@@ -1341,7 +1341,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "T3bbIN_hNQ4",
+      "ytMusicId": "yi0V-Mzb5WE",
       "streams": 2267122,
       "peak": 9,
       "weeks": 54
@@ -1462,7 +1462,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "NajmHZ6kcUg",
+      "ytMusicId": "YNP0YJ5gq0M",
       "streams": 2218823,
       "peak": 11,
       "weeks": 131
@@ -1715,7 +1715,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "B8VEqSBTjZQ",
+      "ytMusicId": "xNb4JHrz5z4",
       "streams": 2096085,
       "peak": 1,
       "weeks": 130
@@ -2155,7 +2155,7 @@
       "title": "Dead Fresh",
       "artist": "Lil Baby",
       "spotifyId": "5ZAMlvo6ZUjVRZOGu2bJib",
-      "ytMusicId": "slpnlNsA6mg",
+      "ytMusicId": "RKZ2BJNgass",
       "streams": 1980738,
       "peak": 18,
       "weeks": 16

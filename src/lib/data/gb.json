@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-11",
-  "lastUpdated": "2026-11-11T13:27:30.417Z",
+  "weekDate": "2026-11-12",
+  "lastUpdated": "2026-11-12T14:32:28.358Z",
   "tracks": [
     {
       "rank": 1,
@@ -383,8 +383,8 @@
       "change": "-7",
       "title": "Shotta's.",
       "artist": "Season 25",
-      "spotifyId": "0M4R6G6junOgTJDccOEGHo",
-      "ytMusicId": "BCA_Z7_7rik",
+      "spotifyId": "1ApUYfDejOBvrTnar2Wyf3",
+      "ytMusicId": "RMXe4RnC-m8",
       "streams": 923202,
       "peak": 28,
       "weeks": 4
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "DIOWSXLzi0I",
       "streams": 871270,
       "peak": 22,
       "weeks": 30
@@ -1451,7 +1451,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "5nCOjdHeYjM",
+      "ytMusicId": "6KjVYeQ9SRw",
       "streams": 578078,
       "peak": 33,
       "weeks": 44
@@ -2078,7 +2078,7 @@
       "title": "Easy Lover (w/ Phil Collins)",
       "artist": "Philip Bailey",
       "spotifyId": "5LYJ631w9ps5h9tdvac7yP",
-      "ytMusicId": "i-DRQq3AvJk",
+      "ytMusicId": "88QVKw7SFJA",
       "streams": 501251,
       "peak": 151,
       "weeks": 4
@@ -2133,7 +2133,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "T3bbIN_hNQ4",
+      "ytMusicId": "yi0V-Mzb5WE",
       "streams": 498138,
       "peak": 179,
       "weeks": 2
