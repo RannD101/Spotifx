@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-11-12",
-  "lastUpdated": "2026-11-12T14:26:20.467Z",
+  "weekDate": "2026-11-13",
+  "lastUpdated": "2026-11-13T13:45:41.674Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 18998862,
       "peak": 1,
       "weeks": 35
@@ -153,7 +153,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "gzxbkXL4p0M",
       "streams": 17213963,
       "peak": 13,
       "weeks": 29
@@ -406,7 +406,7 @@
       "title": "Alfaaz (w/ Zain Zohaib)",
       "artist": "Hamza Malik",
       "spotifyId": "0tW2gwaRzFQQrgr2UCO56G",
-      "ytMusicId": "Vug4YLiIsaU",
+      "ytMusicId": "Uy2EiEyo6Lo",
       "streams": 13685775,
       "peak": 37,
       "weeks": 5
@@ -505,7 +505,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "3_g2un5M350",
+      "ytMusicId": "x6ZJ6qHIv4M",
       "streams": 12355227,
       "peak": 1,
       "weeks": 332
@@ -813,7 +813,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "kFPRSKwQMI8",
       "streams": 10679772,
       "peak": 1,
       "weeks": 340
@@ -956,7 +956,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "6KjVYeQ9SRw",
+      "ytMusicId": "5nCOjdHeYjM",
       "streams": 10144858,
       "peak": 35,
       "weeks": 47
@@ -967,7 +967,7 @@
       "title": "Payphone (w/ Wiz Khalifa)",
       "artist": "Maroon 5",
       "spotifyId": "1XGmzt0PVuFgQYYnV2It7A",
-      "ytMusicId": "hSW-Mc6iNJ4",
+      "ytMusicId": "DF94DPz47_k",
       "streams": 10115846,
       "peak": 61,
       "weeks": 128
@@ -1143,7 +1143,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "Gcw5BwEwYb8",
+      "ytMusicId": "Kp0tCM1NmN8",
       "streams": 9551640,
       "peak": 1,
       "weeks": 286
@@ -1253,7 +1253,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "DIOWSXLzi0I",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 9385377,
       "peak": 49,
       "weeks": 30
@@ -1286,7 +1286,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "fYPIwxk3F3c",
+      "ytMusicId": "E2lX1ZovtcA",
       "streams": 9285577,
       "peak": 72,
       "weeks": 104
@@ -1352,7 +1352,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "dFxYTPtA5bw",
+      "ytMusicId": "C0vz2gwmWIw",
       "streams": 9123196,
       "peak": 52,
       "weeks": 149
@@ -1385,7 +1385,7 @@
       "title": "Hips Don't Lie (w/ Wyclef Jean)",
       "artist": "Shakira",
       "spotifyId": "3d0WouFnFmr0K3kjeza3fF",
-      "ytMusicId": "nOj6d-HOw2w",
+      "ytMusicId": "A_jP181NWlo",
       "streams": 9070029,
       "peak": 33,
       "weeks": 78
@@ -1462,7 +1462,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "xv4aMLX3-qo",
       "streams": 8964729,
       "peak": 59,
       "weeks": 26
@@ -1473,7 +1473,7 @@
       "title": "APT. (w/ Bruno Mars)",
       "artist": "ROSÉ",
       "spotifyId": "4wJ5Qq0jBN4ajy7ouZIV1c",
-      "ytMusicId": "bt5wQv2NnQw",
+      "ytMusicId": "DiTd771WumE",
       "streams": 8964140,
       "peak": 1,
       "weeks": 107
@@ -1484,7 +1484,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "rkWZ7QwZOiY",
+      "ytMusicId": "syR1XhyBI2c",
       "streams": 8946925,
       "peak": 2,
       "weeks": 150
@@ -1550,7 +1550,7 @@
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "spotifyId": "79RJg6MqIJlBuedcMqB9F0",
-      "ytMusicId": "eXw2R_CTlU8",
+      "ytMusicId": "xvYWgM82GK8",
       "streams": 8878444,
       "peak": 88,
       "weeks": 10
@@ -1616,7 +1616,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "E71PDyY5zQg",
+      "ytMusicId": "U6oRNDGpvjA",
       "streams": 8752341,
       "peak": 25,
       "weeks": 25
@@ -1726,7 +1726,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "FL-0pJsDz7k",
+      "ytMusicId": "7-sWpuT7R80",
       "streams": 8582451,
       "peak": 2,
       "weeks": 177
@@ -1803,7 +1803,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "1wjjH0vxOnk",
+      "ytMusicId": "hWWQGm9FHmU",
       "streams": 8424734,
       "peak": 91,
       "weeks": 20
@@ -1814,7 +1814,7 @@
       "title": "Just Dance (w/ Colby O'Donis)",
       "artist": "Lady Gaga",
       "spotifyId": "1dzQoRqT5ucxXVaAhTcT0J",
-      "ytMusicId": "N4arkZu6Cho",
+      "ytMusicId": "nXICuTsPub0",
       "streams": 8421627,
       "peak": 93,
       "weeks": 12
@@ -2133,7 +2133,7 @@
       "title": "We Don't Talk Anymore (w/ Selena Gomez)",
       "artist": "Charlie Puth",
       "spotifyId": "06KyNuuMOX1ROXRhj787tj",
-      "ytMusicId": "rSZkOjSsC6M",
+      "ytMusicId": "yN6JgL0IUJg",
       "streams": 8096608,
       "peak": 9,
       "weeks": 150
@@ -2144,7 +2144,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "_d1bcQZUAYg",
+      "ytMusicId": "uU9Fe-WXew4",
       "streams": 8090826,
       "peak": 121,
       "weeks": 51

@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-12",
-  "lastUpdated": "2026-11-12T14:31:14.085Z",
+  "weekDate": "2026-11-13",
+  "lastUpdated": "2026-11-13T13:50:24.174Z",
   "tracks": [
     {
       "rank": 1,
@@ -362,7 +362,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "6KjVYeQ9SRw",
+      "ytMusicId": "5nCOjdHeYjM",
       "streams": 3268323,
       "peak": 8,
       "weeks": 57
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "DIOWSXLzi0I",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 3111104,
       "peak": 12,
       "weeks": 30
@@ -538,7 +538,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "gzxbkXL4p0M",
       "streams": 2965674,
       "peak": 5,
       "weeks": 27
@@ -593,7 +593,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "aWkPBCF8rFU",
+      "ytMusicId": "MaZ5UJWTw7A",
       "streams": 2880863,
       "peak": 3,
       "weeks": 30
@@ -780,7 +780,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "bndrFmNG47M",
+      "ytMusicId": "Zfp3KfYH0xA",
       "streams": 2621145,
       "peak": 1,
       "weeks": 113
@@ -868,7 +868,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "_d1bcQZUAYg",
+      "ytMusicId": "uU9Fe-WXew4",
       "streams": 2583284,
       "peak": 47,
       "weeks": 183
@@ -1121,7 +1121,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "TwtGrHg0M3w",
+      "ytMusicId": "kFPRSKwQMI8",
       "streams": 2357323,
       "peak": 1,
       "weeks": 196
@@ -1341,7 +1341,7 @@
       "title": "Power Trip (w/ Miguel)",
       "artist": "J. Cole",
       "spotifyId": "2uwnP6tZVVmTovzX5ELooy",
-      "ytMusicId": "yi0V-Mzb5WE",
+      "ytMusicId": "T3bbIN_hNQ4",
       "streams": 2267122,
       "peak": 9,
       "weeks": 54
@@ -1715,7 +1715,7 @@
       "title": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
       "artist": "Post Malone",
       "spotifyId": "5IZXB5IKAD2qlvTPJYDCFB",
-      "ytMusicId": "xNb4JHrz5z4",
+      "ytMusicId": "B8VEqSBTjZQ",
       "streams": 2096085,
       "peak": 1,
       "weeks": 130
@@ -2067,7 +2067,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "FL-0pJsDz7k",
+      "ytMusicId": "7-sWpuT7R80",
       "streams": 2015154,
       "peak": 2,
       "weeks": 216
@@ -2133,7 +2133,7 @@
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "spotifyId": "79RJg6MqIJlBuedcMqB9F0",
-      "ytMusicId": "eXw2R_CTlU8",
+      "ytMusicId": "xvYWgM82GK8",
       "streams": 1991964,
       "peak": 35,
       "weeks": 10
