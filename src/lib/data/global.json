@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-11-15",
-  "lastUpdated": "2026-11-15T13:17:30.599Z",
+  "weekDate": "2026-11-16",
+  "lastUpdated": "2026-11-16T14:28:10.107Z",
   "tracks": [
     {
       "rank": 1,
@@ -120,7 +120,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "MaZ5UJWTw7A",
+      "ytMusicId": "aWkPBCF8rFU",
       "streams": 17550050,
       "peak": 1,
       "weeks": 36
@@ -450,7 +450,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "K67l7RKxpkc",
+      "ytMusicId": "3_g2un5M350",
       "streams": 12862737,
       "peak": 1,
       "weeks": 333
@@ -483,7 +483,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "wE_KOXiSbI8",
+      "ytMusicId": "wbt_E7LNDaA",
       "streams": 12554258,
       "peak": 21,
       "weeks": 25
@@ -571,7 +571,7 @@
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "spotifyId": "5g7sDjBhZ4I3gcFIpkrLuI",
-      "ytMusicId": "zuaBRqUBhyw",
+      "ytMusicId": "GKsR3A1zyjo",
       "streams": 11797424,
       "peak": 18,
       "weeks": 260
@@ -1176,7 +1176,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 9411853,
       "peak": 49,
       "weeks": 31
@@ -1253,7 +1253,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "r7zTKRonHXM",
+      "ytMusicId": "Kp0tCM1NmN8",
       "streams": 9189939,
       "peak": 1,
       "weeks": 287
@@ -1297,7 +1297,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "i4YmKvw6mCY",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 9079428,
       "peak": 2,
       "weeks": 178
@@ -1330,7 +1330,7 @@
       "title": "Only Girl (In The World)",
       "artist": "Rihanna",
       "spotifyId": "2ENexcMEMsYk0rVJigVD3i",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "JhCA0y_ya6w",
       "streams": 9040445,
       "peak": 98,
       "weeks": 55
@@ -1341,7 +1341,7 @@
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "spotifyId": "79RJg6MqIJlBuedcMqB9F0",
-      "ytMusicId": "xvYWgM82GK8",
+      "ytMusicId": "eXw2R_CTlU8",
       "streams": 9026914,
       "peak": 88,
       "weeks": 11
@@ -1363,7 +1363,7 @@
       "title": "See You Again (w/ Kali Uchis)",
       "artist": "Tyler, The Creator",
       "spotifyId": "7KA4W4McWYRpgf0fWsJZWB",
-      "ytMusicId": "a24EUd0zeqI",
+      "ytMusicId": "EZE62LpaqHg",
       "streams": 9001159,
       "peak": 16,
       "weeks": 187
@@ -1418,7 +1418,7 @@
       "title": "Danza Kuduro (w/ Lucenzo)",
       "artist": "Don Omar",
       "spotifyId": "2a1o6ZejUi8U3wzzOtCOYw",
-      "ytMusicId": "C0vz2gwmWIw",
+      "ytMusicId": "BbWY-avjDto",
       "streams": 8867199,
       "peak": 52,
       "weeks": 150
@@ -1506,7 +1506,7 @@
       "title": "On The Floor (w/ Pitbull)",
       "artist": "Jennifer Lopez",
       "spotifyId": "3C0nOe05EIt1390bVABLyN",
-      "ytMusicId": "U6oRNDGpvjA",
+      "ytMusicId": "9lybsz-7TFM",
       "streams": 8670525,
       "peak": 25,
       "weeks": 26
@@ -1517,7 +1517,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "6KjVYeQ9SRw",
+      "ytMusicId": "5nCOjdHeYjM",
       "streams": 8660440,
       "peak": 35,
       "weeks": 48
@@ -1682,7 +1682,7 @@
       "title": "Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
       "artist": "Pitbull",
       "spotifyId": "4QNpBfC0zvjKqPJcyqBy9W",
-      "ytMusicId": "_921dkQTViA",
+      "ytMusicId": "E2lX1ZovtcA",
       "streams": 8524623,
       "peak": 72,
       "weeks": 105
@@ -1715,7 +1715,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xXD5tltX9Pg",
+      "ytMusicId": "xv4aMLX3-qo",
       "streams": 8447370,
       "peak": 59,
       "weeks": 27
@@ -2111,7 +2111,7 @@
       "title": "Titanium (w/ Sia)",
       "artist": "David Guetta",
       "spotifyId": "0lHAMNU8RGiIObScrsRgmP",
-      "ytMusicId": "Hnq67O4YSmA",
+      "ytMusicId": "LRPGqNeav_M",
       "streams": 7902752,
       "peak": 159,
       "weeks": 28

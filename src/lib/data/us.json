@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-15",
-  "lastUpdated": "2026-11-15T13:22:23.215Z",
+  "weekDate": "2026-11-16",
+  "lastUpdated": "2026-11-16T14:32:54.708Z",
   "tracks": [
     {
       "rank": 1,
@@ -263,7 +263,7 @@
       "title": "Cinderella (w/ Ty Dolla $ign)",
       "artist": "Mac Miller",
       "spotifyId": "2lpygKqzPFtItQ4ss3cgfb",
-      "ytMusicId": "wE_KOXiSbI8",
+      "ytMusicId": "wbt_E7LNDaA",
       "streams": 3402260,
       "peak": 6,
       "weeks": 36
@@ -318,7 +318,7 @@
       "title": "Rockin' Around The Christmas Tree",
       "artist": "Brenda Lee",
       "spotifyId": "2EjXfH91m7f8HiJN1yQg97",
-      "ytMusicId": "jV6jNTkzkzM",
+      "ytMusicId": "O1x-hOOrl5E",
       "streams": 3289825,
       "peak": 1,
       "weeks": 77
@@ -384,7 +384,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 3219993,
       "peak": 12,
       "weeks": 31
@@ -901,7 +901,7 @@
       "title": "Beauty And A Beat (w/ Nicki Minaj)",
       "artist": "Justin Bieber",
       "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "ytMusicId": "MaZ5UJWTw7A",
+      "ytMusicId": "aWkPBCF8rFU",
       "streams": 2493823,
       "peak": 3,
       "weeks": 31
@@ -1121,7 +1121,7 @@
       "title": "See You Again (w/ Kali Uchis)",
       "artist": "Tyler, The Creator",
       "spotifyId": "7KA4W4McWYRpgf0fWsJZWB",
-      "ytMusicId": "a24EUd0zeqI",
+      "ytMusicId": "EZE62LpaqHg",
       "streams": 2391947,
       "peak": 5,
       "weeks": 280
@@ -1209,7 +1209,7 @@
       "title": "No Hands (w/ Roscoe Dash, Wale)",
       "artist": "Waka Flocka Flame",
       "spotifyId": "03tqyYWC9Um2ZqU0ZN849H",
-      "ytMusicId": "-LheEo-OmH4",
+      "ytMusicId": "JjuLy7r1hOg",
       "streams": 2363119,
       "peak": 32,
       "weeks": 83
@@ -1264,7 +1264,7 @@
       "title": "expectations",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4bkClAuofJULiaIZsuL3gT",
-      "ytMusicId": "9KcnxA36s04",
+      "ytMusicId": "ZYUql_ZPHrc",
       "streams": 2328932,
       "peak": 9,
       "weeks": 22
@@ -1341,7 +1341,7 @@
       "title": "Love Me (w/ Drake, Future)",
       "artist": "Lil Wayne",
       "spotifyId": "2XHzzp1j4IfTNp1FTn7YFg",
-      "ytMusicId": "NajmHZ6kcUg",
+      "ytMusicId": "YNP0YJ5gq0M",
       "streams": 2296472,
       "peak": 11,
       "weeks": 132
@@ -1385,7 +1385,7 @@
       "title": "Let It Snow! Let It Snow! Let It Snow!",
       "artist": "Dean Martin",
       "spotifyId": "2uFaJJtFpPDc5Pa95XzTvg",
-      "ytMusicId": "9jZ3bHluB44",
+      "ytMusicId": "naNn4jdUZO4",
       "streams": 2287182,
       "peak": 5,
       "weeks": 51
@@ -1418,7 +1418,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "Zfp3KfYH0xA",
+      "ytMusicId": "sbLqX7cUKoM",
       "streams": 2275867,
       "peak": 1,
       "weeks": 114
@@ -1770,7 +1770,7 @@
       "title": "Leave You Alone (w/ Ne-Yo)",
       "artist": "Jeezy",
       "spotifyId": "5GOqOUVv7vk0jWDdNToHtA",
-      "ytMusicId": "WX5Z64OuUmA",
+      "ytMusicId": "8QXIvt2t7_g",
       "streams": 2147127,
       "peak": 106,
       "weeks": 3
@@ -1781,7 +1781,7 @@
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "spotifyId": "79RJg6MqIJlBuedcMqB9F0",
-      "ytMusicId": "xvYWgM82GK8",
+      "ytMusicId": "eXw2R_CTlU8",
       "streams": 2141255,
       "peak": 35,
       "weeks": 11
@@ -1803,7 +1803,7 @@
       "title": "Dracula",
       "artist": "Tame Impala",
       "spotifyId": "1NXbNEAcPvY5G1xvfN57aA",
-      "ytMusicId": "6KjVYeQ9SRw",
+      "ytMusicId": "5nCOjdHeYjM",
       "streams": 2133111,
       "peak": 8,
       "weeks": 58
@@ -1836,7 +1836,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "i4YmKvw6mCY",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 2111459,
       "peak": 2,
       "weeks": 217
@@ -1858,7 +1858,7 @@
       "title": "How You Remind Me",
       "artist": "Nickelback",
       "spotifyId": "0gmbgwZ8iqyMPmXefof8Yf",
-      "ytMusicId": "lTaIiE3kWms",
+      "ytMusicId": "vkvrbbtnp6s",
       "streams": 2108985,
       "peak": 161,
       "weeks": 30
@@ -1935,7 +1935,7 @@
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "spotifyId": "5g7sDjBhZ4I3gcFIpkrLuI",
-      "ytMusicId": "zuaBRqUBhyw",
+      "ytMusicId": "GKsR3A1zyjo",
       "streams": 2046135,
       "peak": 24,
       "weeks": 128
@@ -2078,7 +2078,7 @@
       "title": "Only Girl (In The World)",
       "artist": "Rihanna",
       "spotifyId": "2ENexcMEMsYk0rVJigVD3i",
-      "ytMusicId": "n6N1_sxlBU8",
+      "ytMusicId": "JhCA0y_ya6w",
       "streams": 2010890,
       "peak": 59,
       "weeks": 24
