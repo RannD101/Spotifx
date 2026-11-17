@@ -1,8 +1,8 @@
 {
   "country": "global",
   "countryName": "Global",
-  "weekDate": "2026-11-16",
-  "lastUpdated": "2026-11-16T14:28:10.107Z",
+  "weekDate": "2026-11-17",
+  "lastUpdated": "2026-11-17T15:20:10.431Z",
   "tracks": [
     {
       "rank": 1,
@@ -87,7 +87,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 18473059,
       "peak": 8,
       "weeks": 6
@@ -175,7 +175,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "gzxbkXL4p0M",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 16471529,
       "peak": 13,
       "weeks": 30
@@ -373,7 +373,7 @@
       "title": "BIRDS OF A FEATHER",
       "artist": "Billie Eilish",
       "spotifyId": "6dOtVTDdiauQNBQEDOtlAB",
-      "ytMusicId": "WKZO-CWeOVA",
+      "ytMusicId": "",
       "streams": 13903563,
       "peak": 1,
       "weeks": 130
@@ -472,7 +472,7 @@
       "title": "Alfaaz (w/ Zain Zohaib)",
       "artist": "Hamza Malik",
       "spotifyId": "0tW2gwaRzFQQrgr2UCO56G",
-      "ytMusicId": "paE_AZeFhaM",
+      "ytMusicId": "Uy2EiEyo6Lo",
       "streams": 12729395,
       "peak": 37,
       "weeks": 6
@@ -571,7 +571,7 @@
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "spotifyId": "5g7sDjBhZ4I3gcFIpkrLuI",
-      "ytMusicId": "GKsR3A1zyjo",
+      "ytMusicId": "zuaBRqUBhyw",
       "streams": 11797424,
       "peak": 18,
       "weeks": 260
@@ -670,7 +670,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "kFPRSKwQMI8",
+      "ytMusicId": "3-NM-fq7aq8",
       "streams": 11065242,
       "peak": 1,
       "weeks": 341
@@ -1253,7 +1253,7 @@
       "title": "Closer (w/ Halsey)",
       "artist": "The Chainsmokers",
       "spotifyId": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "ytMusicId": "Kp0tCM1NmN8",
+      "ytMusicId": "r7zTKRonHXM",
       "streams": 9189939,
       "peak": 1,
       "weeks": 287
@@ -1264,7 +1264,7 @@
       "title": "Let Me Love You (w/ Justin Bieber)",
       "artist": "DJ Snake",
       "spotifyId": "4pdPtRcBmOSQDlJ3Fk945m",
-      "ytMusicId": "syR1XhyBI2c",
+      "ytMusicId": "rJ0D1GbDq1Q",
       "streams": 9129787,
       "peak": 2,
       "weeks": 151
@@ -1451,7 +1451,7 @@
       "title": "We Found Love (w/ Calvin Harris)",
       "artist": "Rihanna",
       "spotifyId": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "ytMusicId": "flTobuZEyy0",
+      "ytMusicId": "n6N1_sxlBU8",
       "streams": 8738286,
       "peak": 59,
       "weeks": 157
@@ -1693,7 +1693,7 @@
       "title": "Somebody That I Used To Know (w/ Kimbra)",
       "artist": "Gotye",
       "spotifyId": "1qDrWA6lyx8cLECdZE7TV7",
-      "ytMusicId": "Xc8MeTVxAf4",
+      "ytMusicId": "jg51kFe7CWU",
       "streams": 8468799,
       "peak": 129,
       "weeks": 32
@@ -1715,7 +1715,7 @@
       "title": "Umbrella (w/ JAŸ-Z)",
       "artist": "Rihanna",
       "spotifyId": "2yPoXCs7BSIUrucMdK5PzV",
-      "ytMusicId": "xv4aMLX3-qo",
+      "ytMusicId": "xXD5tltX9Pg",
       "streams": 8447370,
       "peak": 59,
       "weeks": 27
@@ -1869,7 +1869,7 @@
       "title": "Something Just Like This (w/ Coldplay)",
       "artist": "The Chainsmokers",
       "spotifyId": "6RUKPb4LETWmmr3iAEQktW",
-      "ytMusicId": "WTlU1Xhl4yY",
+      "ytMusicId": "owTWCbq_nSk",
       "streams": 8200346,
       "peak": 2,
       "weeks": 306
@@ -1880,7 +1880,7 @@
       "title": "We Don't Talk Anymore (w/ Selena Gomez)",
       "artist": "Charlie Puth",
       "spotifyId": "54PbBpquVfhfrwRwvjSXbI",
-      "ytMusicId": "hFMJRhfSRws",
+      "ytMusicId": "yN6JgL0IUJg",
       "streams": 8192277,
       "peak": 9,
       "weeks": 151
@@ -2056,7 +2056,7 @@
       "title": "Empire State Of Mind (w/ Alicia Keys)",
       "artist": "JAŸ-Z",
       "spotifyId": "2igwFfvr1OAGX9SKDCPBwO",
-      "ytMusicId": "hWWQGm9FHmU",
+      "ytMusicId": "_ydMlTassYc",
       "streams": 7970882,
       "peak": 91,
       "weeks": 21

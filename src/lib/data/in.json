@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-11-16",
-  "lastUpdated": "2026-11-16T14:31:17.385Z",
+  "weekDate": "2026-11-17",
+  "lastUpdated": "2026-11-17T15:23:26.395Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Alfaaz (w/ Zain Zohaib)",
       "artist": "Hamza Malik",
       "spotifyId": "0tW2gwaRzFQQrgr2UCO56G",
-      "ytMusicId": "paE_AZeFhaM",
+      "ytMusicId": "Uy2EiEyo6Lo",
       "streams": 0,
       "peak": 1,
       "weeks": 8
@@ -461,7 +461,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "F1jwjElaKKc",
+      "ytMusicId": "n81MOm06wFo",
       "streams": 0,
       "peak": 7,
       "weeks": 48
@@ -472,7 +472,7 @@
       "title": "Sheesha (w/ Swara Verma)",
       "artist": "Mitta Ror",
       "spotifyId": "412poAqbwD8OC0dYD1nBkV",
-      "ytMusicId": "WUV-_CpSRtA",
+      "ytMusicId": "JPfoLgd3uKg",
       "streams": 0,
       "peak": 2,
       "weeks": 43
@@ -505,7 +505,7 @@
       "title": "Bindaas (w/ Anirudh Ravichander, Super Subu)",
       "artist": "Deepthi Suresh",
       "spotifyId": "42XT1ZPONGnwbQsc4EPnoY",
-      "ytMusicId": "1uMQjN7PQew",
+      "ytMusicId": "vW25e7ZlqVs",
       "streams": 0,
       "peak": 45,
       "weeks": 4
@@ -681,7 +681,7 @@
       "title": "Udi Udi (w/ Sarkar, Hruday)",
       "artist": "Aneesh",
       "spotifyId": "4ROldgaRDDAI2VP8rWkjat",
-      "ytMusicId": "e_sbDalACL0",
+      "ytMusicId": "3tFlWHAKC5o",
       "streams": 0,
       "peak": 12,
       "weeks": 25
@@ -703,7 +703,7 @@
       "title": "Humsafar (From \"Badrinath Ki Dulhania\") (w/ Mansheel Gujral)",
       "artist": "Akhil Sachdeva",
       "spotifyId": "7aE1lfskJLMHQnzCCP1zsV",
-      "ytMusicId": "",
+      "ytMusicId": "Aokj-w3COw0",
       "streams": 0,
       "peak": 34,
       "weeks": 147
@@ -879,7 +879,7 @@
       "title": "Ishq Bulaava (w/ Sanam Puri, Shipra Goyal)",
       "artist": "Vishal-Shekhar",
       "spotifyId": "1fkjRQA8wXPPyxqYLbxuqy",
-      "ytMusicId": "ZCRL8V0ZkEA",
+      "ytMusicId": "5Np6_XEf_lg",
       "streams": 0,
       "peak": 27,
       "weeks": 82
@@ -923,7 +923,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "aVPwXQgY2QI",
+      "ytMusicId": "piUHBTXsoiY",
       "streams": 0,
       "peak": 33,
       "weeks": 208
@@ -1143,7 +1143,7 @@
       "title": "Vaaroon (w/ Romy, Ginny Diwan)",
       "artist": "Anand Bhaskar",
       "spotifyId": "4sgYmcu4FKb1ZC6qBlxMiw",
-      "ytMusicId": "pMnCDFzDJZ0",
+      "ytMusicId": "aiR3MSxIww0",
       "streams": 0,
       "peak": 44,
       "weeks": 71
@@ -1605,7 +1605,7 @@
       "title": "Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)",
       "artist": "Palak Muchhal",
       "spotifyId": "0zQfcBB4obvYUrUNITmyyf",
-      "ytMusicId": "a4p8uEIlrmg",
+      "ytMusicId": "TiP72S9tf7o",
       "streams": 0,
       "peak": 50,
       "weeks": 28
@@ -1649,7 +1649,7 @@
       "title": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu] (w/ Ritesh G Rao, Kasarla Shyam)",
       "artist": "Sai Abhyankkar",
       "spotifyId": "49lNkTFmQPV69oiogQgGlI",
-      "ytMusicId": "ebrQN6zFBzU",
+      "ytMusicId": "",
       "streams": 0,
       "peak": 150,
       "weeks": 1
@@ -1968,7 +1968,7 @@
       "title": "Haseen (w/ NDS, Rippy Grewal)",
       "artist": "Talwiinder",
       "spotifyId": "08GYLNhKthS3arMdXsveRI",
-      "ytMusicId": "WSy0sjZiO8I",
+      "ytMusicId": "_xBVCB_2mVE",
       "streams": 0,
       "peak": 2,
       "weeks": 76

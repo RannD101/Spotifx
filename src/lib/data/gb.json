@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-16",
-  "lastUpdated": "2026-11-16T14:34:01.405Z",
+  "weekDate": "2026-11-17",
+  "lastUpdated": "2026-11-17T15:26:19.868Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Babydoll",
       "artist": "Jamie Miller",
       "spotifyId": "1o9mAOmNm3wT2NdyGV1Ard",
-      "ytMusicId": "G_FNGJeAWlk",
+      "ytMusicId": "7MAs5b7EJyc",
       "streams": 4085399,
       "peak": 1,
       "weeks": 10
@@ -230,7 +230,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "gzxbkXL4p0M",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 1074475,
       "peak": 7,
       "weeks": 29
@@ -670,7 +670,7 @@
       "title": "Fairytale of New York (w/ Kirsty MacColl)",
       "artist": "The Pogues",
       "spotifyId": "3VTNVsTTu05dmTsVFrmGpK",
-      "ytMusicId": "jGq0SChu5QQ",
+      "ytMusicId": "YBM156DuxvA",
       "streams": 714632,
       "peak": 3,
       "weeks": 83
@@ -1198,7 +1198,7 @@
       "title": "BIRDS OF A FEATHER",
       "artist": "Billie Eilish",
       "spotifyId": "6dOtVTDdiauQNBQEDOtlAB",
-      "ytMusicId": "WKZO-CWeOVA",
+      "ytMusicId": "",
       "streams": 609048,
       "peak": 1,
       "weeks": 130
@@ -1209,7 +1209,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "kFPRSKwQMI8",
+      "ytMusicId": "3-NM-fq7aq8",
       "streams": 605662,
       "peak": 1,
       "weeks": 413
@@ -1506,7 +1506,7 @@
       "title": "expectations",
       "artist": "Olivia Rodrigo",
       "spotifyId": "4bkClAuofJULiaIZsuL3gT",
-      "ytMusicId": "ZYUql_ZPHrc",
+      "ytMusicId": "9KcnxA36s04",
       "streams": 559581,
       "peak": 10,
       "weeks": 22
@@ -1528,7 +1528,7 @@
       "title": "Let Me Love You",
       "artist": "Mario",
       "spotifyId": "7GaFYUqP2WdR4KTPk7cXoP",
-      "ytMusicId": "D6vCMxmkMKI",
+      "ytMusicId": "",
       "streams": 557871,
       "peak": 123,
       "weeks": 32
