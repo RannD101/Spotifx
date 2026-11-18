@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-17",
-  "lastUpdated": "2026-11-17T15:26:19.868Z",
+  "weekDate": "2026-11-18",
+  "lastUpdated": "2026-11-18T15:02:18.646Z",
   "tracks": [
     {
       "rank": 1,
@@ -120,7 +120,7 @@
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "spotifyId": "79RJg6MqIJlBuedcMqB9F0",
-      "ytMusicId": "eXw2R_CTlU8",
+      "ytMusicId": "xvYWgM82GK8",
       "streams": 1418094,
       "peak": 10,
       "weeks": 20
@@ -230,7 +230,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "a1pWN2ixeVY",
+      "ytMusicId": "GJ60oMer9Gc",
       "streams": 1074475,
       "peak": 7,
       "weeks": 29
@@ -417,7 +417,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "DIOWSXLzi0I",
       "streams": 868031,
       "peak": 22,
       "weeks": 31
@@ -571,7 +571,7 @@
       "title": "Linger - Remastered 2026",
       "artist": "The Cranberries",
       "spotifyId": "1WYrTfvKjQYaYfVziGG1ET",
-      "ytMusicId": "2JqRN_R1vt0",
+      "ytMusicId": "PXDlU0YDQ6U",
       "streams": 759245,
       "peak": 52,
       "weeks": 14
@@ -670,7 +670,7 @@
       "title": "Fairytale of New York (w/ Kirsty MacColl)",
       "artist": "The Pogues",
       "spotifyId": "3VTNVsTTu05dmTsVFrmGpK",
-      "ytMusicId": "YBM156DuxvA",
+      "ytMusicId": "jGq0SChu5QQ",
       "streams": 714632,
       "peak": 3,
       "weeks": 83
@@ -747,7 +747,7 @@
       "title": "Free Your Mind (w/ Cloonee)",
       "artist": "Prospa",
       "spotifyId": "39hHUnYBmyMwprzRaPODCX",
-      "ytMusicId": "V9Suvx0K5Eo",
+      "ytMusicId": "Qnp46kZ0DqE",
       "streams": 681288,
       "peak": 12,
       "weeks": 31
@@ -879,7 +879,7 @@
       "title": "Rockin' Around The Christmas Tree",
       "artist": "Brenda Lee",
       "spotifyId": "2EjXfH91m7f8HiJN1yQg97",
-      "ytMusicId": "O1x-hOOrl5E",
+      "ytMusicId": "d6zcSwLRBL8",
       "streams": 650041,
       "peak": 2,
       "weeks": 70
@@ -890,7 +890,7 @@
       "title": "Dai Dai (w/ Burna Boy)",
       "artist": "Shakira",
       "spotifyId": "0kosUz0jePvjiz4ctmR6wL",
-      "ytMusicId": "lFQdcPTTzSg",
+      "ytMusicId": "Q0zYjFJhd-4",
       "streams": 649174,
       "peak": 3,
       "weeks": 22
@@ -1044,7 +1044,7 @@
       "title": "The Chain - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "2MRjYBbIbH1VTToIrO1mdi",
-      "ytMusicId": "FhgFtXESdPk",
+      "ytMusicId": "-Rg1Gtni-a0",
       "streams": 625674,
       "peak": 55,
       "weeks": 31
@@ -1198,7 +1198,7 @@
       "title": "BIRDS OF A FEATHER",
       "artist": "Billie Eilish",
       "spotifyId": "6dOtVTDdiauQNBQEDOtlAB",
-      "ytMusicId": "",
+      "ytMusicId": "WKZO-CWeOVA",
       "streams": 609048,
       "peak": 1,
       "weeks": 130
@@ -1209,7 +1209,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "3-NM-fq7aq8",
+      "ytMusicId": "FrsOnNxIrg8",
       "streams": 605662,
       "peak": 1,
       "weeks": 413
@@ -1308,7 +1308,7 @@
       "title": "Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
       "artist": "HUNTR/X",
       "spotifyId": "1CPZ5BxNNd0n0nF4Orb9JS",
-      "ytMusicId": "TuzfXgUpboA",
+      "ytMusicId": "nXg0WUHAXMk",
       "streams": 588473,
       "peak": 1,
       "weeks": 72
@@ -1451,7 +1451,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "EDcmA03o9OE",
+      "ytMusicId": "dfShAV90250",
       "streams": 568620,
       "peak": 33,
       "weeks": 41
@@ -1495,7 +1495,7 @@
       "title": "Only Girl (In The World)",
       "artist": "Rihanna",
       "spotifyId": "2ENexcMEMsYk0rVJigVD3i",
-      "ytMusicId": "JhCA0y_ya6w",
+      "ytMusicId": "26M5hI-lQ44",
       "streams": 560266,
       "peak": 114,
       "weeks": 74
@@ -1528,7 +1528,7 @@
       "title": "Let Me Love You",
       "artist": "Mario",
       "spotifyId": "7GaFYUqP2WdR4KTPk7cXoP",
-      "ytMusicId": "",
+      "ytMusicId": "D6vCMxmkMKI",
       "streams": 557871,
       "peak": 123,
       "weeks": 32
@@ -1682,7 +1682,7 @@
       "title": "Die With A Smile (w/ Bruno Mars)",
       "artist": "Lady Gaga",
       "spotifyId": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "ytMusicId": "DlFXDl_ROAM",
+      "ytMusicId": "zWHj5s4uCmQ",
       "streams": 541034,
       "peak": 3,
       "weeks": 111
@@ -1935,7 +1935,7 @@
       "title": "Un-thinkable (I'm Ready) (w/ Drake)",
       "artist": "Alicia Keys",
       "spotifyId": "4o4wEDRqotccDTXiQ7TORu",
-      "ytMusicId": "sLF-OnxdiDU",
+      "ytMusicId": "vHLZdxaT3jI",
       "streams": 513857,
       "peak": 174,
       "weeks": 3
@@ -2133,7 +2133,7 @@
       "title": "Go Your Own Way - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "34F6qT8udksbeKO7CVDBqF",
-      "ytMusicId": "MTIkFwMuiTw",
+      "ytMusicId": "hr8kSYfl1fc",
       "streams": 503688,
       "peak": 125,
       "weeks": 25
@@ -2199,7 +2199,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "cxKs2b5lRsA",
+      "ytMusicId": "0ZqsQ9ap5_4",
       "streams": 500424,
       "peak": 56,
       "weeks": 83
