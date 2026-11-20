@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-19",
-  "lastUpdated": "2026-11-19T15:07:18.601Z",
+  "weekDate": "2026-11-20",
+  "lastUpdated": "2026-11-20T14:48:47.359Z",
   "tracks": [
     {
       "rank": 1,
@@ -318,7 +318,7 @@
       "title": "Rockin' Around The Christmas Tree",
       "artist": "Brenda Lee",
       "spotifyId": "2EjXfH91m7f8HiJN1yQg97",
-      "ytMusicId": "d6zcSwLRBL8",
+      "ytMusicId": "O1x-hOOrl5E",
       "streams": 3289825,
       "peak": 1,
       "weeks": 77
@@ -384,7 +384,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "MW081961FZw",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 3219993,
       "peak": 12,
       "weeks": 31
@@ -593,7 +593,7 @@
       "title": "Just Give Me a Reason (w/ Nate Ruess)",
       "artist": "P!nk",
       "spotifyId": "1mKXFLRA179hdOWQBwUk9e",
-      "ytMusicId": "3yz-ZBtyC0k",
+      "ytMusicId": "a1pWN2ixeVY",
       "streams": 2815743,
       "peak": 5,
       "weeks": 28
@@ -1385,7 +1385,7 @@
       "title": "Let It Snow! Let It Snow! Let It Snow!",
       "artist": "Dean Martin",
       "spotifyId": "2uFaJJtFpPDc5Pa95XzTvg",
-      "ytMusicId": "tZmY4L4cfus",
+      "ytMusicId": "h32cjZwKybA",
       "streams": 2287182,
       "peak": 5,
       "weeks": 51
@@ -1418,7 +1418,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "sbLqX7cUKoM",
+      "ytMusicId": "KnkDL9lkbX8",
       "streams": 2275867,
       "peak": 1,
       "weeks": 114
@@ -1781,7 +1781,7 @@
       "title": "My Body Isn't Ready",
       "artist": "sombr",
       "spotifyId": "79RJg6MqIJlBuedcMqB9F0",
-      "ytMusicId": "eXw2R_CTlU8",
+      "ytMusicId": "xvYWgM82GK8",
       "streams": 2141255,
       "peak": 35,
       "weeks": 11
@@ -1935,7 +1935,7 @@
       "title": "Locked out of Heaven",
       "artist": "Bruno Mars",
       "spotifyId": "5g7sDjBhZ4I3gcFIpkrLuI",
-      "ytMusicId": "GKsR3A1zyjo",
+      "ytMusicId": "zuaBRqUBhyw",
       "streams": 2046135,
       "peak": 24,
       "weeks": 128
@@ -2056,7 +2056,7 @@
       "title": "Come As You Are - Remastered",
       "artist": "Nirvana",
       "spotifyId": "5AEOqLsRJFAoSS4ay4Jzao",
-      "ytMusicId": "f1IdyrhOrGs",
+      "ytMusicId": "zudQm-twCI4",
       "streams": 2015198,
       "peak": 137,
       "weeks": 64
