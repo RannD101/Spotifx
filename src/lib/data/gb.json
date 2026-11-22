@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-21",
-  "lastUpdated": "2026-11-21T14:07:08.208Z",
+  "weekDate": "2026-11-22",
+  "lastUpdated": "2026-11-22T14:00:33.904Z",
   "tracks": [
     {
       "rank": 1,
@@ -494,7 +494,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 846680,
       "peak": 22,
       "weeks": 32
@@ -1055,7 +1055,7 @@
       "title": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "artist": "Paul McCartney",
       "spotifyId": "1SV1fxF65n9NhRHp3KlBuu",
-      "ytMusicId": "2TfWo3GsIII",
+      "ytMusicId": "-IHP9Acxa54",
       "streams": 615578,
       "peak": 11,
       "weeks": 35
@@ -2067,7 +2067,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 503928,
       "peak": 56,
       "weeks": 84

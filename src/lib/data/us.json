@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-21",
-  "lastUpdated": "2026-11-21T14:06:02.138Z",
+  "weekDate": "2026-11-22",
+  "lastUpdated": "2026-11-22T13:59:27.089Z",
   "tracks": [
     {
       "rank": 1,
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "5oWyMakvQew",
+      "ytMusicId": "swJOIjjW69U",
       "streams": 3027632,
       "peak": 12,
       "weeks": 32
@@ -769,7 +769,7 @@
       "title": "Flashing Lights (w/ Dwele)",
       "artist": "Kanye West",
       "spotifyId": "5TRPicyLGbAF2LGBFbHGvO",
-      "ytMusicId": "ZAz3rnLGthg",
+      "ytMusicId": "cxKs2b5lRsA",
       "streams": 2600868,
       "peak": 47,
       "weeks": 185
@@ -1583,7 +1583,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "ju4KQT0wL0I",
+      "ytMusicId": "vdXsLt0o_9g",
       "streams": 2166056,
       "peak": 2,
       "weeks": 218
@@ -1748,7 +1748,7 @@
       "title": "Habits (Stay High)",
       "artist": "Tove Lo",
       "spotifyId": "73DdlUXPj6SIOJQRrqgjld",
-      "ytMusicId": "tQifZZNlrcE",
+      "ytMusicId": "ANOPNV7wb2Y",
       "streams": 2115775,
       "peak": 4,
       "weeks": 48
