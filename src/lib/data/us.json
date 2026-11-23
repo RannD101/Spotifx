@@ -1,8 +1,8 @@
 {
   "country": "us",
   "countryName": "United States",
-  "weekDate": "2026-11-22",
-  "lastUpdated": "2026-11-22T13:59:27.089Z",
+  "weekDate": "2026-11-23",
+  "lastUpdated": "2026-11-23T17:06:04.743Z",
   "tracks": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "title": "Stop The Wedding!",
       "artist": "Ashe",
       "spotifyId": "7MOO89Qv9AV7VZkt5mcqA8",
-      "ytMusicId": "WNxAvQNsJuM",
+      "ytMusicId": "BVR3k32x9h0",
       "streams": 6109173,
       "peak": 2,
       "weeks": 11
@@ -472,7 +472,7 @@
       "title": "Dreams - 2001 Remaster",
       "artist": "Fleetwood Mac",
       "spotifyId": "53qkszfgztIvkFyF31GfdQ",
-      "ytMusicId": "swJOIjjW69U",
+      "ytMusicId": "5oWyMakvQew",
       "streams": 3027632,
       "peak": 12,
       "weeks": 32
@@ -549,7 +549,7 @@
       "title": "My Moon My Man",
       "artist": "Feist",
       "spotifyId": "4fQVQKIiidREPI0MhFEuDn",
-      "ytMusicId": "MZ7DndMYJeo",
+      "ytMusicId": "pQ_3P-0WwvU",
       "streams": 2867765,
       "peak": 50,
       "weeks": 1
@@ -1242,7 +1242,7 @@
       "title": "No One Noticed",
       "artist": "The Marías",
       "spotifyId": "3siwsiaEoU4Kuuc9WKMUy5",
-      "ytMusicId": "oodQMZLjoBU",
+      "ytMusicId": "",
       "streams": 2300795,
       "peak": 5,
       "weeks": 117
@@ -1253,7 +1253,7 @@
       "title": "Hold On, We're Going Home (w/ Majid Jordan)",
       "artist": "Drake",
       "spotifyId": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "ytMusicId": "KnkDL9lkbX8",
+      "ytMusicId": "sbLqX7cUKoM",
       "streams": 2274809,
       "peak": 1,
       "weeks": 115
@@ -1583,7 +1583,7 @@
       "title": "All The Stars (w/ SZA)",
       "artist": "Kendrick Lamar",
       "spotifyId": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "ytMusicId": "vdXsLt0o_9g",
+      "ytMusicId": "ju4KQT0wL0I",
       "streams": 2166056,
       "peak": 2,
       "weeks": 218
@@ -1759,7 +1759,7 @@
       "title": "Animal I Have Become",
       "artist": "Three Days Grace",
       "spotifyId": "5eFxwmqKrHpSQDOEIFYlgY",
-      "ytMusicId": "ysho2xTWUYo",
+      "ytMusicId": "1Gagc_37TUM",
       "streams": 2102718,
       "peak": 138,
       "weeks": 24
@@ -1913,7 +1913,7 @@
       "title": "I'm The Problem",
       "artist": "Morgan Wallen",
       "spotifyId": "7AeM1BGYM7emrqmQn1PuWv",
-      "ytMusicId": "zUHtvbqQXbk",
+      "ytMusicId": "",
       "streams": 2054709,
       "peak": 4,
       "weeks": 94
