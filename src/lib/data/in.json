@@ -1,8 +1,8 @@
 {
   "country": "in",
   "countryName": "India",
-  "weekDate": "2026-11-24",
-  "lastUpdated": "2026-11-24T16:53:12.373Z",
+  "weekDate": "2026-11-25",
+  "lastUpdated": "2026-11-25T16:40:30.142Z",
   "tracks": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "title": "Alfaaz (w/ Zain Zohaib)",
       "artist": "Hamza Malik",
       "spotifyId": "0tW2gwaRzFQQrgr2UCO56G",
-      "ytMusicId": "j7jBkFHHj1A",
+      "ytMusicId": "Uy2EiEyo6Lo",
       "streams": 0,
       "peak": 1,
       "weeks": 9
@@ -32,7 +32,7 @@
       "title": "Barsaat (w/ Roni)",
       "artist": "Banjaare",
       "spotifyId": "0DpUQ3mpAGy3bYsEKVy6t5",
-      "ytMusicId": "T2yYWCjHyh8",
+      "ytMusicId": "dPu3tdsUSVM",
       "streams": 0,
       "peak": 1,
       "weeks": 16
@@ -186,7 +186,7 @@
       "title": "Aarzu (w/ Khan, Madhurxo)",
       "artist": "Noor",
       "spotifyId": "0wHYuCTWPntEgWiUVED4wB",
-      "ytMusicId": "zfWlGsiFDzk",
+      "ytMusicId": "9lvaV_DklFI",
       "streams": 0,
       "peak": 17,
       "weeks": 30
@@ -395,7 +395,7 @@
       "title": "Pavazha Malli (w/ Shruti Haasan, Vivek)",
       "artist": "Sai Abhyankkar",
       "spotifyId": "4yur1GSBfuS1VADyUYocqd",
-      "ytMusicId": "CvvsvZii2IQ",
+      "ytMusicId": "tOaizzQG8Cw",
       "streams": 0,
       "peak": 5,
       "weeks": 37
@@ -505,7 +505,7 @@
       "title": "Sheesha (w/ Swara Verma)",
       "artist": "Mitta Ror",
       "spotifyId": "412poAqbwD8OC0dYD1nBkV",
-      "ytMusicId": "dPu3tdsUSVM",
+      "ytMusicId": "WUV-_CpSRtA",
       "streams": 0,
       "peak": 2,
       "weeks": 44
@@ -615,7 +615,7 @@
       "title": "Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",
       "artist": "Shashwat Sachdev",
       "spotifyId": "0R7grQWU1dRxiOQGIqZm0Z",
-      "ytMusicId": "aOAhYmOC_Lw",
+      "ytMusicId": "ORYcSJudHPM",
       "streams": 0,
       "peak": 7,
       "weeks": 49
@@ -769,7 +769,7 @@
       "title": "Raabta (w/ Arijit Singh)",
       "artist": "Pritam",
       "spotifyId": "6FjbAnaPRPwiP3sciEYctO",
-      "ytMusicId": "aVPwXQgY2QI",
+      "ytMusicId": "piUHBTXsoiY",
       "streams": 0,
       "peak": 33,
       "weeks": 209
@@ -791,7 +791,7 @@
       "title": "Udi Udi (w/ Sarkar, Hruday)",
       "artist": "Aneesh",
       "spotifyId": "4ROldgaRDDAI2VP8rWkjat",
-      "ytMusicId": "3tFlWHAKC5o",
+      "ytMusicId": "SBOwcGnwuKM",
       "streams": 0,
       "peak": 12,
       "weeks": 26
@@ -802,7 +802,7 @@
       "title": "Filam (w/ Jaiveer Thakur, Prodbysoundscape)",
       "artist": "Duryodhan Rana",
       "spotifyId": "6bCuGyX5h5f1gr5Ugdd1c2",
-      "ytMusicId": "ZQ1LAXbNr58",
+      "ytMusicId": "-XyR6-4xjqg",
       "streams": 0,
       "peak": 73,
       "weeks": 5
@@ -813,7 +813,7 @@
       "title": "80 Lakh (w/ Jaizeey, D Naveen, Shiva Choudhary)",
       "artist": "Kala Dighal",
       "spotifyId": "3jgrKsdy9QzYMNqLG72OCH",
-      "ytMusicId": "V21LZ95sbJU",
+      "ytMusicId": "lT2oNlGVvMs",
       "streams": 0,
       "peak": 74,
       "weeks": 10
@@ -824,7 +824,7 @@
       "title": "Casa Tupka Anthemo (w/ Priyanshi)",
       "artist": "Yo Yo Honey Singh",
       "spotifyId": "0cbmbkbCIg97a0CTt2c0Y0",
-      "ytMusicId": "dcrEEGRzyWw",
+      "ytMusicId": "sUbf9PhT7VQ",
       "streams": 0,
       "peak": 21,
       "weeks": 8
@@ -1011,7 +1011,7 @@
       "title": "Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)",
       "artist": "Palak Muchhal",
       "spotifyId": "0zQfcBB4obvYUrUNITmyyf",
-      "ytMusicId": "a4p8uEIlrmg",
+      "ytMusicId": "TiP72S9tf7o",
       "streams": 0,
       "peak": 50,
       "weeks": 29
@@ -1088,7 +1088,7 @@
       "title": "Jeene Laga Hoon (w/ Shreya Ghoshal, Sachin-Jigar)",
       "artist": "Atif Aslam",
       "spotifyId": "3t3wsY5IdLVzB9WidegJSU",
-      "ytMusicId": "0wNmT99M1Iw",
+      "ytMusicId": "pEbGLfkCaUM",
       "streams": 0,
       "peak": 28,
       "weeks": 115
@@ -1539,7 +1539,7 @@
       "title": "Veera Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Telugu] (w/ Ritesh G Rao, Kasarla Shyam)",
       "artist": "Sai Abhyankkar",
       "spotifyId": "49lNkTFmQPV69oiogQgGlI",
-      "ytMusicId": "ebrQN6zFBzU",
+      "ytMusicId": "",
       "streams": 0,
       "peak": 140,
       "weeks": 2
@@ -1627,7 +1627,7 @@
       "title": "Starboy (w/ Daft Punk)",
       "artist": "The Weeknd",
       "spotifyId": "7MXVkk9YMctZqd1Srtv4MB",
-      "ytMusicId": "x6ZJ6qHIv4M",
+      "ytMusicId": "3_g2un5M350",
       "streams": 0,
       "peak": 12,
       "weeks": 277
@@ -1957,7 +1957,7 @@
       "title": "Kaho Na Kaho (w/ Amir Jamal)",
       "artist": "Anu Malik",
       "spotifyId": "3zH1P7gc5petyL0sYCF67K",
-      "ytMusicId": "u4TM5c-rN68",
+      "ytMusicId": "GPvCVzD70Zs",
       "streams": 0,
       "peak": 59,
       "weeks": 31
@@ -2089,7 +2089,7 @@
       "title": "Haseen (w/ NDS, Rippy Grewal)",
       "artist": "Talwiinder",
       "spotifyId": "08GYLNhKthS3arMdXsveRI",
-      "ytMusicId": "mkQMY0MEiXM",
+      "ytMusicId": "WSy0sjZiO8I",
       "streams": 0,
       "peak": 2,
       "weeks": 77
