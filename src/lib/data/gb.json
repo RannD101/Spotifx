@@ -1,8 +1,8 @@
 {
   "country": "gb",
   "countryName": "United Kingdom",
-  "weekDate": "2026-11-26",
-  "lastUpdated": "2026-11-26T16:16:01.181Z",
+  "weekDate": "2026-11-27",
+  "lastUpdated": "2026-11-27T16:03:32.289Z",
   "tracks": [
     {
       "rank": 1,
@@ -230,7 +230,7 @@
       "title": "My Body Isn't Ready - Orchestral Version from Sound City",
       "artist": "sombr",
       "spotifyId": "5wA2qmCu9hcu6KAqNE4FOC",
-      "ytMusicId": "xvYWgM82GK8",
+      "ytMusicId": "",
       "streams": 1102679,
       "peak": 21,
       "weeks": 2
@@ -791,7 +791,7 @@
       "title": "Linger - Remastered 2026",
       "artist": "The Cranberries",
       "spotifyId": "1WYrTfvKjQYaYfVziGG1ET",
-      "ytMusicId": "2JqRN_R1vt0",
+      "ytMusicId": "PXDlU0YDQ6U",
       "streams": 691677,
       "peak": 52,
       "weeks": 15
@@ -1187,7 +1187,7 @@
       "title": "One Dance (w/ Wizkid, Kyla)",
       "artist": "Drake",
       "spotifyId": "1zi7xx7UVEFkmKfv06H8x0",
-      "ytMusicId": "EgfsXTOn_pI",
+      "ytMusicId": "0SzLeS9kNCc",
       "streams": 589386,
       "peak": 1,
       "weeks": 414
@@ -1264,7 +1264,7 @@
       "title": "Bitter Sweet Symphony",
       "artist": "The Verve",
       "spotifyId": "57iDDD9N9tTWe75x6qhStw",
-      "ytMusicId": "JnRw8bXVbPI",
+      "ytMusicId": "1WTATreAg08",
       "streams": 583708,
       "peak": 66,
       "weeks": 94
@@ -1913,7 +1913,7 @@
       "title": "Escapism. (w/ 070 Shake)",
       "artist": "RAYE",
       "spotifyId": "5mHdCZtVyb4DcJw8799hZp",
-      "ytMusicId": "KWEsdF57hB4",
+      "ytMusicId": "",
       "streams": 517160,
       "peak": 1,
       "weeks": 124
@@ -2034,7 +2034,7 @@
       "title": "Talking Body",
       "artist": "Tove Lo",
       "spotifyId": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "ytMusicId": "dfShAV90250",
+      "ytMusicId": "EDcmA03o9OE",
       "streams": 507017,
       "peak": 33,
       "weeks": 42
